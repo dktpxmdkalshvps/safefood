@@ -1,0 +1,701 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0002_511562_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:12:02 16:23:53",
+    "store_id": "511562",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          5.391304347826087,
+          17.169373549883986
+        ],
+        [
+          94.78260869565217,
+          14.385150812064962
+        ],
+        [
+          97.73913043478261,
+          91.415313225058
+        ],
+        [
+          4.3478260869565215,
+          92.34338747099768
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_4",
+      "ocr": {
+        "x": 73.1904197455537,
+        "y": 30.89025716124109,
+        "text": "소주",
+        "width": 5.868319359500223,
+        "height": 3.0161343652456463,
+        "rotation": 359.4086922671179
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "대구탕전골",
+        "en.ROMAN": "daegutangjeongol",
+        "en": "Spicy Codfish Hot Pot",
+        "ja": "たらの寄せ鍋",
+        "zh_CN": "鳕鱼火锅",
+        "zh_TW": "鱈魚湯火鍋",
+        "price": "45000",
+        "ingredients.ko": [
+          "야채",
+          "대구"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_10",
+      "ocr": {
+        "x": 40.8800056470945,
+        "y": 32.71910018430187,
+        "text": "대구탕전골",
+        "width": 9.963605709272368,
+        "height": 3.0767696442554255,
+        "rotation": 359.5853249131125
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "대구뽈찜",
+        "en.ROMAN": "daeguppoljjim",
+        "en": "Braised Codfish Head",
+        "ja": "たらの頭の蒸し物",
+        "zh_CN": "炖鳕鱼头",
+        "zh_TW": "燉鱈魚頭",
+        "price": "50000",
+        "ingredients.ko": [
+          "야채",
+          "콩나물",
+          "대구머리",
+          "미더덕",
+          "대구곤이",
+          "대구알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Sprout",
+          "Codfish Head",
+          "Stalked Sea Squirt",
+          "Codfish Intestine",
+          "Codfish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆もやし",
+          "タラのかぶと",
+          "エボヤ",
+          "タラの白子",
+          "タラの卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "黄豆芽",
+          "鳕鱼头",
+          "柄海鞘",
+          "鳕鱼白子",
+          "鳕鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "黃豆芽",
+          "鱈魚頭",
+          "柄海鞘",
+          "鱈魚卵",
+          "鱈魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_11",
+      "ocr": {
+        "x": 11.393895291225867,
+        "y": 32.94304959681891,
+        "text": "대구뽈찜",
+        "width": 7.597546338594567,
+        "height": 3.2736008076882923,
+        "rotation": 358.7058838319788
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_5",
+      "ocr": {
+        "x": 73.3266301442225,
+        "y": 34.41982804273942,
+        "text": "맥주",
+        "width": 5.790244824953179,
+        "height": 3.2143819571652696,
+        "rotation": 359.4086922671179
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "아구탕전골",
+        "en.ROMAN": "agutangjeongol",
+        "en": "Monkfish Hot Pot",
+        "ja": "アンコウの寄せ鍋",
+        "zh_CN": "安康鱼汤火锅",
+        "zh_TW": "鮟鱇魚湯火鍋",
+        "price": "45000",
+        "ingredients.ko": [
+          "아귀",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Monkfish",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "アンコウ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "安康鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "鮟鱇魚",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_17",
+      "ocr": {
+        "x": 40.824798046916726,
+        "y": 36.25808571308529,
+        "text": "아구탕전골",
+        "width": 10.09467552286135,
+        "height": 3.115254667047605,
+        "rotation": 359.5853249131125
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "생탁",
+        "en.ROMAN": "saengtak",
+        "en": "Unrefined Draught Rice Wine",
+        "ja": "生マッコリ",
+        "zh_CN": "Saeng-tak马格利酒（生玛格利酒）",
+        "zh_TW": "生馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "tj2l_VcXgl",
+      "ocr": {
+        "x": 73.33460274992167,
+        "y": 38.157349101788355,
+        "text": "생탁",
+        "width": 5.842273214596646,
+        "height": 3.1462199778568847,
+        "rotation": 359.4086922671154
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_24",
+      "ocr": {
+        "x": 73.4477632472375,
+        "y": 41.73280423280456,
+        "text": "음료수",
+        "width": 6.038329977144781,
+        "height": 3.2650812695111107,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "대구곤추가",
+        "en.ROMAN": "daegugonchuga",
+        "en": "Extra Serving of Codfish Intestine",
+        "ja": "たらのしらこ追加",
+        "zh_CN": "另加鳕鱼子",
+        "zh_TW": "加點鱈魚凍",
+        "price": "3000",
+        "ingredients.ko": [
+          "대구곤이"
+        ],
+        "ingredients.en": [
+          "Codfish Intestine"
+        ],
+        "ingredients.ja": [
+          "タラの白子"
+        ],
+        "ingredients.zh_CN": [
+          "鳕鱼白子"
+        ],
+        "ingredients.zh_TW": [
+          "鱈魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_26",
+      "ocr": {
+        "x": 20.93548839295793,
+        "y": 42.007090708862954,
+        "text": "대구곤추가",
+        "width": 6.633167198412544,
+        "height": 2.6211621167322137,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "모듬생선구이",
+        "en.ROMAN": "modeumsaengseongui",
+        "en": "Assorted Grilled Fish",
+        "ja": "魚焼きの盛り合わせ",
+        "zh_CN": "烤鱼拼盘",
+        "zh_TW": "烤魚拼盤",
+        "price": "30000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_28",
+      "ocr": {
+        "x": 40.74817255044729,
+        "y": 44.027477363726184,
+        "text": "모듬생선구이",
+        "width": 11.95095482538343,
+        "height": 3.0764623785398184,
+        "rotation": 359.1953253566324
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "고등어구이",
+        "en.ROMAN": "godeungeogui",
+        "en": "Grilled Mackerel",
+        "ja": "サバ焼き",
+        "zh_CN": "烤青花鱼",
+        "zh_TW": "烤鯖魚",
+        "price": "13000",
+        "ingredients.ko": [
+          "고등어"
+        ],
+        "ingredients.en": [
+          "Mackerel"
+        ],
+        "ingredients.ja": [
+          "サバ"
+        ],
+        "ingredients.zh_CN": [
+          "青花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯖魚"
+        ],
+        "allergy": [
+          "고등어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_34",
+      "ocr": {
+        "x": 40.769680898659104,
+        "y": 47.85035167938133,
+        "text": "고등어구이",
+        "width": 10.102308294688292,
+        "height": 3.112348204676108,
+        "rotation": 359.1953253566324
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "쪽갈비찜",
+        "en.ROMAN": "jjokgalbijjim",
+        "en": "Braised Pork Galbi",
+        "ja": "バックリブの蒸し物",
+        "zh_CN": "炖脊排",
+        "zh_TW": "燉排骨",
+        "price": "55000",
+        "ingredients.ko": [
+          "고기"
+        ],
+        "ingredients.en": [
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_38",
+      "ocr": {
+        "x": 11.050604181459711,
+        "y": 50.878252825594906,
+        "text": "쪽갈비찜",
+        "width": 7.664330984001419,
+        "height": 3.189207491865434,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "생선구이정식",
+        "en.ROMAN": "saengseonguijeongsik",
+        "en": "Grilled Fish Set Menu",
+        "ja": "魚焼き定食",
+        "zh_CN": "烤鱼套餐",
+        "zh_TW": "烤魚套餐",
+        "price": "10000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_41",
+      "ocr": {
+        "x": 70.1891389639659,
+        "y": 52.86811062754068,
+        "text": "생선구이정식",
+        "width": 12.380570707342969,
+        "height": 3.349678834099234,
+        "rotation": 359.378245140097
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "대구탕",
+        "en.ROMAN": "daegutang",
+        "en": "Codfish Soup",
+        "ja": "たらスープ",
+        "zh_CN": "鳕鱼汤",
+        "zh_TW": "鱈魚湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "대구"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_45",
+      "ocr": {
+        "x": 70.36210317460335,
+        "y": 56.613756613756614,
+        "text": "대구탕",
+        "width": 5.924585287874072,
+        "height": 3.2076719576719563,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "갈치구이정식",
+        "en.ROMAN": "galchiguijeongsik",
+        "en": "Grilled Cutlassfish Set Menu",
+        "ja": "太刀魚焼き定食",
+        "zh_CN": "烤带鱼套餐",
+        "zh_TW": "烤白帶魚套餐",
+        "price": "15000",
+        "ingredients.ko": [
+          "갈치"
+        ],
+        "ingredients.en": [
+          "Cutlassfish"
+        ],
+        "ingredients.ja": [
+          "太刀魚"
+        ],
+        "ingredients.zh_CN": [
+          "带鱼"
+        ],
+        "ingredients.zh_TW": [
+          "白帶魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_64",
+      "ocr": {
+        "x": 70.55688128799981,
+        "y": 67.65873015873021,
+        "text": "갈치구이정식",
+        "width": 12.451037333207754,
+        "height": 3.306878306878308,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "사리",
+        "en.ROMAN": "sari",
+        "en": "Extras",
+        "ja": "麺追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "泡麵麵條",
+        "price": "2000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "s5kITc4yIq",
+      "ocr": {
+        "x": 24.225166630039368,
+        "y": 72.8258421592158,
+        "text": "사리",
+        "width": 4.036583546744102,
+        "height": 3.1789112661737766,
+        "rotation": 358.7869267973806
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_511562_1-tf_73",
+      "ocr": {
+        "x": 10.618845811515705,
+        "y": 73.03841315856998,
+        "text": "공기밥",
+        "width": 5.919382086163548,
+        "height": 3.1831218361059603,
+        "rotation": 359.4150252989972
+      }
+    }
+  ]
+}

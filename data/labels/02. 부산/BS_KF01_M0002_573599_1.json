@@ -1,0 +1,894 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0002_573599_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:11:11 19:32:02",
+    "store_id": "573599",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.453760789149198,
+          26.64473684210527
+        ],
+        [
+          96.15884034978359,
+          29.06190632787664
+        ],
+        [
+          96.7940813810111,
+          76.31578947368422
+        ],
+        [
+          11.531592589551378,
+          76.40849468812254
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "어묵탕",
+        "en.ROMAN": "eomuktang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_3",
+      "ocr": {
+        "x": 17.268612490951373,
+        "y": 29.19302853464036,
+        "text": "어묵탕",
+        "width": 7.022976530818283,
+        "height": 3.5183920137117446,
+        "rotation": 1.4209224308912667
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "두루치기",
+        "en.ROMAN": "duruchigi",
+        "en": "Stir-fried Pork",
+        "ja": "豚肉と野菜炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_5",
+      "ocr": {
+        "x": 46.99033949783177,
+        "y": 31.030133166970874,
+        "text": "두루치기",
+        "width": 7.953526550100911,
+        "height": 2.5467845734670846,
+        "rotation": 1.2039525788491687
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "콩나물해장국",
+        "en.ROMAN": "kongnamulhaejangguk",
+        "en": "Bean Sprout Hangover Soup",
+        "ja": "豆もやし酔い覚ましスープ",
+        "zh_CN": "黄豆芽醒酒汤",
+        "zh_TW": "黃豆芽醒酒湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "파",
+          "콩나물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Green Onions",
+          "Bean Sprout"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ネギ",
+          "豆もやし"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "葱",
+          "黄豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蔥",
+          "黃豆芽"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_6",
+      "ocr": {
+        "x": 72.87592726604103,
+        "y": 31.681918487420866,
+        "text": "콩나물해장국",
+        "width": 11.739098100643213,
+        "height": 2.798984525662503,
+        "rotation": 0.8191212327430435
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "꽃게탕",
+        "en.ROMAN": "kkotgetang",
+        "en": "Spicy Blue Crab Stew",
+        "ja": "ワタリガニ鍋",
+        "zh_CN": "花蟹汤",
+        "zh_TW": "梭子蟹湯",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "꽃게"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Blue Crab"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ワタリガニ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "梭子蟹"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "梭子蟹"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_14",
+      "ocr": {
+        "x": 16.726428124374706,
+        "y": 37.64176425586703,
+        "text": "꽃게탕",
+        "width": 6.667309471192794,
+        "height": 2.9468943776391847,
+        "rotation": 1.0960418192688053
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "갈치찌개",
+        "en.ROMAN": "galchijjigae",
+        "en": "Cutlassfish Jjigae",
+        "ja": "太刀魚チゲ",
+        "zh_CN": "带鱼锅",
+        "zh_TW": "白帶魚鍋",
+        "price": "25000",
+        "ingredients.ko": [
+          "갈치"
+        ],
+        "ingredients.en": [
+          "Cutlassfish"
+        ],
+        "ingredients.ja": [
+          "太刀魚"
+        ],
+        "ingredients.zh_CN": [
+          "带鱼"
+        ],
+        "ingredients.zh_TW": [
+          "白帶魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_16",
+      "ocr": {
+        "x": 46.965672752838714,
+        "y": 38.43333333333334,
+        "text": "갈치찌개",
+        "width": 8.052260233315911,
+        "height": 2.766666666666658,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "돌솥비빔밥",
+        "en.ROMAN": "dolsotbibimbap",
+        "en": "Hot Stone Pot Bibimbap",
+        "ja": "石焼きビビンバ",
+        "zh_CN": "石锅拌饭",
+        "zh_TW": "石鍋拌飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "쌀",
+          "비빔장",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sauce",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "米",
+          "ビビンソース",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "拌饭酱",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "拌飯醬",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_17",
+      "ocr": {
+        "x": 72.91679238231099,
+        "y": 38.92383870092992,
+        "text": "돌솥비빔밥",
+        "width": 9.96265848651253,
+        "height": 2.7458957806998803,
+        "rotation": 1.2152491045573015
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "공기밥별도",
+        "en.ROMAN": "gonggibap byeoldo",
+        "en": "Steamed Rice Not Included",
+        "ja": "ご飯別途",
+        "zh_CN": "米饭需另点",
+        "zh_TW": "不含米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_21",
+      "ocr": {
+        "x": 31.464496486443277,
+        "y": 40.3429742191655,
+        "text": "공기밥별도",
+        "width": 4.195658052312931,
+        "height": 1.3666666666666596,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소불고기",
+        "en.ROMAN": "sobulgogi",
+        "en": "Beef Bulgogi",
+        "ja": "牛肉プルゴギ",
+        "zh_CN": "烤牛肉",
+        "zh_TW": "烤牛肉",
+        "price": "25000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_27",
+      "ocr": {
+        "x": 16.55944479503724,
+        "y": 44.9886100070209,
+        "text": "소불고기",
+        "width": 8.449955022942879,
+        "height": 2.780616087601286,
+        "rotation": 1.1396377790119345
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "부대찌개",
+        "en.ROMAN": "budaejjigae",
+        "en": "Sausage Jjigae",
+        "ja": "プデチゲ",
+        "zh_CN": "部队锅",
+        "zh_TW": "部隊鍋",
+        "price": "20000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_29",
+      "ocr": {
+        "x": 46.94114364236764,
+        "y": 45.53506896932233,
+        "text": "부대찌개",
+        "width": 8.05916282158789,
+        "height": 2.5666666666666584,
+        "rotation": 0.4322835803098428
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "비빔밥",
+        "en.ROMAN": "bibimbap",
+        "en": "Bibimbap",
+        "ja": "ビビンバ",
+        "zh_CN": "拌饭",
+        "zh_TW": "拌飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_30",
+      "ocr": {
+        "x": 73.00311863655313,
+        "y": 46.03726556469304,
+        "text": "비빔밥",
+        "width": 5.980221775278431,
+        "height": 2.638392854803101,
+        "rotation": 0.8930507911142627
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "불낙전골",
+        "en.ROMAN": "bullakjeongol",
+        "en": "Bulgogi and Octopus Hot Pot",
+        "ja": "牛肉入りテナガダコの寄せ鍋",
+        "zh_CN": "烤牛肉长爪章鱼火锅",
+        "zh_TW": "烤牛肉章魚火鍋",
+        "price": "25000",
+        "ingredients.ko": [
+          "채소",
+          "낙지",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Octopus",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "テナガダコ",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "长爪章鱼",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "章魚",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_37",
+      "ocr": {
+        "x": 16.50837784102216,
+        "y": 51.87271854374106,
+        "text": "불낙전골",
+        "width": 8.624326448418755,
+        "height": 2.7666666666666675,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_38",
+      "ocr": {
+        "x": 46.85058473006403,
+        "y": 52.09534229959822,
+        "text": "김치찌개",
+        "width": 8.14232578945563,
+        "height": 2.8039130370556276,
+        "rotation": 0.38219440606337685
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "갈비탕",
+        "en.ROMAN": "galbitang",
+        "en": "Galbi Soup",
+        "ja": "カルビタン",
+        "zh_CN": "牛排骨汤",
+        "zh_TW": "牛排骨湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_41",
+      "ocr": {
+        "x": 72.97907833429244,
+        "y": 52.501533663671715,
+        "text": "갈비탕",
+        "width": 6.107621549435276,
+        "height": 2.666666666666665,
+        "rotation": 0.8977145402202495
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "낙지볶음",
+        "en.ROMAN": "nakjibokkeum",
+        "en": "Spicy Stir-fried Octopus",
+        "ja": "テナガダコ炒め",
+        "zh_CN": "辣炒长爪章鱼",
+        "zh_TW": "辣炒章魚",
+        "price": "25000",
+        "ingredients.ko": [
+          "낙지",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "テナガダコ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_47",
+      "ocr": {
+        "x": 16.406847156425638,
+        "y": 59.133784022832046,
+        "text": "낙지볶음",
+        "width": 8.695822502089289,
+        "height": 2.9133544574800223,
+        "rotation": 0.5228394446054949
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_48",
+      "ocr": {
+        "x": 46.8551570480351,
+        "y": 59.36433213852393,
+        "text": "된장찌개",
+        "width": 8.16984295196484,
+        "height": 2.7356678614760734,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "떡만두국",
+        "en.ROMAN": "tteongmanduguk",
+        "en": "Sliced Rice Cake and Mandu Soup",
+        "ja": "トク入り餃子スープ",
+        "zh_CN": "年糕饺子汤",
+        "zh_TW": "年糕餃子湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_51",
+      "ocr": {
+        "x": 73.04308149719299,
+        "y": 59.63333333333325,
+        "text": "떡만두국",
+        "width": 7.935134662280691,
+        "height": 2.7666666666666657,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료",
+        "en.ROMAN": "eumnyo",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "-6Ym0lVXXa",
+      "ocr": {
+        "x": 86.74348303958757,
+        "y": 66.8424376625054,
+        "text": "음료",
+        "width": 2.2283053567285673,
+        "height": 2.137381010416225,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "순두부찌개",
+        "en.ROMAN": "sundubujjigae",
+        "en": "Soft Bean Curd Jjigae",
+        "ja": "スンドゥブチゲ",
+        "zh_CN": "嫩豆腐锅",
+        "zh_TW": "嫩豆腐鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_61",
+      "ocr": {
+        "x": 46.793081497192965,
+        "y": 67.23673166060021,
+        "text": "순두부찌개",
+        "width": 10.181918502807013,
+        "height": 2.782801433771239,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "낙지전골",
+        "en.ROMAN": "nakjijeongol",
+        "en": "Octopus Hot Pot",
+        "ja": "テナガダコの寄せ鍋",
+        "zh_CN": "长爪章鱼火锅",
+        "zh_TW": "章魚火鍋",
+        "price": "22000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_573599_1-tf_60",
+      "ocr": {
+        "x": 16.26502937507458,
+        "y": 67.28443740306214,
+        "text": "낙지전골",
+        "width": 8.679180314651456,
+        "height": 2.824447965135544,
+        "rotation": 0
+      }
+    }
+  ]
+}

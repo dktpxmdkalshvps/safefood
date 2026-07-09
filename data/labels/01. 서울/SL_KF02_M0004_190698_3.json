@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "file_name": "SL_KF02_M0004_190698_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:21 20:13:27",
+    "store_id": "190698",
+    "store_region": "SL",
+    "store_type": "KF02",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          91.89765626229715,
+          90.06211180124221
+        ],
+        [
+          100,
+          0.62111801242236
+        ],
+        [
+          1.9337016574585641,
+          0
+        ],
+        [
+          9.197871905054225,
+          88.61283643892337
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "돈김(돈까스+김치볶음밥)",
+        "en.ROMAN": "dongim(dongaseu + kimchi bokkeumbap)",
+        "en": "Pork Cutlet + Kimchi Fried Rice",
+        "ja": "豚海苔(豚カツ+キムチチャーハン)",
+        "zh_CN": "紫菜（炸猪排+辛奇炒饭）",
+        "zh_TW": "紫菜（炸豬排+辛奇炒飯）",
+        "price": "7500",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "계란",
+          "김치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Eggs",
+          "Kimchi",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "卵",
+          "キムチ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "鸡蛋",
+          "辛奇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "雞蛋",
+          "辛奇",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0004_190698_3-tf_14",
+      "ocr": {
+        "x": 3.690529798010692,
+        "y": 23.526222745672154,
+        "text": "돈김(돈까스+김치볶음밥)",
+        "width": 22.879404124256165,
+        "height": 2.435905620517458,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김치볶음밥",
+        "en.ROMAN": "kimchibokkeumbap",
+        "en": "Kimchi Fried Rice",
+        "ja": "キムチチャーハン",
+        "zh_CN": "辛奇炒饭",
+        "zh_TW": "辛奇炒飯",
+        "price": "6500",
+        "ingredients.ko": [
+          "채소",
+          "김치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0004_190698_3-tf_16",
+      "ocr": {
+        "x": 80.50927457569766,
+        "y": 24.022904070873377,
+        "text": "김치볶음밥",
+        "width": 10.363741297318198,
+        "height": 2.222092306388345,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0004_190698_3-tf_25",
+      "ocr": {
+        "x": 13.395269017210218,
+        "y": 41.2493870610893,
+        "text": "공기밥",
+        "width": 6.600062700695068,
+        "height": 2.2754031649774693,
+        "rotation": 0
+      }
+    }
+  ]
+}

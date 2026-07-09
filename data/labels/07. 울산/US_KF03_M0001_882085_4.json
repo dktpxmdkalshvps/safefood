@@ -1,0 +1,872 @@
+{
+  "meta": {
+    "file_name": "US_KF03_M0001_882085_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:21 17:50:12",
+    "store_id": "882085",
+    "store_region": "US",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          11.750599520383695,
+          7.913669064748201
+        ],
+        [
+          99.76019184652282,
+          9.719283396811962
+        ],
+        [
+          99.76019184652282,
+          99.63887713358724
+        ],
+        [
+          6.954436450839327,
+          100.00000000000003
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "콥비네이션",
+        "en.ROMAN": "kopbineisyeon",
+        "en": "Combination Pizza",
+        "ja": "コンビネーション",
+        "zh_CN": "什锦披萨",
+        "zh_TW": "總匯",
+        "price": "16900",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_3",
+      "ocr": {
+        "x": 35.55646673242274,
+        "y": 35.221537669455074,
+        "text": "콥비네이션",
+        "width": 6.705731764852538,
+        "height": 1.1895636608623399,
+        "rotation": 1.1832713273207673
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "포테이토피자",
+        "en.ROMAN": "potato pizza",
+        "en": "Potato Pizza",
+        "ja": "ポテトピザ",
+        "zh_CN": "土豆披萨",
+        "zh_TW": "馬鈴薯披薩",
+        "price": "16900",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "감자",
+          "밀가루",
+          "베이컨",
+          "스위트콘"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Potato",
+          "Wheat Flour",
+          "Bacon",
+          "Sweet Corn"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "じゃがいも",
+          "小麦粉",
+          "ベーコン",
+          "スイートコーン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "土豆",
+          "面粉",
+          "培根",
+          "玉米粒"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "馬鈴薯",
+          "麵粉",
+          "培根",
+          "甜玉米"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_4",
+      "ocr": {
+        "x": 58.223890973461124,
+        "y": 35.663411770614196,
+        "text": "포테이토",
+        "width": 5.401671035129934,
+        "height": 1.1653361007743044,
+        "rotation": 0.23367244627553418
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "하와이안피자",
+        "en.ROMAN": "Hawaiian pizza",
+        "en": "Hawaiian Pizza",
+        "ja": "ハワイアンピザ",
+        "zh_CN": "夏威夷披萨",
+        "zh_TW": "夏威夷披薩",
+        "price": "16900",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "밀가루",
+          "파인애플"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Wheat Flour",
+          "Pineapple"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "小麦粉",
+          "パインアップル"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "面粉",
+          "菠萝"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "麵粉",
+          "鳳梨"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_5",
+      "ocr": {
+        "x": 80.29282497546849,
+        "y": 35.82003365115429,
+        "text": "하와이안",
+        "width": 5.52248677248675,
+        "height": 1.1539561911975087,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "불고기",
+        "en.ROMAN": "bulgogi",
+        "en": "Bulgogi",
+        "ja": "プルゴギ",
+        "zh_CN": "烤牛肉",
+        "zh_TW": "烤牛肉",
+        "price": "16900",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_13",
+      "ocr": {
+        "x": 35.30325902761376,
+        "y": 42.55816903183033,
+        "text": "불고기",
+        "width": 4.12396779258403,
+        "height": 1.1904761904761911,
+        "rotation": 1.183271327320142
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "치킨바베큐",
+        "en.ROMAN": "chicken barbecue",
+        "en": "Chicken barbecue",
+        "ja": "チキンバーベキュー",
+        "zh_CN": "炸鸡BBQ",
+        "zh_TW": "雞肉BBQ",
+        "price": "16900",
+        "ingredients.ko": [
+          "닭다리",
+          "파"
+        ],
+        "ingredients.en": [
+          "Chicken Drumstick",
+          "Green Onions"
+        ],
+        "ingredients.ja": [
+          "鶏もも",
+          "ネギ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡腿肉",
+          "葱"
+        ],
+        "ingredients.zh_TW": [
+          "雞腿",
+          "蔥"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_14",
+      "ocr": {
+        "x": 58.111585122678,
+        "y": 42.960231055780895,
+        "text": "치킨바베큐",
+        "width": 6.658995211852116,
+        "height": 1.1660428612458793,
+        "rotation": 0.7591834159057385
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈",
+        "en.ROMAN": "cheese",
+        "en": "Cheese",
+        "ja": "チーズ",
+        "zh_CN": "奶酪",
+        "zh_TW": "起司",
+        "price": "16900",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_15",
+      "ocr": {
+        "x": 80.24231195863374,
+        "y": 43.161303492424146,
+        "text": "치즈",
+        "width": 2.883886559403939,
+        "height": 1.1539561911974956,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고구마",
+        "en.ROMAN": "goguma",
+        "en": "Sweet Potato",
+        "ja": "さつまいも",
+        "zh_CN": "炸红薯",
+        "zh_TW": "地瓜",
+        "price": "16900",
+        "ingredients.ko": [
+          "고구마"
+        ],
+        "ingredients.en": [
+          "Sweet Potato"
+        ],
+        "ingredients.ja": [
+          "サツマイモ"
+        ],
+        "ingredients.zh_CN": [
+          "红薯"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_26",
+      "ocr": {
+        "x": 35.090106186065974,
+        "y": 49.53482498801269,
+        "text": "고구마",
+        "width": 4.240032717530851,
+        "height": 1.183183916978194,
+        "rotation": 0.7834004168061028
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "베이컨",
+        "en.ROMAN": "bacon",
+        "en": "Bacon",
+        "ja": "ベーコン",
+        "zh_CN": "培根",
+        "zh_TW": "培根",
+        "price": "16900",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_27",
+      "ocr": {
+        "x": 57.93873234346009,
+        "y": 49.885758520836816,
+        "text": "베이컨",
+        "width": 4.067043214300249,
+        "height": 1.1503054093125733,
+        "rotation": 0.4461781720748945
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "고르곤졸라",
+        "en.ROMAN": "gorgonzola",
+        "en": "Gorgonzola Pizza",
+        "ja": "ゴルゴンゾーラ",
+        "zh_CN": "戈贡佐拉披萨",
+        "zh_TW": "戈貢佐拉起司披薩",
+        "price": "19900",
+        "ingredients.ko": [
+          "모짜렐라치즈",
+          "밀가루",
+          "고르곤졸라치즈"
+        ],
+        "ingredients.en": [
+          "Mozzarella",
+          "Wheat Flour",
+          "Gorgonzola Cheese"
+        ],
+        "ingredients.ja": [
+          "モッツァレラチーズ",
+          "小麦粉",
+          "ゴルゴンゾーラ"
+        ],
+        "ingredients.zh_CN": [
+          "马苏里拉奶酪",
+          "面粉",
+          "戈贡佐拉奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "莫札瑞拉起司",
+          "麵粉",
+          "戈貢佐拉起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_29",
+      "ocr": {
+        "x": 80.24722636315354,
+        "y": 51.153125632227095,
+        "text": "고르곤졸라",
+        "width": 7.019565044510187,
+        "height": 1.1784309664965333,
+        "rotation": 1.2643367373234469
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고구마무스",
+        "en.ROMAN": "goguma mousse",
+        "en": "Sweet Potato Mousse",
+        "ja": "さつまいもムース",
+        "zh_CN": "红薯慕斯",
+        "zh_TW": "地瓜泥",
+        "price": "16900",
+        "ingredients.ko": [
+          "고구마"
+        ],
+        "ingredients.en": [
+          "Sweet Potato"
+        ],
+        "ingredients.ja": [
+          "サツマイモ"
+        ],
+        "ingredients.zh_CN": [
+          "红薯"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_38",
+      "ocr": {
+        "x": 34.80554133766787,
+        "y": 56.506227348919666,
+        "text": "고구마무스",
+        "width": 6.841744909939208,
+        "height": 1.2221940241652514,
+        "rotation": 0.7834004168047386
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "페파로니피자",
+        "en.ROMAN": "pepperoni pizza",
+        "en": "Pepperoni Pizza",
+        "ja": "ペパロニピザ",
+        "zh_CN": "意大利辣香肠披萨",
+        "zh_TW": "義大利辣香腸披薩",
+        "price": "16900",
+        "ingredients.ko": [
+          "페페로니"
+        ],
+        "ingredients.en": [
+          "Pepperoni"
+        ],
+        "ingredients.ja": [
+          "ペパロニ"
+        ],
+        "ingredients.zh_CN": [
+          "意大利辣香肠"
+        ],
+        "ingredients.zh_TW": [
+          "義大利辣味香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_39",
+      "ocr": {
+        "x": 57.814285301132955,
+        "y": 56.79086326812647,
+        "text": "페파로니",
+        "width": 5.395530777202198,
+        "height": 1.2202876348867373,
+        "rotation": 1.1006530465902529
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "치즈크러스트",
+        "en.ROMAN": "cheese crust",
+        "en": "Cheese Crust",
+        "ja": "チーズクラスト",
+        "zh_CN": "奶酪脆皮",
+        "zh_TW": "芝心",
+        "price": "3000",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_40",
+      "ocr": {
+        "x": 71.26407144735728,
+        "y": 57.99045903988703,
+        "text": "치즈크러스트",
+        "width": 5.321958811900683,
+        "height": 0.8194384888484251,
+        "rotation": 1.332614988158923
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "고구마크러스트",
+        "en.ROMAN": "goguma crust",
+        "en": "Sweet Potato Mousse Crust",
+        "ja": "さつまいもクラスト",
+        "zh_CN": "红薯脆皮",
+        "zh_TW": "地瓜餅皮",
+        "price": "3000",
+        "ingredients.ko": [
+          "고구마"
+        ],
+        "ingredients.en": [
+          "Sweet Potato"
+        ],
+        "ingredients.ja": [
+          "サツマイモ"
+        ],
+        "ingredients.zh_CN": [
+          "红薯"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_46",
+      "ocr": {
+        "x": 70.77808035828097,
+        "y": 58.96219211306938,
+        "text": "고구마크러스트",
+        "width": 6.245973157708119,
+        "height": 0.8262035678862258,
+        "rotation": 1.3471301859280516
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "크림치즈크러스트",
+        "en.ROMAN": "cream cheese crust",
+        "en": "Cream Cheese Crust",
+        "ja": "クリームチーズクラストピザ",
+        "zh_CN": "脆皮奶油奶酪",
+        "zh_TW": "奶油起司塊",
+        "price": "3000",
+        "ingredients.ko": [
+          "치즈",
+          "크림"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Cream"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "クリーム"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "奶油"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "奶油"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_51",
+      "ocr": {
+        "x": 70.37003215111419,
+        "y": 59.927523992216926,
+        "text": "크림치즈크러스트",
+        "width": 7.0660410018658055,
+        "height": 0.8019123178102683,
+        "rotation": 1.3260255168495974
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "리치골드",
+        "en.ROMAN": "rich gold",
+        "en": "Rich Gold",
+        "ja": "リッチゴールド",
+        "zh_CN": "奶酪红薯泥",
+        "zh_TW": "起司地瓜披薩",
+        "price": "21900",
+        "ingredients.ko": [
+          "야채",
+          "고구마",
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Sweet Potato",
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "サツマイモ",
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "红薯",
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "地瓜",
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_53",
+      "ocr": {
+        "x": 33.999693851273356,
+        "y": 73.41935026921009,
+        "text": "리치골드",
+        "width": 5.518038205834963,
+        "height": 1.2244172366247212,
+        "rotation": 0.4881349680823064
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "쉬림프골드",
+        "en.ROMAN": "shrimp gold",
+        "en": "Shrimp Gold Pizza",
+        "ja": "シュリンプゴールド",
+        "zh_CN": "黄金虾仁",
+        "zh_TW": "黃金鮮蝦",
+        "price": "24900",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "치즈",
+          "밀가루",
+          "브로콜리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Cheese",
+          "Wheat Flour",
+          "Broccoli"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "チーズ",
+          "小麦粉",
+          "ブロッコリー"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "奶酪",
+          "面粉",
+          "西兰花"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "起司",
+          "麵粉",
+          "青花菜"
+        ],
+        "allergy": [
+          "밀",
+          "우유",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_54",
+      "ocr": {
+        "x": 80.3344456412717,
+        "y": 73.54993427545067,
+        "text": "쉬림프골드",
+        "width": 6.9909260163604,
+        "height": 1.2185258905674252,
+        "rotation": 1.7259939458834879
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "포테이토골드",
+        "en.ROMAN": "potato gold",
+        "en": "Potato Gold Pizza",
+        "ja": "ポテトゴールド",
+        "zh_CN": "黄金土豆",
+        "zh_TW": "馬鈴薯黃金披薩",
+        "price": "21900",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "감자",
+          "밀가루",
+          "베이컨",
+          "스위트콘"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Potato",
+          "Wheat Flour",
+          "Bacon",
+          "Sweet Corn"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "じゃがいも",
+          "小麦粉",
+          "ベーコン",
+          "スイートコーン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "土豆",
+          "面粉",
+          "培根",
+          "玉米粒"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "馬鈴薯",
+          "麵粉",
+          "培根",
+          "甜玉米"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF03_M0001_882085_4-tf_55",
+      "ocr": {
+        "x": 57.75761864363109,
+        "y": 73.66581299554866,
+        "text": "포테이토골드",
+        "width": 8.167989417989416,
+        "height": 1.1671144201430992,
+        "rotation": 1.0466878058641669
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "핫쉬림프골드",
+        "en.ROMAN": "hot shrimp gold",
+        "en": "Hot Shrimp Gold Pizza",
+        "ja": "ホットシュリンプゴールド",
+        "zh_CN": "香辣虾仁黄金披萨",
+        "zh_TW": "黃金香辣鮮蝦",
+        "price": "24900",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "XoPVG_nzDM",
+      "ocr": {
+        "x": 33.73856794429262,
+        "y": 81.0661923798813,
+        "text": "핫쉬림프골드",
+        "width": 8.329539523655969,
+        "height": 1.2827298090084875,
+        "rotation": 0.6095065766741072
+      }
+    }
+  ]
+}

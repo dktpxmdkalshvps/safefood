@@ -1,0 +1,906 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0004_33406_5.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:03 20:30:11",
+    "store_id": "33406",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.17921146953405018,
+          3.225806451612903
+        ],
+        [
+          1.7921146953405014,
+          99.46236559139786
+        ],
+        [
+          98.74551971326167,
+          99.73118279569893
+        ],
+        [
+          99.46236559139786,
+          2.688172043010752
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "제육덮밥",
+        "en.ROMAN": "jeyukdeopbap",
+        "en": "Spicy Stir-fried Pork with Rice",
+        "ja": "豚肉炒め丼",
+        "zh_CN": "辣炒猪肉盖饭",
+        "zh_TW": "辣炒豬肉蓋飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_13",
+      "ocr": {
+        "x": 85.84656084656068,
+        "y": 35.61114630431375,
+        "text": "제육덮밥",
+        "width": 6.784607402073534,
+        "height": 1.6299119268065534,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "새우카레덮밥",
+        "en.ROMAN": "saeu curry deopbap",
+        "en": "Shrimp and Curry with Rice",
+        "ja": "海老カレーライス",
+        "zh_CN": "虾仁咖喱盖饭",
+        "zh_TW": "鮮蝦咖哩蓋飯",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "米"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_14",
+      "ocr": {
+        "x": 65.02882201092704,
+        "y": 35.71708284832501,
+        "text": "새우카레덮밥",
+        "width": 9.719786238209297,
+        "height": 1.6121031746031744,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치킨카레덮밥",
+        "en.ROMAN": "chicken curry deopbap",
+        "en": "Chicken Curry with Rice",
+        "ja": "チキンカレー丼",
+        "zh_CN": "炸鸡咖喱盖饭",
+        "zh_TW": "雞肉咖哩蓋飯",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_15",
+      "ocr": {
+        "x": 45.66798941798939,
+        "y": 35.739087301587375,
+        "text": "치킨카레덮밥",
+        "width": 9.7372605235784,
+        "height": 1.612103174603174,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "떡갈비카레덮밥",
+        "en.ROMAN": "tteokgalbi curry deopbap",
+        "en": "Galbi Patty Curry with Rice",
+        "ja": "粗挽きカルビ焼きカレー丼",
+        "zh_CN": "牛肉饼咖喱盖饭",
+        "zh_TW": "烤牛肉餅咖哩蓋飯",
+        "price": "8500",
+        "ingredients.ko": [
+          "돼지고기",
+          "카레",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Curry",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "カレー",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "咖喱",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "咖哩",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_17",
+      "ocr": {
+        "x": 25.462962962962973,
+        "y": 35.77419183201022,
+        "text": "떡발비카레덮밥",
+        "width": 11.338276820910067,
+        "height": 1.6424990299833486,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "카레덮밥",
+        "en.ROMAN": "curry deopbap",
+        "en": "Curry with Rice",
+        "ja": "カレー丼",
+        "zh_CN": "咖喱盖饭",
+        "zh_TW": "咖哩蓋飯",
+        "price": "6500",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_16",
+      "ocr": {
+        "x": 7.969576719576721,
+        "y": 35.81349206349206,
+        "text": "카레덮밥",
+        "width": 6.671818832872628,
+        "height": 1.612103174603173,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "치즈제육덮밥",
+        "en.ROMAN": "cheese jeyukdeopbap",
+        "en": "Spicy Stir-fried Pork and Cheese with Rice",
+        "ja": "チーズ入り豚肉炒め丼",
+        "zh_CN": "奶酪辣炒猪肉盖饭",
+        "zh_TW": "起司辣炒豬肉蓋飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "치즈",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Cheese",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "チーズ",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "奶酪",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "起司",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_23",
+      "ocr": {
+        "x": 84.17376762008318,
+        "y": 49.50396825396856,
+        "text": "치즈제육덮밥",
+        "width": 9.744779674256351,
+        "height": 1.6514034060849911,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소불고기덮밥",
+        "en.ROMAN": "sobulgogideopbap",
+        "en": "Beef Bulgogi with Rice",
+        "ja": "牛肉プルゴギ丼",
+        "zh_CN": "烤牛肉盖饭",
+        "zh_TW": "烤牛肉蓋飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "김치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_24",
+      "ocr": {
+        "x": 65.0406569332879,
+        "y": 49.655574911817226,
+        "text": "소불고기덮밥",
+        "width": 9.661167822749755,
+        "height": 1.6210075507048463,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "오삼덮밥",
+        "en.ROMAN": "osamdeopbap",
+        "en": "Stir-fried Squid and Pork Belly with Rice",
+        "ja": "イカとサムギョプサルの炒め丼",
+        "zh_CN": "烤鱿鱼五花肉盖饭",
+        "zh_TW": "魷魚烤五花肉蓋飯",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "오징어",
+          "쌀",
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid",
+          "Rice",
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ",
+          "米",
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼",
+          "大米",
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚",
+          "米",
+          "五花肉"
+        ],
+        "allergy": [
+          "오징어",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_25",
+      "ocr": {
+        "x": 47.432469842995516,
+        "y": 49.7547812610234,
+        "text": "오삼덮밥",
+        "width": 6.515873855876332,
+        "height": 1.5803087522033787,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "참치김치덮밥",
+        "en.ROMAN": "chamchikimchideopbap",
+        "en": "Stir-fried Tuna and Kimchi with Rice",
+        "ja": "ツナキムチ丼",
+        "zh_CN": "金枪鱼炒辛奇盖饭",
+        "zh_TW": "鮪魚辛奇蓋飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_26",
+      "ocr": {
+        "x": 26.44131174499631,
+        "y": 49.84228610008888,
+        "text": "참치김치덮밥",
+        "width": 9.729741372900312,
+        "height": 1.6210075507048627,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "오징어덮밥",
+        "en.ROMAN": "ojingeodeopbap",
+        "en": "Spicy Stir-fried Squid with Rice",
+        "ja": "イカ炒め丼",
+        "zh_CN": "鱿鱼盖饭",
+        "zh_TW": "魷魚蓋飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "오징어",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚",
+          "米"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_27",
+      "ocr": {
+        "x": 7.7380952380952355,
+        "y": 49.954592526455905,
+        "text": "오징어덮밥",
+        "width": 8.19862221704521,
+        "height": 1.6823122354490028,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "해물순두부찌개",
+        "en.ROMAN": "haemulsundubujjigae",
+        "en": "Seafood and Soft Bean Curd Jjigae",
+        "ja": "海鮮スンドゥブチゲ",
+        "zh_CN": "海鲜嫩豆腐锅",
+        "zh_TW": "海鮮嫩豆腐鍋",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_33",
+      "ocr": {
+        "x": 83.38199661410181,
+        "y": 63.279152149470825,
+        "text": "해물순두부찌개",
+        "width": 11.048733120312608,
+        "height": 1.6162988756620347,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "7000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_34",
+      "ocr": {
+        "x": 66.55806137911286,
+        "y": 63.392857142857316,
+        "text": "김치찌개",
+        "width": 6.469090362777444,
+        "height": 1.5900987213408162,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "참치비빔밥",
+        "en.ROMAN": "chamchibibimbap",
+        "en": "Tuna Bibimbap",
+        "ja": "ツナビビンバ",
+        "zh_CN": "金枪鱼拌饭",
+        "zh_TW": "鮪魚拌飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "채소",
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_35",
+      "ocr": {
+        "x": 46.772973969289374,
+        "y": 63.566468253968395,
+        "text": "참치비빔밥",
+        "width": 8.038917664709851,
+        "height": 1.565297134039261,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "쌍둥이비빔밥",
+        "en.ROMAN": "ssangdungibibimbap",
+        "en": "Bibimbap",
+        "ja": "双子ビビンバ",
+        "zh_CN": "拌饭",
+        "zh_TW": "雙胞胎拌飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "쌀",
+          "채소",
+          "비빔장"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Vegetables",
+          "Sauce"
+        ],
+        "ingredients.ja": [
+          "米",
+          "野菜",
+          "ビビンソース"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "蔬菜",
+          "拌饭酱"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "蔬菜",
+          "拌飯醬"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_36",
+      "ocr": {
+        "x": 26.62656592972242,
+        "y": 63.66287746913525,
+        "text": "쌍둥이비빔밥",
+        "width": 9.785367608003316,
+        "height": 1.677603560406228,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "찜닭덮밥",
+        "en.ROMAN": "jjimdakdeopbap",
+        "en": "Braised Chicken with Rice",
+        "ja": "チムダク丼",
+        "zh_CN": "炖鸡盖饭",
+        "zh_TW": "燉雞蓋飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_37",
+      "ocr": {
+        "x": 8.796296296296301,
+        "y": 63.864087301587304,
+        "text": "찜닭덮밥",
+        "width": 6.625035339773725,
+        "height": 1.6121031746031733,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소고기간장비빔밥",
+        "en.ROMAN": "sogogiganjangbibimbap",
+        "en": "Beef Soy Sauce Bibimbap",
+        "ja": "牛肉入りカンジャンビビンバ",
+        "zh_CN": "牛肉酱油拌饭",
+        "zh_TW": "牛肉醬油拌飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_43",
+      "ocr": {
+        "x": 25.375591536117227,
+        "y": 77.38095238095272,
+        "text": "소고기간장비빔밥",
+        "width": 12.76963343121536,
+        "height": 1.638303328924381,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "떡왕만두국",
+        "en.ROMAN": "tteogwangmanduguk",
+        "en": "Jumbo Mandu and Sliced Rice Cake Soup",
+        "ja": "トクと王餃子スープ",
+        "zh_CN": "年糕大饺子汤",
+        "zh_TW": "年糕大餃子湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Meat",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "콩",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_33406_5-tf_44",
+      "ocr": {
+        "x": 8.333333333333337,
+        "y": 77.65796554232875,
+        "text": "떡왕만두국",
+        "width": 8.101851851851846,
+        "height": 1.6533149470884616,
+        "rotation": 0
+      }
+    }
+  ]
+}

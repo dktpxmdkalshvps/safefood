@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "file_name": "KS_KF03_M0001_9006529_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:12:23 17:00:00",
+    "store_id": "9006529",
+    "store_region": "KS",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.746858168761221,
+          0
+        ],
+        [
+          94.0754039497307,
+          0.13458950201884254
+        ],
+        [
+          84.20107719928187,
+          94.34724091520862
+        ],
+        [
+          19.569120287253142,
+          93.40511440107672
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "돈카츠카레덮밥",
+        "en.ROMAN": "donkatsu curry deopbap",
+        "en": "Pork Cutlet and Curry with Rice",
+        "ja": "とんかつカレー丼",
+        "zh_CN": "炸猪排咖喱盖饭",
+        "zh_TW": "炸豬排咖哩蓋飯",
+        "price": "9500",
+        "ingredients.ko": [
+          "쌀",
+          "돼지고기",
+          "밀가루",
+          "카레"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Pork",
+          "Wheat Flour",
+          "Curry"
+        ],
+        "ingredients.ja": [
+          "米",
+          "豚肉",
+          "小麦粉",
+          "カレー"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "猪肉",
+          "面粉",
+          "咖喱"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "豬肉",
+          "麵粉",
+          "咖哩"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF03_M0001_9006529_4-tf_7",
+      "ocr": {
+        "x": 25.75924966624842,
+        "y": 43.27670616899002,
+        "text": "돈카츠카레덮밥",
+        "width": 8.396202714182815,
+        "height": 1.108762139849864,
+        "rotation": 0.5537594928517819
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "새우카레덮밥",
+        "en.ROMAN": "saeu curry deopbap",
+        "en": "Shrimp and Curry with Rice",
+        "ja": "海老カレーライス",
+        "zh_CN": "虾仁咖喱盖饭",
+        "zh_TW": "鮮蝦咖哩蓋飯",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "米"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF03_M0001_9006529_4-tf_8",
+      "ocr": {
+        "x": 48.79256715867048,
+        "y": 43.47826820169333,
+        "text": "새우카레덮밥",
+        "width": 7.2662639842838885,
+        "height": 1.0737026152512352,
+        "rotation": 0.505641755025465
+      }
+    }
+  ]
+}

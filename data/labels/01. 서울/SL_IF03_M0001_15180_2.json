@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "file_name": "SL_IF03_M0001_15180_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:08 19:06:26",
+    "store_id": "15180",
+    "store_region": "SL",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.5165562913907285,
+          4.369414101290963
+        ],
+        [
+          83.57615894039735,
+          3.2770605759682216
+        ],
+        [
+          76.68874172185429,
+          97.02085402184707
+        ],
+        [
+          9.668874172185431,
+          97.61668321747766
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "참치정식",
+        "en.ROMAN": "chamchijeongsik",
+        "en": "Tuna Set Menu",
+        "ja": "マグロ定食",
+        "zh_CN": "金枪鱼家庭套餐",
+        "zh_TW": "鮪魚套餐",
+        "price": "30000",
+        "ingredients.ko": [
+          "참치"
+        ],
+        "ingredients.en": [
+          "Tuna"
+        ],
+        "ingredients.ja": [
+          "ツナ"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_15180_2-tf_1",
+      "ocr": {
+        "x": 22.156084656084655,
+        "y": 47.79265873015873,
+        "text": "참치정식",
+        "width": 11.805555555555554,
+        "height": 2.6041666666666665,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "특정식",
+        "en.ROMAN": "teukjeongsik",
+        "en": "Special Set Menu",
+        "ja": "特定食",
+        "zh_CN": "特级套餐",
+        "zh_TW": "特級套餐",
+        "price": "35000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_15180_2-tf_3",
+      "ocr": {
+        "x": 22.387566137566136,
+        "y": 52.40575396825397,
+        "text": "특정식",
+        "width": 8.862433862433862,
+        "height": 2.5049603174603177,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "스페셜정식",
+        "en.ROMAN": "special jeongsik",
+        "en": "Special Set Menu",
+        "ja": "スペシャル定食",
+        "zh_CN": "精选套餐",
+        "zh_TW": "精選套餐",
+        "price": "55000",
+        "ingredients.ko": [
+          "참치",
+          "쇠고기",
+          "생선회",
+          "쌀",
+          "문어"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Beef",
+          "Sliced Raw Fish",
+          "Rice",
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "牛肉",
+          "刺身",
+          "米",
+          "タコ"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "牛肉",
+          "生鱼片",
+          "大米",
+          "章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "牛肉",
+          "生魚片",
+          "米",
+          "章魚"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_15180_2-tf_5",
+      "ocr": {
+        "x": 22.28142553325278,
+        "y": 57.111215490850064,
+        "text": "스페셜정식",
+        "width": 14.452325606063127,
+        "height": 2.4194340976649515,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "골드정식",
+        "en.ROMAN": "gold jeongsik",
+        "en": "Set Menu Gold",
+        "ja": "ゴールド定食",
+        "zh_CN": "黄金定式",
+        "zh_TW": "黃金定式",
+        "price": "75000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_15180_2-tf_7",
+      "ocr": {
+        "x": 22.413700665527916,
+        "y": 61.51221790112159,
+        "text": "골드정식",
+        "width": 11.547939546112287,
+        "height": 2.4014725750688632,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "참치초밥",
+        "en.ROMAN": "chamchichobap",
+        "en": "Tuna Sushi",
+        "ja": "マグロ寿司",
+        "zh_CN": "金枪鱼寿司",
+        "zh_TW": "鮪魚壽司",
+        "price": "25000",
+        "ingredients.ko": [
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_15180_2-tf_10",
+      "ocr": {
+        "x": 22.78439153439155,
+        "y": 73.66071428571429,
+        "text": "참치초밥",
+        "width": 10.717752841839204,
+        "height": 2.405753968253967,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "모둠초밥",
+        "en.ROMAN": "modumchobap",
+        "en": "Assorted Sushi",
+        "ja": "寿司の盛り合わせ",
+        "zh_CN": "寿司拼盘",
+        "zh_TW": "壽司拼盤",
+        "price": "35000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_15180_2-tf_12",
+      "ocr": {
+        "x": 22.762656451526873,
+        "y": 77.90178571428571,
+        "text": "모둠초밥",
+        "width": 10.748621902359428,
+        "height": 2.380952380952381,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "오도로초밥",
+        "en.ROMAN": "odorochobap",
+        "en": "Odo-ro sushi",
+        "ja": "大トロ寿司",
+        "zh_CN": "金枪鱼大腩寿司",
+        "zh_TW": "鮪魚肚肉壽司",
+        "price": "50000",
+        "ingredients.ko": [
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_15180_2-tf_14",
+      "ocr": {
+        "x": 22.735254518560165,
+        "y": 82.19930038216579,
+        "text": "오도로초밥",
+        "width": 14.24824605754835,
+        "height": 2.356150793650792,
+        "rotation": 0
+      }
+    }
+  ]
+}

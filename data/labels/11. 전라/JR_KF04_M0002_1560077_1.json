@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "file_name": "JR_KF04_M0002_1560077_1.jpg",
+    "image_original_width": 2992,
+    "image_original_height": 2992,
+    "captured_date": "2022:11:22 14:17:11",
+    "store_id": "1560077",
+    "store_region": "JR",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          95.65217391304348,
+          0.9057971014492754
+        ],
+        [
+          0.18115942028985507,
+          0
+        ],
+        [
+          0,
+          98.55072463768118
+        ],
+        [
+          95.83333333333336,
+          98.18840579710145
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생삼겹살",
+        "en.ROMAN": "saengsamgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "鲜五花肉",
+        "zh_TW": "鮮五花肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1560077_1-tf_1",
+      "ocr": {
+        "x": 6.647245291408123,
+        "y": 22.607425947165712,
+        "text": "생삼겹살",
+        "width": 29.156665219934702,
+        "height": 8.408616833582936,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "대패삼겹살",
+        "en.ROMAN": "daepaesamgyeopsal",
+        "en": "Thin-sliced Pork Belly",
+        "ja": "薄切りサムギョプサル",
+        "zh_CN": "薄切五花肉",
+        "zh_TW": "薄切五花肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1560077_1-tf_3",
+      "ocr": {
+        "x": 6.683925089513863,
+        "y": 33.08441106680917,
+        "text": "대패삼겹살",
+        "width": 36.307191417538505,
+        "height": 8.52846361368994,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "기본",
+        "en.ROMAN": "gibon",
+        "en": "Basic",
+        "ja": "基本",
+        "zh_CN": "普通",
+        "zh_TW": "基本",
+        "price": "45000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "vhpTYdc9dt",
+      "ocr": {
+        "x": 21.642483221052473,
+        "y": 43.03142982242575,
+        "text": "기본",
+        "width": 14.517023637529196,
+        "height": 7.3551590324947265,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "관자",
+        "en.ROMAN": "gwanja",
+        "en": "Scallops",
+        "ja": "貝柱",
+        "zh_CN": "鲜贝",
+        "zh_TW": "干貝",
+        "price": "15000",
+        "ingredients.ko": [
+          "쌀",
+          "관자"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Scallops"
+        ],
+        "ingredients.ja": [
+          "米",
+          "貝柱"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "仙贝"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "干貝"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1560077_1-tf_6",
+      "ocr": {
+        "x": 30.51777120471271,
+        "y": 51.95674656492319,
+        "text": "관자",
+        "width": 10.17553235473716,
+        "height": 5.578485479779279,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1560077_1-tf_9",
+      "ocr": {
+        "x": 7.177859315972774,
+        "y": 60.71665528411929,
+        "text": "공기밥",
+        "width": 24.068555288065376,
+        "height": 8.812023244711458,
+        "rotation": 0
+      }
+    }
+  ]
+}

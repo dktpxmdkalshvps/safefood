@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "file_name": "BS_KF02_M0002_9001684_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:07 18:00:43",
+    "store_id": "9001684",
+    "store_region": "BS",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.853930917398393,
+          6.366459627329188
+        ],
+        [
+          1.3688526445856646,
+          87.42236024844715
+        ],
+        [
+          98.37019790454025,
+          87.26708074534159
+        ],
+        [
+          95.11745818324836,
+          6.055900621118006
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "라면",
+        "en.ROMAN": "ramyeon",
+        "en": "Instant Noodles",
+        "ja": "ラーメン",
+        "zh_CN": "方便面",
+        "zh_TW": "泡麵",
+        "price": "3500",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9001684_1-tf_0",
+      "ocr": {
+        "x": 21.955880560431638,
+        "y": 16.898972592988752,
+        "text": "라면",
+        "width": 17.594858721490098,
+        "height": 9.820604126587966,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "떡",
+        "ko": "호떡",
+        "en.ROMAN": "hotteok",
+        "en": "Griddlecake with Sugar Filling",
+        "ja": "ホットク",
+        "zh_CN": "糖饼",
+        "zh_TW": "糖餅",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9001684_1-tf_2",
+      "ocr": {
+        "x": 21.475541272008435,
+        "y": 30.224867724867728,
+        "text": "호떡",
+        "width": 17.812806344872023,
+        "height": 10.11904761904762,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "오뎅",
+        "en.ROMAN": "odeng",
+        "en": "Fishcake",
+        "ja": "練り物",
+        "zh_CN": "鱼糕",
+        "zh_TW": "魚板",
+        "price": "700",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9001684_1-tf_5",
+      "ocr": {
+        "x": 21.153120637087792,
+        "y": 43.49552278945019,
+        "text": "오뎅",
+        "width": 18.235749994582086,
+        "height": 11.77164420067763,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "떡볶이",
+        "en.ROMAN": "tteokbokki",
+        "en": "Tteokbokki",
+        "ja": "トッポッキ",
+        "zh_CN": "辣炒年糕",
+        "zh_TW": "辣炒年糕",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9001684_1-tf_8",
+      "ocr": {
+        "x": 20.992568652419017,
+        "y": 58.49683115223899,
+        "text": "떡볶이",
+        "width": 22.745688886721734,
+        "height": 10.649994244586432,
+        "rotation": 0
+      }
+    }
+  ]
+}

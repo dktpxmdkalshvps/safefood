@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "file_name": "GJ_KF01_M0004_9006665_6.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:26 18:48:54",
+    "store_id": "9006665",
+    "store_region": "GJ",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.7323600973236,
+          9.178082191780822
+        ],
+        [
+          85.15815085158151,
+          9.726027397260276
+        ],
+        [
+          82.7250608272506,
+          86.16438356164383
+        ],
+        [
+          8.75912408759124,
+          85.34246575342466
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_15",
+      "ocr": {
+        "x": 31.119814585175824,
+        "y": 30.79895272181943,
+        "text": "후라이드순살(소)_양념치킨",
+        "width": 15.562336062229587,
+        "height": 1.0996729993698724,
+        "rotation": 0.67200363477275
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드순살_양념치킨",
+        "en.ROMAN": "fried sunsal_yangnyeom chicken",
+        "en": "Fried Boneless Chicken_Seasoned Fried Chicken",
+        "ja": "骨なしフライド_ヤンニョムチキン",
+        "zh_CN": "脆皮无骨炸鸡_调味炸鸡",
+        "zh_TW": "脆皮無骨_調味炸雞",
+        "price": "4000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_17",
+      "ocr": {
+        "x": 69.38338139203486,
+        "y": 30.988045492969068,
+        "text": "닭강정",
+        "width": 4.234199250768752,
+        "height": 1.111954507030872,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "닭강정",
+        "en.ROMAN": "dakgangjeong",
+        "en": "Deep-fried and Braised Chicken",
+        "ja": "タッカンジョン",
+        "zh_CN": "甜辣鸡块",
+        "zh_TW": "甜辣雞塊",
+        "price": "8000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_24",
+      "ocr": {
+        "x": 33.10144177589765,
+        "y": 41.04674383748845,
+        "text": "반찬(한솥부대찌개)",
+        "width": 11.411824806365276,
+        "height": 1.0512186645420623,
+        "rotation": 1.165589118603009
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "부대찌개",
+        "en.ROMAN": "budaejjigae",
+        "en": "Sausage Jjigae",
+        "ja": "プデチゲ",
+        "zh_CN": "部队锅",
+        "zh_TW": "部隊鍋",
+        "price": "4500",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_25",
+      "ocr": {
+        "x": 49.245115452930754,
+        "y": 41.19937657946382,
+        "text": "반찬(토네이도소세지)",
+        "width": 12.232715429481352,
+        "height": 1.11226621729893,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반찬(토네이도소세지)",
+        "en.ROMAN": "banchan(tornado sausage)",
+        "en": "Side Dish (Tornado Sausage)",
+        "ja": "おかず(トルネードソーセージ)",
+        "zh_CN": "小菜（旋风香肠）",
+        "zh_TW": "小菜（旋風香腸）",
+        "price": "2600",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_26",
+      "ocr": {
+        "x": 65.94089701781081,
+        "y": 41.286798651896774,
+        "text": "반찬(묵은지김치찌개)",
+        "width": 12.444483531748594,
+        "height": 1.0627337827010506,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "반찬(묵은지김치찌개)",
+        "en.ROMAN": "banchan(mugeunjikimchijjigae)",
+        "en": "Side Dishes (Aged Kimchi Jjigae)",
+        "ja": "おかず(熟成キムチチゲ)",
+        "zh_CN": "小菜（酸辛奇汤）",
+        "zh_TW": "小菜（酸辛奇鍋）",
+        "price": "4000",
+        "ingredients.ko": [
+          "김치"
+        ],
+        "ingredients.en": [
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": 1
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_30",
+      "ocr": {
+        "x": 17.46286932936024,
+        "y": 51.010400372618314,
+        "text": "반찬(제육볶음)",
+        "width": 8.747039171866327,
+        "height": 1.0993918467457167,
+        "rotation": 0.6278242444971056
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "반찬(제육볶음)",
+        "en.ROMAN": "banchan(jeyukbokkeum)",
+        "en": "Side Dishes (Spicy Stir-fried Pork)",
+        "ja": "おかず(豚肉炒め)",
+        "zh_CN": "小菜（辣炒猪肉）",
+        "zh_TW": "小菜（辣炒豬肉）",
+        "price": "3200",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_31",
+      "ocr": {
+        "x": 34.31509630422569,
+        "y": 51.121902296374394,
+        "text": "반찬(고기고기)",
+        "width": 8.612309223605669,
+        "height": 1.0614553381412717,
+        "rotation": 0.6803330553362912
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반찬(고기고기)",
+        "en.ROMAN": "banchan(gogigogi)",
+        "en": "Side Dishes (Meat)",
+        "ja": "おかず(肉)",
+        "zh_CN": "小菜（烤牛肉辣炒猪肉双拼）",
+        "zh_TW": "小菜（肉）",
+        "price": "3400",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_32",
+      "ocr": {
+        "x": 52.06503352128725,
+        "y": 51.26225387491381,
+        "text": "반찬(치킨)",
+        "width": 6.126909488552211,
+        "height": 1.049954521007326,
+        "rotation": 1.2555840459999672
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반찬(치킨)",
+        "en.ROMAN": "banchan(chicken)",
+        "en": "Side Dish (Chicken)",
+        "ja": "おかず(チキン)",
+        "zh_CN": "小菜（炸鸡）",
+        "zh_TW": "小菜（炸雞）",
+        "price": "3600",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_33",
+      "ocr": {
+        "x": 66.31752884861503,
+        "y": 51.40262258526245,
+        "text": "반찬(돈까스도련님)",
+        "width": 11.226525169202153,
+        "height": 1.0114778504148279,
+        "rotation": 1.2941525349902463
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "반찬(돈까스도련님)",
+        "en.ROMAN": "banchan(dongaseudoryeonnim)",
+        "en": "Side Dish (Pork Curtlet, Deep-fried Chicken and Grilled Galbi Patty)",
+        "ja": "おかず(豚カツの盛り合わせ)",
+        "zh_CN": "小菜（炸猪排）",
+        "zh_TW": "小菜（炸豬排）",
+        "price": "3800",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_38",
+      "ocr": {
+        "x": 17.918017271253426,
+        "y": 61.16304549296904,
+        "text": "반찬(돈까스)",
+        "width": 7.43648988956569,
+        "height": 1.0869545070308895,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "반찬(돈까스)",
+        "en.ROMAN": "banchan(dongaseu)",
+        "en": "Side Dish (Pork Curtlet)",
+        "ja": "おかず(豚カツ)",
+        "zh_CN": "小菜（炸猪排）",
+        "zh_TW": "小菜（炸豬排）",
+        "price": "2800",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_39",
+      "ocr": {
+        "x": 35.24583710246125,
+        "y": 61.25424948890317,
+        "text": "반찬(카레)",
+        "width": 6.148481690190682,
+        "height": 1.0240428064383045,
+        "rotation": 0.6723499084791911
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "반찬(카레)",
+        "en.ROMAN": "banchan(curry)",
+        "en": "Side Dishes (Curry)",
+        "ja": "おかず(カレー)",
+        "zh_CN": "小菜（咖喱）",
+        "zh_TW": "小菜（咖哩）",
+        "price": "2800",
+        "ingredients.ko": [
+          "카레"
+        ],
+        "ingredients.en": [
+          "Curry"
+        ],
+        "ingredients.ja": [
+          "カレー"
+        ],
+        "ingredients.zh_CN": [
+          "咖喱"
+        ],
+        "ingredients.zh_TW": [
+          "咖哩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_40",
+      "ocr": {
+        "x": 48.95635449974489,
+        "y": 61.333600408001274,
+        "text": "뉴감자고로케",
+        "width": 8.247878804799795,
+        "height": 1.0502207522827025,
+        "rotation": 1.2555840459993988
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "뉴감자고로케",
+        "en.ROMAN": "new gamja croquette",
+        "en": "New Potato Croquette",
+        "ja": "NEWじゃがいもコロッケ",
+        "zh_CN": "NEW土豆可乐饼",
+        "zh_TW": "新馬鈴薯可樂餅",
+        "price": "2700",
+        "ingredients.ko": [
+          "감자",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "じゃがいも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "土豆",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GJ_KF01_M0004_9006665_6-tf_41",
+      "ocr": {
+        "x": 67.24168995942911,
+        "y": 61.49793408185723,
+        "text": "미니찹쌀탕수육",
+        "width": 9.144344835736248,
+        "height": 1.125502250079389,
+        "rotation": 1.7480371123008354
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "미니찹쌀탕수육",
+        "en.ROMAN": "mini chapssaltangsuyuk",
+        "en": "Mini Deep-fried Pork in Sweet Rice Batter with Sweet and Sour Sauce",
+        "ja": "ミニもち米酢豚",
+        "zh_CN": "迷你糯米糖醋肉",
+        "zh_TW": "迷你糯米糖醋肉",
+        "price": "2200",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "전분",
+          "찹쌀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Starch",
+          "Sweet Rice Powder"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "デン粉",
+          "もち米粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "淀粉",
+          "糯米粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "澱粉",
+          "糯米粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

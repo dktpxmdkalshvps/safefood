@@ -1,0 +1,645 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_284429_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:25 17:54:14",
+    "store_id": "284429",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          2.087863250922386
+        ],
+        [
+          96.49595687331532,
+          0
+        ],
+        [
+          88.88839180861413,
+          98.32841691248764
+        ],
+        [
+          3.3366513441671968,
+          97.53304043594576
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-0",
+      "ocr": {
+        "x": 6.764981489889267,
+        "y": 19.43207958860629,
+        "text": "킹콩부대찌개",
+        "width": 11.5620822044326,
+        "height": 2.1022417206960275,
+        "rotation": 358.3651496595662
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "킹콩부대찌개",
+        "en.ROMAN": "kingkongbudaejjigae",
+        "en": "King Kong Sausage Jjigae",
+        "ja": "キングコングプデチゲ",
+        "zh_CN": "猩猩部队锅",
+        "zh_TW": "金剛部隊鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-1",
+      "ocr": {
+        "x": 59.97249332806653,
+        "y": 37.391299935233455,
+        "text": "섞어부대찌개",
+        "width": 11.863884799384547,
+        "height": 2.1023549515721127,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "섞어부대찌개",
+        "en.ROMAN": "seokkeobudaejjigae",
+        "en": "Mixed Sausage Jjigae",
+        "ja": "盛り合わせプデチゲ",
+        "zh_CN": "什锦部队锅",
+        "zh_TW": "綜合部隊鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-2",
+      "ocr": {
+        "x": 58.39914756839387,
+        "y": 47.972623490444136,
+        "text": "우삽겹부대찌개",
+        "width": 13.72703649450855,
+        "height": 2.0669199059153303,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "우삽겹부대찌개",
+        "en.ROMAN": "usapgyeopbudaejjigae",
+        "en": "Beef Loin and Sausage Jjigae",
+        "ja": "牛バラ入りプデチゲ",
+        "zh_CN": "牛五花部队锅",
+        "zh_TW": "牛五花肉部隊鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "햄",
+          "소시지",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Ham",
+          "Sausages",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "ハム",
+          "ソーセージ",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "午餐肉",
+          "香肠",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "火腿",
+          "香腸",
+          "牛肉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-3",
+      "ocr": {
+        "x": 21.78784518742155,
+        "y": 67.59583571659223,
+        "text": "햄가득부대찌개",
+        "width": 12.796207742468697,
+        "height": 1.9726069576653464,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "햄가득부대찌개",
+        "en.ROMAN": "ham gadeukbudaejjigae",
+        "en": "Ham and Sausage Jjigae",
+        "ja": "たっぷりハム入りプデチゲ",
+        "zh_CN": "火腿满满部队锅",
+        "zh_TW": "火腿滿滿部隊鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-4",
+      "ocr": {
+        "x": 70.10397660327651,
+        "y": 77.39140643404026,
+        "text": "우동사리",
+        "width": 7.049735344337382,
+        "height": 1.7189448319426641,
+        "rotation": 0.7844978935456197
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동사리",
+        "en.ROMAN": "udon sari",
+        "en": "Extra Udon Noodles",
+        "ja": "うどん追加",
+        "zh_CN": "另加乌冬面",
+        "zh_TW": "加點烏龍麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-5",
+      "ocr": {
+        "x": 69.96052264963829,
+        "y": 80.2794936022055,
+        "text": "두부사리",
+        "width": 7.02891397003888,
+        "height": 1.698274287604425,
+        "rotation": 0.7952046481573234
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "두부사리",
+        "en.ROMAN": "dubusari",
+        "en": "Extra Bean Curd",
+        "ja": "豆腐追加",
+        "zh_CN": "另加豆腐",
+        "zh_TW": "加點豆腐",
+        "price": "1000",
+        "ingredients.ko": [
+          "두부"
+        ],
+        "ingredients.en": [
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-6",
+      "ocr": {
+        "x": 11.080216266326794,
+        "y": 81.53980236980891,
+        "text": "우삼겹사리",
+        "width": 8.995584752108874,
+        "height": 1.8835690810491654,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "우삼겹사리",
+        "en.ROMAN": "usamgyeopsari",
+        "en": "Extra Beef Loin",
+        "ja": "牛バラ追加",
+        "zh_CN": "另加牛五花肉",
+        "zh_TW": "加點牛五花肉",
+        "price": "6000",
+        "ingredients.ko": [
+          "우삼겹"
+        ],
+        "ingredients.en": [
+          "Beef Loin"
+        ],
+        "ingredients.ja": [
+          "牛バラ"
+        ],
+        "ingredients.zh_CN": [
+          "牛五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛五花肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-7",
+      "ocr": {
+        "x": 50.88467078300621,
+        "y": 81.64073212948885,
+        "text": "햄사리",
+        "width": 5.283368669586619,
+        "height": 1.776910137010397,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "햄사리",
+        "en.ROMAN": "ham sari",
+        "en": "Extra Ham",
+        "ja": "ハム追加",
+        "zh_CN": "另加火腿",
+        "zh_TW": "加點火腿",
+        "price": "5000",
+        "ingredients.ko": [
+          "햄"
+        ],
+        "ingredients.en": [
+          "Ham"
+        ],
+        "ingredients.ja": [
+          "ハム"
+        ],
+        "ingredients.zh_CN": [
+          "午餐肉"
+        ],
+        "ingredients.zh_TW": [
+          "火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-8",
+      "ocr": {
+        "x": 30.7494368191486,
+        "y": 81.6514460061806,
+        "text": "모둠사리",
+        "width": 7.092025863479461,
+        "height": 1.8037339422075693,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "모둠사리",
+        "en.ROMAN": "modumsari",
+        "en": "Extra Assorted Sides",
+        "ja": "トッピングの盛り合わせ",
+        "zh_CN": "另加什锦",
+        "zh_TW": "加點配料拼盤",
+        "price": "5000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-9",
+      "ocr": {
+        "x": 70.00104402210022,
+        "y": 82.88194499530617,
+        "text": "라면사리",
+        "width": 6.859928270810584,
+        "height": 1.7361329902827127,
+        "rotation": 1.1067771464602174
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-10",
+      "ocr": {
+        "x": 69.82276576608257,
+        "y": 85.54376070097446,
+        "text": "공기밥",
+        "width": 5.420025981348449,
+        "height": 1.7145984888236507,
+        "rotation": 0.4039586355984852
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-11",
+      "ocr": {
+        "x": 48.27280587204187,
+        "y": 93.02634213918637,
+        "text": "넙적당면사리",
+        "width": 10.42424550673576,
+        "height": 1.8920946492475494,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "넙적당면사리",
+        "en.ROMAN": "neopjeokdangmyeonsari",
+        "en": "Extra Flat Glass Noodles",
+        "ja": "平打ち春雨追加",
+        "zh_CN": "另加宽粉",
+        "zh_TW": "加點扁粉條",
+        "price": "1000",
+        "ingredients.ko": [
+          "당면"
+        ],
+        "ingredients.en": [
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "粉條"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-12",
+      "ocr": {
+        "x": 28.98291983095813,
+        "y": 93.19141731171041,
+        "text": "누들밀떡사리",
+        "width": 10.460912272589095,
+        "height": 1.8887953616318434,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "누들밀떡사리",
+        "en.ROMAN": "noodle miltteoksari",
+        "en": "Extra Noodles and Wheat Rice Cake",
+        "ja": "ヌードル小麦粉トク追加",
+        "zh_CN": "另加细条小麦年糕",
+        "zh_TW": "加點小麥麵糕",
+        "price": "1000",
+        "ingredients.ko": [
+          "떡",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Rice Cake",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "トク",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "糕",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "年糕",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_284429_1-tf-13",
+      "ocr": {
+        "x": 11.0871042967012,
+        "y": 93.29607959981519,
+        "text": "물만두사리",
+        "width": 8.875331972019135,
+        "height": 1.889340514896611,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "물만두사리",
+        "en.ROMAN": "mulmandusari",
+        "en": "Extra Serving of Boiled Mandu",
+        "ja": "水餃子追加",
+        "zh_CN": "另加水饺",
+        "zh_TW": "加點水餃",
+        "price": "2000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

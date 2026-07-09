@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file_name": "SL_IF03_M0001_13090_10.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:18 18:38:31",
+    "store_id": "13090",
+    "store_region": "SL",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          6.138613861386139,
+          4.599406528189911
+        ],
+        [
+          82.77227722772277,
+          4.747774480712168
+        ],
+        [
+          78.61386138613862,
+          97.62611275964392
+        ],
+        [
+          13.26732673267327,
+          99.70326409495549
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "냉모밀",
+        "en.ROMAN": "naengmomil",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷そば",
+        "zh_CN": "荞麦凉面",
+        "zh_TW": "冷蕎麥麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_13090_10-tf_0",
+      "ocr": {
+        "x": 33.77928934888739,
+        "y": 36.700292855760665,
+        "text": "냉모밀",
+        "width": 13.135835698452436,
+        "height": 4.1000840630786355,
+        "rotation": 357.59773731960274
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "판모밀",
+        "en.ROMAN": "panmomil",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "ざるそば",
+        "zh_CN": "荞麦凉面",
+        "zh_TW": "蕎麥麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_13090_10-tf_6",
+      "ocr": {
+        "x": 36.123201674032806,
+        "y": 90.79677412631104,
+        "text": "판모밀",
+        "width": 12.095021831892014,
+        "height": 3.6715040769461655,
+        "rotation": 356.4559944427257
+      }
+    }
+  ]
+}

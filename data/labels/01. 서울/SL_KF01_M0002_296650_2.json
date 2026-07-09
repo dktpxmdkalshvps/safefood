@@ -1,0 +1,705 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_296650_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:19 16:33:24",
+    "store_id": "296650",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0.568181818181818
+        ],
+        [
+          100,
+          0.1743088490712813
+        ],
+        [
+          100,
+          96.21212121212122
+        ],
+        [
+          0,
+          97.17521792952557
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-0",
+      "ocr": {
+        "x": 1.621769545625528,
+        "y": 60.31862237298553,
+        "text": "매콤한콩나물뼈찜",
+        "width": 46.2939835204838,
+        "height": 4.639371255194552,
+        "rotation": 359.5887758162639
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "매콤한콩나물뼈찜",
+        "en.ROMAN": "maekomhankongnamulppyeojjim",
+        "en": "Braised Spicy Bean Sprouts",
+        "ja": "ピリ辛豆もやし入り豚の背骨の蒸し物",
+        "zh_CN": "香辣黄豆芽炖腔骨",
+        "zh_TW": "香辣黃豆芽燉豬骨",
+        "price": "37000",
+        "ingredients.ko": [
+          "콩나물",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Bean Sprout",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豆もやし",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "黄豆芽",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "黃豆芽",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-1",
+      "ocr": {
+        "x": 1.4973299015139576,
+        "y": 54.2402828784155,
+        "text": "간장양념뼈찜",
+        "width": 35.107426957558566,
+        "height": 4.596200099312996,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "간장양념뼈찜",
+        "en.ROMAN": "ganjangnyangnyeomppyeojjim",
+        "en": "Steamed pork bones with soy sauce",
+        "ja": "豚の背骨のカンジャン蒸し物",
+        "zh_CN": "酱油调味炖腔骨",
+        "zh_TW": "醬油調味燉豬骨",
+        "price": "37000",
+        "ingredients.ko": [
+          "야채",
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-2",
+      "ocr": {
+        "x": 13.256876010434706,
+        "y": 71.29690091213232,
+        "text": "해물뼈찜",
+        "width": 23.046641053048468,
+        "height": 4.593842916574067,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "해물뼈찜",
+        "en.ROMAN": "haemulppyeojjim",
+        "en": "Braised Seafood and Backbone",
+        "ja": "海鮮入り豚の背骨の蒸し物",
+        "zh_CN": "炖海鲜腔骨",
+        "zh_TW": "燉海鮮豬骨",
+        "price": "45000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기",
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-3",
+      "ocr": {
+        "x": 13.721346727297712,
+        "y": 43.30867511089821,
+        "text": "감자탕",
+        "width": 22.767901751492968,
+        "height": 4.608428671492844,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "감자탕",
+        "en.ROMAN": "gamjatang",
+        "en": "Pork Backbone Stew",
+        "ja": "カムジャタン",
+        "zh_CN": "脊骨土豆汤",
+        "zh_TW": "馬鈴薯排骨湯",
+        "price": "29000",
+        "ingredients.ko": [
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-4",
+      "ocr": {
+        "x": 13.718367134864183,
+        "y": 82.55913265996867,
+        "text": "뼈다귀추가",
+        "width": 15.2459022513691,
+        "height": 2.499823642901836,
+        "rotation": 359.3988086142597
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뼈다귀추가",
+        "en.ROMAN": "ppyeodagwi chuga",
+        "en": "Add bones",
+        "ja": "骨追加",
+        "zh_CN": "追加腔骨",
+        "zh_TW": "加點豬骨",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-5",
+      "ocr": {
+        "x": 15.102360677318273,
+        "y": 93.62116776019452,
+        "text": "우거지",
+        "width": 9.106385396603928,
+        "height": 1.9548359680748464,
+        "rotation": 358.85857657811437
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "우거지",
+        "en.ROMAN": "ugeoji",
+        "en": "Napa Cabbage",
+        "ja": "白菜",
+        "zh_CN": "干白菜",
+        "zh_TW": "乾白菜",
+        "price": "3000",
+        "ingredients.ko": [
+          "우거지"
+        ],
+        "ingredients.en": [
+          "Napa Cabbage"
+        ],
+        "ingredients.ja": [
+          "白菜"
+        ],
+        "ingredients.zh_CN": [
+          "干白菜"
+        ],
+        "ingredients.zh_TW": [
+          "乾白菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-6",
+      "ocr": {
+        "x": 15.21435968204319,
+        "y": 91.0496167352304,
+        "text": "볶음밥",
+        "width": 9.131566971991703,
+        "height": 1.9822348385226842,
+        "rotation": 359.0478347518062
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-7",
+      "ocr": {
+        "x": 37.004036766517686,
+        "y": 90.85853005443124,
+        "text": "감자",
+        "width": 5.8393798753800885,
+        "height": 1.9468448441006643,
+        "rotation": 358.9576696560025
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "감자",
+        "en.ROMAN": "gamja",
+        "en": "Potatoes",
+        "ja": "じゃがいも",
+        "zh_CN": "土豆",
+        "zh_TW": "馬鈴薯",
+        "price": "3000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-8",
+      "ocr": {
+        "x": 37.0205592121635,
+        "y": 93.30995215144068,
+        "text": "라면사리",
+        "width": 9.382909444207097,
+        "height": 1.979074673733336,
+        "rotation": 359.4635621804531
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-9",
+      "ocr": {
+        "x": 54.20444539872928,
+        "y": 90.73542717467734,
+        "text": "당면사리",
+        "width": 9.284634192436737,
+        "height": 1.928118126948262,
+        "rotation": 359.14847582080694
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "당면사리",
+        "en.ROMAN": "dangmyeonsari",
+        "en": "Extra Glass Noodles",
+        "ja": "春雨追加",
+        "zh_CN": "另加粉条",
+        "zh_TW": "加點粉條",
+        "price": "3000",
+        "ingredients.ko": [
+          "당면"
+        ],
+        "ingredients.en": [
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "粉條"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-10",
+      "ocr": {
+        "x": 56.38542657529661,
+        "y": 93.18858017046581,
+        "text": "공기밥",
+        "width": 7.210721039768802,
+        "height": 1.9659865827159795,
+        "rotation": 358.85285413028714
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-11",
+      "ocr": {
+        "x": 74.93969234369777,
+        "y": 90.56134980027036,
+        "text": "수제비",
+        "width": 7.065218371306305,
+        "height": 1.9162098648448729,
+        "rotation": 359.3926848795701
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "수제비",
+        "en.ROMAN": "sujebi",
+        "en": "Hand-pulled Dough Soup",
+        "ja": "すいとん",
+        "zh_CN": "面片汤",
+        "zh_TW": "麵疙瘩",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_296650_2-tf-12",
+      "ocr": {
+        "x": 75.0438109696591,
+        "y": 93.01371766556277,
+        "text": "계란찜",
+        "width": 7.094026840762497,
+        "height": 1.8580883910735364,
+        "rotation": 359.4261391293823
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "계란찜",
+        "en.ROMAN": "gyeranjjim",
+        "en": "Steamed Eggs",
+        "ja": "茶碗蒸し",
+        "zh_CN": "鸡蛋羹",
+        "zh_TW": "蒸蛋",
+        "price": "4000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "T0a-gcT8lz",
+      "ocr": {
+        "x": 35.17173611702803,
+        "y": 82.37313427181984,
+        "text": "3개(우거지+야채)",
+        "width": 22.291080703449072,
+        "height": 2.3837188974874626,
+        "rotation": 359.7060296869701
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "3개(우거지+야채)",
+        "en.ROMAN": "3gae(ugeoji+yachae)",
+        "en": "Extra Serving of Bone (3 pcs) (Dried Cabbage and Vegetables)",
+        "ja": "3個(白菜+野菜)",
+        "zh_CN": "3块（干白菜+蔬菜）",
+        "zh_TW": "3個（乾白菜+蔬菜）",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기",
+          "우거지",
+          "야채",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Napa Cabbage",
+          "Vegetables",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "白菜",
+          "野菜",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "干白菜",
+          "蔬菜",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "乾白菜",
+          "蔬菜",
+          "馬鈴薯"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "xMH66FH5TX",
+      "ocr": {
+        "x": 35.09161713958913,
+        "y": 85.98813852174548,
+        "text": "4개(우거지+야채)",
+        "width": 22.245909412463543,
+        "height": 2.360805569239039,
+        "rotation": 359.47712840216354
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "4개(우거지+야채)",
+        "en.ROMAN": "4gae(ugeoji+yachae)",
+        "en": "Extra Serving of Bone (4 pcs) (Dried Cabbage and Vegetables)",
+        "ja": "4個(白菜+野菜)",
+        "zh_CN": "4块（干白菜+蔬菜）",
+        "zh_TW": "4個（乾白菜+蔬菜）",
+        "price": "17000",
+        "ingredients.ko": [
+          "돼지고기",
+          "우거지",
+          "야채",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Napa Cabbage",
+          "Vegetables",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "白菜",
+          "野菜",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "干白菜",
+          "蔬菜",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "乾白菜",
+          "蔬菜",
+          "馬鈴薯"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

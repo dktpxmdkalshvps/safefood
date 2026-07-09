@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "file_name": "SL_KF04_M0004_355234_5.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:10:03 18:08:32",
+    "store_id": "355234",
+    "store_region": "SL",
+    "store_type": "KF04",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.2386634844868735,
+          0.6369426751592359
+        ],
+        [
+          1.1933174919659286,
+          91.71974522292996
+        ],
+        [
+          99.76133651551312,
+          95.22292993630573
+        ],
+        [
+          100,
+          7.961783439490445
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "야채곱창",
+        "en.ROMAN": "yachaegopchang",
+        "en": "Stir-fried Vegetables and Pork Small Intestines",
+        "ja": "野菜入りコプチャン炒め",
+        "zh_CN": "蔬菜炒小肠",
+        "zh_TW": "蔬菜炒豬小腸",
+        "price": "12000",
+        "ingredients.ko": [
+          "야채",
+          "곱창"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Small Intestine"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "コプチャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "小肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "小腸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0004_355234_5-tf.jpg_11",
+      "ocr": {
+        "x": 26.84499333602717,
+        "y": 46.61992159583088,
+        "text": "야채곱창",
+        "width": 6.570760658480456,
+        "height": 2.742013194245536,
+        "rotation": 2.430586350190822
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "알곱창",
+        "en.ROMAN": "algopchang",
+        "en": "Stir-fried Pork Small Intestines",
+        "ja": "コプチャン炒め",
+        "zh_CN": "鱼子炒小肠",
+        "zh_TW": "炒豬小腸",
+        "price": "13000",
+        "ingredients.ko": [
+          "소곱창"
+        ],
+        "ingredients.en": [
+          "Beef Small Intestine"
+        ],
+        "ingredients.ja": [
+          "牛コプチャン"
+        ],
+        "ingredients.zh_CN": [
+          "牛小肠"
+        ],
+        "ingredients.zh_TW": [
+          "牛小腸"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0004_355234_5-tf.jpg_13",
+      "ocr": {
+        "x": 47.99336535843228,
+        "y": 47.81872463075519,
+        "text": "알곱창",
+        "width": 4.859610436786276,
+        "height": 2.715941262326543,
+        "rotation": 2.4287786576460917
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "순대곱창",
+        "en.ROMAN": "sundaegopchang",
+        "en": "Sundae and Small Intestine",
+        "ja": "スンデ入りコプチャン炒め",
+        "zh_CN": "血肠小肠",
+        "zh_TW": "血腸小腸",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "곱창",
+          "순대"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Small Intestine",
+          "Sundae"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "コプチャン",
+          "スンデ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "小肠",
+          "血肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "小腸",
+          "血腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0004_355234_5-tf.jpg_14",
+      "ocr": {
+        "x": 67.22976487416788,
+        "y": 48.85778427160851,
+        "text": "순대곱창",
+        "width": 6.572420634920623,
+        "height": 2.690094068149148,
+        "rotation": 2.477573753871411
+      }
+    }
+  ]
+}

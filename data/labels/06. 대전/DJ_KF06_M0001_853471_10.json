@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "file_name": "DJ_KF06_M0001_853471_10.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:13 20:52:24",
+    "store_id": "853471",
+    "store_region": "DJ",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          28.88198757763975
+        ],
+        [
+          0,
+          83.54037267080743
+        ],
+        [
+          93.37016574585635,
+          81.36645962732922
+        ],
+        [
+          91.16022108762728,
+          27.32919254658385
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "복숭아",
+        "en.ROMAN": "boksunga",
+        "en": "Yellow Peaches",
+        "ja": "桃",
+        "zh_CN": "冰黄桃",
+        "zh_TW": "水蜜桃",
+        "price": "5000",
+        "ingredients.ko": [
+          "복숭아"
+        ],
+        "ingredients.en": [
+          "Peach"
+        ],
+        "ingredients.ja": [
+          "桃"
+        ],
+        "ingredients.zh_CN": [
+          "蜜桃"
+        ],
+        "ingredients.zh_TW": [
+          "蜜桃"
+        ],
+        "allergy": [
+          "복숭아"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF06_M0001_853471_10-tf_2",
+      "ocr": {
+        "x": 56.10168070343643,
+        "y": 36.00883726776727,
+        "text": "노랑복숭아",
+        "width": 17.250563924950313,
+        "height": 2.47844737824998,
+        "rotation": 358.53077475338256
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "찹쌀볼도그",
+        "en.ROMAN": "chapssalboldogeu",
+        "en": "Corn Dog in Sweet Rice Batter",
+        "ja": "もち米ボールドッグ",
+        "zh_CN": "糯米热狗",
+        "zh_TW": "辣糯米熱狗",
+        "price": "4000",
+        "ingredients.ko": [
+          "찹쌀",
+          "소시지",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Sweet Rice",
+          "Sausages",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "もち米",
+          "ソーセージ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "糯米",
+          "香肠",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "糯米",
+          "香腸",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF06_M0001_853471_10-tf_11",
+      "ocr": {
+        "x": 10.850598487679443,
+        "y": 50.37686865876424,
+        "text": "찹쌀볼도그",
+        "width": 16.93913225290637,
+        "height": 2.4037116761829522,
+        "rotation": 358.569020813378
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "김말이",
+        "en.ROMAN": "gimmari",
+        "en": "Deep-fried Laver Rolls",
+        "ja": "春雨のり巻き天ぷら",
+        "zh_CN": "炸紫菜卷",
+        "zh_TW": "炸海苔捲",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루",
+          "김",
+          "당면"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Laver",
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "海苔",
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "紫菜",
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "海苔",
+          "粉條"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF06_M0001_853471_10-tf_26",
+      "ocr": {
+        "x": 57.09090683600093,
+        "y": 68.76067740291846,
+        "text": "김말이",
+        "width": 9.499565364268955,
+        "height": 2.45930614072668,
+        "rotation": 358.55481797016137
+      }
+    }
+  ]
+}

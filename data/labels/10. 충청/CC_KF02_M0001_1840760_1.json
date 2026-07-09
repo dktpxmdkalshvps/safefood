@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "file_name": "CC_KF02_M0001_1840760_1.jpg",
+    "image_original_width": 4624,
+    "image_original_height": 2604,
+    "captured_date": "2022:10:24 18:12:08",
+    "store_id": "1840760",
+    "store_region": "CC",
+    "store_type": "KF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.2375296912114014,
+          0.9358288770053476
+        ],
+        [
+          98.812351543943,
+          4.946524064171125
+        ],
+        [
+          99.04988123515439,
+          85.427807486631
+        ],
+        [
+          0.4750593824228028,
+          87.43315508021391
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "와사비크래미김밥",
+        "en.ROMAN": "wasabi crami Gimbap",
+        "en": "Wasabi and Crab Meat Gimbap",
+        "ja": "ワサビとカニ身入りキンパプ",
+        "zh_CN": "芥末蟹肉紫菜卷饭",
+        "zh_TW": "芥末蟹肉棒海苔飯捲",
+        "price": "5500",
+        "ingredients.ko": [
+          "와사비",
+          "게",
+          "쌀",
+          "채소",
+          "김"
+        ],
+        "ingredients.en": [
+          "Wasabi",
+          "Crab",
+          "Rice",
+          "Vegetables",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "ワサビ",
+          "ガニ",
+          "米",
+          "野菜",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "芥末",
+          "螃蟹",
+          "大米",
+          "蔬菜",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "山葵",
+          "螃蟹",
+          "米",
+          "蔬菜",
+          "海苔"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0001_1840760_1-tf_1",
+      "ocr": {
+        "x": 5.114424208562005,
+        "y": 17.37438853592359,
+        "text": "와사비크래미김밥",
+        "width": 25.454874021965207,
+        "height": 2.063380128306729,
+        "rotation": 1.0870456605512118
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "치즈치킨김밥",
+        "en.ROMAN": "cheese chicken Gimbap",
+        "en": "Cheese Chicken Gimbap",
+        "ja": "チーズチキンキンパプ",
+        "zh_CN": "奶酪鸡肉紫菜卷饭",
+        "zh_TW": "起司炸雞海苔飯捲",
+        "price": "5500",
+        "ingredients.ko": [
+          "치즈",
+          "김",
+          "쌀",
+          "채소",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Laver",
+          "Rice",
+          "Vegetables",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "海苔",
+          "米",
+          "野菜",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "紫菜",
+          "大米",
+          "蔬菜",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "海苔",
+          "米",
+          "蔬菜",
+          "雞肉"
+        ],
+        "allergy": [
+          "우유",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0001_1840760_1-tf_6",
+      "ocr": {
+        "x": 5.31535278113793,
+        "y": 30.723341982570208,
+        "text": "치즈치킨김밥",
+        "width": 19.112543900242976,
+        "height": 2.051464637975972,
+        "rotation": 1.0534350702431539
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "에그스팸김밥",
+        "en.ROMAN": "egg spam Gimbap",
+        "en": "Egg and Spam Gimbap",
+        "ja": "エッグスパムキンパブ",
+        "zh_CN": "鸡蛋午餐肉紫菜卷饭",
+        "zh_TW": "雞蛋午餐肉海苔飯捲",
+        "price": "5500",
+        "ingredients.ko": [
+          "계란",
+          "스팸",
+          "김",
+          "채소",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Spam",
+          "Laver",
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "スパム",
+          "海苔",
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "午餐肉",
+          "紫菜",
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "午餐肉",
+          "海苔",
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [
+          "계란",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0001_1840760_1-tf_11",
+      "ocr": {
+        "x": 5.3379416282642005,
+        "y": 44.11764705882352,
+        "text": "에그스팸김밥",
+        "width": 19.53913899828232,
+        "height": 2.0424639092126893,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "돈까스롤",
+        "en.ROMAN": "dongaseu roll",
+        "en": "Pork Cutlet Roll",
+        "ja": "豚カツロール",
+        "zh_CN": "炸猪肉卷",
+        "zh_TW": "炸豬排捲",
+        "price": "5500",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루",
+          "빵가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour",
+          "Breadcrumbs"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉",
+          "パン粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉",
+          "面包屑"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉",
+          "麵包粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0001_1840760_1-tf_16",
+      "ocr": {
+        "x": 5.182295304746905,
+        "y": 57.75928935184845,
+        "text": "돈까스롤",
+        "width": 13.60132448306696,
+        "height": 2.067951002632342,
+        "rotation": 359.0227006186984
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "통새우롤",
+        "en.ROMAN": "tongsaeu roll",
+        "en": "Whole Shrimp Roll",
+        "ja": "丸ごと海老ロール",
+        "zh_CN": "整块虾卷",
+        "zh_TW": "整隻蝦捲",
+        "price": "5500",
+        "ingredients.ko": [
+          "쌀",
+          "새우",
+          "김",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Shrimp",
+          "Laver",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海老",
+          "海苔",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "虾",
+          "紫菜",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "蝦",
+          "海苔",
+          "蔬菜"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0001_1840760_1-tf_21",
+      "ocr": {
+        "x": 5.005191000044167,
+        "y": 72.2054634690787,
+        "text": "통새우롤",
+        "width": 13.557965358469188,
+        "height": 2.1057344487354808,
+        "rotation": 358.02234817533645
+      }
+    }
+  ]
+}

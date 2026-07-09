@@ -1,0 +1,950 @@
+{
+  "meta": {
+    "file_name": "CC_KF01_M0002_1450274_2.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:09 15:47:44",
+    "store_id": "1450274",
+    "store_region": "CC",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.1096729774707303,
+          2.7705202370923434
+        ],
+        [
+          98.92244492155916,
+          0
+        ],
+        [
+          97.31470597499892,
+          96.64050160844758
+        ],
+        [
+          9.901869413625063,
+          96.78459504403472
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "메추리알쇠고기장조림",
+        "en.ROMAN": "mechurialsoegogijangjorim",
+        "en": "Quail Eggs and Braised Beef in Soy Sauce",
+        "ja": "うずらの卵入り牛肉の煮付け",
+        "zh_CN": "酱牛肉鹌鹑蛋",
+        "zh_TW": "鵪鶉蛋醬牛肉",
+        "price": "5900",
+        "ingredients.ko": [
+          "소고기",
+          "메추리알",
+          "장조림"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Quail Eggs",
+          "Braised Beef in Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "ウズラの卵",
+          "肉の煮付け"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "鹌鹑蛋",
+          "酱肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "鵪鶉蛋",
+          "醬牛肉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "계란",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_9",
+      "ocr": {
+        "x": 35.75691859863493,
+        "y": 43.23826332188462,
+        "text": "본메추리알쇠고기장조림",
+        "width": 11.91952546069949,
+        "height": 1.30880938611108,
+        "rotation": 359.24413902388096
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "쇠고기장조림",
+        "en.ROMAN": "soegogijangjorim",
+        "en": "Braised Beef in Soy Sauce",
+        "ja": "牛肉の煮付け",
+        "zh_CN": "酱牛肉",
+        "zh_TW": "醬牛肉",
+        "price": "12900",
+        "ingredients.ko": [
+          "소고기",
+          "장조림"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Braised Beef in Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "肉の煮付け"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "酱肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "醬牛肉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_10",
+      "ocr": {
+        "x": 17.24008826749708,
+        "y": 43.518546831138856,
+        "text": "본쇠고기장조림",
+        "width": 9.153480732122684,
+        "height": 1.3083242288533163,
+        "rotation": 359.2441390238795
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "김치",
+        "ko": "비트동치미",
+        "en.ROMAN": "beet dongchimi",
+        "en": "Beet Water Kimchi",
+        "ja": "ビート大根の水キムチ",
+        "zh_CN": "盐水甜菜根辛奇",
+        "zh_TW": "水甜菜根辛奇",
+        "price": "3000",
+        "ingredients.ko": [
+          "물김치",
+          "비트"
+        ],
+        "ingredients.en": [
+          "Water Kimchi",
+          "Beet"
+        ],
+        "ingredients.ja": [
+          "水キムチ",
+          "ビート"
+        ],
+        "ingredients.zh_CN": [
+          "水辛奇",
+          "甜菜根"
+        ],
+        "ingredients.zh_TW": [
+          "水辛奇",
+          "甜菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_27",
+      "ocr": {
+        "x": 48.53892342505451,
+        "y": 54.87382924044054,
+        "text": "본비트동치미",
+        "width": 7.93503320388548,
+        "height": 1.233299645089184,
+        "rotation": 358.7105791052716
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "오징어초무침",
+        "en.ROMAN": "ojingeochomuchim",
+        "en": "Sweet and Sour Squid Salad",
+        "ja": "イカの酢の物",
+        "zh_CN": "醋拌鱿鱼",
+        "zh_TW": "醋拌魷魚",
+        "price": "4300",
+        "ingredients.ko": [
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_29",
+      "ocr": {
+        "x": 18.134824786836898,
+        "y": 55.28002548663329,
+        "text": "본오징어초무침",
+        "width": 8.98110859923355,
+        "height": 1.2563155828549155,
+        "rotation": 358.71435094159744
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "시그니처누룽지닭죽",
+        "en.ROMAN": "signature nurungjidakjuk",
+        "en": "Signature Chicken with Scorched Rice Porridge",
+        "ja": "シグネチャーおこげ入り鶏肉粥",
+        "zh_CN": "招牌锅巴鸡丝粥",
+        "zh_TW": "招牌鍋粑雞粥",
+        "price": "3500",
+        "ingredients.ko": [
+          "닭고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "米"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_36",
+      "ocr": {
+        "x": 75.56666666666666,
+        "y": 67.375,
+        "text": "본죽시그니처누룽지닭죽",
+        "width": 12.566666666666666,
+        "height": 1.475,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "시그니처쇠고기죽",
+        "en.ROMAN": "signature soegogijuk",
+        "en": "Signature Beef Porridge",
+        "ja": "シグネチャー牛肉粥",
+        "zh_CN": "招牌牛肉粥",
+        "zh_TW": "招牌牛肉粥",
+        "price": "3500",
+        "ingredients.ko": [
+          "쇠고기",
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "糯米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_37",
+      "ocr": {
+        "x": 56.73333333333334,
+        "y": 67.7,
+        "text": "본죽시그니처쇠고기죽",
+        "width": 11.200000000000001,
+        "height": 1.3,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "시그니처통단팥죽",
+        "en.ROMAN": "signature tongdanpatjuk",
+        "en": "Signature Sweet Red Bean Porridge",
+        "ja": "シグネチャー丸ごと小豆粥",
+        "zh_CN": "招牌甜红豆粥",
+        "zh_TW": "招牌整碗甜紅豆粥",
+        "price": "3500",
+        "ingredients.ko": [
+          "팥",
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Red Bean",
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "小豆",
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "红豆",
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "紅豆",
+          "糯米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_38",
+      "ocr": {
+        "x": 37.13333333333331,
+        "y": 67.8139078050612,
+        "text": "본죽시그니처통단팥죽",
+        "width": 11.23333333333333,
+        "height": 1.3360921949387796,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "시그니처단호박죽",
+        "en.ROMAN": "signature danhobakjuk",
+        "en": "Signature Pumpkin Porridge",
+        "ja": "シグネチャーカボチャ粥",
+        "zh_CN": "招牌绿南瓜粥",
+        "zh_TW": "招牌栗子南瓜粥",
+        "price": "3500",
+        "ingredients.ko": [
+          "단호박",
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Pumpkin",
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "カボチャ",
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "绿南瓜",
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "栗子南瓜",
+          "糯米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_39",
+      "ocr": {
+        "x": 18.056496267435076,
+        "y": 67.937876554174,
+        "text": "본죽시그니처단호박죽",
+        "width": 10.999999999999991,
+        "height": 1.336092194938712,
+        "rotation": 359.3206885645938
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "단호박식혜",
+        "en.ROMAN": "danhobaksikhye",
+        "en": "Pumpkin Sweet Rice Punch",
+        "ja": "カボチャのシケ",
+        "zh_CN": "绿南瓜甜米露",
+        "zh_TW": "栗子南瓜甜米釀",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀",
+          "단호박"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Pumpkin"
+        ],
+        "ingredients.ja": [
+          "米",
+          "カボチャ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "绿南瓜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "栗子南瓜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_49",
+      "ocr": {
+        "x": 59.133333333333304,
+        "y": 80.39172341518363,
+        "text": "단호박식혜",
+        "width": 6.496280321534784,
+        "height": 1.2582765848163429,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "양배추사과즙",
+        "en.ROMAN": "yangbaechusagwajeup",
+        "en": "Cabbage and Apple Juice",
+        "ja": "キャベツとリンゴ汁",
+        "zh_CN": "卷心菜苹果汁",
+        "zh_TW": "高麗菜蘋果汁",
+        "price": "1300",
+        "ingredients.ko": [
+          "양배추",
+          "사과"
+        ],
+        "ingredients.en": [
+          "Cabbage",
+          "Apple"
+        ],
+        "ingredients.ja": [
+          "キャベツ",
+          "リンゴ"
+        ],
+        "ingredients.zh_CN": [
+          "卷心菜",
+          "苹果"
+        ],
+        "ingredients.zh_TW": [
+          "高麗菜",
+          "蘋果"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_50",
+      "ocr": {
+        "x": 75.90000000000092,
+        "y": 80.41039671449002,
+        "text": "양배추사과즙",
+        "width": 6.452389014980396,
+        "height": 1.2396032855102177,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "진짜배즙",
+        "en.ROMAN": "jinjjabaejeup",
+        "en": "Pear Juice",
+        "ja": "チンチャペチュプ",
+        "zh_CN": "真正梨汁",
+        "zh_TW": "真梨汁",
+        "price": "1300",
+        "ingredients.ko": [
+          "배"
+        ],
+        "ingredients.en": [
+          "Pear"
+        ],
+        "ingredients.ja": [
+          "梨"
+        ],
+        "ingredients.zh_CN": [
+          "梨"
+        ],
+        "ingredients.zh_TW": [
+          "梨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "mBVKxoVmjn",
+      "ocr": {
+        "x": 83.06415210792562,
+        "y": 80.45105862728998,
+        "text": "진짜배즙",
+        "width": 4.508109574432537,
+        "height": 1.1837660463841486,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "오미자골드",
+        "en.ROMAN": "omija gold",
+        "en": "Omija Gold",
+        "ja": "五味子ゴールド",
+        "zh_CN": "五味子汁",
+        "zh_TW": "五味子黃金汁",
+        "price": "5200",
+        "ingredients.ko": [
+          "오미자"
+        ],
+        "ingredients.en": [
+          "Omija"
+        ],
+        "ingredients.ja": [
+          "五味子"
+        ],
+        "ingredients.zh_CN": [
+          "五味子"
+        ],
+        "ingredients.zh_TW": [
+          "五味子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_52",
+      "ocr": {
+        "x": 37.61849056268585,
+        "y": 80.52499999999992,
+        "text": "본오미자골드",
+        "width": 6.362084351078665,
+        "height": 1.1749999999999996,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "석류골드",
+        "en.ROMAN": "seongnyu gold",
+        "en": "Pomegranate Gold",
+        "ja": "ザクロゴールド",
+        "zh_CN": "石榴汁",
+        "zh_TW": "石榴黃金汁",
+        "price": "5200",
+        "ingredients.ko": [
+          "석류"
+        ],
+        "ingredients.en": [
+          "Pomegranate"
+        ],
+        "ingredients.ja": [
+          "ザクロ"
+        ],
+        "ingredients.zh_CN": [
+          "石榴"
+        ],
+        "ingredients.zh_TW": [
+          "石榴"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "WzixAi0feD",
+      "ocr": {
+        "x": 44.656447950112174,
+        "y": 80.52895296629825,
+        "text": "본석류골드",
+        "width": 5.315616842300862,
+        "height": 1.2061326914265758,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "매실골드",
+        "en.ROMAN": "maesil gold",
+        "en": "Green Plum Gold",
+        "ja": "梅ゴールド",
+        "zh_CN": "黄金梅子",
+        "zh_TW": "梅子Gold",
+        "price": "4300",
+        "ingredients.ko": [
+          "매실"
+        ],
+        "ingredients.en": [
+          "Green Plum"
+        ],
+        "ingredients.ja": [
+          "梅"
+        ],
+        "ingredients.zh_CN": [
+          "青梅"
+        ],
+        "ingredients.zh_TW": [
+          "梅子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_51",
+      "ocr": {
+        "x": 21.803683735251788,
+        "y": 80.55836170759183,
+        "text": "본매실골드",
+        "width": 6.329649598081539,
+        "height": 1.2416382924081815,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "닭고기애호박미역죽(중기)",
+        "en.ROMAN": "dakgogiaehobangmiyeokjuk(junggi)",
+        "en": "Seaweed Porridge with Chicken and Zucchini (For 7 to 8 Months Olds)",
+        "ja": "鶏肉とズッキーニ入りワカメ粥(中期)",
+        "zh_CN": "炸薯条拼盘",
+        "zh_TW": "雞肉櫛瓜海帶粥（中期）",
+        "price": "4400",
+        "ingredients.ko": [
+          "닭고기",
+          "호박",
+          "미역"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Pumpkin",
+          "Seaweed"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "かぼちゃ",
+          "ワカメ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "南瓜",
+          "海带"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "南瓜",
+          "海帶"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_70",
+      "ocr": {
+        "x": 19.333333333333226,
+        "y": 87.5667234151841,
+        "text": "닭고기애호박미역죽(중기)",
+        "width": 11.95435744844071,
+        "height": 1.3388226822857634,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "닭고기버섯죽(후기)",
+        "en.ROMAN": "dakgogibeoseotjuk(hugi)",
+        "en": "Chicken and Mushroom Porridge (For 9-11 Month Baby)",
+        "ja": "鶏肉きのこ粥(後期)",
+        "zh_CN": "炸薯条拼盘",
+        "zh_TW": "雞肉蘑菇粥（後期）",
+        "price": "4600",
+        "ingredients.ko": [
+          "닭고기",
+          "버섯",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Mushroom",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "きのこ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蘑菇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蘑菇",
+          "米"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_71",
+      "ocr": {
+        "x": 43.244456425515466,
+        "y": 87.5722695126528,
+        "text": "닭고기버섯죽(후기)",
+        "width": 9.63329739011996,
+        "height": 1.3138226822857226,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "닭고기양송이진밥(완료기)",
+        "en.ROMAN": "dakgogiyangsongijinbap(wallyogi)",
+        "en": "Chicken and Button Mushroom Rice (For 12 to 15 Months Olds)",
+        "ja": "鶏肉とマッシュルームのやわらかご飯(完了期)",
+        "zh_CN": "鸡肉双孢菇稀饭（完成期）",
+        "zh_TW": "雞肉洋菇泥飯（完成期）",
+        "price": "4800",
+        "ingredients.ko": [
+          "닭고기",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蘑菇"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_72",
+      "ocr": {
+        "x": 68.06666666666663,
+        "y": 87.57226951265302,
+        "text": "닭고기양송이진밥(완료기)",
+        "width": 12.337017068585117,
+        "height": 1.352730487346963,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "한우참깨애호박죽(후기)",
+        "en.ROMAN": "hanuchamkkaeaehobakjuk(hugi)",
+        "en": "Pumpkin Porridge with Korean Beef and Sesame Seeds (For 9 to 11 Month Olds)",
+        "ja": "韓牛とエゴマ入りズッキーニ粥(後期)",
+        "zh_CN": "炸薯条拼盘",
+        "zh_TW": "韓牛芝麻櫛瓜粥（後期）",
+        "price": "5500",
+        "ingredients.ko": [
+          "쇠고기",
+          "참깨",
+          "애호박",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Sesame",
+          "Zucchini",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "エゴマ",
+          "ズッキーニ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "芝麻",
+          "西葫芦",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "芝麻",
+          "櫛瓜",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_76",
+      "ocr": {
+        "x": 43.299999999999955,
+        "y": 89.31117731771408,
+        "text": "한우참깨애호박죽(후기)",
+        "width": 11.803683735251797,
+        "height": 1.2610070721633448,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "한우과일죽(중기)",
+        "en.ROMAN": "hanugwailjuk(junggi)",
+        "en": "Korean Beef and Fruit Porridge (For 7 to 8 Month Olds)",
+        "ja": "韓牛入りフルーツ粥(中期)",
+        "zh_CN": "韩牛水果粥（中期）",
+        "zh_TW": "韓牛水果粥（中期）",
+        "price": "5300",
+        "ingredients.ko": [
+          "쇠고기",
+          "과일",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Fruit",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "果物",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "水果",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "水果",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_75",
+      "ocr": {
+        "x": 19.433333333333316,
+        "y": 89.35008512277545,
+        "text": "한우과일죽(중기)",
+        "width": 8.496280321534773,
+        "height": 1.2999148772245759,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "한우야채진밥(완료기)",
+        "en.ROMAN": "hanuyachaejinbap(wallyogi)",
+        "en": "Soft-boiled Korean Beef and Vegetable Rice (For 12-15 Month Baby)",
+        "ja": "韓牛と野菜のやわらかご飯(完了期)",
+        "zh_CN": "韩牛蔬菜稀饭（完成期）",
+        "zh_TW": "韓牛蔬菜泥飯（完成期）",
+        "price": "5700",
+        "ingredients.ko": [
+          "쇠고기",
+          "채소",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1450274_2-tf_77",
+      "ocr": {
+        "x": 68.01852650589919,
+        "y": 89.36672341518363,
+        "text": "한우야채진밥(완료기)",
+        "width": 11.048140160767375,
+        "height": 1.2832765848163283,
+        "rotation": 0
+      }
+    }
+  ]
+}

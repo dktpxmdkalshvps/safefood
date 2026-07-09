@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0004_567162_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:23 15:43:51",
+    "store_id": "567162",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 3.0520646319569114,
+        "y": 3.768506056527591,
+        "width": 90.84380610412927,
+        "height": 96.23149394347242,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "제육+순두부",
+        "en.ROMAN": "jeyuk+sundubu",
+        "en": "Spicy Stir-fried Pork + Soft Bean Curd Jjigae",
+        "ja": "豚肉炒め+スンドゥブチゲ",
+        "zh_CN": "辣炒猪肉+嫩豆腐锅",
+        "zh_TW": "辣炒豬肉+嫩豆腐",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지고기",
+          "두부",
+          "조개",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Bean Curd",
+          "Clam",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "豆腐",
+          "貝",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "豆腐",
+          "蛤蜊",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "豆腐",
+          "蛤蜊",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_567162_4-tf_4",
+      "ocr": {
+        "x": 11.177248677248677,
+        "y": 57.4156746031746,
+        "text": "제육순두부",
+        "width": 9.39153439153439,
+        "height": 1.884920634920635,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "고등어+순두부",
+        "en.ROMAN": "godeungeo+sundubu",
+        "en": "Grilled Mackerel and Soft Bean Curd Jjigae",
+        "ja": "サバ＋スンドゥブ",
+        "zh_CN": "青花鱼+嫩豆腐",
+        "zh_TW": "鯖魚+嫩豆腐",
+        "price": "10000",
+        "ingredients.ko": [
+          "고등어",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Mackerel",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "サバ",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "青花鱼",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "鯖魚",
+          "豆腐"
+        ],
+        "allergy": [
+          "고등어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_567162_4-tf_5",
+      "ocr": {
+        "x": 37.466931216931215,
+        "y": 57.53968253968254,
+        "text": "고등어순두부",
+        "width": 10.78042328042328,
+        "height": 1.6865079365079365,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "떡갈비순두부",
+        "en.ROMAN": "tteokgalbisundubu",
+        "en": "Grilled Galbi Patties and Soft Bean Curd Jjigae",
+        "ja": "粗挽きカルビ焼きとスンドゥブチゲ",
+        "zh_CN": "牛肉饼+嫩豆腐锅",
+        "zh_TW": "烤牛肉餅+嫩豆腐鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "돼지고기",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Pork",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "豚肉",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "猪肉",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "豬肉",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "돼지고기",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_567162_4-tf_6",
+      "ocr": {
+        "x": 62.96296296296297,
+        "y": 57.68849206349206,
+        "text": "떡갈비순두부",
+        "width": 10.813492063492063,
+        "height": 1.7113095238095237,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "찹스테이크+순두부",
+        "en.ROMAN": "chop steak +sundubu",
+        "en": "Chop Steak + Soft Bean Curd",
+        "ja": "チョップステーキ＋スンドゥブチゲ",
+        "zh_CN": "酱炒牛排肉+嫩豆腐",
+        "zh_TW": "醬炒牛排+嫩豆腐",
+        "price": "9500",
+        "ingredients.ko": [
+          "쇠고기",
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "쇠고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_567162_4-tf_13",
+      "ocr": {
+        "x": 11.507936507936508,
+        "y": 83.0109126984127,
+        "text": "찹스테이크순두부",
+        "width": 15.013227513227513,
+        "height": 1.810515873015873,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "소불고기+강된장",
+        "en.ROMAN": "sobulgogi+gangdoenjang",
+        "en": "Beef bulgogi + soy bean paste with soy sauce",
+        "ja": "牛プルゴギ+濃味テンジャン",
+        "zh_CN": "烤牛肉+调味大酱",
+        "zh_TW": "烤牛肉+調味大醬",
+        "price": "8500",
+        "ingredients.ko": [
+          "쇠고기",
+          "채소",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜",
+          "大醬"
+        ],
+        "allergy": [
+          "쇠고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_567162_4-tf_14",
+      "ocr": {
+        "x": 37.235449735449734,
+        "y": 83.0109126984127,
+        "text": "소불고기+강된장",
+        "width": 13.624338624338623,
+        "height": 1.6121031746031746,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "버섯육개장",
+        "en.ROMAN": "beoseonnyukgaejang",
+        "en": "Spicy Mushroom and Beef Soup",
+        "ja": "きのこのユッケジャン",
+        "zh_CN": "香辣蘑菇牛肉汤",
+        "zh_TW": "蘑菇香辣牛肉湯",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "버섯",
+          "숙주",
+          "고사리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Mushroom",
+          "Mung Bean Sprout",
+          "Bracken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "きのこ",
+          "緑豆もやし",
+          "ワラビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "蘑菇",
+          "绿豆芽",
+          "蕨菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "蘑菇",
+          "綠豆芽",
+          "蕨菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_567162_4-tf_15",
+      "ocr": {
+        "x": 62.46693121693122,
+        "y": 83.0109126984127,
+        "text": "버섯육개장",
+        "width": 8.994708994708995,
+        "height": 1.6121031746031746,
+        "rotation": 0
+      }
+    }
+  ]
+}

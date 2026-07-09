@@ -1,0 +1,527 @@
+{
+  "meta": {
+    "file_name": "US_KF01_M0001_895295_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:26 20:01:46",
+    "store_id": "895295",
+    "store_region": "US",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.02255639097744,
+          0
+        ],
+        [
+          75.43859649122805,
+          0.590551181102362
+        ],
+        [
+          95.7393483709273,
+          100
+        ],
+        [
+          1.2531328320802002,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "굴국밥",
+        "en.ROMAN": "gulgukbap",
+        "en": "Oyster and Rice Soup",
+        "ja": "カキクッパ",
+        "zh_CN": "牡蛎汤饭",
+        "zh_TW": "牡蠣湯飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_3",
+      "ocr": {
+        "x": 23.434880762277093,
+        "y": 23.857343940939668,
+        "text": "굴국밥",
+        "width": 12.527911881718628,
+        "height": 3.171782508967404,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "굴탕",
+        "en.ROMAN": "gultang",
+        "en": "Oyster Soup",
+        "ja": "カキスープ",
+        "zh_CN": "牡蛎汤",
+        "zh_TW": "牡蠣湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "굴"
+        ],
+        "ingredients.en": [
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_5",
+      "ocr": {
+        "x": 23.335674413070784,
+        "y": 27.324962454339047,
+        "text": "굴탕",
+        "width": 10.11151700832179,
+        "height": 3.3159883239540404,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "매생이굴국밥",
+        "en.ROMAN": "maesaengigulgukbap",
+        "en": "Rice Soup with Seaweed Fulvescens and Oysters",
+        "ja": "カプサアオノリ入りカキクッパ",
+        "zh_CN": "海藻牡蛎汤饭",
+        "zh_TW": "海藻牡蠣湯飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_7",
+      "ocr": {
+        "x": 23.32339638359354,
+        "y": 30.88257989929896,
+        "text": "매생이굴국밥",
+        "width": 24.880985010590585,
+        "height": 3.4924201007008504,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "매생이굴탕",
+        "en.ROMAN": "maesaengigultang",
+        "en": "Seaweed Fulvescens and Oyster Soup",
+        "ja": "カプサアオノリ入りカキスープ",
+        "zh_CN": "海藻牡蛎汤",
+        "zh_TW": "海藻牡蠣湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "매생이",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seaweed Fulvescens",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "カプサアオノリ",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海藻",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海藻",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_9",
+      "ocr": {
+        "x": 23.124983685180915,
+        "y": 34.612025412182845,
+        "text": "매생이굴탕",
+        "width": 21.330347192753518,
+        "height": 3.577815323438581,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_11",
+      "ocr": {
+        "x": 22.92657098676822,
+        "y": 38.436073565450116,
+        "text": "공기밥",
+        "width": 13.453837807644547,
+        "height": 3.688012133477808,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "NMl3I4DOPB",
+      "ocr": {
+        "x": 34.431698046300276,
+        "y": 50.49498067994633,
+        "text": "소주",
+        "width": 9.47968135472159,
+        "height": 3.8248758500234126,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_14",
+      "ocr": {
+        "x": 22.788156839754333,
+        "y": 50.734840201401326,
+        "text": "맥주",
+        "width": 9.525284306013411,
+        "height": 3.893849206349165,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "찹쌀동동주",
+        "en.ROMAN": "chapssaldongdongju",
+        "en": "Sweet Rice Wine",
+        "ja": "もち米の濁り酒",
+        "zh_CN": "糯米冬冬酒",
+        "zh_TW": "糯米冬冬酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "쌀",
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "米",
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "糯米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_17",
+      "ocr": {
+        "x": 22.39503371721684,
+        "y": 55.22294376265427,
+        "text": "찹쌀동동주",
+        "width": 23.236171372201028,
+        "height": 4.087917323202526,
+        "rotation": 358.23006153471215
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "더덕동동주",
+        "en.ROMAN": "deodeokdongdongju",
+        "en": "Deodeok Rice Wine",
+        "ja": "蔓人参の濁り酒",
+        "zh_CN": "沙参冬冬酒",
+        "zh_TW": "沙蔘冬冬酒",
+        "price": "8000",
+        "ingredients.ko": [
+          "더덕",
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Deodeok",
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "蔓人参",
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "沙参",
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "沙蔘",
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_19",
+      "ocr": {
+        "x": 22.412103613963406,
+        "y": 59.791368014992216,
+        "text": "더덕동동주",
+        "width": 23.35032640326883,
+        "height": 4.226099277160034,
+        "rotation": 358.117442980428
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "태화루",
+        "en.ROMAN": "taehwaru",
+        "en": "Taehwaru Unrefined Rice Wine",
+        "ja": "テファル",
+        "zh_CN": "太和楼",
+        "zh_TW": "太和樓",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_21",
+      "ocr": {
+        "x": 22.38554024040389,
+        "y": 64.43881293924463,
+        "text": "태화루",
+        "width": 14.43173995632903,
+        "height": 4.341907337861364,
+        "rotation": 357.4625697603807
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895295_2-tf_23",
+      "ocr": {
+        "x": 22.212799356223286,
+        "y": 69.28936516313651,
+        "text": "음료수",
+        "width": 14.784468932667346,
+        "height": 4.451153929694692,
+        "rotation": 357.8509423054274
+      }
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "file_name": "KW_KF01_M0002_1280926_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:12:20 16:36:10",
+    "store_id": "1280926",
+    "store_region": "KW",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          2.2267171462121644
+        ],
+        [
+          100,
+          2.024280993292363
+        ],
+        [
+          100,
+          90.4858369626364
+        ],
+        [
+          0,
+          89.0688329140534
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "부대찌개",
+        "en.ROMAN": "budaejjigae",
+        "en": "Sausage Jjigae",
+        "ja": "プデチゲ",
+        "zh_CN": "部队锅",
+        "zh_TW": "部隊鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0002_1280926_1-tf_2",
+      "ocr": {
+        "x": 21.537934615511677,
+        "y": 24.664843870822132,
+        "text": "부대찌개",
+        "width": 24.80785909036065,
+        "height": 5.918002932304736,
+        "rotation": 0.42569134534471686
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0002_1280926_1-tf_5",
+      "ocr": {
+        "x": 24.078847205464612,
+        "y": 33.19282462539256,
+        "text": "라면사리",
+        "width": 19.171750585492525,
+        "height": 4.729561511713084,
+        "rotation": 0.6377481034781454
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "제육볶음",
+        "en.ROMAN": "jeyukbokkeum",
+        "en": "Spicy Stir-fried Pork",
+        "ja": "豚肉炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0002_1280926_1-tf_7",
+      "ocr": {
+        "x": 21.13692343816217,
+        "y": 38.63273354083331,
+        "text": "제육볶음",
+        "width": 25.332901044388212,
+        "height": 5.8223995179005055,
+        "rotation": 0.5966320582727462
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉콩국수",
+        "en.ROMAN": "naengkongguksu",
+        "en": "Noodles in Cold Soybean Soup",
+        "ja": "冷やしコングクス",
+        "zh_CN": "冷豆汁面",
+        "zh_TW": "冷豆汁麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "면",
+          "콩"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Soybeans"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "豆"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "大豆"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0002_1280926_1-tf_11",
+      "ocr": {
+        "x": 21.20185761787998,
+        "y": 47.94845301551244,
+        "text": "냉콩국수",
+        "width": 25.196493120368583,
+        "height": 6.04341170038831,
+        "rotation": 0.47524756139330293
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "떡만두국",
+        "en.ROMAN": "tteongmanduguk",
+        "en": "Sliced Rice Cake and Mandu Soup",
+        "ja": "トク入り餃子スープ",
+        "zh_CN": "年糕饺子汤",
+        "zh_TW": "年糕餃子湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "米"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0002_1280926_1-tf_13",
+      "ocr": {
+        "x": 20.819375469528485,
+        "y": 54.92312140637348,
+        "text": "떡만두국",
+        "width": 25.526865605762996,
+        "height": 6.036122792845114,
+        "rotation": 0.4679778371342991
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "전골",
+        "en.ROMAN": "jeongol",
+        "en": "Hot Pot",
+        "ja": "寄せ鍋",
+        "zh_CN": "火锅",
+        "zh_TW": "牛肉火鍋",
+        "price": "35000",
+        "ingredients.ko": [
+          "채소"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0002_1280926_1-tf_16",
+      "ocr": {
+        "x": 20.661027870558595,
+        "y": 61.874272938641006,
+        "text": "달구전골",
+        "width": 25.625341250849225,
+        "height": 6.208352694519301,
+        "rotation": 0.5634378019092878
+      }
+    }
+  ]
+}

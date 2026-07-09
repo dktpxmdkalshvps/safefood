@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "file_name": "JR_KF03_M0001_1539722_6.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:16 17:08:07",
+    "store_id": "1539722",
+    "store_region": "JR",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 9.154929577464792,
+        "y": 0.8802816901408451,
+        "width": 85.44600938967136,
+        "height": 95.24647887323944,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "고구마치즈돈가스",
+        "en.ROMAN": "goguma cheese dongaseu",
+        "en": "Pork Cutlet Stuffed with Sweet Potatoes and Cheese",
+        "ja": "さつまいも入りチーズ豚カツ",
+        "zh_CN": "炸红薯奶酪猪排",
+        "zh_TW": "地瓜起司炸豬排",
+        "price": "14900",
+        "ingredients.ko": [
+          "고구마",
+          "돼지고기",
+          "치즈",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Sweet Potato",
+          "Pork",
+          "Cheese",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "サツマイモ",
+          "豚肉",
+          "チーズ",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "红薯",
+          "猪肉",
+          "奶酪",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜",
+          "豬肉",
+          "起司",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF03_M0001_1539722_6-tf_7",
+      "ocr": {
+        "x": 42.84312160503734,
+        "y": 17.781469830145515,
+        "text": "고구마치즈돈가스",
+        "width": 22.11782861579899,
+        "height": 2.485708795703909,
+        "rotation": 358.29669246502596
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치킨가스",
+        "en.ROMAN": "chicken gaseu",
+        "en": "Chicken Cutlet",
+        "ja": "チキンカツ",
+        "zh_CN": "炸鸡排",
+        "zh_TW": "炸雞排",
+        "price": "13900",
+        "ingredients.ko": [
+          "계란",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF03_M0001_1539722_6-tf_13",
+      "ocr": {
+        "x": 24.042202773287187,
+        "y": 31.115712547286172,
+        "text": "치킨가스",
+        "width": 10.51347805130924,
+        "height": 2.362187754966901,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "경양식돈가스",
+        "en.ROMAN": "gyeongyangsikdongasu",
+        "en": "Old-fashioned Pork Cutlet",
+        "ja": "洋風豚カツ",
+        "zh_CN": "西式炸猪排",
+        "zh_TW": "西式炸豬排",
+        "price": "13900",
+        "ingredients.ko": [
+          "밀가루",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "豬肉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF03_M0001_1539722_6-tf_20",
+      "ocr": {
+        "x": 46.13900311630438,
+        "y": 44.171626984126924,
+        "text": "경양식돈가스",
+        "width": 16.901408954372652,
+        "height": 2.3313492063492,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "매운돈가스",
+        "en.ROMAN": "maeundongaseu",
+        "en": "Spicy Pork Cutlet",
+        "ja": "辛味豚カツ",
+        "zh_CN": "辣味炸猪排",
+        "zh_TW": "辣味炸豬排",
+        "price": "13900",
+        "ingredients.ko": [
+          "밀가루",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "豬肉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF03_M0001_1539722_6-tf_27",
+      "ocr": {
+        "x": 20.490136478787143,
+        "y": 57.53543998479271,
+        "text": "악마매운돈가스",
+        "width": 17.98016977178407,
+        "height": 2.2406279669224145,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "카레돈가스",
+        "en.ROMAN": "curry dongaseu",
+        "en": "Pork Cutlet with Curry",
+        "ja": "カツカレー",
+        "zh_CN": "咖喱炸猪排",
+        "zh_TW": "咖哩炸豬排",
+        "price": "13900",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF03_M0001_1539722_6-tf_35",
+      "ocr": {
+        "x": 48.274767509635005,
+        "y": 71.14212910037152,
+        "text": "카레돈가스",
+        "width": 13.535246334426885,
+        "height": 2.2799516253196175,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "구이/적",
+        "ko": "소세지함박스테이크",
+        "en.ROMAN": "sausage hamburg steak",
+        "en": "Sausage Hamburger Steak",
+        "ja": "ソーセージとハンバーグステーキ",
+        "zh_CN": "香肠汉堡牛排",
+        "zh_TW": "香腸漢堡排",
+        "price": "14900",
+        "ingredients.ko": [
+          "소시지",
+          "쇠고기",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Sausages",
+          "Beef",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "ソーセージ",
+          "牛肉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "香肠",
+          "牛肉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "香腸",
+          "牛肉",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF03_M0001_1539722_6-tf_41",
+      "ocr": {
+        "x": 16.300502112903086,
+        "y": 84.9126044157534,
+        "text": "소세지함박스테이크",
+        "width": 24.57199205590895,
+        "height": 2.455357142857144,
+        "rotation": 0.5358977392158977
+      }
+    }
+  ]
+}

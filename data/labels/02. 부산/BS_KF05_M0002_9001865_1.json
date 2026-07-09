@@ -1,0 +1,692 @@
+{
+  "meta": {
+    "file_name": "BS_KF05_M0002_9001865_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:08 14:55:35",
+    "store_id": "9001865",
+    "store_region": "BS",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          15.384615384615385,
+          18.456078083407277
+        ],
+        [
+          11.834319526627219,
+          65.48358473824312
+        ],
+        [
+          97.75147928994082,
+          67.08074534161491
+        ],
+        [
+          95.62130177514793,
+          19.875776397515526
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "해물탕",
+        "en.ROMAN": "haemultang",
+        "en": "Spicy Seafood Stew",
+        "ja": "海鮮鍋",
+        "zh_CN": "海鲜汤",
+        "zh_TW": "海鮮湯",
+        "price": "35000",
+        "ingredients.ko": [
+          "야채",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_0",
+      "ocr": {
+        "x": 17.09238105148949,
+        "y": 19.81174465960755,
+        "text": "해물탕",
+        "width": 10.036175494613557,
+        "height": 2.685568124451575,
+        "rotation": 1.776352542194786
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "초장",
+        "en.ROMAN": "chojang",
+        "en": "Red Chili Paste with Vinegar",
+        "ja": "酢コチュジャン",
+        "zh_CN": "醋辣椒酱",
+        "zh_TW": "醋辣椒醬",
+        "price": "5000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_2",
+      "ocr": {
+        "x": 58.22716154173777,
+        "y": 21.062894598542282,
+        "text": "초장",
+        "width": 6.5992321163282135,
+        "height": 2.634773383378338,
+        "rotation": 1.5409777079369746
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매운탕",
+        "en.ROMAN": "maeuntang",
+        "en": "Spicy Fish Stew",
+        "ja": "魚の辛味スープ",
+        "zh_CN": "鲜辣鱼汤",
+        "zh_TW": "鮮辣魚湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "생선"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_5",
+      "ocr": {
+        "x": 58.23382135699442,
+        "y": 23.985935153644785,
+        "text": "매운탕",
+        "width": 9.59999999999994,
+        "height": 2.7749999999999915,
+        "rotation": 1.0235041036399934
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "낙지볶음",
+        "en.ROMAN": "nakjibokkeum",
+        "en": "Spicy Stir-fried Octopus",
+        "ja": "テナガダコ炒め",
+        "zh_CN": "辣炒长爪章鱼",
+        "zh_TW": "辣炒章魚",
+        "price": "35000",
+        "ingredients.ko": [
+          "낙지",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "テナガダコ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_7",
+      "ocr": {
+        "x": 16.907678521641387,
+        "y": 25.726389529231696,
+        "text": "낙지볶음",
+        "width": 12.663134652302867,
+        "height": 2.7533606041282974,
+        "rotation": 1.776352542195184
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "산낙지",
+        "en.ROMAN": "sannakji",
+        "en": "Live Octopus",
+        "ja": "生テナガダコ",
+        "zh_CN": "活长爪章鱼",
+        "zh_TW": "活章魚",
+        "price": "30000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_10",
+      "ocr": {
+        "x": 16.653077968206258,
+        "y": 28.744309750673782,
+        "text": "산낙지",
+        "width": 9.966474405144822,
+        "height": 2.6860915363741023,
+        "rotation": 1.4426778316516788
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "바지락탕",
+        "en.ROMAN": "bajiraktang",
+        "en": "Clam Soup",
+        "ja": "アサリスープ",
+        "zh_CN": "蛤蜊汤",
+        "zh_TW": "蛤蜊湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "바지락"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Clams"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "アサリ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "蛤蜊"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "蛤蜊"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_12",
+      "ocr": {
+        "x": 58.112615077109666,
+        "y": 30.01093128094604,
+        "text": "바지락탕",
+        "width": 13.033333333333305,
+        "height": 2.6391569553231204,
+        "rotation": 0.4100558769646909
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "해물모듬회",
+        "en.ROMAN": "haemulmodeumhoe",
+        "en": "Assorted Sliced Raw Fish and Seafood",
+        "ja": "刺身の盛り合わせ",
+        "zh_CN": "海鲜生鱼片拼盘",
+        "zh_TW": "海鮮生魚片",
+        "price": "35000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_14",
+      "ocr": {
+        "x": 16.500439282713277,
+        "y": 31.714595990761868,
+        "text": "해물모듬회",
+        "width": 16.381570420836383,
+        "height": 2.7380756227666008,
+        "rotation": 1.8423125309950592
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "대선",
+        "en.ROMAN": "daeseon",
+        "en": "Daesun Soju",
+        "ja": "デソン",
+        "zh_CN": "大鲜",
+        "zh_TW": "大鮮",
+        "price": "4000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_16",
+      "ocr": {
+        "x": 64.88722791022984,
+        "y": 33.72049868075702,
+        "text": "대선",
+        "width": 6.154620149616956,
+        "height": 2.6000000000000014,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "해삼멍게",
+        "en.ROMAN": "haesammeongge",
+        "en": "Sea Cucumber and Sea Pineapple",
+        "ja": "ナマコホヤ",
+        "zh_CN": "海参海鞘",
+        "zh_TW": "海參海鞘",
+        "price": "20000",
+        "ingredients.ko": [
+          "해삼",
+          "멍게"
+        ],
+        "ingredients.en": [
+          "Sea Cucumber",
+          "Sea Pineapple"
+        ],
+        "ingredients.ja": [
+          "ナマコ",
+          "ホヤ"
+        ],
+        "ingredients.zh_CN": [
+          "海参",
+          "海鞘"
+        ],
+        "ingredients.zh_TW": [
+          "海參",
+          "海鞘"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_18",
+      "ocr": {
+        "x": 16.383802327530958,
+        "y": 34.78839960636335,
+        "text": "해삼멍게",
+        "width": 13.182275628145852,
+        "height": 2.8069296575956773,
+        "rotation": 1.4426778316524747
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_21",
+      "ocr": {
+        "x": 65.03333333333333,
+        "y": 36.65,
+        "text": "소주",
+        "width": 6.166666666666667,
+        "height": 2.675,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_24",
+      "ocr": {
+        "x": 65.01879534829504,
+        "y": 39.73270079154583,
+        "text": "맥주",
+        "width": 6.212046517049694,
+        "height": 2.6,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전",
+        "ko": "해물정구지전",
+        "en.ROMAN": "haemuljeonggujijeon",
+        "en": "Seafood and Chive Pancake",
+        "ja": "海鮮入りニラのチヂミ",
+        "zh_CN": "海鲜韭菜煎饼",
+        "zh_TW": "海鮮韭菜煎餅",
+        "price": "12000",
+        "ingredients.ko": [
+          "해산물",
+          "부추",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Chives",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "ニラ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "韭菜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "韭菜",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_26",
+      "ocr": {
+        "x": 15.953188561677095,
+        "y": 41.0202369671034,
+        "text": "해물정구지전",
+        "width": 19.566666666666592,
+        "height": 2.7909100467271917,
+        "rotation": 1.0775524514662038
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_29",
+      "ocr": {
+        "x": 64.98171425520134,
+        "y": 42.6536874370126,
+        "text": "막걸리",
+        "width": 9.773140486535766,
+        "height": 2.6911907735770697,
+        "rotation": 1.2289088067715852
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료",
+        "en.ROMAN": "eumnyo",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_32",
+      "ocr": {
+        "x": 65.04610542310347,
+        "y": 45.76860105539434,
+        "text": "음료",
+        "width": 6.384736442241251,
+        "height": 2.7063989446056165,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "명태머리전",
+        "en.ROMAN": "myeongtaemeorijeon",
+        "en": "Pan-fried Battered Pollack Head",
+        "ja": "スケトウダラの頭のチヂミ",
+        "zh_CN": "香煎明太鱼头",
+        "zh_TW": "香煎明太魚頭肉片",
+        "price": "10000",
+        "ingredients.ko": [
+          "명태"
+        ],
+        "ingredients.en": [
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "明太子"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_34",
+      "ocr": {
+        "x": 15.725907920195318,
+        "y": 47.20002802605488,
+        "text": "명태머리전",
+        "width": 16.366666666666642,
+        "height": 2.7958372724523137,
+        "rotation": 1.6866378749459159
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "문어숙회",
+        "en.ROMAN": "muneosukhoe",
+        "en": "Parboiled Octopus",
+        "ja": "ゆでタコ",
+        "zh_CN": "白灼章鱼",
+        "zh_TW": "燙大章魚",
+        "price": "33000",
+        "ingredients.ko": [
+          "문어"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "タコ"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF05_M0002_9001865_1-tf_37",
+      "ocr": {
+        "x": 15.642048691552036,
+        "y": 50.23784691980486,
+        "text": "문어숙회",
+        "width": 13.440850079785559,
+        "height": 2.923962513399005,
+        "rotation": 1.2017490409807579
+      }
+    }
+  ]
+}

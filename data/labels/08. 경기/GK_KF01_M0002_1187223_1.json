@@ -1,0 +1,1107 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_1187223_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:02 13:50:55",
+    "store_id": "1187223",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          5.535714285714286
+        ],
+        [
+          99.76190476190476,
+          5.714285714285714
+        ],
+        [
+          99.76190476190476,
+          99.28571428571429
+        ],
+        [
+          0,
+          99.82142857142857
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-0",
+      "ocr": {
+        "x": 54.824365212699234,
+        "y": 18.70896812063408,
+        "text": "복칼국수",
+        "width": 12.769656040211377,
+        "height": 2.5436115777807284,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "복칼국수",
+        "en.ROMAN": "bokkalguksu",
+        "en": "Noodle Soup with Puffer Fish",
+        "ja": "フグ入りカルグクス",
+        "zh_CN": "河豚刀切面",
+        "zh_TW": "河魨刀切麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-1",
+      "ocr": {
+        "x": 54.7659257129836,
+        "y": 22.515925712983613,
+        "text": "해물칼국수",
+        "width": 16.120595835037705,
+        "height": 2.6107414328032466,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "해물칼국수",
+        "en.ROMAN": "haemulkalguksku",
+        "en": "Noodle Soup with Seafood",
+        "ja": "海鮮カルグクス",
+        "zh_CN": "海鲜刀切面",
+        "zh_TW": "海鮮刀切麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-2",
+      "ocr": {
+        "x": 10.124523856933891,
+        "y": 26.349296445886853,
+        "text": "복지리",
+        "width": 9.643715808736395,
+        "height": 2.5387898492074066,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "복지리",
+        "en.ROMAN": "bokjiri",
+        "en": "Puffer Fish Soup",
+        "ja": "ふぐスープ",
+        "zh_CN": "河豚清汤",
+        "zh_TW": "河魨清湯",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "복어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Puffer Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ふぐ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "河豚"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "河豚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-3",
+      "ocr": {
+        "x": 54.83545368963982,
+        "y": 26.340925712983616,
+        "text": "복해장국",
+        "width": 12.858415280051622,
+        "height": 2.5612971480655267,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "복해장국",
+        "en.ROMAN": "bokhaejangguk",
+        "en": "Puffer Fish Hangover Soup",
+        "ja": "ふぐ酔い覚ましスープ",
+        "zh_CN": "河豚醒酒汤",
+        "zh_TW": "河魨醒酒湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "복어",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Puffer Fish",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ふぐ",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "河豚",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "河豚",
+          "高湯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-4",
+      "ocr": {
+        "x": 54.892212364912425,
+        "y": 30.064885056355056,
+        "text": "복껍데기무침",
+        "width": 20.04112096842072,
+        "height": 2.665459774579641,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "복껍데기무침",
+        "en.ROMAN": "bokkkeopdegimuchim",
+        "en": "Puffer Fish Rind Salad",
+        "ja": "ふぐ皮の和え物",
+        "zh_CN": "凉拌河豚皮",
+        "zh_TW": "涼拌鮑魚皮",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-5",
+      "ocr": {
+        "x": 10.153756300752633,
+        "y": 30.199061927849133,
+        "text": "복매운탕",
+        "width": 13.114650209005742,
+        "height": 2.527814216452526,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "복매운탕",
+        "en.ROMAN": "bongmaeuntang",
+        "en": "Spicy Puffer Fish Stew",
+        "ja": "ふぐの辛味スープ",
+        "zh_CN": "鲜辣河豚汤",
+        "zh_TW": "鮮辣河魨湯",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "복어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Puffer Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ふぐ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "河豚"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "河豚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-6",
+      "ocr": {
+        "x": 10.207075463474842,
+        "y": 33.98691370490561,
+        "text": "복해물탕",
+        "width": 13.044820724975365,
+        "height": 2.6261725901886432,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "복해물탕",
+        "en.ROMAN": "bokaemultang",
+        "en": "Spicy Puffer Fish and Seafood Stew",
+        "ja": "ふぐの海鮮鍋",
+        "zh_CN": "河豚海鲜汤",
+        "zh_TW": "福海鮮湯",
+        "price": "20000",
+        "ingredients.ko": [
+          "해물"
+        ],
+        "ingredients.en": [
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-7",
+      "ocr": {
+        "x": 54.99871238700484,
+        "y": 33.99991558293593,
+        "text": "만두",
+        "width": 6.390506994435025,
+        "height": 2.525168834128129,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "만두",
+        "en.ROMAN": "mandu",
+        "en": "Mandu",
+        "ja": "餃子",
+        "zh_CN": "饺子",
+        "zh_TW": "餃子",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-8",
+      "ocr": {
+        "x": 54.81567597574486,
+        "y": 38.74503656856393,
+        "text": "코다리조림",
+        "width": 16.87887743693243,
+        "height": 2.575574718224532,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "코다리조림",
+        "en.ROMAN": "kodarijorim",
+        "en": "Braised Half-dried Pollack",
+        "ja": "半干しスケトウダラの煮付け",
+        "zh_CN": "炖半干明太鱼",
+        "zh_TW": "醬燒乾明太魚",
+        "price": "35000",
+        "ingredients.ko": [
+          "야채",
+          "코다리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Half-dried Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "半干しスケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "半干明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "半乾明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-9",
+      "ocr": {
+        "x": 10.191503214317486,
+        "y": 40.74494252817753,
+        "text": "복찜,복해물찜",
+        "width": 20.375163452349167,
+        "height": 2.7452298872898218,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "복찜,복해물찜",
+        "en.ROMAN": "bokjjim,bokaemuljjim",
+        "en": "Braised Puffer Fish/Spicy Braised Puffer Fish and Seafood",
+        "ja": "ふぐの蒸し物、海鮮入りふぐの蒸し物",
+        "zh_CN": "蒸河豚，炖河豚",
+        "zh_TW": "燉河魨、辣燉河魨海鮮",
+        "price": "45000",
+        "ingredients.ko": [
+          "복",
+          "해물"
+        ],
+        "ingredients.en": [
+          "Puffer Fish",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "フグ",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "河豚",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "河魨",
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-10",
+      "ocr": {
+        "x": 54.93333333333329,
+        "y": 46.38377742642301,
+        "text": "빠가매운탕",
+        "width": 17.09999999999998,
+        "height": 2.571186005013081,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "빠가매운탕",
+        "en.ROMAN": "ppagamaeuntang",
+        "en": "Spicy Korean Bullhead Stew",
+        "ja": "コウライギギの辛味スープ",
+        "zh_CN": "鲜辣黄颡鱼汤",
+        "zh_TW": "鮮辣黃顙魚湯",
+        "price": "45000",
+        "ingredients.ko": [
+          "야채",
+          "생선"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-11",
+      "ocr": {
+        "x": 10.25828641829612,
+        "y": 51.07382740981149,
+        "text": "복튀김",
+        "width": 9.599999999999994,
+        "height": 2.5685740686102845,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "복튀김",
+        "en.ROMAN": "boktwigim",
+        "en": "Deep-fried Puffer Fish",
+        "ja": "ふぐ天ぷら",
+        "zh_CN": "炸河豚",
+        "zh_TW": "炸河魨",
+        "price": "15000",
+        "ingredients.ko": [
+          "복어"
+        ],
+        "ingredients.en": [
+          "Puffer Fish"
+        ],
+        "ingredients.ja": [
+          "ふぐ"
+        ],
+        "ingredients.zh_CN": [
+          "河豚"
+        ],
+        "ingredients.zh_TW": [
+          "河豚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-12",
+      "ocr": {
+        "x": 55.03333333333342,
+        "y": 53.99751828428203,
+        "text": "메기매운탕",
+        "width": 17.024172761427337,
+        "height": 2.568704289295053,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "메기매운탕",
+        "en.ROMAN": "megimaeuntang",
+        "en": "Spicy Catfish Stew",
+        "ja": "ナマズの辛味スープ",
+        "zh_CN": "鲜辣鲶鱼汤",
+        "zh_TW": "鮮辣鯰魚湯",
+        "price": "35000",
+        "ingredients.ko": [
+          "야채",
+          "메기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Catfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ナマズ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鲶鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鯰魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-13",
+      "ocr": {
+        "x": 10.230968238705135,
+        "y": 64.98757037255585,
+        "text": "복사리",
+        "width": 9.667397184873087,
+        "height": 2.5611162921438737,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "복사리",
+        "en.ROMAN": "boksari",
+        "en": "Extra Puffer Fish",
+        "ja": "ふぐ追加",
+        "zh_CN": "另加河豚",
+        "zh_TW": "加點河魨",
+        "price": "7000",
+        "ingredients.ko": [
+          "복"
+        ],
+        "ingredients.en": [
+          "Puffer Fish"
+        ],
+        "ingredients.ja": [
+          "フグ"
+        ],
+        "ingredients.zh_CN": [
+          "河豚"
+        ],
+        "ingredients.zh_TW": [
+          "河魨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-14",
+      "ocr": {
+        "x": 55.09364084734958,
+        "y": 65.17499999999993,
+        "text": "소주",
+        "width": 6.498002159105668,
+        "height": 2.5818704289295056,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-15",
+      "ocr": {
+        "x": 10.30882868751725,
+        "y": 68.65628518627808,
+        "text": "면사리",
+        "width": 9.586723202286134,
+        "height": 2.576172590188454,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "면사리",
+        "en.ROMAN": "myeonsari",
+        "en": "Extra Noodles",
+        "ja": "麺追加",
+        "zh_CN": "另加面条",
+        "zh_TW": "加點麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-16",
+      "ocr": {
+        "x": 55.1972224160116,
+        "y": 68.82938871321147,
+        "text": "맥주",
+        "width": 6.491111636152985,
+        "height": 2.5505747182245435,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-17",
+      "ocr": {
+        "x": 10.21595885569769,
+        "y": 72.27631333530036,
+        "text": "볶음밥",
+        "width": 9.969031761294879,
+        "height": 2.6710599940990902,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-18",
+      "ocr": {
+        "x": 55.09364084734969,
+        "y": 72.42003656856397,
+        "text": "청하",
+        "width": 6.763865247411036,
+        "height": 2.6349268628720517,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-19",
+      "ocr": {
+        "x": 10.233333333333333,
+        "y": 76.00628518627794,
+        "text": "밥죽",
+        "width": 6.584990616992549,
+        "height": 2.6187148137220673,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "밥죽",
+        "en.ROMAN": "bapjuk",
+        "en": "Rice Porridge",
+        "ja": "おじや",
+        "zh_CN": "饭粥",
+        "zh_TW": "飯粥",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-20",
+      "ocr": {
+        "x": 55.29293584178235,
+        "y": 76.11564785535255,
+        "text": "막걸리",
+        "width": 9.534666981691807,
+        "height": 2.578056433942546,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-21",
+      "ocr": {
+        "x": 10.133333333333333,
+        "y": 79.65759852157834,
+        "text": "공기밥",
+        "width": 10.024953084962748,
+        "height": 2.7260318450766925,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-22",
+      "ocr": {
+        "x": 55.239848737172224,
+        "y": 79.77251828428199,
+        "text": "콜라",
+        "width": 6.694553412677231,
+        "height": 2.632445147154047,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-23",
+      "ocr": {
+        "x": 10.199999999999973,
+        "y": 83.36505629804492,
+        "text": "미나리",
+        "width": 9.724953084962745,
+        "height": 2.697373329399288,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "미나리",
+        "en.ROMAN": "minari",
+        "en": "Water Parsley",
+        "ja": "セリ",
+        "zh_CN": "水芹",
+        "zh_TW": "水芹",
+        "price": "1000",
+        "ingredients.ko": [
+          "미나리"
+        ],
+        "ingredients.en": [
+          "Water Parsley"
+        ],
+        "ingredients.ja": [
+          "セリ"
+        ],
+        "ingredients.zh_CN": [
+          "水芹"
+        ],
+        "ingredients.zh_TW": [
+          "水芹"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0002_1187223_1-tf-24",
+      "ocr": {
+        "x": 55.22531409013912,
+        "y": 83.475,
+        "text": "사이다",
+        "width": 10.008019243194234,
+        "height": 2.5656478553524398,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

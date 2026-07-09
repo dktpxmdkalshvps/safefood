@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_320947_8.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:15 13:25:24",
+    "store_id": "320947",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          3.436123348017621
+        ],
+        [
+          99.9925948964025,
+          3.783205197200393
+        ],
+        [
+          99.9925948964025,
+          95.94411827183865
+        ],
+        [
+          65.0592844999029,
+          96.80114077818315
+        ],
+        [
+          0.3204890862064186,
+          97.14822262736597
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "채식정식",
+        "en.ROMAN": "chaesikjeongsik",
+        "en": "Vegetable Set Menu",
+        "ja": "ベジタリアン定食",
+        "zh_CN": "素食套餐",
+        "zh_TW": "素食套餐",
+        "price": "55000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_320947_8-tf-0",
+      "ocr": {
+        "x": 32.997955661816604,
+        "y": 15.728040784328309,
+        "text": "채식정식",
+        "width": 17.783994909251078,
+        "height": 2.6288211931844683,
+        "rotation": 2.3408762506529683
+      }
+    }
+  ]
+}

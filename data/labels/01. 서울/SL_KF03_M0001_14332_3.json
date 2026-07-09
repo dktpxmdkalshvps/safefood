@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_14332_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "14332",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0.3853564547206166,
+        "y": 0.2890173410404624,
+        "width": 99.61464354527938,
+        "height": 99.71098265895954,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF03_M0001_14332_3-tf-0",
+      "ocr": {
+        "x": 57.103350957306056,
+        "y": 25.31701820229027,
+        "text": "시그니쳐순살치킨플래터",
+        "width": 26.26712833003499,
+        "height": 2.0941307950830486,
+        "rotation": 359.3747926577302
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살치킨플래터",
+        "en.ROMAN": "sunsal chicken platter",
+        "en": "boneless chicken platter",
+        "ja": "骨なしチキンプラッター",
+        "zh_CN": "无骨炸鸡块",
+        "zh_TW": "無骨炸雞塊",
+        "price": "31000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

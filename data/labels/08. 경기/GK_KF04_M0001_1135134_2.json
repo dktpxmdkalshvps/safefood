@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file_name": "GK_KF04_M0001_1135134_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:22 20:33:57",
+    "store_id": "1135134",
+    "store_region": "GK",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.4096385542168677,
+          0
+        ],
+        [
+          100,
+          0
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          3.6144578313253013,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_KF04_M0001_1135134_2-tf-0",
+      "ocr": {
+        "x": 23.909260270721628,
+        "y": 43.16693732354372,
+        "text": "화(花)목살",
+        "width": 25.494239570470448,
+        "height": 4.304653020904093,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "화목살",
+        "en.ROMAN": "hwamoksal",
+        "en": "the flesh of a tree",
+        "ja": "火鉢の肉",
+        "zh_CN": "花木肉",
+        "zh_TW": "花木肉",
+        "price": "19000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF04_M0001_1135134_2-tf-1",
+      "ocr": {
+        "x": 14.568018199379637,
+        "y": 86.16071428571377,
+        "text": "세(三)겹살",
+        "width": 25.01352295839223,
+        "height": 4.34726698664254,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "19000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

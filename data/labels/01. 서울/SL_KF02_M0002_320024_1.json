@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "file_name": "SL_KF02_M0002_320024_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:28 19:19:41",
+    "store_id": "320024",
+    "store_region": "SL",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.346499915522015,
+          20.438135451641866
+        ],
+        [
+          95.26240298512828,
+          22.46051714989645
+        ],
+        [
+          97.59902796400874,
+          70.69432065326825
+        ],
+        [
+          12.402086426365754,
+          72.51446418169736
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "계란말이김밥",
+        "en.ROMAN": "gyeranmarigimbap",
+        "en": "Rolled Omelet Gimbap",
+        "ja": "卵焼きキンパプ",
+        "zh_CN": "鸡蛋紫菜卷饭",
+        "zh_TW": "雞蛋捲海苔飯捲",
+        "price": "6000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "계란",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Eggs",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "卵",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡蛋",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞蛋",
+          "海苔"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_320024_1-tf.jpg_2",
+      "ocr": {
+        "x": 14.181313027225535,
+        "y": 29.66121912356154,
+        "text": "계란말이김밥",
+        "width": 35.67962063369703,
+        "height": 4.034546468883146,
+        "rotation": 1.610314805047551
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "국물떡볶이",
+        "en.ROMAN": "gungmultteokbokki",
+        "en": "Tteokbokki",
+        "ja": "スープトッポッキ",
+        "zh_CN": "汤式辣炒年糕",
+        "zh_TW": "湯式辣炒年糕",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_320024_1-tf.jpg_4",
+      "ocr": {
+        "x": 14.036675650202604,
+        "y": 34.670755767752134,
+        "text": "국물떡볶이",
+        "width": 35.7664015070341,
+        "height": 4.200000000000006,
+        "rotation": 1.6544385501476881
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동",
+        "en.ROMAN": "udon",
+        "en": "Udon",
+        "ja": "うどん",
+        "zh_CN": "乌冬面",
+        "zh_TW": "烏龍麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_320024_1-tf.jpg_6",
+      "ocr": {
+        "x": 14.40254792187711,
+        "y": 39.905351682477,
+        "text": "우동",
+        "width": 36.34168286996578,
+        "height": 4.119957291396693,
+        "rotation": 1.0928930336430653
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "오뎅",
+        "en.ROMAN": "odeng",
+        "en": "Fishcake",
+        "ja": "練り物",
+        "zh_CN": "鱼糕",
+        "zh_TW": "魚板",
+        "price": "5000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_320024_1-tf.jpg_9",
+      "ocr": {
+        "x": 14.5588444920448,
+        "y": 45.19211882445565,
+        "text": "오뎅",
+        "width": 36.00057485438992,
+        "height": 3.7728416110374337,
+        "rotation": 0.5944752386421897
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "떡볶기정식",
+        "en.ROMAN": "tteokbokgijeongsik",
+        "en": "Tteokbokki Set Menu",
+        "ja": "トッポッキ定食",
+        "zh_CN": "辣炒年糕套餐",
+        "zh_TW": "辣炒豬肉套餐",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_320024_1-tf.jpg_12",
+      "ocr": {
+        "x": 14.681904750375843,
+        "y": 50.38601421537865,
+        "text": "떡볶기정식",
+        "width": 35.620178768775155,
+        "height": 3.9999999999999973,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "우동정식",
+        "en.ROMAN": "udon jeongsik",
+        "en": "Udon Set Menu",
+        "ja": "うどん定食",
+        "zh_CN": "乌冬面套餐",
+        "zh_TW": "烏龍麵套餐",
+        "price": "8000",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_320024_1-tf.jpg_15",
+      "ocr": {
+        "x": 14.335416257867834,
+        "y": 55.46905686151437,
+        "text": "우동정식",
+        "width": 36.49467958257986,
+        "height": 4.1339147077281515,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "오뎅정식",
+        "en.ROMAN": "odengjeongsik",
+        "en": "Fishcake Set Menu",
+        "ja": "練り物定食",
+        "zh_CN": "鱼糕套餐",
+        "zh_TW": "魚板套餐",
+        "price": "8000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_320024_1-tf.jpg_17",
+      "ocr": {
+        "x": 15.024930752458928,
+        "y": 60.90552603227644,
+        "text": "오뎅정식",
+        "width": 35.824476801920405,
+        "height": 3.975000000000003,
+        "rotation": 358.65681115438167
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "컵라면정식",
+        "en.ROMAN": "cup ramyeon jeongsik",
+        "en": "Cup Instant Noodles Set Menu",
+        "ja": "カップラーメン定食",
+        "zh_CN": "杯装方便面套餐",
+        "zh_TW": "杯麵套餐",
+        "price": "7000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_320024_1-tf.jpg_19",
+      "ocr": {
+        "x": 15.423394698139564,
+        "y": 65.84572845378771,
+        "text": "컵라면정식",
+        "width": 35.66219023329075,
+        "height": 4.224999999999994,
+        "rotation": 358.65681115438144
+      }
+    }
+  ]
+}

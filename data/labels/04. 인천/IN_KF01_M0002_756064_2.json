@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0002_756064_2.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:26 12:01:01",
+    "store_id": "756064",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.7865748709122204,
+          0
+        ],
+        [
+          93.80378657487091,
+          0.25806451612903225
+        ],
+        [
+          96.04130808950086,
+          98.3225806451613
+        ],
+        [
+          1.3769363166953532,
+          97.54838709677419
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "물냉면",
+        "en.ROMAN": "mullaengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "水冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756064_2-tf_2",
+      "ocr": {
+        "x": 9.110455723596102,
+        "y": 10.700757436349855,
+        "text": "물냉면",
+        "width": 14.516953435613054,
+        "height": 4.37373760608357,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔냉면",
+        "en.ROMAN": "bibimnaengmyeon",
+        "en": "Spicy Buckwheat Noodles",
+        "ja": "混ぜ冷麺",
+        "zh_CN": "拌冷面",
+        "zh_TW": "拌冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "비빔장",
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Sauce",
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "ビビンソース",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "拌饭酱",
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "拌飯醬",
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756064_2-tf_4",
+      "ocr": {
+        "x": 9.251471907008485,
+        "y": 16.30126239391643,
+        "text": "비빔냉면",
+        "width": 18.979755868843878,
+        "height": 4.473737606083574,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "열무물냉면",
+        "en.ROMAN": "yeolmumullaengmyeon",
+        "en": "Cold Buckwheat Noodles with Young Summer Radish Kimchi",
+        "ja": "大根若菜キムチ入り水冷麺",
+        "zh_CN": "萝卜缨辛奇冷面",
+        "zh_TW": "蘿蔔纓辛奇冷麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수",
+          "열무김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth",
+          "Young Summer Radish Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁",
+          "大根若菜キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤",
+          "萝卜缨辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯",
+          "蘿蔔纓辛奇"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756064_2-tf_6",
+      "ocr": {
+        "x": 9.24317286281455,
+        "y": 22.051009915133136,
+        "text": "열무물냉면",
+        "width": 23.550400831339463,
+        "height": 4.423990084866855,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "열무비빔냉면",
+        "en.ROMAN": "yeolmubibimnaengmyeon",
+        "en": "Spicy Buckwheat Noodles with Young Summer Radish Kimchi",
+        "ja": "大根若菜キムチ混ぜ冷麺",
+        "zh_CN": "萝卜缨辛奇拌冷面",
+        "zh_TW": "蘿蔔纓辛奇拌冷麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "열무김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Young Summer Radish Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "大根若菜キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "萝卜缨辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "蘿蔔纓辛奇"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756064_2-tf_8",
+      "ocr": {
+        "x": 9.03579810979297,
+        "y": 27.75151487269973,
+        "text": "열무비빔냉면",
+        "width": 28.32842054685662,
+        "height": 4.622475212167133,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,1193 @@
+{
+  "meta": {
+    "file_name": "SL_KF05_M0003_353724_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:25 17:42:03",
+    "store_id": "353724",
+    "store_region": "SL",
+    "store_type": "KF05",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          16.66666666666666,
+          3.6111111111111103
+        ],
+        [
+          65.92592592592591,
+          3.6111111111111103
+        ],
+        [
+          72.4074074074074,
+          94.30555555555556
+        ],
+        [
+          14.074074074074076,
+          95.97222222222224
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_4",
+      "ocr": {
+        "x": 42.95634920634921,
+        "y": 33.333333333333336,
+        "text": "생연어덮밥",
+        "width": 8.101851851851853,
+        "height": 1.4384920634920635,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "생연어덮밥",
+        "en.ROMAN": "saengyeoneodeopbap",
+        "en": "Raw Salmon Bibimbap",
+        "ja": "サーモン丼",
+        "zh_CN": "生三文鱼盖饭",
+        "zh_TW": "生鮭魚蓋飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "연어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Salmon"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "鮭"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "三文鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "鮭魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_5",
+      "ocr": {
+        "x": 18.187830687830687,
+        "y": 33.407738095238095,
+        "text": "모둠회덮밥",
+        "width": 8.30026455026455,
+        "height": 1.4384920634920635,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "모둠회덮밥",
+        "en.ROMAN": "modumhoedeopbap",
+        "en": "Assorted Raw Fish Bibimbap",
+        "ja": "刺身の盛り合わせ丼",
+        "zh_CN": "生鱼片拼盘盖饭",
+        "zh_TW": "綜合生魚片蓋飯",
+        "price": "8000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_9",
+      "ocr": {
+        "x": 18.08862433862434,
+        "y": 37.84722222222222,
+        "text": "새우철판볶음밥",
+        "width": 11.93783068783069,
+        "height": 1.6121031746031746,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "새우철판볶음밥",
+        "en.ROMAN": "saeucheolpanbokkeumbap",
+        "en": "Shrimp Griddled Rice",
+        "ja": "鉄板海老チャーハン",
+        "zh_CN": "铁板虾仁炒饭",
+        "zh_TW": "鐵板蝦仁炒飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "米"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_11",
+      "ocr": {
+        "x": 43.18783068783069,
+        "y": 38.467261904761905,
+        "text": "뚝배기알밥",
+        "width": 8.068783068783068,
+        "height": 1.5376984126984126,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "뚝배기알밥",
+        "en.ROMAN": "ttukbaegialbap",
+        "en": "Fish Roe Rice Hot Pot",
+        "ja": "土鍋魚の卵ご飯",
+        "zh_CN": "砂锅鱼子饭",
+        "zh_TW": "砂鍋魚卵飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "날치알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Flying Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "トビコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "飞鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "飛魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_14",
+      "ocr": {
+        "x": 17.956349206349206,
+        "y": 40.74900793650793,
+        "text": "새우냄비우동",
+        "width": 10.482804232804233,
+        "height": 1.5376984126984126,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "새우냄비우동",
+        "en.ROMAN": "saeunaembi udon",
+        "en": "Hot Pot Shrimp Udon",
+        "ja": "海老の天ぷら入り鍋うどん",
+        "zh_CN": "虾锅烧乌冬面",
+        "zh_TW": "鮮蝦鍋烏龍麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "새우",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_17",
+      "ocr": {
+        "x": 43.38624338624335,
+        "y": 43.625992063492056,
+        "text": "얼큰해물라면",
+        "width": 9.570086357672277,
+        "height": 1.7306850941431882,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "얼큰해물라면",
+        "en.ROMAN": "eolkeunhaemullamyeon",
+        "en": "Spicy Seafood Instant Noodles",
+        "ja": "辛味海鮮ラーメン",
+        "zh_CN": "辣爽海鲜方便面",
+        "zh_TW": "香辣海鮮泡麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "해물",
+          "밀가루",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_20",
+      "ocr": {
+        "x": 17.9563492063492,
+        "y": 45.28769841269841,
+        "text": "인기많은해물짜파게티",
+        "width": 17.290984607147017,
+        "height": 1.6632889969255369,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "인기많은해물짜파게티",
+        "en.ROMAN": "ingimaneunhaemul chapagetti",
+        "en": "Stir-fried Seafood Instant Noodles with Black Bean Sauce",
+        "ja": "大人気海鮮入りチャパゲティ",
+        "zh_CN": "人气海鲜炸酱方便面",
+        "zh_TW": "人氣海鮮炸雞泡麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "새우",
+          "꽃게",
+          "홍합",
+          "밀가루",
+          "춘장"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Blue Crab",
+          "Mussels",
+          "Wheat Flour",
+          "Black Bean Paste"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "ワタリガニ",
+          "ムール貝",
+          "小麦粉",
+          "甜麺醤"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "梭子蟹",
+          "贻贝",
+          "面粉",
+          "春酱"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "梭子蟹",
+          "貽貝",
+          "麵粉",
+          "春醬"
+        ],
+        "allergy": [
+          "새우",
+          "게",
+          "홍합",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_24",
+      "ocr": {
+        "x": 43.353174603174594,
+        "y": 48.95833333333335,
+        "text": "날치알주먹밥",
+        "width": 9.822382172419527,
+        "height": 1.7113095238095246,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "날치알주먹밥",
+        "en.ROMAN": "nalchialjumeokbap",
+        "en": "Flying Fish Roe Riceball",
+        "ja": "トビコ入りおにぎり",
+        "zh_CN": "飞鱼子饭团",
+        "zh_TW": "飛魚卵飯糰",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "날치알",
+          "김"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Flying Fish Roe",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "米",
+          "トビコ",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "飞鱼子",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "飛魚卵",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_26",
+      "ocr": {
+        "x": 17.857142857142854,
+        "y": 50.1240079365079,
+        "text": "셀프초밥",
+        "width": 7.109604031137936,
+        "height": 1.6202782060451872,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "셀프초밥",
+        "en.ROMAN": "self chobap",
+        "en": "DIY Sushi",
+        "ja": "セルフ寿司",
+        "zh_CN": "自助寿司",
+        "zh_TW": "自助壽司",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_30",
+      "ocr": {
+        "x": 43.45238095238095,
+        "y": 54.26587301587302,
+        "text": "공기밥",
+        "width": 4.828042328042328,
+        "height": 1.6369047619047616,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1500",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_33",
+      "ocr": {
+        "x": 17.455143932331772,
+        "y": 54.650228495803724,
+        "text": "도시락김(5개)",
+        "width": 12.02004182387659,
+        "height": 1.7815576467493854,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "도시락김(5개)",
+        "en.ROMAN": "dosirakgim(5gae)",
+        "en": "Packed Laver (5 pcs)",
+        "ja": "お弁当海苔(5p)",
+        "zh_CN": "盒饭紫菜（5个）",
+        "zh_TW": "便當海苔（5個）",
+        "price": "1000",
+        "ingredients.ko": [
+          "김"
+        ],
+        "ingredients.en": [
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_37",
+      "ocr": {
+        "x": 43.48544973544972,
+        "y": 61.34665706723227,
+        "text": "사케",
+        "width": 3.4278847399299623,
+        "height": 1.5583433610350987,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "사케",
+        "en.ROMAN": "sake",
+        "en": "Sake",
+        "ja": "日本酒",
+        "zh_CN": "日本清酒",
+        "zh_TW": "日本清酒",
+        "price": "0",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_39",
+      "ocr": {
+        "x": 17.520372264255425,
+        "y": 61.994705084816395,
+        "text": "망고담금주",
+        "width": 8.870229110551199,
+        "height": 1.728049804774897,
+        "rotation": 358.1339415147193
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "망고담금주",
+        "en.ROMAN": "mango damgeumju",
+        "en": "Handmade Mango Wine",
+        "ja": "マンゴー醸酒",
+        "zh_CN": "芒果腌泡酒",
+        "zh_TW": "芒果再製酒",
+        "price": "9000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_43",
+      "ocr": {
+        "x": 43.661878021366704,
+        "y": 64.35596240865414,
+        "text": "도쿠리사케",
+        "width": 8.404828756107031,
+        "height": 1.6327481229398526,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "도쿠리사케",
+        "en.ROMAN": "dokuri sake",
+        "en": "Sake Bottle",
+        "ja": "とくり酒",
+        "zh_CN": "长颈陶瓷酒器日本清酒",
+        "zh_TW": "德利清酒",
+        "price": "6000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_46",
+      "ocr": {
+        "x": 17.425124796544807,
+        "y": 66.62057088151685,
+        "text": "레몬담금주",
+        "width": 8.674736877293386,
+        "height": 1.6121031746032042,
+        "rotation": 357.9796687655264
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "레몬담금주",
+        "en.ROMAN": "lemon damgeumju",
+        "en": "Handmade Lemon Wine",
+        "ja": "レモン醸酒",
+        "zh_CN": "柠檬腌泡酒",
+        "zh_TW": "檸檬再製酒",
+        "price": "8000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_47",
+      "ocr": {
+        "x": 43.62700531311531,
+        "y": 67.52881912417025,
+        "text": "쇼치쿠바이텐",
+        "width": 9.847931583836258,
+        "height": 1.8129956906567861,
+        "rotation": 358.7920302725776
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "쇼치쿠바이텐",
+        "en.ROMAN": "shochikubai ten",
+        "en": "Shochikubai Ten",
+        "ja": "松竹梅純米",
+        "zh_CN": "松竹梅天清酒",
+        "zh_TW": "松竹梅「天」",
+        "price": "15000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_52",
+      "ocr": {
+        "x": 17.17224615187841,
+        "y": 71.26425104951262,
+        "text": "소주",
+        "width": 3.551723029431572,
+        "height": 1.642941488397619,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4500",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_54",
+      "ocr": {
+        "x": 43.56948472747789,
+        "y": 72.76381291731319,
+        "text": "사쿠라로망",
+        "width": 8.956093216781538,
+        "height": 1.6816767226691014,
+        "rotation": 359.4237370511856
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "사쿠라로망",
+        "en.ROMAN": "sakuraromang",
+        "en": "Sakura Roman Sake",
+        "ja": "サクラロマン",
+        "zh_CN": "樱花浪漫",
+        "zh_TW": "櫻花浪漫",
+        "price": "23000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_58",
+      "ocr": {
+        "x": 17.228835978835978,
+        "y": 76.14087301587301,
+        "text": "맥주",
+        "width": 3.3068783068783065,
+        "height": 1.5376984126984126,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4500",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_60",
+      "ocr": {
+        "x": 43.640067058248405,
+        "y": 78.05923211158873,
+        "text": "송죽매준마이",
+        "width": 10.659253131529518,
+        "height": 1.6543891390789123,
+        "rotation": 358.7172321170936
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "송죽매준마이",
+        "en.ROMAN": "songjukmae junmai",
+        "en": "Sho Chiku Bai Junmai",
+        "ja": "松竹梅純米酒",
+        "zh_CN": "松竹梅纯米",
+        "zh_TW": "松竹梅釀清酒",
+        "price": "28000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_64",
+      "ocr": {
+        "x": 17.030423280423282,
+        "y": 80.90277777777777,
+        "text": "청하",
+        "width": 3.406084656084657,
+        "height": 1.6865079365079365,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "5500",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_67",
+      "ocr": {
+        "x": 43.895527296954924,
+        "y": 84.73105252303142,
+        "text": "하나야구준마이",
+        "width": 12.25927721603885,
+        "height": 1.8782361748053613,
+        "rotation": 358.59426472817995
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "하나야구준마이",
+        "en.ROMAN": "hanayagu jumai",
+        "en": "Hanayagu Junmai Sake",
+        "ja": "華やぐ純米",
+        "zh_CN": "KAORIHANAYAGU纯米清酒",
+        "zh_TW": "Kaori*純米酒",
+        "price": "35000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_70",
+      "ocr": {
+        "x": 16.832010582010582,
+        "y": 85.91269841269843,
+        "text": "매화수",
+        "width": 5.158730158730159,
+        "height": 1.8353174603174605,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "매화수",
+        "en.ROMAN": "maehwasu",
+        "en": "Maehwasoo (Green Plum Liquor)",
+        "ja": "梅花秀",
+        "zh_CN": "梅花秀",
+        "zh_TW": "梅花秀",
+        "price": "5500",
+        "ingredients.ko": [
+          "매실",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Green Plum",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "梅",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "青梅",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "梅子",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_74",
+      "ocr": {
+        "x": 43.89943905464207,
+        "y": 90.11559758044952,
+        "text": "남부비진긴죠",
+        "width": 10.71199998322479,
+        "height": 1.990403416520722,
+        "rotation": 358.7788293264441
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "남부비진긴죠",
+        "en.ROMAN": "nambubijin ginjo",
+        "en": "Nanbu Bijin Ginjo",
+        "ja": "南部美人吟醸",
+        "zh_CN": "南部美人清酒",
+        "zh_TW": "南部美人吟釀",
+        "price": "50000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_76",
+      "ocr": {
+        "x": 30.591160663751243,
+        "y": 90.74558975276311,
+        "text": "레몬/망고",
+        "width": 6.6468253968253945,
+        "height": 1.686507936507937,
+        "rotation": 358.3758210727598
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "하이볼레몬/망고",
+        "en.ROMAN": "highball lemon / mango",
+        "en": "Highball Lemon/Highball Mango",
+        "ja": "ハイボールレモン/マンゴー",
+        "zh_CN": "高杯酒柠檬/芒果",
+        "zh_TW": "高球檸檬/芒果",
+        "price": "7500",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_80",
+      "ocr": {
+        "x": 32.42197394911166,
+        "y": 92.56010452264883,
+        "text": "짐빔",
+        "width": 3.306878306878306,
+        "height": 1.3888888888888888,
+        "rotation": 358.83381889807276
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "짐빔",
+        "en.ROMAN": "jim beam",
+        "en": "Jim Beam",
+        "ja": "ジムビーム",
+        "zh_CN": "JimBeam",
+        "zh_TW": "JimBeam威士忌",
+        "price": "6500",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0003_353724_1-tf_82",
+      "ocr": {
+        "x": 32.463491963129435,
+        "y": 94.27089576341596,
+        "text": "피치",
+        "width": 3.2973463079116714,
+        "height": 1.264528508120235,
+        "rotation": 359.3727015283292
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "피치",
+        "en.ROMAN": "peach",
+        "en": "Peach Magarita",
+        "ja": "ピーチ",
+        "zh_CN": "桃",
+        "zh_TW": "蜜桃",
+        "price": "6600",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

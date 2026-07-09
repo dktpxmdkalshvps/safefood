@@ -1,0 +1,959 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_351218_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:09:07 20:13:18",
+    "store_id": "351218",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.533741673886722,
+          32.143233528851304
+        ],
+        [
+          85.61989790674494,
+          31.462910266045423
+        ],
+        [
+          85.74948329013652,
+          49.5400712491726
+        ],
+        [
+          13.700010124411051,
+          50.220394511978455
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "7000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-0",
+      "ocr": {
+        "x": 38.57060897306531,
+        "y": 33.18134064266815,
+        "text": "김치찌개",
+        "width": 12.641363848349485,
+        "height": 1.9241759543186976,
+        "rotation": 359.274773023755
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "청국장",
+        "en.ROMAN": "cheonggukjang",
+        "en": "Rich Soybean Paste",
+        "ja": "チョングクチャン",
+        "zh_CN": "清麴酱锅",
+        "zh_TW": "清麴醬",
+        "price": "7000",
+        "ingredients.ko": [
+          "청국장"
+        ],
+        "ingredients.en": [
+          "Rich Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "チョングクチャン"
+        ],
+        "ingredients.zh_CN": [
+          "清麴酱"
+        ],
+        "ingredients.zh_TW": [
+          "清麴醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-1",
+      "ocr": {
+        "x": 15.919831747719519,
+        "y": 33.31730972253873,
+        "text": "청국장",
+        "width": 10.691704974456075,
+        "height": 2.003266093720412,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔국수",
+        "en.ROMAN": "bibimguksu",
+        "en": "Spicy Noodles",
+        "ja": "混ぜ素麺",
+        "zh_CN": "拌面",
+        "zh_TW": "拌麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-2",
+      "ocr": {
+        "x": 63.59870092788677,
+        "y": 34.9099981694603,
+        "text": "비빔국수",
+        "width": 11.048304479038743,
+        "height": 1.8074708952073857,
+        "rotation": 359.3681446506894
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "참치김치",
+        "en.ROMAN": "chamchikimchi",
+        "en": "Tuna and Kimchi Jjigae",
+        "ja": "ツナキムチ",
+        "zh_CN": "金枪鱼辛奇汤",
+        "zh_TW": "鮪魚辛奇",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "쌀",
+          "햄",
+          "김",
+          "캔참치",
+          "단무지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice",
+          "Ham",
+          "Laver",
+          "Canned Tuna",
+          "Pickled Radish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米",
+          "ハム",
+          "海苔",
+          "ツナ缶",
+          "たくあん"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米",
+          "午餐肉",
+          "紫菜",
+          "金枪鱼罐头",
+          "腌萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米",
+          "火腿",
+          "海苔",
+          "罐頭鮪魚",
+          "醃蘿蔔"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-3",
+      "ocr": {
+        "x": 38.71537151711155,
+        "y": 35.66749398192638,
+        "text": "참치김치",
+        "width": 12.543747355947875,
+        "height": 1.9267221050811554,
+        "rotation": 359.2701536684561
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "된장",
+        "en.ROMAN": "doenjang",
+        "en": "Soybean Paste",
+        "ja": "テンジャン",
+        "zh_CN": "大酱",
+        "zh_TW": "大醬",
+        "price": "7000",
+        "ingredients.ko": [
+          "된장"
+        ],
+        "ingredients.en": [
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-4",
+      "ocr": {
+        "x": 16.06384432462309,
+        "y": 35.914761942684834,
+        "text": "된장",
+        "width": 10.545410322101997,
+        "height": 1.9784136920586475,
+        "rotation": 359.2077701783206
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "열무국수",
+        "en.ROMAN": "yeolmuguksu",
+        "en": "Young Summer Radish Kimchi Noodles",
+        "ja": "大根若菜キムチ素麺",
+        "zh_CN": "萝卜缨辛奇面",
+        "zh_TW": "蘿蔔纓辛奇麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "면",
+          "열무김치"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Young Summer Radish Kimchi"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "大根若菜キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "萝卜缨辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "蘿蔔纓辛奇"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-5",
+      "ocr": {
+        "x": 63.690028370402416,
+        "y": 36.85987119943035,
+        "text": "열무국수",
+        "width": 11.004077153781934,
+        "height": 1.824685966841637,
+        "rotation": 359.22577615251345
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "짜글이",
+        "en.ROMAN": "jjageuri",
+        "en": "Pork Stew",
+        "ja": "チゲ",
+        "zh_CN": "豬肉辛奇锅",
+        "zh_TW": "豬肉調味火鍋",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-6",
+      "ocr": {
+        "x": 38.7088827999436,
+        "y": 38.22488987888758,
+        "text": "짜글이",
+        "width": 12.602534473259293,
+        "height": 1.8926031402090542,
+        "rotation": 359.29701642998475
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "순두부",
+        "en.ROMAN": "sundubu",
+        "en": "Soft Bean Curd",
+        "ja": "スンドゥブ",
+        "zh_CN": "嫩豆腐",
+        "zh_TW": "嫩豆腐",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-7",
+      "ocr": {
+        "x": 16.27392751575938,
+        "y": 38.39285714285719,
+        "text": "순두부",
+        "width": 10.496023464376108,
+        "height": 2.012044070227331,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "김치말이국수",
+        "en.ROMAN": "kimchimariguksu",
+        "en": "Kimchi Noodles",
+        "ja": "キムチ混ぜ素麺",
+        "zh_CN": "辛奇汤面",
+        "zh_TW": "辛奇湯麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "김치",
+          "면"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-8",
+      "ocr": {
+        "x": 63.68437024010201,
+        "y": 38.812885555451835,
+        "text": "김치말이국수",
+        "width": 11.092824147859604,
+        "height": 1.8018222025492854,
+        "rotation": 359.2097599597355
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "제육볶음",
+        "en.ROMAN": "jeyukbokkeum",
+        "en": "Spicy Stir-fried Pork",
+        "ja": "豚肉炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-9",
+      "ocr": {
+        "x": 38.838190372671434,
+        "y": 40.75677197784656,
+        "text": "제육볶음",
+        "width": 12.623128017976711,
+        "height": 1.875365687440343,
+        "rotation": 359.30640192577977
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "열무냉면",
+        "en.ROMAN": "yeolmunaengmyeon",
+        "en": "Cold Buckwheat Noodles with Young Summer Radish Kimchi",
+        "ja": "大根若菜キムチ冷麺",
+        "zh_CN": "萝卜缨辛奇冷面",
+        "zh_TW": "蘿蔔纓辛奇冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수",
+          "열무김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth",
+          "Young Summer Radish Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁",
+          "大根若菜キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤",
+          "萝卜缨辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯",
+          "蘿蔔纓辛奇"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-10",
+      "ocr": {
+        "x": 63.87724986354038,
+        "y": 40.77106185957957,
+        "text": "열무냉면",
+        "width": 10.809405817573927,
+        "height": 1.8115407847268334,
+        "rotation": 359.19205758626197
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "비빔밥",
+        "en.ROMAN": "bibimbap",
+        "en": "Bibimbap",
+        "ja": "ビビンバ",
+        "zh_CN": "拌饭",
+        "zh_TW": "拌飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-11",
+      "ocr": {
+        "x": 16.41586349375141,
+        "y": 40.91787681930247,
+        "text": "비빔밥",
+        "width": 10.585568967865566,
+        "height": 1.981674392515987,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "물냉면",
+        "en.ROMAN": "mullaengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "水冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-12",
+      "ocr": {
+        "x": 63.79723281440602,
+        "y": 42.69279860093353,
+        "text": "물냉면",
+        "width": 10.871410935649726,
+        "height": 1.7646999728368378,
+        "rotation": 359.1932138486557
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "꽁치김치찌개",
+        "en.ROMAN": "kkongchikimchijjigae",
+        "en": "Saury and Kimchi Jjigae",
+        "ja": "サンマ入りキムチチゲ",
+        "zh_CN": "秋刀鱼辛奇汤",
+        "zh_TW": "秋刀魚辛奇鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "꽁치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Saury"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "サンマ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "秋刀鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "秋刀魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-13",
+      "ocr": {
+        "x": 39.06198503254814,
+        "y": 43.2448853551328,
+        "text": "꽁치김치찌개",
+        "width": 12.46831975580078,
+        "height": 1.8621999712344175,
+        "rotation": 359.2607373349243
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "열무비빔밥",
+        "en.ROMAN": "yeolmubibimbap",
+        "en": "Young Summer Radish Kimchi Bibimbap",
+        "ja": "大根若菜ビビンバ",
+        "zh_CN": "萝卜缨辛奇拌饭",
+        "zh_TW": "蘿蔔纓辛奇拌飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "열무김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Young Summer Radish Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "大根若菜キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "萝卜缨辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "蘿蔔纓辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-14",
+      "ocr": {
+        "x": 16.586700027520497,
+        "y": 43.55439895153826,
+        "text": "열무비빔밥",
+        "width": 10.47070208751418,
+        "height": 1.874184573613924,
+        "rotation": 359.18156555364766
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔냉면",
+        "en.ROMAN": "bibimnaengmyeon",
+        "en": "Spicy Buckwheat Noodles",
+        "ja": "混ぜ冷麺",
+        "zh_CN": "拌冷面",
+        "zh_TW": "拌冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "비빔장",
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Sauce",
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "ビビンソース",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "拌饭酱",
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "拌飯醬",
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-15",
+      "ocr": {
+        "x": 63.94143047275547,
+        "y": 44.64715401696979,
+        "text": "비빔냉면",
+        "width": 10.737620540478513,
+        "height": 1.748368562882635,
+        "rotation": 358.7789179160486
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "콩비지찌개",
+        "en.ROMAN": "kongbijijjigae",
+        "en": "Pureed Soybean Jjigae",
+        "ja": "おからチゲ",
+        "zh_CN": "黄豆渣锅",
+        "zh_TW": "黃豆渣鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "콩"
+        ],
+        "ingredients.en": [
+          "Soybeans"
+        ],
+        "ingredients.ja": [
+          "豆"
+        ],
+        "ingredients.zh_CN": [
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "大豆"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-16",
+      "ocr": {
+        "x": 39.067909410241306,
+        "y": 45.168491603145235,
+        "text": "콩비지찌개",
+        "width": 12.51269544039323,
+        "height": 1.803586784736619,
+        "rotation": 359.21427441964323
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "콩국수",
+        "en.ROMAN": "kongguksu",
+        "en": "Noodles in Cold Soybean Soup",
+        "ja": "コングクス",
+        "zh_CN": "豆汁面",
+        "zh_TW": "豆汁麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "면",
+          "콩"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Soybeans"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "豆"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "大豆"
+        ],
+        "allergy": [
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-17",
+      "ocr": {
+        "x": 63.95989202995939,
+        "y": 46.57374371946479,
+        "text": "콩국수",
+        "width": 10.779367582616091,
+        "height": 1.7194955603581672,
+        "rotation": 359.2200752986315
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "공기밥추가",
+        "en.ROMAN": "gonggibap chuga",
+        "en": "Extra Serving of Steamed Rice",
+        "ja": "ご飯追加",
+        "zh_CN": "另加米饭",
+        "zh_TW": "加點米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_351218_1-tf-18",
+      "ocr": {
+        "x": 17.724867724867664,
+        "y": 47.19588829270134,
+        "text": "공기밥추가",
+        "width": 9.160052910052878,
+        "height": 1.6079730391143119,
+        "rotation": 0
+      }
+    }
+  ]
+}

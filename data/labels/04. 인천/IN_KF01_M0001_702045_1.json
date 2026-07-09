@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0001_702045_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:29 12:47:13",
+    "store_id": "702045",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          26.41509433962264,
+          3.896103896103896
+        ],
+        [
+          24.528301886792452,
+          82.17237308146399
+        ],
+        [
+          95.80712788259959,
+          83.3530106257379
+        ],
+        [
+          96.85534591194968,
+          3.3057851239669422
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "2-3인세트",
+        "en.ROMAN": "2-3in set",
+        "en": "Set (2-3 Servings)",
+        "ja": "2-3人セット",
+        "zh_CN": "2-3人套餐",
+        "zh_TW": "2-3人套餐",
+        "price": "55000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0001_702045_1-tf_4",
+      "ocr": {
+        "x": 41.67696224996474,
+        "y": 54.95000000000006,
+        "text": "2~3인Set",
+        "width": 16.503636086899004,
+        "height": 2.4207501379171488,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "3-4인세트",
+        "en.ROMAN": "sam~sain set",
+        "en": "Set Menu for 3-4",
+        "ja": "3-4人セット",
+        "zh_CN": "3-4人套餐",
+        "zh_TW": "3-4人套餐",
+        "price": "72000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0001_702045_1-tf_12",
+      "ocr": {
+        "x": 41.299633252048,
+        "y": 66.47938826209307,
+        "text": "3~4인Set",
+        "width": 16.53466556116333,
+        "height": 2.393133261213043,
+        "rotation": 0.60539017314386
+      }
+    }
+  ]
+}

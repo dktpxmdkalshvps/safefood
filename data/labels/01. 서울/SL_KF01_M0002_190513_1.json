@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_190513_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:08:26 14:17:26",
+    "store_id": "190513",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.768382352941177,
+          4.241435562805873
+        ],
+        [
+          78.76838235294117,
+          9.461663947797714
+        ],
+        [
+          77.20588235294117,
+          98.69494290375201
+        ],
+        [
+          3.0330882352941178,
+          98.36867862969005
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0002_190513_1-tf-0",
+      "ocr": {
+        "x": 5.337087204652213,
+        "y": 18.667685240421477,
+        "text": "의정부부대찌개",
+        "width": 20.942881947124825,
+        "height": 5.825926774607809,
+        "rotation": 2.214028437208583
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "의정부부대찌개",
+        "en.ROMAN": "Uijeongbubudaejjigae",
+        "en": "Uijeongbu Sausage Jjigae",
+        "ja": "ウィジョンブプデチゲ",
+        "zh_CN": "议政府部队锅",
+        "zh_TW": "議政府部隊鍋",
+        "price": "8500",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_190513_1-tf-1",
+      "ocr": {
+        "x": 45.12810780108371,
+        "y": 24.710742581371385,
+        "text": "의정부부대찌개전골",
+        "width": 17.83698059486152,
+        "height": 4.545297546335265,
+        "rotation": 1.5377723846947333
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "의정부부대찌개전골",
+        "en.ROMAN": "uijeongbubudaejjigaejeongol",
+        "en": "Uijeongbu Budaejjigae Hot Pot",
+        "ja": "議政府プデチゲの寄せ鍋",
+        "zh_CN": "议政府部队火锅",
+        "zh_TW": "議政府部隊火鍋",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_190513_1-tf-2",
+      "ocr": {
+        "x": 5.229808750439608,
+        "y": 26.818145320164078,
+        "text": "손으로만든등심돈까스",
+        "width": 26.535065772946744,
+        "height": 5.64172361411018,
+        "rotation": 1.7376731446794338
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "등심돈까스",
+        "en.ROMAN": "deungsimdongaseu",
+        "en": "Pork cutlet with sirloin",
+        "ja": "ロースカツ",
+        "zh_CN": "炸猪外脊排",
+        "zh_TW": "炸豬里肌排",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_190513_1-tf-4",
+      "ocr": {
+        "x": 5.340310283600672,
+        "y": 34.62718241716847,
+        "text": "호산나뚝배기불고기",
+        "width": 26.179852475496034,
+        "height": 5.883668420726445,
+        "rotation": 1.3811206029612322
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "호산나뚝배기불고기",
+        "en.ROMAN": "hosannattukbaegibulgogi",
+        "en": "Hot Pot Bulgogi",
+        "ja": "ホサンナ土鍋プルゴギ",
+        "zh_CN": "虎山螺钿烤肉",
+        "zh_TW": "虎山螺鈿烤肉",
+        "price": "9000",
+        "ingredients.ko": [
+          "소고기",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蘑菇"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_190513_1-tf-5",
+      "ocr": {
+        "x": 44.929068778968585,
+        "y": 40.60183827659915,
+        "text": "쭈꾸미철판볶음",
+        "width": 14.05031988495673,
+        "height": 4.4620761193218845,
+        "rotation": 1.2464172972796064
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "쭈꾸미철판볶음",
+        "en.ROMAN": "jjukkumicheolpanbokkeum",
+        "en": "Griddled Webfoot Octopus",
+        "ja": "イイダコの鉄板炒め",
+        "zh_CN": "铁板炒八爪鱼",
+        "zh_TW": "鐵板小章魚",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_190513_1-tf-7",
+      "ocr": {
+        "x": 5.16318884728528,
+        "y": 50.52082102757236,
+        "text": "햄,소세지김치찌개",
+        "width": 24.318923676917553,
+        "height": 6.124005988512464,
+        "rotation": 0.7007226580581687
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "햄,소세지김치찌개",
+        "en.ROMAN": "ham , sausage kimchi Jjigae",
+        "en": "Ham, sausage and kimchi stew.",
+        "ja": "ハム、ソーセージキムチチゲ",
+        "zh_CN": "火腿 香肠辛奇汤",
+        "zh_TW": "火腿 香腸辛奇湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_190513_1-tf-12",
+      "ocr": {
+        "x": 5.244649444416783,
+        "y": 82.20840556300641,
+        "text": "계란말이",
+        "width": 11.300199194736901,
+        "height": 5.395232909842514,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "계란말이",
+        "en.ROMAN": "gyeranmari",
+        "en": "Rolled Omelet",
+        "ja": "卵焼き",
+        "zh_CN": "鸡蛋卷",
+        "zh_TW": "雞蛋捲",
+        "price": "8000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "file_name": "GK_IF03_M0001_975209_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "975209",
+    "store_region": "GK",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          16.229116945107403,
+          0
+        ],
+        [
+          99.76133651551312,
+          0.17921146953405018
+        ],
+        [
+          99.52267303102626,
+          100
+        ],
+        [
+          0,
+          93.01074594484552
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "로스(등심)까스",
+        "en.ROMAN": "roseu(deungsim)kkaseu",
+        "en": "Pork Sirloin Cutlet",
+        "ja": "ロースカツ",
+        "zh_CN": "炸猪外脊排",
+        "zh_TW": "里肌炸豬排",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_975209_4-tf_0",
+      "ocr": {
+        "x": 27.966060189275165,
+        "y": 29.222742536251957,
+        "text": "로스(등심)까스",
+        "width": 10.552802191056749,
+        "height": 1.7205326936427006,
+        "rotation": 358.32053031794715
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "히레(안심)까스",
+        "en.ROMAN": "hire(ansim)kkaseu",
+        "en": "Pork Tenderloin Cutlet",
+        "ja": "ヒレカツ",
+        "zh_CN": "炸猪里脊排",
+        "zh_TW": "腰內肉炸豬排",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_975209_4-tf_7",
+      "ocr": {
+        "x": 22.41292889912461,
+        "y": 36.52640275566837,
+        "text": "히레(안심)까스",
+        "width": 10.695898229371329,
+        "height": 1.718954006085484,
+        "rotation": 2.4971359713887296
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "콤비까스",
+        "en.ROMAN": "combi kkaseu",
+        "en": "Combination Cutlet",
+        "ja": "コンビカツ",
+        "zh_CN": "炸牛里脊炸鱼排",
+        "zh_TW": "炸豬排套餐",
+        "price": "13500",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_975209_4-tf_13",
+      "ocr": {
+        "x": 19.247345999424482,
+        "y": 73.3730236816786,
+        "text": "콤비까스",
+        "width": 6.994202371004176,
+        "height": 1.904204974182997,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생선까스",
+        "en.ROMAN": "saengseonkkaseu",
+        "en": "Fish Cutlet",
+        "ja": "白身魚のフライ",
+        "zh_CN": "炸鱼排",
+        "zh_TW": "炸魚排",
+        "price": "14000",
+        "ingredients.ko": [
+          "생선",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_975209_4-tf_19",
+      "ocr": {
+        "x": 57.625593278419764,
+        "y": 82.0315421931248,
+        "text": "생선까스",
+        "width": 8.02631190187519,
+        "height": 2.0679533996929647,
+        "rotation": 8.824104299509429
+      }
+    }
+  ]
+}

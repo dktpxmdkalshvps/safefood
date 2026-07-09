@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "file_name": "SL_IF03_M0001_414263_2.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:03 11:24:39",
+    "store_id": "414263",
+    "store_region": "SL",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          32.365145228215766,
+          3.7267080745341614
+        ],
+        [
+          80.08298757813878,
+          4.037267080745342
+        ],
+        [
+          85.06224066390041,
+          93.7888198757764
+        ],
+        [
+          33.60995850622407,
+          95.65217391304348
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "묵호모듬사시미",
+        "en.ROMAN": "mukomodeum sashimi",
+        "en": "Mukho Assorted Sliced Fish",
+        "ja": "ムコ刺身の盛り合わせ",
+        "zh_CN": "墨湖生鱼片拼盘",
+        "zh_TW": "墨湖生魚片拼盤",
+        "price": "60000",
+        "ingredients.ko": [
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_414263_2-tf_1",
+      "ocr": {
+        "x": 36.47015956884308,
+        "y": 13.050027341890521,
+        "text": "묵호모듬사시미",
+        "width": 15.49343090248068,
+        "height": 1.769950673973301,
+        "rotation": 0.726100608551917
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "스페셜세트",
+        "en.ROMAN": "special set",
+        "en": "Special Set",
+        "ja": "スペシャルセット",
+        "zh_CN": "精选套餐",
+        "zh_TW": "精選套餐",
+        "price": "100000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_414263_2-tf_9",
+      "ocr": {
+        "x": 36.604402347667985,
+        "y": 19.343341010202693,
+        "text": "스페셜",
+        "width": 6.22515274535583,
+        "height": 1.726555945013428,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "세꼬시",
+        "en.ROMAN": "sekkosi",
+        "en": "Bone-in Sliced Raw Fish",
+        "ja": "背越し",
+        "zh_CN": "带骨生鱼片",
+        "zh_TW": "帶骨生魚片",
+        "price": "0",
+        "ingredients.ko": [
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_414263_2-tf_13",
+      "ocr": {
+        "x": 36.50519599846164,
+        "y": 22.542745772107462,
+        "text": "세꼬시",
+        "width": 6.273385665221593,
+        "height": 1.7647068684834992,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "전복회",
+        "en.ROMAN": "jeonbokhoe",
+        "en": "Sliced Raw Abalone",
+        "ja": "アワビの刺身",
+        "zh_CN": "鲍鱼刺身",
+        "zh_TW": "生鮑魚片",
+        "price": "50000",
+        "ingredients.ko": [
+          "전복"
+        ],
+        "ingredients.en": [
+          "Abalone"
+        ],
+        "ingredients.ja": [
+          "アワビ"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_414263_2-tf_16",
+      "ocr": {
+        "x": 36.553428918327356,
+        "y": 25.74404761904762,
+        "text": "전복회",
+        "width": 6.276126174696498,
+        "height": 1.7628097834481118,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "특참치회",
+        "en.ROMAN": "teukchamchihoe",
+        "en": "Sliced Raw Tuna Special",
+        "ja": "特上マグロの刺身",
+        "zh_CN": "特级金枪鱼生鱼片",
+        "zh_TW": "特級鮪魚生魚片",
+        "price": "60000",
+        "ingredients.ko": [
+          "참치",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF03_M0001_414263_2-tf_24",
+      "ocr": {
+        "x": 36.93509017835582,
+        "y": 39.297166536847385,
+        "text": "특참치회",
+        "width": 8.176210946414045,
+        "height": 1.879159638893766,
+        "rotation": 0
+      }
+    }
+  ]
+}

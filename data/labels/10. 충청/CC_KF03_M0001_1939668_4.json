@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "file_name": "CC_KF03_M0001_1939668_4.jpg",
+    "image_original_width": 4624,
+    "image_original_height": 2604,
+    "captured_date": "2022:12:12 15:24:42",
+    "store_id": "1939668",
+    "store_region": "CC",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.5464480874316942,
+          89.38461538461539
+        ],
+        [
+          95.35519125683061,
+          88
+        ],
+        [
+          92.07650273224044,
+          0.3076923076923077
+        ],
+        [
+          0.2732240437158471,
+          0.46153846153846156
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "목동피자",
+        "en.ROMAN": "Mok-dong pizza",
+        "en": "Mokdong Pizza",
+        "ja": "モクトン(木洞)ピザ",
+        "zh_CN": "韩式披萨",
+        "zh_TW": "木洞披薩",
+        "price": "25000",
+        "ingredients.ko": [
+          "모짜렐라치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Mozzarella",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "モッツァレラチーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "马苏里拉奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "莫札瑞拉起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "ghmrxbAtJv",
+      "ocr": {
+        "x": 49.55622109437696,
+        "y": 31.504960631632656,
+        "text": "목동피자",
+        "width": 7.310343534839315,
+        "height": 1.3928843465199454,
+        "rotation": 359.31384853647825
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "옥수수피자",
+        "en.ROMAN": "oksusu pizza",
+        "en": "Corn Pizza",
+        "ja": "コーンピザ",
+        "zh_CN": "玉米披萨",
+        "zh_TW": "玉米披薩",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "밀가루",
+          "옥수수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Wheat Flour",
+          "Corn"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "小麦粉",
+          "トウモロコシ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "面粉",
+          "玉米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "麵粉",
+          "玉米"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "fGpV2NiRXR",
+      "ocr": {
+        "x": 11.601761915048828,
+        "y": 31.609336471451623,
+        "text": "옥수수피자",
+        "width": 9.351674240361577,
+        "height": 1.4305691443548214,
+        "rotation": 0.7690328256986163
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "고구마피자",
+        "en.ROMAN": "goguma pizza",
+        "en": "Sweet Potato Pizza",
+        "ja": "さつまいもピザ",
+        "zh_CN": "红薯披萨",
+        "zh_TW": "地瓜披薩",
+        "price": "25000",
+        "ingredients.ko": [
+          "고구마",
+          "밀가루",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Sweet Potato",
+          "Wheat Flour",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "サツマイモ",
+          "小麦粉",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "红薯",
+          "面粉",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜",
+          "麵粉",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ0TwFZO6N",
+      "ocr": {
+        "x": 50.775576385961315,
+        "y": 53.00642457388665,
+        "text": "고구마피자",
+        "width": 9.11859448735947,
+        "height": 1.3725812876870622,
+        "rotation": 359.3259559645116
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "단호박피자",
+        "en.ROMAN": "danhobak pizza",
+        "en": "Pumpkin Pizza",
+        "ja": "カボチャピザ",
+        "zh_CN": "绿南瓜披萨",
+        "zh_TW": "栗子南瓜披薩",
+        "price": "25000",
+        "ingredients.ko": [
+          "모짜렐라치즈",
+          "단호박",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Mozzarella",
+          "Pumpkin",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "モッツァレラチーズ",
+          "カボチャ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "马苏里拉奶酪",
+          "绿南瓜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "莫札瑞拉起司",
+          "栗子南瓜",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "wQSlROOgA8",
+      "ocr": {
+        "x": 12.120889053748204,
+        "y": 53.34270516177789,
+        "text": "단호박피자",
+        "width": 9.299125901677622,
+        "height": 1.3690220249554943,
+        "rotation": 359.2981587098178
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "고르곤졸라피자",
+        "en.ROMAN": "gorgonzola pizza",
+        "en": "Gorgonzola Cheese Pizza",
+        "ja": "ゴルゴンゾーラピザ",
+        "zh_CN": "戈贡佐拉披萨",
+        "zh_TW": "戈貢佐拉起司披薩",
+        "price": "25000",
+        "ingredients.ko": [
+          "밀가루",
+          "고르곤졸라치즈"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Gorgonzola Cheese"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "ゴルゴンゾーラ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "戈贡佐拉奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "戈貢佐拉起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "87yKgpqYej",
+      "ocr": {
+        "x": 50.5307140637469,
+        "y": 72.66390661123336,
+        "text": "고르곤졸라피자",
+        "width": 16.282128515552028,
+        "height": 1.7670920814058915,
+        "rotation": 359.99996658264075
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "핫&스파이시치킨피자",
+        "en.ROMAN": "hot & spicy chicken pizza",
+        "en": "Hot and Spicy Chicken Pizza",
+        "ja": "ホット&スパイシーチキンピザ",
+        "zh_CN": "辣味炸鸡披萨",
+        "zh_TW": "辣&香辣雞肉披薩",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유",
+          "닭고기"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "PyiAZdGiKs",
+      "ocr": {
+        "x": 11.54076784899052,
+        "y": 73.50441786487016,
+        "text": "핫&스파이시치킨피자",
+        "width": 18.08564563465545,
+        "height": 1.4877913924423867,
+        "rotation": 357.9666628155086
+      }
+    }
+  ]
+}

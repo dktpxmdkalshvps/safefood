@@ -1,0 +1,687 @@
+{
+  "meta": {
+    "file_name": "SL_IF01_M0001_265859_3.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:10:12 13:41:19",
+    "store_id": "265859",
+    "store_region": "SL",
+    "store_type": "IF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.5974440894568689,
+          0
+        ],
+        [
+          3.774458389682104,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          99.96988676523081,
+          0
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "보더샘플러",
+        "en.ROMAN": "border sampler",
+        "en": "Border Sampler",
+        "ja": "ボーダーサンプラー",
+        "zh_CN": "BORDER什锦套餐",
+        "zh_TW": "組合",
+        "price": "42900",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "치즈",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Cheese",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "チーズ",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "奶酪",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "起司",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_265859_3-tf_3",
+      "ocr": {
+        "x": 80.92750924512873,
+        "y": 13.769018014386166,
+        "text": "보더샘플러",
+        "width": 4.975633174720817,
+        "height": 1.7789533870825525,
+        "rotation": 358.291608472551
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "보더윙",
+        "en.ROMAN": "border wing",
+        "en": "Border Wings",
+        "ja": "ボーダーウィング",
+        "zh_CN": "BORDER鸡翅",
+        "zh_TW": "雞翅",
+        "price": "24500",
+        "ingredients.ko": [
+          "닭날개"
+        ],
+        "ingredients.en": [
+          "Chicken Wing"
+        ],
+        "ingredients.ja": [
+          "手羽先"
+        ],
+        "ingredients.zh_CN": [
+          "鸡翅"
+        ],
+        "ingredients.zh_TW": [
+          "雞翅"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_265859_3-tf_10",
+      "ocr": {
+        "x": 32.65893299443134,
+        "y": 21.100000000000005,
+        "text": "보더윙",
+        "width": 3.182134011137307,
+        "height": 1.8333333333333324,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "엠파나다",
+        "en.ROMAN": "empanada",
+        "en": "Empanadas",
+        "ja": "エンパナーダ",
+        "zh_CN": "肉馅卷饼",
+        "zh_TW": "Empanadas",
+        "price": "20500",
+        "ingredients.ko": [
+          "채소",
+          "소고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_265859_3-tf_20",
+      "ocr": {
+        "x": 81.31458306051013,
+        "y": 35.96804126373176,
+        "text": "엠파나다",
+        "width": 3.936532382753763,
+        "height": 1.6105287664125838,
+        "rotation": 358.2983287331765
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "구아카몰라이브",
+        "en.ROMAN": "guacamole live",
+        "en": "Guacamole Live",
+        "ja": "ワカモレライブ",
+        "zh_CN": "墨西哥鳄梨酱",
+        "zh_TW": "墨西哥酪梨醬脆片",
+        "price": "21900",
+        "ingredients.ko": [
+          "아보카도",
+          "토마토",
+          "과카몰리"
+        ],
+        "ingredients.en": [
+          "Avocado",
+          "Tomato",
+          "Guacamole"
+        ],
+        "ingredients.ja": [
+          "アボカド",
+          "トマト",
+          "グァカモーレ"
+        ],
+        "ingredients.zh_CN": [
+          "酪梨",
+          "番茄",
+          "墨西哥鳄梨酱"
+        ],
+        "ingredients.zh_TW": [
+          "酪梨",
+          "番茄",
+          "酪梨醬"
+        ],
+        "allergy": [
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_265859_3-tf_22",
+      "ocr": {
+        "x": 19.824084144968307,
+        "y": 38.5971422059794,
+        "text": "구아카몰라이브",
+        "width": 7.5749999999999975,
+        "height": 1.8738844456515047,
+        "rotation": 357.68469710043905
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "허니치폴레쉬림프",
+        "en.ROMAN": "honey chipotle shrimp",
+        "en": "Honey Chipotle Shrimp",
+        "ja": "ハニーチポトレシュリンプ",
+        "zh_CN": "蜂蜜奇波雷烟熏辣椒炸虾",
+        "zh_TW": "HoneyChipotleShrimp",
+        "price": "26500",
+        "ingredients.ko": [
+          "꿀",
+          "치폴레소스",
+          "새우",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Honey",
+          "Chipotle Sauce",
+          "Shrimp",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "蜂蜜",
+          "チポトレソース",
+          "海老",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蜂蜜",
+          "chipotle酱",
+          "虾",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蜂蜜",
+          "墨西哥乾辣椒醬",
+          "蝦",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "계란",
+          "토마토",
+          "새우",
+          "밀"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "SL_IF01_M0001_265859_3-tf_34",
+      "ocr": {
+        "x": 81.89955064499983,
+        "y": 57.74842476400156,
+        "text": "허니치폴레쉬림프",
+        "width": 7.696492639528082,
+        "height": 1.7400519299144472,
+        "rotation": 359.36189287785436
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "빅플래터",
+        "en.ROMAN": "big platter",
+        "en": "Big Platter",
+        "ja": "ビッグプラター",
+        "zh_CN": "炸虾卷拼盘",
+        "zh_TW": "大盤",
+        "price": "45500",
+        "ingredients.ko": [
+          "새우",
+          "닭날개",
+          "할라페뇨"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Chicken Wing",
+          "Jalapeno"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "手羽先",
+          "ハラペーニョ"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "鸡翅",
+          "墨西哥辣椒"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "雞翅",
+          "墨西哥辣椒"
+        ],
+        "allergy": [
+          "새우",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_265859_3-tf_35",
+      "ocr": {
+        "x": 34.74039086361091,
+        "y": 57.89087898261179,
+        "text": "빅플래터",
+        "width": 4.2749999999999995,
+        "height": 1.9346013694408992,
+        "rotation": 358.3945530273518
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "퀘소볼",
+        "en.ROMAN": "queso bowl",
+        "en": "Queso Bowl",
+        "ja": "ケソボウル",
+        "zh_CN": "奶酪碗",
+        "zh_TW": "QuesoBowl",
+        "price": "9500",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_265859_3-tf_49",
+      "ocr": {
+        "x": 82.2301560056412,
+        "y": 70.728037033353,
+        "text": "퀘소볼",
+        "width": 3.239915847017649,
+        "height": 1.821459747654878,
+        "rotation": 358.37891668478346
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "사워크림추가",
+        "en.ROMAN": "sour cream chuga",
+        "en": "Extra Serving of Sour Cream",
+        "ja": "サワー・クリーム追加",
+        "zh_CN": "另加酸奶油",
+        "zh_TW": "加點酸奶油",
+        "price": "1000",
+        "ingredients.ko": [
+          "사워크림"
+        ],
+        "ingredients.en": [
+          "Sour Cream"
+        ],
+        "ingredients.ja": [
+          "サワークリーム"
+        ],
+        "ingredients.zh_CN": [
+          "酸奶油"
+        ],
+        "ingredients.zh_TW": [
+          "酸奶油"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "5YYa0mIqIT",
+      "ocr": {
+        "x": 96.29445247937015,
+        "y": 80.3362672132614,
+        "text": "사워크림",
+        "width": 2.2082446068070256,
+        "height": 1.050439653518472,
+        "rotation": 358.57917279286585
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "화이타치킨",
+        "en.ROMAN": "fajita chicken",
+        "en": "Fajita Chicken",
+        "ja": "ファヒータチキン",
+        "zh_CN": "菲希塔炸鸡",
+        "zh_TW": "墨西哥烤雞",
+        "price": "1000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "gbWAk_2YqP",
+      "ocr": {
+        "x": 93.41668114534191,
+        "y": 80.42226082644798,
+        "text": "화이타치킨",
+        "width": 2.734523919125887,
+        "height": 1.0988310321150212,
+        "rotation": 358.45209768683736
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "타코미트",
+        "en.ROMAN": "taco meat",
+        "en": "Taco Meat",
+        "ja": "タコミート",
+        "zh_CN": "塔可肉",
+        "zh_TW": "塔可肉",
+        "price": "1000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "Z6b62tDcmW",
+      "ocr": {
+        "x": 90.99895026197821,
+        "y": 80.53143320175283,
+        "text": "타코미트",
+        "width": 2.2984247901272843,
+        "height": 0.9926557869976236,
+        "rotation": 358.4208849137377
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "아보카도",
+        "en.ROMAN": "avocado",
+        "en": "Avocado",
+        "ja": "アボカド",
+        "zh_CN": "酪梨",
+        "zh_TW": "酪梨",
+        "price": "1000",
+        "ingredients.ko": [
+          "아보카도"
+        ],
+        "ingredients.en": [
+          "Avocado"
+        ],
+        "ingredients.ja": [
+          "アボカド"
+        ],
+        "ingredients.zh_CN": [
+          "酪梨"
+        ],
+        "ingredients.zh_TW": [
+          "酪梨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "zlkFBLDfgE",
+      "ocr": {
+        "x": 93.98671413843213,
+        "y": 81.67022295096088,
+        "text": "아보카도",
+        "width": 2.2452188198560177,
+        "height": 1.0556729262591495,
+        "rotation": 357.6784694101692
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "피코데가요",
+        "en.ROMAN": "pico de gallo",
+        "en": "Pico de Gallo",
+        "ja": "ピコ・デ・ガヨ",
+        "zh_CN": "墨西哥莎莎酱",
+        "zh_TW": "Picodegallo",
+        "price": "1000",
+        "ingredients.ko": [
+          "토마토",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Tomato",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "トマト",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "番茄",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "番茄",
+          "洋蔥"
+        ],
+        "allergy": [
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "y98sx0YN-8",
+      "ocr": {
+        "x": 91.06716628436098,
+        "y": 81.71847005538173,
+        "text": "피코데가요",
+        "width": 2.8333518088956957,
+        "height": 1.034876766619801,
+        "rotation": 359.2205136788805
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "프리타스피쉬&칩스",
+        "en.ROMAN": "fritas fish & chips",
+        "en": "Fritas Fish and Chips",
+        "ja": "フリータス・フィッシュ&チップス",
+        "zh_CN": "炸整罗非鱼配薯条",
+        "zh_TW": "炸飛魚＆薯條",
+        "price": "25900",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": 1
+      },
+      "sn": "SL_IF01_M0001_265859_3-tf_62",
+      "ocr": {
+        "x": 57.25268772174108,
+        "y": 86.49994730947691,
+        "text": "프리타스피쉬&칩스",
+        "width": 9.395584672048342,
+        "height": 2.032377826458063,
+        "rotation": 358.3243445000382
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "구아카몰볼",
+        "en.ROMAN": "guacamole bowl",
+        "en": "Guacamole Bowl",
+        "ja": "ワカモレ・ボウル",
+        "zh_CN": "酪梨酱",
+        "zh_TW": "Guacamole球",
+        "price": "10900",
+        "ingredients.ko": [
+          "아보카도",
+          "토마토",
+          "양파",
+          "레몬"
+        ],
+        "ingredients.en": [
+          "Avocado",
+          "Tomato",
+          "Onion",
+          "Lemon"
+        ],
+        "ingredients.ja": [
+          "アボカド",
+          "トマト",
+          "玉ねぎ",
+          "レモン"
+        ],
+        "ingredients.zh_CN": [
+          "酪梨",
+          "番茄",
+          "洋葱",
+          "柠檬"
+        ],
+        "ingredients.zh_TW": [
+          "酪梨",
+          "番茄",
+          "洋蔥",
+          "檸檬"
+        ],
+        "allergy": [
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_265859_3-tf_63",
+      "ocr": {
+        "x": 82.79633698523206,
+        "y": 87.1120885113673,
+        "text": "구아카몰볼",
+        "width": 5.593283459220511,
+        "height": 2.100000000000072,
+        "rotation": 358.26022283411703
+      }
+    }
+  ]
+}

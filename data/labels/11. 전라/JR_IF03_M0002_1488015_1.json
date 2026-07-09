@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "file_name": "JR_IF03_M0002_1488015_1.jpg",
+    "image_original_width": 4624,
+    "image_original_height": 2604,
+    "captured_date": "2022:10:24 16:32:05",
+    "store_id": "1488015",
+    "store_region": "JR",
+    "store_type": "IF03",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.2777777777777778,
+          3.1298904538341157
+        ],
+        [
+          100,
+          2.816901408450705
+        ],
+        [
+          100,
+          52.11267605633803
+        ],
+        [
+          95.83333333333333,
+          84.66353677621284
+        ],
+        [
+          4.722222222222222,
+          85.28951486697966
+        ],
+        [
+          0.2777777777777778,
+          51.173708920187785
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "구이/적",
+        "ko": "모듬꼬치",
+        "en.ROMAN": "modeumkkochi",
+        "en": "Assorted Skewers",
+        "ja": "串焼きの盛り合わせ",
+        "zh_CN": "烤串拼盘",
+        "zh_TW": "綜合烤串",
+        "price": "24000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_2",
+      "ocr": {
+        "x": 53.44999153870959,
+        "y": 11.822995950351421,
+        "text": "모듬꼬치9종",
+        "width": 12.654741890345862,
+        "height": 1.5134103353461443,
+        "rotation": 358.96203441851355
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "야끼소바",
+        "en.ROMAN": "yaki soba",
+        "en": "Stir-fried Soba Noodles",
+        "ja": "焼きそば",
+        "zh_CN": "日式炒面",
+        "zh_TW": "日式炒麵",
+        "price": "21000",
+        "ingredients.ko": [
+          "베이컨",
+          "메밀면",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Bacon",
+          "Buckwheat Noodle",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "ベーコン",
+          "そば",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "培根",
+          "荞麦凉面",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "培根",
+          "蕎麥麵",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기",
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_19",
+      "ocr": {
+        "x": 14.130281577881528,
+        "y": 40.49229839433861,
+        "text": "베이컨야끼소바",
+        "width": 15.315511317901118,
+        "height": 1.398171791098425,
+        "rotation": 358.8714510637015
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "쉬림프크림파스타",
+        "en.ROMAN": "shrimp cream pasta",
+        "en": "Shrimp Cream Pasta",
+        "ja": "シュリンプクリームパスタ",
+        "zh_CN": "虾仁奶油意大利面",
+        "zh_TW": "鮮蝦奶油義大利麵",
+        "price": "23000",
+        "ingredients.ko": [
+          "크림",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Cream",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "クリーム",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "奶油",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "義大利麵"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_22",
+      "ocr": {
+        "x": 14.49675502380563,
+        "y": 42.77245412060212,
+        "text": "쉬림프크림파스타",
+        "width": 15.993559558414649,
+        "height": 1.2881193974752982,
+        "rotation": 358.8714510637021
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "조개술찜",
+        "en.ROMAN": "jogaesuljjim",
+        "en": "Boiled Clams with Wine",
+        "ja": "貝の酒蒸し",
+        "zh_CN": "酒蒸蛤蜊",
+        "zh_TW": "酒蒸蛤蜊",
+        "price": "22000",
+        "ingredients.ko": [
+          "조개"
+        ],
+        "ingredients.en": [
+          "Clam"
+        ],
+        "ingredients.ja": [
+          "貝"
+        ],
+        "ingredients.zh_CN": [
+          "蛤蜊"
+        ],
+        "ingredients.zh_TW": [
+          "蛤蜊"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_24",
+      "ocr": {
+        "x": 14.893515034811594,
+        "y": 45.26729957613882,
+        "text": "조개술찜",
+        "width": 8.169665602079013,
+        "height": 1.2273641324403373,
+        "rotation": 358.87145106369957
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치킨카라아게",
+        "en.ROMAN": "chicken karaage",
+        "en": "Deep-fried Chicken",
+        "ja": "チキン唐揚げ",
+        "zh_CN": "日式炸鸡块",
+        "zh_TW": "日式炸雞",
+        "price": "22000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_26",
+      "ocr": {
+        "x": 15.189734127574955,
+        "y": 47.7222734929111,
+        "text": "수제치킨카라아게",
+        "width": 15.668202764976867,
+        "height": 1.2109344199838377,
+        "rotation": 358.8714510637021
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "수제오코노미야끼",
+        "en.ROMAN": "suje okonomiyaki",
+        "en": "Handmade Cabbage Pancake",
+        "ja": "手作りお好み焼き",
+        "zh_CN": "手工大阪烧",
+        "zh_TW": "手工大阪燒",
+        "price": "22000",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_28",
+      "ocr": {
+        "x": 15.486003033389006,
+        "y": 50.12600059195975,
+        "text": "수제오코노미야끼",
+        "width": 15.629800307219607,
+        "height": 1.1951191763802622,
+        "rotation": 358.84743787719174
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "삼겹숙주볶음",
+        "en.ROMAN": "samgyeopsukjubokkeum",
+        "en": "Stir-fried Pork Belly and Mung Bean Sprouts",
+        "ja": "もやし入りサムギョプサル炒め",
+        "zh_CN": "绿豆芽炒五花肉",
+        "zh_TW": "綠豆芽炒五花肉",
+        "price": "21000",
+        "ingredients.ko": [
+          "삼겹살",
+          "숙주"
+        ],
+        "ingredients.en": [
+          "Pork Belly",
+          "Mung Bean Sprout"
+        ],
+        "ingredients.ja": [
+          "サムギョプサル",
+          "緑豆もやし"
+        ],
+        "ingredients.zh_CN": [
+          "五花肉",
+          "绿豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "五花肉",
+          "綠豆芽"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_29",
+      "ocr": {
+        "x": 15.88225408138693,
+        "y": 52.49773248635706,
+        "text": "삼겹숙주볶음",
+        "width": 11.697141654247647,
+        "height": 1.178511649182536,
+        "rotation": 358.6128899441791
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "버터갈릭쉬림프",
+        "en.ROMAN": "butter garlic shrimp",
+        "en": "Butter Garlic Shrimp",
+        "ja": "バターガーリックシュリンプ",
+        "zh_CN": "黄油蒜香虾仁",
+        "zh_TW": "蒜香奶油鮮蝦",
+        "price": "23000",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루",
+          "채소",
+          "버터"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour",
+          "Vegetables",
+          "Butter"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉",
+          "野菜",
+          "バター"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉",
+          "蔬菜",
+          "黄油"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉",
+          "蔬菜",
+          "奶油"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_31",
+      "ocr": {
+        "x": 16.212412542604927,
+        "y": 54.85137760659333,
+        "text": "버터갈릭쉬림프",
+        "width": 13.90775495057015,
+        "height": 1.1325115245460562,
+        "rotation": 358.6128899441793
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "해물야끼우동",
+        "en.ROMAN": "haemul yaki udon",
+        "en": "Stir-fried Seafood Udon",
+        "ja": "海鮮焼きうどん",
+        "zh_CN": "海鲜炒乌冬面",
+        "zh_TW": "海鮮炒烏龍麵",
+        "price": "24000",
+        "ingredients.ko": [
+          "해산물",
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_34",
+      "ocr": {
+        "x": 16.423189852351246,
+        "y": 57.07415671160448,
+        "text": "해물야끼우동",
+        "width": 12.085006819998307,
+        "height": 1.135017871036988,
+        "rotation": 358.6128899441806
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "나가사키짬뽕나베",
+        "en.ROMAN": "Nagasaki jjamppong nabe",
+        "en": "Nagasaki Spicy Seafood Noodle Soup Hot Pot",
+        "ja": "長崎チャンポン鍋",
+        "zh_CN": "日式长崎炒码火长崎炒码火锅",
+        "zh_TW": "日式長崎炒碼麵火鍋",
+        "price": "27000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_36",
+      "ocr": {
+        "x": 65.37703508694669,
+        "y": 63.83922560799347,
+        "text": "나가사키짬뽕나베",
+        "width": 15.259530308427351,
+        "height": 1.0962557304518594,
+        "rotation": 359.23701541639207
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "닭고기토마토나베",
+        "en.ROMAN": "dakgogi tomato nabe",
+        "en": "Chicken tomato nabe",
+        "ja": "鶏肉トマト鍋",
+        "zh_CN": "鸡肉番茄日式火锅",
+        "zh_TW": "雞肉番茄日式火鍋",
+        "price": "28000",
+        "ingredients.ko": [
+          "닭고기",
+          "토마토",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Tomato",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "トマト",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "番茄",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "番茄",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_39",
+      "ocr": {
+        "x": 65.40333574005071,
+        "y": 66.04878282985608,
+        "text": "닭고기토마토나베",
+        "width": 15.168350990867424,
+        "height": 1.0480349367302255,
+        "rotation": 359.23701541639207
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "명란매운짬뽕나베",
+        "en.ROMAN": "myeongnanmaeunjjamppong nabe",
+        "en": "Spicy pollack roe jjamppong nabe.",
+        "ja": "明太子辛いちゃんぽん鍋",
+        "zh_CN": "明太鱼子辣海鲜锅",
+        "zh_TW": "明太魚子辣海鮮鍋",
+        "price": "28000",
+        "ingredients.ko": [
+          "명란",
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pollack Roe",
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "明太子",
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼子",
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "明太子",
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0002_1488015_1-tf_41",
+      "ocr": {
+        "x": 65.3734759763958,
+        "y": 68.19428682416688,
+        "text": "명란매운짬뽕나베",
+        "width": 15.524452985470493,
+        "height": 1.0683177552464147,
+        "rotation": 359.2370154163935
+      }
+    }
+  ]
+}

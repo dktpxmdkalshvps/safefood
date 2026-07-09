@@ -1,0 +1,427 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_225959_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:03 14:09:20",
+    "store_id": "225959",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          92.51336898395722,
+          77.47747747747748
+        ],
+        [
+          88.23529411764706,
+          16.816816816816818
+        ],
+        [
+          9.090909090909093,
+          16.816816816816818
+        ],
+        [
+          6.417112299465241,
+          78.07807807807808
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "제육구이",
+        "en.ROMAN": "jeyukgui",
+        "en": "Spicy Grilled Stir-fried Pork",
+        "ja": "豚肉炒め焼き",
+        "zh_CN": "辣烤猪肉",
+        "zh_TW": "辣烤豬肉",
+        "price": "11000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_225959_1-tf_18",
+      "ocr": {
+        "x": 22.976921228686653,
+        "y": 50.68286757147958,
+        "text": "숯불제육구이",
+        "width": 33.903432609206305,
+        "height": 2.56497541678961,
+        "rotation": 359.3440896669067
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "부대찌개",
+        "en.ROMAN": "budaejjigae",
+        "en": "Sausage Jjigae",
+        "ja": "プデチゲ",
+        "zh_CN": "部队锅",
+        "zh_TW": "部隊鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_225959_1-tf_19",
+      "ocr": {
+        "x": 22.615500414230766,
+        "y": 53.25710386250693,
+        "text": "부대찌개",
+        "width": 23.24270212749951,
+        "height": 2.6310862840461846,
+        "rotation": 359.2325654128216
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "제육볶음",
+        "en.ROMAN": "jeyukbokkeum",
+        "en": "Spicy Stir-fried Pork",
+        "ja": "豚肉炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_225959_1-tf_21",
+      "ocr": {
+        "x": 22.680777470688845,
+        "y": 55.85659045569851,
+        "text": "제육볶음",
+        "width": 23.533767854070838,
+        "height": 2.7849465526572486,
+        "rotation": 359.2043315080007
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_225959_1-tf_23",
+      "ocr": {
+        "x": 22.729776438392328,
+        "y": 58.56369916765062,
+        "text": "김치찌개",
+        "width": 23.353396295102282,
+        "height": 2.645126466742899,
+        "rotation": 359.28015513169277
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_225959_1-tf_25",
+      "ocr": {
+        "x": 22.6568000087501,
+        "y": 61.17633536368688,
+        "text": "된장찌개",
+        "width": 23.47315366290943,
+        "height": 2.7156993106556198,
+        "rotation": 359.3804192045947
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "물냉면",
+        "en.ROMAN": "mullaengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "水冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_225959_1-tf_28",
+      "ocr": {
+        "x": 22.74405176606899,
+        "y": 63.88795362463319,
+        "text": "물냉면",
+        "width": 23.377867713617622,
+        "height": 2.718695285049106,
+        "rotation": 359.2882616768975
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔냉면",
+        "en.ROMAN": "bibimnaengmyeon",
+        "en": "Spicy Buckwheat Noodles",
+        "ja": "混ぜ冷麺",
+        "zh_CN": "拌冷面",
+        "zh_TW": "拌冷麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "비빔장",
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Sauce",
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "ビビンソース",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "拌饭酱",
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "拌飯醬",
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_225959_1-tf_30",
+      "ocr": {
+        "x": 22.8345247043143,
+        "y": 66.57573217183081,
+        "text": "비빔냉면",
+        "width": 23.177689335439883,
+        "height": 2.925000000000001,
+        "rotation": 359.33410076030367
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "삼겹김치두루치기",
+        "en.ROMAN": "samgyeop kimchi duruchigi",
+        "en": "Stir-fried Pork Belly and Kimchi",
+        "ja": "サムギョプサルとキムチ入り野菜炒め",
+        "zh_CN": "五花肉炒辛奇",
+        "zh_TW": "辛奇辣炒豬五花肉",
+        "price": "33000",
+        "ingredients.ko": [
+          "돼지고기",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "辛奇"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_225959_1-tf_31",
+      "ocr": {
+        "x": 22.42973908902084,
+        "y": 69.43909184019138,
+        "text": "삼겹김치두루치기",
+        "width": 46.69208304564698,
+        "height": 2.9762395100170034,
+        "rotation": 359.215669237075
+      }
+    }
+  ]
+}

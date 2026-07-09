@@ -1,0 +1,607 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_187343_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:16 21:45:39",
+    "store_id": "187343",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.23866348448687352,
+          10.931899641577065
+        ],
+        [
+          5.489261638136121,
+          100
+        ],
+        [
+          99.28400954653938,
+          99.82078853046593
+        ],
+        [
+          99.76133651551315,
+          0.17921146953405015
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-0",
+      "ocr": {
+        "x": 82.43256546323946,
+        "y": 5.898458265236137,
+        "text": "아구찜",
+        "width": 10.827846916522985,
+        "height": 3.3194728053202773,
+        "rotation": 358.4927671958026
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "아구찜",
+        "en.ROMAN": "agujjim",
+        "en": "Spicy Braised Monkfish",
+        "ja": "アンコウの蒸し物",
+        "zh_CN": "炖安康鱼",
+        "zh_TW": "燉鮟鱇魚",
+        "price": "39000",
+        "ingredients.ko": [
+          "야채",
+          "아귀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮟鱇魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-1",
+      "ocr": {
+        "x": 82.44074942053716,
+        "y": 21.180288793796766,
+        "text": "해물찜",
+        "width": 10.259592893771186,
+        "height": 3.0282591861919466,
+        "rotation": 358.48587131804925
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "해물찜",
+        "en.ROMAN": "haemuljjim",
+        "en": "Spicy Braised Seafood",
+        "ja": "海鮮の蒸し物",
+        "zh_CN": "辣炖海鲜",
+        "zh_TW": "辣燉海鮮",
+        "price": "42000",
+        "ingredients.ko": [
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-2",
+      "ocr": {
+        "x": 72.38628241916567,
+        "y": 39.48413409585087,
+        "text": "단호박아구찜",
+        "width": 20.318238078665747,
+        "height": 2.9997716369127296,
+        "rotation": 358.61086881892254
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "단호박아구찜",
+        "en.ROMAN": "danhobagagujjim",
+        "en": "Spicy Braised Monkfish and Sweet Pumpkin",
+        "ja": "カボチャ入りアンコウの蒸し物",
+        "zh_CN": "绿南瓜炖安康鱼",
+        "zh_TW": "栗子南瓜燉鮟鱇魚",
+        "price": "39000",
+        "ingredients.ko": [
+          "아귀",
+          "단호박"
+        ],
+        "ingredients.en": [
+          "Monkfish",
+          "Pumpkin"
+        ],
+        "ingredients.ja": [
+          "アンコウ",
+          "カボチャ"
+        ],
+        "ingredients.zh_CN": [
+          "安康鱼",
+          "绿南瓜"
+        ],
+        "ingredients.zh_TW": [
+          "鮟鱇魚",
+          "栗子南瓜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-3",
+      "ocr": {
+        "x": 72.5631198600314,
+        "y": 55.60281166735815,
+        "text": "단호박해물찜",
+        "width": 20.13927385356999,
+        "height": 3.098458180668551,
+        "rotation": 359.07574049054557
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "단호박해물찜",
+        "en.ROMAN": "danhobakhaemuljjim",
+        "en": "Spicy Braised Seafood and Sweet Pumpkin",
+        "ja": "カボチャ入り海鮮の蒸し物辣",
+        "zh_CN": "绿南瓜辣炖海鲜",
+        "zh_TW": "栗子南瓜辣燉海鮮",
+        "price": "42000",
+        "ingredients.ko": [
+          "단호박",
+          "해물"
+        ],
+        "ingredients.en": [
+          "Pumpkin",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "カボチャ",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "绿南瓜",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "栗子南瓜",
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-4",
+      "ocr": {
+        "x": 82.56260625304624,
+        "y": 71.27730617364533,
+        "text": "모듬찜",
+        "width": 9.865341911499067,
+        "height": 2.761486860931038,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "모듬찜",
+        "en.ROMAN": "modeumjjim",
+        "en": "Assorted Braised Seafood",
+        "ja": "蒸し物の盛り合わせ",
+        "zh_CN": "炖什锦海鲜",
+        "zh_TW": "綜合燉",
+        "price": "62000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-5",
+      "ocr": {
+        "x": 68.28788207443975,
+        "y": 85.75926175399348,
+        "text": "새우",
+        "width": 2.8972448244040456,
+        "height": 1.2943096745779858,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "새우",
+        "en.ROMAN": "saeu",
+        "en": "Shrimp",
+        "ja": "海老",
+        "zh_CN": "虾",
+        "zh_TW": "蝦",
+        "price": "7000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-6",
+      "ocr": {
+        "x": 51.17899367123701,
+        "y": 85.92135566493154,
+        "text": "쭈꾸미사리",
+        "width": 7.2167301971576645,
+        "height": 1.3053626778261098,
+        "rotation": 359.13324684308515
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "쭈꾸미사리",
+        "en.ROMAN": "jjukkumisari",
+        "en": "Extra Webfoot Octopus",
+        "ja": "イイダコ追加",
+        "zh_CN": "另加八爪鱼",
+        "zh_TW": "加點小章魚",
+        "price": "7000",
+        "ingredients.ko": [
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-7",
+      "ocr": {
+        "x": 34.79486918252078,
+        "y": 86.05962878202122,
+        "text": "아구사리",
+        "width": 5.843849724818074,
+        "height": 1.3043275865028428,
+        "rotation": 359.1609792817544
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "아구사리",
+        "en.ROMAN": "agusari",
+        "en": "Extra Monkfish",
+        "ja": "アンコウ追加",
+        "zh_CN": "另加安康鱼",
+        "zh_TW": "加點鮟鱇魚",
+        "price": "20000",
+        "ingredients.ko": [
+          "아귀"
+        ],
+        "ingredients.en": [
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮟鱇魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-8",
+      "ocr": {
+        "x": 68.32128635939023,
+        "y": 87.13978162159795,
+        "text": "볶음밥추가",
+        "width": 7.34314811633256,
+        "height": 1.3546553644429622,
+        "rotation": 359.5622659952368
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "볶음밥추가",
+        "en.ROMAN": "bokkeumbap chuga",
+        "en": "Extra Serving of Fried Rice",
+        "ja": "チャーハン追加",
+        "zh_CN": "另加炒饭",
+        "zh_TW": "加點炒飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "채소",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-9",
+      "ocr": {
+        "x": 51.31211186386943,
+        "y": 87.29242314938095,
+        "text": "미더덕",
+        "width": 3.9972530877547667,
+        "height": 1.3467073441103805,
+        "rotation": 359.092044251292
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "미더덕",
+        "en.ROMAN": "mideodeok",
+        "en": "Sea Squirt",
+        "ja": "エボヤ",
+        "zh_CN": "柄海鞘",
+        "zh_TW": "柄海鞘",
+        "price": "5000",
+        "ingredients.ko": [
+          "미더덕"
+        ],
+        "ingredients.en": [
+          "Stalked Sea Squirt"
+        ],
+        "ingredients.ja": [
+          "エボヤ"
+        ],
+        "ingredients.zh_CN": [
+          "柄海鞘"
+        ],
+        "ingredients.zh_TW": [
+          "柄海鞘"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-10",
+      "ocr": {
+        "x": 34.819297167922855,
+        "y": 87.48467879354456,
+        "text": "낙지사리",
+        "width": 5.831114762248581,
+        "height": 1.280860148594776,
+        "rotation": 358.7077972778211
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "낙지사리",
+        "en.ROMAN": "nakjisari",
+        "en": "Extra Octopus",
+        "ja": "テナガダコ追加",
+        "zh_CN": "另加长爪章鱼",
+        "zh_TW": "加點章魚",
+        "price": "17000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-11",
+      "ocr": {
+        "x": 68.35257157339241,
+        "y": 88.5490873170562,
+        "text": "공기밥추가",
+        "width": 7.332954707379104,
+        "height": 1.3317373686144978,
+        "rotation": 359.5837097340451
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "공기밥추가",
+        "en.ROMAN": "gonggibap chuga",
+        "en": "Extra Serving of Steamed Rice",
+        "ja": "ご飯追加",
+        "zh_CN": "另加米饭",
+        "zh_TW": "加點米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-12",
+      "ocr": {
+        "x": 51.24375604621165,
+        "y": 88.67665465778114,
+        "text": "콩나물",
+        "width": 4.164981562433405,
+        "height": 1.3364881827624029,
+        "rotation": 359.08141158308484
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "콩나물",
+        "en.ROMAN": "kongnamul",
+        "en": "Bean Sprouts",
+        "ja": "豆もやし",
+        "zh_CN": "黄豆芽",
+        "zh_TW": "黃豆芽",
+        "price": "5000",
+        "ingredients.ko": [
+          "콩나물"
+        ],
+        "ingredients.en": [
+          "Bean Sprout"
+        ],
+        "ingredients.ja": [
+          "豆もやし"
+        ],
+        "ingredients.zh_CN": [
+          "黄豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "黃豆芽"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_187343_1-tf-13",
+      "ocr": {
+        "x": 34.80604434395847,
+        "y": 88.86410094506678,
+        "text": "고니사리",
+        "width": 5.965177107224649,
+        "height": 1.3427234062068736,
+        "rotation": 358.6088399265275
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고니사리",
+        "en.ROMAN": "gonisari",
+        "en": "Extra Hard Roe",
+        "ja": "白子追加",
+        "zh_CN": "另加白子",
+        "zh_TW": "加點魚卵",
+        "price": "8000",
+        "ingredients.ko": [
+          "동태 고니"
+        ],
+        "ingredients.en": [
+          "Pollack Roe"
+        ],
+        "ingredients.ja": [
+          "スケソウダラの卵"
+        ],
+        "ingredients.zh_CN": [
+          "冻明太鱼白子"
+        ],
+        "ingredients.zh_TW": [
+          "凍明太魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

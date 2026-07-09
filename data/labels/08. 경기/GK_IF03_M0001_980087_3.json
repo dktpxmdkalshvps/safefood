@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "file_name": "GK_IF03_M0001_980087_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:31 21:41:07",
+    "store_id": "980087",
+    "store_region": "GK",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          79.35222672064778,
+          0.9118541033434648
+        ],
+        [
+          3.0364372469635628,
+          0.1519756838905775
+        ],
+        [
+          4.65587044534413,
+          99.3920972644377
+        ],
+        [
+          88.66396761133603,
+          99.08814589665651
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "모듬",
+        "en.ROMAN": "modeum",
+        "en": "Assorted Menu",
+        "ja": "盛り合わせ",
+        "zh_CN": "拼盘",
+        "zh_TW": "拼盤",
+        "price": "15000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_980087_3-tf_3",
+      "ocr": {
+        "x": 22.287854550836684,
+        "y": 27.51858911230077,
+        "text": "모듬",
+        "width": 6.765798329720045,
+        "height": 2.7358648641191117,
+        "rotation": 352.64983104410885
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "참치회특코스",
+        "en.ROMAN": "chamchihoeteuk course",
+        "en": "Special Course of Sliced Raw Tuna",
+        "ja": "マグロの刺身特上コース",
+        "zh_CN": "金枪鱼生鱼片特级套餐",
+        "zh_TW": "鮪魚生魚片特級套餐",
+        "price": "20000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_980087_3-tf_5",
+      "ocr": {
+        "x": 24.399253425890908,
+        "y": 34.47058402979273,
+        "text": "특",
+        "width": 3.4408514261381864,
+        "height": 2.78165493210918,
+        "rotation": 356.63688516688353
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "혼마구로",
+        "en.ROMAN": "honmaguro",
+        "en": "Pacific Bluefin Tuna",
+        "ja": "本マグロ",
+        "zh_CN": "金枪鱼生鱼片",
+        "zh_TW": "鮪魚生魚片",
+        "price": "30000",
+        "ingredients.ko": [
+          "참다랑어"
+        ],
+        "ingredients.en": [
+          "Pacific Bluefin Tuna"
+        ],
+        "ingredients.ja": [
+          "本マグロ"
+        ],
+        "ingredients.zh_CN": [
+          "蓝鳍金枪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "黑鮪魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_980087_3-tf_7",
+      "ocr": {
+        "x": 19.57560164785879,
+        "y": 41.943094254803874,
+        "text": "혼마구로",
+        "width": 13.645994974875265,
+        "height": 3.000992063492068,
+        "rotation": 356.63688516688364
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "튀김",
+        "en.ROMAN": "twigim",
+        "en": "Deep-fried Dish",
+        "ja": "天ぷら",
+        "zh_CN": "炸什锦",
+        "zh_TW": "炸物",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_980087_3-tf_10",
+      "ocr": {
+        "x": 24.080095419532412,
+        "y": 69.81304577127791,
+        "text": "튀김",
+        "width": 6.743603134644886,
+        "height": 2.966141994746347,
+        "rotation": 356.63688516688376
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "아구지리",
+        "en.ROMAN": "agujiri",
+        "en": "Monkfish Soup",
+        "ja": "アンコウスープ",
+        "zh_CN": "安康鱼清汤",
+        "zh_TW": "鮟鱇魚清湯",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "아귀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮟鱇魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_980087_3-tf_12",
+      "ocr": {
+        "x": 20.894909297932706,
+        "y": 77.76469111341223,
+        "text": "아구지리",
+        "width": 13.885318549733153,
+        "height": 3.221505512860062,
+        "rotation": 356.6368851668833
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "구이/적",
+        "ko": "메로구이",
+        "en.ROMAN": "merogui",
+        "en": "Grilled Patagonian Toothfish",
+        "ja": "メロ焼き",
+        "zh_CN": "烤智利鲈鱼",
+        "zh_TW": "烤圓鱈",
+        "price": "30000",
+        "ingredients.ko": [
+          "메로"
+        ],
+        "ingredients.en": [
+          "Patagonian Toothfish"
+        ],
+        "ingredients.ja": [
+          "メロ"
+        ],
+        "ingredients.zh_CN": [
+          "智利鲈鱼"
+        ],
+        "ingredients.zh_TW": [
+          "圓鱈"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_IF03_M0001_980087_3-tf_14",
+      "ocr": {
+        "x": 21.254337157796915,
+        "y": 85.92089271182935,
+        "text": "메로구이",
+        "width": 13.875485735095499,
+        "height": 3.26635266566153,
+        "rotation": 356.63688516688364
+      }
+    }
+  ]
+}

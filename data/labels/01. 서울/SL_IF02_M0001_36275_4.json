@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "file_name": "SL_IF02_M0001_36275_4.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:08:18 11:09:30",
+    "store_id": "36275",
+    "store_region": "SL",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          30.70175438596492,
+          1.9736842105263157
+        ],
+        [
+          30.921052631578956,
+          100
+        ],
+        [
+          99.56140350877193,
+          99.83552631578945
+        ],
+        [
+          100,
+          3.2894736842105257
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_IF02_M0001_36275_4-tf-0",
+      "ocr": {
+        "x": 39.96505765905374,
+        "y": 17.484279419851447,
+        "text": "모둠전채",
+        "width": 7.849467278229273,
+        "height": 1.633158848391071,
+        "rotation": 1.3092881534972776
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전",
+        "ko": "모둠전채",
+        "en.ROMAN": "modumjeonchae",
+        "en": "assorted appetizers",
+        "ja": "前菜の盛り合わせ",
+        "zh_CN": "综合债券",
+        "zh_TW": "綜合債券",
+        "price": "45000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF02_M0001_36275_4-tf-1",
+      "ocr": {
+        "x": 39.87464436278091,
+        "y": 24.85338517275703,
+        "text": "오향장육해파리냉채",
+        "width": 17.29332832009595,
+        "height": 1.6853271268349812,
+        "rotation": 1.060563589790263
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "오향장육해파리냉채",
+        "en.ROMAN": "ohyangjangyukaeparinaengchae",
+        "en": "Five-Spice Pork and Chilled Jelly Fish Salad",
+        "ja": "五香醤肉とクラゲの冷菜",
+        "zh_CN": "五香酱肉凉拌海蜇",
+        "zh_TW": "五香醬肉海蜇皮冷盤",
+        "price": "40000",
+        "ingredients.ko": [
+          "돼지고기",
+          "쇠고기",
+          "간장",
+          "해파리",
+          "겨자소스"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Beef",
+          "Soy Sauce",
+          "Jellyfish",
+          "Mustard Sauce"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "牛肉",
+          "カンジャン",
+          "クラゲ",
+          "カラシソース"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "牛肉",
+          "酱油",
+          "海蜇",
+          "芥末酱"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "牛肉",
+          "醬油",
+          "海蜇",
+          "芥末"
+        ],
+        "allergy": [
+          "돼지고기",
+          "쇠고기",
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF02_M0001_36275_4-tf-2",
+      "ocr": {
+        "x": 39.95131717712321,
+        "y": 32.39684684077654,
+        "text": "양장피",
+        "width": 5.242807270556551,
+        "height": 1.72406587128235,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "양장피",
+        "en.ROMAN": "yangjangpi",
+        "en": "Starch Sheet Salad with Mustard Sauce",
+        "ja": "中華冷菜",
+        "zh_CN": "凉拌两张皮",
+        "zh_TW": "涼拌兩張皮",
+        "price": "54000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "버섯",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Mushroom",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "きのこ",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "蘑菇",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "蘑菇",
+          "澱粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF02_M0001_36275_4-tf-3",
+      "ocr": {
+        "x": 39.787056098327085,
+        "y": 58.87896825396827,
+        "text": "버섯게살수프",
+        "width": 12.00589996240475,
+        "height": 1.7609126984126953,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "게살수프",
+        "en.ROMAN": "gesal soup",
+        "en": "Crab Soup",
+        "ja": "カニ肉スープ",
+        "zh_CN": "蟹肉浓汤",
+        "zh_TW": "蟹肉濃湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "버섯",
+          "게살"
+        ],
+        "ingredients.en": [
+          "Mushroom",
+          "Crab Meat"
+        ],
+        "ingredients.ja": [
+          "きのこ",
+          "ガニ肉"
+        ],
+        "ingredients.zh_CN": [
+          "蘑菇",
+          "蟹肉"
+        ],
+        "ingredients.zh_TW": [
+          "蘑菇",
+          "蟹肉"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF02_M0001_36275_4-tf-4",
+      "ocr": {
+        "x": 39.54302277524697,
+        "y": 66.41243462956687,
+        "text": "매생이해물수프",
+        "width": 13.91857931381307,
+        "height": 1.7051564287596621,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "매생이해물수프",
+        "en.ROMAN": "maesaengihaemul soup",
+        "en": "Seaweed Seafood Soup",
+        "ja": "カプサアオノリ海鮮スープ",
+        "zh_CN": "海藻汤",
+        "zh_TW": "海藻湯",
+        "price": "17000",
+        "ingredients.ko": [
+          "매생이",
+          "해물"
+        ],
+        "ingredients.en": [
+          "Seaweed Fulvescens",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "カプサアオノリ",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "海藻",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "海藻",
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF02_M0001_36275_4-tf-5",
+      "ocr": {
+        "x": 39.47423017581889,
+        "y": 73.85912698412687,
+        "text": "해물두부수프",
+        "width": 12.1203131865002,
+        "height": 1.711309523809519,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "해물두부수프",
+        "en.ROMAN": "haemuldubu soup",
+        "en": "Seafood tofu soup.",
+        "ja": "海鮮と豆腐のスープ",
+        "zh_CN": "海鲜豆腐汤",
+        "zh_TW": "海鮮豆腐湯",
+        "price": "17000",
+        "ingredients.ko": [
+          "해물",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "豆腐"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개",
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF02_M0001_36275_4-tf-6",
+      "ocr": {
+        "x": 39.3525751767059,
+        "y": 81.22519841269826,
+        "text": "홍식초산라탕",
+        "width": 11.669480644506187,
+        "height": 1.6415984194846587,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "탕",
+        "ko": "홍식초산라탕",
+        "en.ROMAN": "hongsikchosallatang",
+        "en": "Red-sliced Chosan La Soup",
+        "ja": "紅酢酸辣湯",
+        "zh_CN": "红醋酸罗汤",
+        "zh_TW": "紅醋酸羅湯",
+        "price": "18000",
+        "ingredients.ko": [
+          "홍식초",
+          "돼지고기",
+          "두부",
+          "죽순"
+        ],
+        "ingredients.en": [
+          "Red Vinegar",
+          "Pork",
+          "Bean Curd",
+          "Bamboo Shoot"
+        ],
+        "ingredients.ja": [
+          "紅酢",
+          "豚肉",
+          "豆腐",
+          "竹の子"
+        ],
+        "ingredients.zh_CN": [
+          "红醋",
+          "猪肉",
+          "豆腐",
+          "竹笋"
+        ],
+        "ingredients.zh_TW": [
+          "紅醋",
+          "豬肉",
+          "豆腐",
+          "竹筍"
+        ],
+        "allergy": [
+          "돼지고기",
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

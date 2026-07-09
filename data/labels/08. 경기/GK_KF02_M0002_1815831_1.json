@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "file_name": "GK_KF02_M0002_1815831_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:10:20 18:55:36",
+    "store_id": "1815831",
+    "store_region": "GK",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          31.280388978930308,
+          2.302158273381295
+        ],
+        [
+          33.46839546191248,
+          92.37410071942446
+        ],
+        [
+          93.43598055105349,
+          93.23741007194245
+        ],
+        [
+          96.92058346839546,
+          0.28776978417266186
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "물어묵",
+        "en.ROMAN": "mureomuk",
+        "en": "Fishcake Skewers",
+        "ja": "練り物",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板",
+        "price": "2000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1815831_1-tf_2",
+      "ocr": {
+        "x": 33.17500000000038,
+        "y": 7.846768918076141,
+        "text": "물어묵",
+        "width": 15.200000000000133,
+        "height": 10.848107492031213,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "물떡",
+        "en.ROMAN": "multteok",
+        "en": "Rice Cake in Soup",
+        "ja": "ムルトク",
+        "zh_CN": "水煮年糕条",
+        "zh_TW": "湯年糕",
+        "price": "12000",
+        "ingredients.ko": [
+          "밀가루",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "米"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1815831_1-tf_10",
+      "ocr": {
+        "x": 80.40000000000003,
+        "y": 25.710272424473214,
+        "text": "물떡",
+        "width": 7.545823818449467,
+        "height": 7.047056696173426,
+        "rotation": 0
+      }
+    }
+  ]
+}

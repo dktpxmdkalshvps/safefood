@@ -1,0 +1,620 @@
+{
+  "meta": {
+    "file_name": "JR_KF05_M0002_9005500_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:06 14:47:24",
+    "store_id": "9005500",
+    "store_region": "JR",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          13.593539703903096
+        ],
+        [
+          0,
+          59.084791386271874
+        ],
+        [
+          99.52153110047847,
+          60.56527590847915
+        ],
+        [
+          99.76076555023923,
+          16.28532974427995
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "메기",
+        "en.ROMAN": "megi",
+        "en": "catfish",
+        "ja": "ナマズ",
+        "zh_CN": "鲶鱼",
+        "zh_TW": "鯰魚",
+        "price": "60000",
+        "ingredients.ko": [
+          "메기"
+        ],
+        "ingredients.en": [
+          "Catfish"
+        ],
+        "ingredients.ja": [
+          "ナマズ"
+        ],
+        "ingredients.zh_CN": [
+          "鲶鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯰魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_2",
+      "ocr": {
+        "x": 9.305995332083848,
+        "y": 24.017946739561967,
+        "text": "메기",
+        "width": 6.141587452995558,
+        "height": 1.791348689029641,
+        "rotation": 3.8913614497281515
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "쏘가리탕",
+        "en.ROMAN": "ssogaritang",
+        "en": "Mandarin Fish Stew",
+        "ja": "コウライケツギョスープ",
+        "zh_CN": "桂鱼汤",
+        "zh_TW": "斑鱖湯",
+        "price": "100000",
+        "ingredients.ko": [
+          "쏘가리"
+        ],
+        "ingredients.en": [
+          "Mandarin Fish"
+        ],
+        "ingredients.ja": [
+          "コウライケツギョ"
+        ],
+        "ingredients.zh_CN": [
+          "斑鳜"
+        ],
+        "ingredients.zh_TW": [
+          "斑鱖"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_5",
+      "ocr": {
+        "x": 39.39039268734823,
+        "y": 24.75181525697134,
+        "text": "쏘가리탕",
+        "width": 11.756583164801551,
+        "height": 1.8274758747551165,
+        "rotation": 1.7515609920466773
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "은어튀김",
+        "en.ROMAN": "euneotwigim",
+        "en": "Deep-fried Sweetfish",
+        "ja": "鮎天ぷら",
+        "zh_CN": "炸香鱼",
+        "zh_TW": "炸香魚",
+        "price": "30000",
+        "ingredients.ko": [
+          "밀가루",
+          "은어"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Sweetfish"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "アユ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "香鱼"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "香魚"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_6",
+      "ocr": {
+        "x": 74.40199925033198,
+        "y": 25.031123817984714,
+        "text": "은어튀김",
+        "width": 11.190053285968029,
+        "height": 1.9032319454700386,
+        "rotation": 0.7454492555448837
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "빙어튀김",
+        "en.ROMAN": "bingeotwigim",
+        "en": "Deep-fried Pond Smelt",
+        "ja": "わかさぎ天ぷら",
+        "zh_CN": "炸\t西太公鱼",
+        "zh_TW": "炸池沼公魚",
+        "price": "15000",
+        "ingredients.ko": [
+          "빙어"
+        ],
+        "ingredients.en": [
+          "Capelin"
+        ],
+        "ingredients.ja": [
+          "ワカサギ"
+        ],
+        "ingredients.zh_CN": [
+          "西太公鱼"
+        ],
+        "ingredients.zh_TW": [
+          "池沼公魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_12",
+      "ocr": {
+        "x": 74.53877971011063,
+        "y": 27.107531305863468,
+        "text": "빙어튀김",
+        "width": 10.902328870016802,
+        "height": 1.8463936302517352,
+        "rotation": 2.1804911617950893
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "잡어탕",
+        "en.ROMAN": "jabeotang",
+        "en": "Spicy Small Fish Stew",
+        "ja": "雑魚スープ",
+        "zh_CN": "什锦鱼汤",
+        "zh_TW": "雜魚湯",
+        "price": "65000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "생선"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_20",
+      "ocr": {
+        "x": 7.041278046624531,
+        "y": 30.68473772022738,
+        "text": "잡어탕",
+        "width": 10.213143872113651,
+        "height": 1.9496511469866298,
+        "rotation": 4.416856446313034
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "은어회",
+        "en.ROMAN": "euneohoe",
+        "en": "Sliced Raw Sweetfish",
+        "ja": "鮎の刺身",
+        "zh_CN": "香鱼生鱼片",
+        "zh_TW": "香魚生魚片",
+        "price": "50000",
+        "ingredients.ko": [
+          "은어"
+        ],
+        "ingredients.en": [
+          "Sweetfish"
+        ],
+        "ingredients.ja": [
+          "アユ"
+        ],
+        "ingredients.zh_CN": [
+          "香鱼"
+        ],
+        "ingredients.zh_TW": [
+          "香魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_25",
+      "ocr": {
+        "x": 74.33331295027057,
+        "y": 34.169418166851976,
+        "text": "은어회",
+        "width": 8.539465064762723,
+        "height": 1.909032369793742,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "참게탕",
+        "en.ROMAN": "chamgetang",
+        "en": "Hairy Crab Soup",
+        "ja": "上海ガニスープ",
+        "zh_CN": "河蟹汤",
+        "zh_TW": "中華絨螯蟹湯",
+        "price": "75000",
+        "ingredients.ko": [
+          "야채",
+          "참게"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chinese Mitten Crab"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "上海蟹"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "河蟹"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "中華絨螯蟹"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_29",
+      "ocr": {
+        "x": 6.122825986609824,
+        "y": 37.746772267448904,
+        "text": "참게탕",
+        "width": 10.433411419312657,
+        "height": 1.9958417939866895,
+        "rotation": 3.512520227597008
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "빙어회무침",
+        "en.ROMAN": "bingeohoemuchim",
+        "en": "Spicy Raw Smelt Salad",
+        "ja": "ワカサギの刺身",
+        "zh_CN": "拌西太公鱼生鱼片",
+        "zh_TW": "涼拌池沼公魚生魚片",
+        "price": "30000",
+        "ingredients.ko": [
+          "빙어",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Capelin",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "ワカサギ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "西太公鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "池沼公魚",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_40",
+      "ocr": {
+        "x": 74.41590114120392,
+        "y": 42.9452498970984,
+        "text": "빙어회무침",
+        "width": 14.387211367673164,
+        "height": 2.0194888194763703,
+        "rotation": 1.1237303559185534
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_43",
+      "ocr": {
+        "x": 17.72376383407184,
+        "y": 46.43123381092007,
+        "text": "소주",
+        "width": 6.53416256694422,
+        "height": 1.9926620176693475,
+        "rotation": 3.0302680514263898
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_45",
+      "ocr": {
+        "x": 36.90102127703829,
+        "y": 46.87531171026816,
+        "text": "막걸리",
+        "width": 8.570892483941057,
+        "height": 2.0253117102680194,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_48",
+      "ocr": {
+        "x": 58.388346857703844,
+        "y": 47.37500000000002,
+        "text": "공기밥",
+        "width": 9.228700852212068,
+        "height": 2.024999999999999,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_51",
+      "ocr": {
+        "x": 17.744954048207493,
+        "y": 48.800000000000004,
+        "text": "맥주",
+        "width": 6.2781365379381455,
+        "height": 2.082243241274638,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "12000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_54",
+      "ocr": {
+        "x": 36.52443373388002,
+        "y": 49.20000000000007,
+        "text": "복분자",
+        "width": 9.528448817145444,
+        "height": 2.0135130583712004,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_9005500_1-tf_55",
+      "ocr": {
+        "x": 58.33137655017298,
+        "y": 49.63484442615247,
+        "text": "음료수",
+        "width": 9.475017765990435,
+        "height": 2.040155573847531,
+        "rotation": 0
+      }
+    }
+  ]
+}

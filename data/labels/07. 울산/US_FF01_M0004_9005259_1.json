@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "file_name": "US_FF01_M0004_9005259_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:27 13:27:41",
+    "store_id": "9005259",
+    "store_region": "US",
+    "store_type": "FF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          5.217391304347826,
+          10.268948655256724
+        ],
+        [
+          7.826086956521741,
+          89.24205378973105
+        ],
+        [
+          81.73913043478261,
+          91.44254278728606
+        ],
+        [
+          91.73913043478261,
+          11.491442542787286
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "힙앤핫치킨버거",
+        "en.ROMAN": "hibaen hot chicken burger",
+        "en": "Hip and Hot Chicken Burger",
+        "ja": "ヒップ＆ホットチキンバーガー",
+        "zh_CN": "HIP&HOT炸鸡汉堡",
+        "zh_TW": "辣味炸雞漢堡",
+        "price": "6500",
+        "ingredients.ko": [
+          "밀가루",
+          "닭고기",
+          "토마토",
+          "양상추"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Chicken",
+          "Tomato",
+          "Lettuce"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "鶏肉",
+          "トマト",
+          "レタス"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "鸡肉",
+          "番茄",
+          "圆生菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "雞肉",
+          "番茄",
+          "結球萵苣"
+        ],
+        "allergy": [
+          "밀",
+          "토마토",
+          "닭고기"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "US_FF01_M0004_9005259_1-tf_24",
+      "ocr": {
+        "x": 28.5297693306171,
+        "y": 36.87155302678096,
+        "text": "힙앤핫치킨버거",
+        "width": 17.539964476021286,
+        "height": 1.7151521769191471,
+        "rotation": 1.9455435568352186
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "한우불고기",
+        "en.ROMAN": "hanubulgogi",
+        "en": "Korean Beef Bulgogi",
+        "ja": "韓牛プルゴギ",
+        "zh_CN": "烤韩牛肉",
+        "zh_TW": "烤韓牛肉",
+        "price": "8000",
+        "ingredients.ko": [
+          "쇠고기",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_FF01_M0004_9005259_1-tf_35",
+      "ocr": {
+        "x": 63.95824706698409,
+        "y": 46.79715584541951,
+        "text": "한우불고기",
+        "width": 12.433392539964466,
+        "height": 1.8250000000000022,
+        "rotation": 1.8433994452411753
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "빅불",
+        "en.ROMAN": "big bul",
+        "en": "Big Bulgogi Burger",
+        "ja": "ビッグプルゴギバーガー",
+        "zh_CN": "双层烤牛肉汉堡",
+        "zh_TW": "Big烤韓牛肉",
+        "price": "6700",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "치즈",
+          "빵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Cheese",
+          "Bread"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "チーズ",
+          "パン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "奶酪",
+          "面包"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "起司",
+          "麵包"
+        ],
+        "allergy": [
+          "밀",
+          "우유",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_FF01_M0004_9005259_1-tf_48",
+      "ocr": {
+        "x": 63.48618140828791,
+        "y": 55.881183822323266,
+        "text": "빅불",
+        "width": 4.795737122557722,
+        "height": 1.4500000000000015,
+        "rotation": 1.8433994452411753
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "불고기4DX버거",
+        "en.ROMAN": "bulgogi sa dx burger",
+        "en": "Bulgogi 4DX Burger",
+        "ja": "プルゴギ4DXバーガー",
+        "zh_CN": "烤牛肉4DX汉堡",
+        "zh_TW": "烤牛肉4DX漢堡",
+        "price": "6500",
+        "ingredients.ko": [
+          "쇠고기",
+          "양상추",
+          "밀가루",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Lettuce",
+          "Wheat Flour",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "レタス",
+          "小麦粉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "圆生菜",
+          "面粉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "結球萵苣",
+          "麵粉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "밀",
+          "쇠고기"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "US_FF01_M0004_9005259_1-tf_53",
+      "ocr": {
+        "x": 62.80751584797501,
+        "y": 64.50830604960817,
+        "text": "불고기4DX",
+        "width": 12.121523501405814,
+        "height": 1.6499999999999915,
+        "rotation": 2.4982956306811275
+      }
+    }
+  ]
+}

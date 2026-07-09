@@ -1,0 +1,732 @@
+{
+  "meta": {
+    "file_name": "GK_KF04_M0002_950309_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:09:06 15:50:09",
+    "store_id": "950309",
+    "store_region": "GK",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.20181634712411706,
+          47.64468371467025
+        ],
+        [
+          92.63370332996973,
+          46.702557200538365
+        ],
+        [
+          92.83551967709384,
+          66.48721399730823
+        ],
+        [
+          0.30272452068617556,
+          67.16016150740242
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공깃밥",
+        "en.ROMAN": "gonggitbap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_1",
+      "ocr": {
+        "x": 56.125,
+        "y": 48.16666666666665,
+        "text": "공깃밥",
+        "width": 6.225,
+        "height": 3.1999999999999997,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_4",
+      "ocr": {
+        "x": 77.3297024877542,
+        "y": 48.23333333333332,
+        "text": "소주",
+        "width": 6.220297512245798,
+        "height": 2.9666666666666615,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동사리",
+        "en.ROMAN": "udon sari",
+        "en": "Extra Udon Noodles",
+        "ja": "うどん追加",
+        "zh_CN": "另加乌冬面",
+        "zh_TW": "加點烏龍麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_5",
+      "ocr": {
+        "x": 36.10957137170355,
+        "y": 48.400000000000034,
+        "text": "우동사리",
+        "width": 8.365428628296517,
+        "height": 3.16666666666667,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "춘천닭갈비",
+        "en.ROMAN": "Chuncheondakgalbi",
+        "en": "Chuncheon Spicy Stir-fried Chicken",
+        "ja": "チュンチョンタッカルビ",
+        "zh_CN": "春川辣炒鸡排",
+        "zh_TW": "春川辣炒雞排",
+        "price": "11900",
+        "ingredients.ko": [
+          "야채",
+          "갈비",
+          "두부",
+          "고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Galbi",
+          "Bean Curd",
+          "Meat",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "カルビ",
+          "豆腐",
+          "肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "排骨",
+          "豆腐",
+          "肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "排骨",
+          "豆腐",
+          "肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "콩",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_6",
+      "ocr": {
+        "x": 3.2106950922885242,
+        "y": 48.814421815417326,
+        "text": "춘천닭갈비",
+        "width": 15.097131588004004,
+        "height": 4.294938672748243,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_9",
+      "ocr": {
+        "x": 77.43429289407574,
+        "y": 51.733333333333334,
+        "text": "맥주",
+        "width": 6.1975136652388,
+        "height": 3.0666666666666633,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "2500",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_10",
+      "ocr": {
+        "x": 56.05588961441868,
+        "y": 51.83333333333335,
+        "text": "볶음밥",
+        "width": 6.4276185847246,
+        "height": 3.1999999999999984,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "쫄면사리",
+        "en.ROMAN": "jjolmyeonsari",
+        "en": "Extra Chewy Noodles",
+        "ja": "チョルミョン追加",
+        "zh_CN": "另加筋面",
+        "zh_TW": "加點Q麵麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "쫄면"
+        ],
+        "ingredients.en": [
+          "Chewy Noodles"
+        ],
+        "ingredients.ja": [
+          "チョルミョン"
+        ],
+        "ingredients.zh_CN": [
+          "筋面"
+        ],
+        "ingredients.zh_TW": [
+          "Q麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_11",
+      "ocr": {
+        "x": 36.107718387380594,
+        "y": 51.93333333333326,
+        "text": "쫄면사리",
+        "width": 8.432438064074576,
+        "height": 3.2999999999999936,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "삼겹닭갈비",
+        "en.ROMAN": "samgyeopdakgalbi",
+        "en": "Spicy Stir-fried Pork Belly and Chicken",
+        "ja": "サムギョプサルタッカルビ",
+        "zh_CN": "辣炒五花肉鸡排",
+        "zh_TW": "五花肉辣炒雞排",
+        "price": "12900",
+        "ingredients.ko": [
+          "소갈비",
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Beef Galbi",
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "牛カルビ",
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨",
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨",
+          "五花肉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_14",
+      "ocr": {
+        "x": 3.1939740650184563,
+        "y": 54.78922990552309,
+        "text": "삼겹닭갈비",
+        "width": 15.223428297701746,
+        "height": 4.4296816123927,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_16",
+      "ocr": {
+        "x": 77.475,
+        "y": 55.266666666666666,
+        "text": "막걸리",
+        "width": 6.125,
+        "height": 3.3000000000000003,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "치즈볶음밥",
+        "en.ROMAN": "cheese bokkeumbap",
+        "en": "Cheese Fried Rice",
+        "ja": "チーズチャーハン",
+        "zh_CN": "奶酪炒饭",
+        "zh_TW": "起司炒飯",
+        "price": "3500",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "米"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_17",
+      "ocr": {
+        "x": 56.225000000000016,
+        "y": 55.433333333333266,
+        "text": "치즈볶음밥",
+        "width": 10.412336024217936,
+        "height": 3.333333333333331,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_18",
+      "ocr": {
+        "x": 36.22500000000001,
+        "y": 55.66666666666665,
+        "text": "라면사리",
+        "width": 8.325,
+        "height": 3.1999999999999997,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_22",
+      "ocr": {
+        "x": 77.37499999999999,
+        "y": 58.99999999999992,
+        "text": "청하",
+        "width": 6.239005466095512,
+        "height": 3.199999999999998,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "쌀떡사리",
+        "en.ROMAN": "ssaltteoksari",
+        "en": "Extra Serving of Sliced Rice Cake",
+        "ja": "米粉トク追加",
+        "zh_CN": "另加米糕",
+        "zh_TW": "加點米糕",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_23",
+      "ocr": {
+        "x": 36.300000000000004,
+        "y": 59.33333333333335,
+        "text": "쌀떡사리",
+        "width": 8.249999999999998,
+        "height": 3.3000000000000003,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "리필닭갈비",
+        "en.ROMAN": "refill dakgalbi",
+        "en": "Extra Spicy Stir-fried Chicken",
+        "ja": "おかわりタッカルビ",
+        "zh_CN": "续加辣炒鸡排",
+        "zh_TW": "加點辣炒雞排",
+        "price": "10900",
+        "ingredients.ko": [
+          "닭고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_25",
+      "ocr": {
+        "x": 3.185870879690465,
+        "y": 60.74121687543084,
+        "text": "리필닭갈비",
+        "width": 15.238733991755304,
+        "height": 4.482565428152251,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_29",
+      "ocr": {
+        "x": 77.375,
+        "y": 62.766666666666666,
+        "text": "음료수",
+        "width": 6.299999999999999,
+        "height": 3.3000000000000003,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈사리",
+        "en.ROMAN": "cheese sari",
+        "en": "Extra Cheese",
+        "ja": "チーズ追加",
+        "zh_CN": "另加奶酪",
+        "zh_TW": "加點起司",
+        "price": "3000",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0002_950309_1-tf.jpg_30",
+      "ocr": {
+        "x": 36.22500000000001,
+        "y": 63.066666666666656,
+        "text": "치즈사리",
+        "width": 8.4,
+        "height": 3.1999999999999997,
+        "rotation": 0
+      }
+    }
+  ]
+}

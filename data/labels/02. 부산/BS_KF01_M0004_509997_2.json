@@ -1,0 +1,642 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0004_509997_2.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:08 17:23:29",
+    "store_id": "509997",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          92.19015280135824,
+          0.7643312101910829
+        ],
+        [
+          1.697792869269949,
+          0.5095541401273885
+        ],
+        [
+          9.67741935483871,
+          99.87261146496816
+        ],
+        [
+          84.21052631578947,
+          99.87261146496816
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "해바라기도시락",
+        "en.ROMAN": "haebaragidosirak",
+        "en": "Haebaragi Lunch Box",
+        "ja": "ヘパラキ弁当",
+        "zh_CN": "向日葵饭盒",
+        "zh_TW": "向日葵便當",
+        "price": "10000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_18",
+      "ocr": {
+        "x": 18.210583614836636,
+        "y": 34.432273086429255,
+        "text": "해바라기도시락",
+        "width": 9.134915822156739,
+        "height": 1.4433630617132034,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "매화(고등어간장구이)",
+        "en.ROMAN": "maehwa(godeungeoganjanggui)",
+        "en": "Maehwa (Grilled Mackerel with Soy Sauce)",
+        "ja": "メファ(サバのカンジャン焼き)",
+        "zh_CN": "梅花A(酱油烤青花鱼)",
+        "zh_TW": "梅花（醬油烤鯖魚）",
+        "price": "10000",
+        "ingredients.ko": [
+          "고등어",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Mackerel",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "サバ",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "青花鱼",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "鯖魚",
+          "醬油"
+        ],
+        "allergy": [
+          "고등어",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_16",
+      "ocr": {
+        "x": 32.677250281503305,
+        "y": 34.474363851857554,
+        "text": "매화A(고등어간장구이)",
+        "width": 12.666666666666655,
+        "height": 1.400636148142458,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "개나리(고등어간장구이)",
+        "en.ROMAN": "gaenari(godeungeoganjang gui)",
+        "en": "Grilled Mackerel with Soy Sauce, Beef Bulgogi, Fried Chicken, and Deep-fried Shrimp Lunch Box",
+        "ja": "レンギョウ弁当(サバのカンジャン焼き)",
+        "zh_CN": "迎春花(酱油烤青花鱼)",
+        "zh_TW": "連翹花（醬油風味烤鯖魚）",
+        "price": "8500",
+        "ingredients.ko": [
+          "고등어",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Mackerel",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "サバ",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "青花鱼",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "鯖魚",
+          "醬油"
+        ],
+        "allergy": [
+          "고등어",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_17",
+      "ocr": {
+        "x": 48.70000000000001,
+        "y": 34.54145461728586,
+        "text": "개나리(고등어간장구이)",
+        "width": 13.099999999999996,
+        "height": 1.4006361481424507,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "진달래",
+        "en.ROMAN": "jindallae",
+        "en": "Galbi Patties, Spicy Stir-fried Pork, Pork Cutlet, Deep-fried Chicken, and Deep-fried Shrimp Lunch Box",
+        "ja": "ツツジ弁当",
+        "zh_CN": "金达莱",
+        "zh_TW": "杜鵑花",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "돼지고기",
+          "쌀",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Pork",
+          "Rice",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "豚肉",
+          "米",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "猪肉",
+          "大米",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "豬肉",
+          "米",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_19",
+      "ocr": {
+        "x": 69.57725028150331,
+        "y": 34.60790923457169,
+        "text": "진달래",
+        "width": 3.990207629575062,
+        "height": 1.3091815308565946,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "제육부대찌개정식",
+        "en.ROMAN": "jeyukbudaejjigaejeongsik",
+        "en": "Spicy Stir-fried Pork and Sausage Jjigae Set Menu",
+        "ja": "豚肉炒めとプデチゲ定食",
+        "zh_CN": "辣炒猪肉部队锅套餐",
+        "zh_TW": "辣炒豬肉部隊鍋套餐",
+        "price": "8500",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_29",
+      "ocr": {
+        "x": 18.19920875558828,
+        "y": 47.07436385185749,
+        "text": "제육부대찌개정식",
+        "width": 10.368249155490064,
+        "height": 1.342726913570759,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "돈치스팸부대찌개정식",
+        "en.ROMAN": "donchi spam budaejjigaejeongsik",
+        "en": "Pork Cutlet, Fried Chicken and Sausage Jjigae Set Menu",
+        "ja": "豚カツとチキン入りスパム弁当&プデチゲ定食",
+        "zh_CN": "奶酪炸猪排午餐肉部队锅套餐",
+        "zh_TW": "炸豬排炸雞午餐肉部隊鍋套餐",
+        "price": "8500",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지",
+          "돼지고기",
+          "김치",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages",
+          "Pork",
+          "Kimchi",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ",
+          "豚肉",
+          "キムチ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠",
+          "猪肉",
+          "辛奇",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸",
+          "豬肉",
+          "辛奇",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_30",
+      "ocr": {
+        "x": 32.82116722967325,
+        "y": 47.107909234571636,
+        "text": "돈치스팸부대찌개정식",
+        "width": 12.668249155490066,
+        "height": 1.3427269135707585,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "빅치킨마요부대찌개정식",
+        "en.ROMAN": "big chicken mayo budaejjigaejeongsik",
+        "en": "Large Fried Chicken with Mayonnaise and Sausage Jjigae Set Menu",
+        "ja": "ビッグチキンマヨ丼とプデチゲ定食",
+        "zh_CN": "大炸鸡蛋黄酱部队锅套餐",
+        "zh_TW": "大份雞肉美乃滋部隊鍋套餐",
+        "price": "7500",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지",
+          "닭고기",
+          "마요네즈"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages",
+          "Chicken",
+          "Mayonnaise"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ",
+          "鶏肉",
+          "マヨネーズ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠",
+          "鸡肉",
+          "蛋黄酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸",
+          "雞肉",
+          "美乃滋"
+        ],
+        "allergy": [
+          "돼지고기",
+          "닭고기",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_31",
+      "ocr": {
+        "x": 48.199208755588295,
+        "y": 47.14936385185754,
+        "text": "박치킨마요부대찌개정식",
+        "width": 13.756874296241715,
+        "height": 1.376272296284909,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치킨마요부대찌개정식",
+        "en.ROMAN": "chicken mayo budaejjigaejeongsik",
+        "en": "Chicken and Mayonnaise with Sausage Jjigae Set Menu",
+        "ja": "チキンマヨ丼とプデチゲ定食",
+        "zh_CN": "蛋黄酱炸鸡部队锅套餐",
+        "zh_TW": "雞肉美乃滋部隊鍋套餐",
+        "price": "5900",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지",
+          "닭고기",
+          "마요네즈"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages",
+          "Chicken",
+          "Mayonnaise"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ",
+          "鶏肉",
+          "マヨネーズ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠",
+          "鸡肉",
+          "蛋黄酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸",
+          "雞肉",
+          "美乃滋"
+        ],
+        "allergy": [
+          "돼지고기",
+          "닭고기",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_32",
+      "ocr": {
+        "x": 64.66666666666666,
+        "y": 47.22436385185755,
+        "text": "치킨마요부대찌개정식",
+        "width": 12.589416385163336,
+        "height": 1.3427269135707451,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "빅치킨마요김치찌개정식",
+        "en.ROMAN": "big chicken mayo kimchijjigaejeongsik",
+        "en": "Jumbo Chicken and Mayonnaise with Kimchi Jjigae Set Menu",
+        "ja": "特大チキンマヨ丼とキムチチゲ定食",
+        "zh_CN": "大份蛋黄酱炸鸡辛奇汤套餐",
+        "zh_TW": "大份雞肉美乃滋辛奇鍋套餐",
+        "price": "7000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "마요네즈",
+          "쌀",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Mayonnaise",
+          "Rice",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "マヨネーズ",
+          "米",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "蛋黄酱",
+          "大米",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "美乃滋",
+          "米",
+          "辛奇"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_46",
+      "ocr": {
+        "x": 32.677250281503305,
+        "y": 59.09936385185754,
+        "text": "빅치킨마요김치찌개정식",
+        "width": 13.445499436993371,
+        "height": 1.3591815308566013,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "제육김치찌개정식",
+        "en.ROMAN": "jeyukkimchijjigaejeongsik",
+        "en": "Spicy Stir-fried Pork and Kimchi Jjigae Set Menu",
+        "ja": "豚肉炒めとキムチチゲ定食",
+        "zh_CN": "辣炒猪肉辛奇汤套餐",
+        "zh_TW": "辣炒豬肉辛奇鍋套餐",
+        "price": "8200",
+        "ingredients.ko": [
+          "돼지고기",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "辛奇"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_45",
+      "ocr": {
+        "x": 18.84391694816999,
+        "y": 59.13290923457163,
+        "text": "제육김치찌개정식",
+        "width": 10.078832770326722,
+        "height": 1.2677269135707758,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치킨마요김치찌개정식",
+        "en.ROMAN": "chicken mayo kimchijjigaejeongsik",
+        "en": "Chicken and Mayonnaise with Kimchi Jjigae Set Menu",
+        "ja": "チキンマヨ丼とキムチチゲ定食",
+        "zh_CN": "蛋黄酱炸鸡辛奇过套餐",
+        "zh_TW": "雞肉美乃滋辛奇鍋套餐",
+        "price": "6500",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "마요네즈",
+          "쌀",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Mayonnaise",
+          "Rice",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "マヨネーズ",
+          "米",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "蛋黄酱",
+          "大米",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "美乃滋",
+          "米",
+          "辛奇"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0004_509997_2-tf_47",
+      "ocr": {
+        "x": 48.69920875558828,
+        "y": 59.2079092345717,
+        "text": "치킨마요김치찌개정식",
+        "width": 12.368249155490043,
+        "height": 1.275636148142449,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "file_name": "SL_IF02_M0001_35519_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:26 14:09:12",
+    "store_id": "35519",
+    "store_region": "SL",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.8912655971479503,
+          0.6684491978609626
+        ],
+        [
+          98.93048128342244,
+          0.53475935828877
+        ],
+        [
+          98.57397504456328,
+          99.33155080213903
+        ],
+        [
+          1.2477718360071302,
+          99.73262032085562
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_IF02_M0001_35519_1-tf-1",
+      "ocr": {
+        "x": 19.81990104091863,
+        "y": 17.88455765187024,
+        "text": "점심A코스",
+        "width": 9.110611743441092,
+        "height": 1.5592357301925397,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "점심A코스",
+        "en.ROMAN": "jeomsimA course",
+        "en": "Lunch Course A",
+        "ja": "ランチAコース",
+        "zh_CN": "午餐套餐A",
+        "zh_TW": "午餐A套餐",
+        "price": "35000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF02_M0001_35519_1-tf-2",
+      "ocr": {
+        "x": 47.31875574895705,
+        "y": 17.908221549369237,
+        "text": "점심B코스",
+        "width": 9.00204088017328,
+        "height": 1.5556044468525139,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "점심B코스",
+        "en.ROMAN": "jeomsimB course",
+        "en": "Lunch Course B",
+        "ja": "ランチBコース",
+        "zh_CN": "午餐套餐B",
+        "zh_TW": "午餐B套餐",
+        "price": "40000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF02_M0001_35519_1-tf-3",
+      "ocr": {
+        "x": 75.96493904230284,
+        "y": 18.048023922330195,
+        "text": "점심C코스",
+        "width": 8.764869951861778,
+        "height": 1.5406426242624798,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "점심세트",
+        "en.ROMAN": "jeomsim set",
+        "en": "Lunch Set",
+        "ja": "ランチセット",
+        "zh_CN": "午餐套餐",
+        "zh_TW": "午間套餐",
+        "price": "48000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

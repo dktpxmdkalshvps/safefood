@@ -1,0 +1,776 @@
+{
+  "meta": {
+    "file_name": "DG_KF04_M0002_620728_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:14 11:08:13",
+    "store_id": "620728",
+    "store_region": "DG",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          14.081996434937608,
+          6.684491978609626
+        ],
+        [
+          83.77896613190731,
+          7.754010695187167
+        ],
+        [
+          83.60071301247773,
+          97.19251336898395
+        ],
+        [
+          12.121212121212121,
+          97.72727272727273
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "세트메뉴1",
+        "en.ROMAN": "set menu 1",
+        "en": "Set Menu 1",
+        "ja": "セットメニュー1",
+        "zh_CN": "套餐1",
+        "zh_TW": "套餐菜單1",
+        "price": "27000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "yxSUwu3mS8",
+      "ocr": {
+        "x": 27.71643985548044,
+        "y": 14.753417702945079,
+        "text": "세트메뉴1",
+        "width": 17.654418340895134,
+        "height": 3.427986335119773,
+        "rotation": 0.8200833075183027
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "생막창+곱창+염통",
+        "en.ROMAN": "saengmakchang+gopchang+yeomtong",
+        "en": "Grilled Pork Tripe+Grilled Pork Small Intestine+Grilled Beef Heart",
+        "ja": "マクチャン+コプチャン+ハツ",
+        "zh_CN": "鲜猪皱胃+小肠+牛心",
+        "zh_TW": "鮮大腸頭+小腸+牛心",
+        "price": "36000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_12",
+      "ocr": {
+        "x": 27.501234783679138,
+        "y": 27.94720595247328,
+        "text": "생막창2인분+곱창한바가지+염통1인분",
+        "width": 43.617724867724796,
+        "height": 2.5086479001759576,
+        "rotation": 0.6706155209459439
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "골드세트",
+        "en.ROMAN": "gold set",
+        "en": "Gold Set",
+        "ja": "ゴールドセット",
+        "zh_CN": "黄金套餐",
+        "zh_TW": "黃金套餐",
+        "price": "57000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_13",
+      "ocr": {
+        "x": 27.62151679209475,
+        "y": 33.30816465337678,
+        "text": "골드세트",
+        "width": 18.760600042232973,
+        "height": 3.5317011896103137,
+        "rotation": 1.3003697340547546
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생막창",
+        "en.ROMAN": "saengmakchang",
+        "en": "Raw Pork Intestine",
+        "ja": "生マクチャン",
+        "zh_CN": "烤鲜皱胃",
+        "zh_TW": "鮮大腸頭",
+        "price": "9000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "fTMipmNCJu",
+      "ocr": {
+        "x": 24.055647968426943,
+        "y": 47.792099700670796,
+        "text": "생막창",
+        "width": 8.673589375808788,
+        "height": 2.442607501892115,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "소막창",
+        "en.ROMAN": "somakchang",
+        "en": "Beef Tripe",
+        "ja": "牛マクチャン",
+        "zh_CN": "牛皱胃",
+        "zh_TW": "牛皺胃",
+        "price": "14000",
+        "ingredients.ko": [
+          "소막창"
+        ],
+        "ingredients.en": [
+          "Beef Reed Tripe"
+        ],
+        "ingredients.ja": [
+          "牛マクチャン"
+        ],
+        "ingredients.zh_CN": [
+          "牛皱胃"
+        ],
+        "ingredients.zh_TW": [
+          "牛皺胃"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "MkCJFaJqb7",
+      "ocr": {
+        "x": 24.035597267088203,
+        "y": 50.723151922498175,
+        "text": "소막창",
+        "width": 8.672453159502503,
+        "height": 2.4565301582052976,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "곱창한바가지",
+        "en.ROMAN": "gopchanghanbagaji",
+        "en": "A Bowl of Small Intestine",
+        "ja": "コプチャンの盛り合わせ",
+        "zh_CN": "一瓢小肠",
+        "zh_TW": "一鍋小腸",
+        "price": "14000",
+        "ingredients.ko": [
+          "곱창"
+        ],
+        "ingredients.en": [
+          "Small Intestine"
+        ],
+        "ingredients.ja": [
+          "コプチャン"
+        ],
+        "ingredients.zh_CN": [
+          "小肠"
+        ],
+        "ingredients.zh_TW": [
+          "小腸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_23",
+      "ocr": {
+        "x": 23.974867724867742,
+        "y": 53.63021890291984,
+        "text": "곱창한바가지",
+        "width": 17.03613641244588,
+        "height": 2.4437188320335355,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생삼겹살",
+        "en.ROMAN": "saengsamgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "鲜五花肉",
+        "zh_TW": "鮮五花肉",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_27",
+      "ocr": {
+        "x": 23.90840079093623,
+        "y": 56.62128273198758,
+        "text": "생삼겹살",
+        "width": 11.574403441867892,
+        "height": 2.4445002607399964,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생목살",
+        "en.ROMAN": "saengmoksal",
+        "en": "Pork Shoulder",
+        "ja": "豚肩ロース",
+        "zh_CN": "鲜猪肩肉",
+        "zh_TW": "鮮豬肩肉",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "uhtN3IPHY-",
+      "ocr": {
+        "x": 23.7859607240443,
+        "y": 59.63633976522913,
+        "text": "생목살",
+        "width": 8.759664706012783,
+        "height": 2.400131701669288,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뼈없는닭발",
+        "en.ROMAN": "ppyeoeomneundakbal",
+        "en": "Grilled Boneless Chicken Feet",
+        "ja": "骨なし鶏足",
+        "zh_CN": "无骨鸡爪",
+        "zh_TW": "無骨雞爪",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "무뼈닭발",
+          "무"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Boneless Chicken Feet",
+          "Radish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "骨なし鶏足",
+          "大根"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "无骨鸡爪",
+          "白萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "無骨雞爪",
+          "白蘿蔔"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_33",
+      "ocr": {
+        "x": 23.80080373304007,
+        "y": 62.54355594342332,
+        "text": "뼈없는닭발",
+        "width": 14.372417730839558,
+        "height": 2.4852203089731733,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "돼지김치찌개",
+        "en.ROMAN": "dwaejikimchijjigae",
+        "en": "Pork and Kimchi Jjigae",
+        "ja": "豚肉入りキムチチゲ",
+        "zh_CN": "猪肉辛奇汤",
+        "zh_TW": "豬肉辛奇鍋",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_36",
+      "ocr": {
+        "x": 23.64417989417991,
+        "y": 65.60790994328939,
+        "text": "돼지김치찌개",
+        "width": 17.185929687120126,
+        "height": 2.5394738299871884,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "염통",
+        "en.ROMAN": "yeomtong",
+        "en": "Beef Heart",
+        "ja": "ハツ",
+        "zh_CN": "牛心",
+        "zh_TW": "牛心",
+        "price": "6000",
+        "ingredients.ko": [
+          "소염통"
+        ],
+        "ingredients.en": [
+          "Beef Heart"
+        ],
+        "ingredients.ja": [
+          "牛ハツ"
+        ],
+        "ingredients.zh_CN": [
+          "牛心"
+        ],
+        "ingredients.zh_TW": [
+          "牛心"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_39",
+      "ocr": {
+        "x": 23.731635618028605,
+        "y": 68.6929684387565,
+        "text": "염통",
+        "width": 5.672387842798352,
+        "height": 2.471598498515583,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "계란말이",
+        "en.ROMAN": "gyeranmari",
+        "en": "Rolled Omelet",
+        "ja": "卵焼き",
+        "zh_CN": "鸡蛋卷",
+        "zh_TW": "雞蛋捲",
+        "price": "7000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_43",
+      "ocr": {
+        "x": 23.644344578076687,
+        "y": 71.688432287086,
+        "text": "계란말이",
+        "width": 11.393101528628803,
+        "height": 2.493856409497799,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "계란탕",
+        "en.ROMAN": "gyerantang",
+        "en": "Egg Soup",
+        "ja": "卵スープ",
+        "zh_CN": "鸡蛋汤",
+        "zh_TW": "蛋花湯",
+        "price": "3000",
+        "ingredients.ko": [
+          "계란",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "蔬菜"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_45",
+      "ocr": {
+        "x": 23.578042328042233,
+        "y": 74.72995170443849,
+        "text": "계란탕",
+        "width": 8.677617899216145,
+        "height": 2.4644228492504405,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "오뎅탕",
+        "en.ROMAN": "odengtang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "5000",
+        "ingredients.ko": [
+          "생선살",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish Fillet",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚の身",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_47",
+      "ocr": {
+        "x": 23.55302433528356,
+        "y": 77.72653728342154,
+        "text": "오뎅탕",
+        "width": 8.72243730764256,
+        "height": 2.4878398541740343,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "누룽지탕",
+        "en.ROMAN": "nurungjitang",
+        "en": "Scorched Rice Soup",
+        "ja": "おこげのあんかけ",
+        "zh_CN": "锅巴汤",
+        "zh_TW": "鍋粑湯",
+        "price": "3000",
+        "ingredients.ko": [
+          "누룽지"
+        ],
+        "ingredients.en": [
+          "Scorched Rice"
+        ],
+        "ingredients.ja": [
+          "おこげ"
+        ],
+        "ingredients.zh_CN": [
+          "锅巴"
+        ],
+        "ingredients.zh_TW": [
+          "鍋粑"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_49",
+      "ocr": {
+        "x": 23.53023576041035,
+        "y": 80.75535167457413,
+        "text": "누룽지탕",
+        "width": 11.583575426050654,
+        "height": 2.489026576284919,
+        "rotation": 359.5984190770558
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "라면",
+        "en.ROMAN": "ramyeon",
+        "en": "Instant Noodles",
+        "ja": "ラーメン",
+        "zh_CN": "方便面",
+        "zh_TW": "泡麵",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_51",
+      "ocr": {
+        "x": 23.53691513929059,
+        "y": 83.78555297164908,
+        "text": "라면",
+        "width": 5.56361396123849,
+        "height": 2.5021911527042944,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_52",
+      "ocr": {
+        "x": 23.469187776105684,
+        "y": 87.07099368489023,
+        "text": "된장찌개",
+        "width": 11.540089317359081,
+        "height": 2.5302150309454334,
+        "rotation": 358.9776731858941
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_620728_1-tf_55",
+      "ocr": {
+        "x": 23.384283584664857,
+        "y": 90.19523631812416,
+        "text": "공기밥",
+        "width": 8.808361273452304,
+        "height": 2.511760879654526,
+        "rotation": 358.73141129436937
+      }
+    }
+  ]
+}

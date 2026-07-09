@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "file_name": "BS_KF06_M0001_581600_10.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "581600",
+    "store_region": "BS",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.46140035906643,
+          23.149394347240914
+        ],
+        [
+          3.0520646319569114,
+          22.88021534320323
+        ],
+        [
+          2.333931777378815,
+          89.50201884253028
+        ],
+        [
+          98.20466786355476,
+          89.50201884253028
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "리얼후라이드",
+        "en.ROMAN": "real fried",
+        "en": "Fried Chicken",
+        "ja": "リアルフライド",
+        "zh_CN": "原味炸鸡",
+        "zh_TW": "炸雞",
+        "price": "17500",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_581600_10-tf.jpg_4",
+      "ocr": {
+        "x": 62.13513229011688,
+        "y": 77.64293429528286,
+        "text": "교촌리얼후라이드",
+        "width": 16.021093647219114,
+        "height": 1.9065033004747176,
+        "rotation": 1.198809550372232
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "리얼후리이드순살",
+        "en.ROMAN": "real fried sunsal",
+        "en": "Original Boneless Fried Chicken",
+        "ja": "骨なしリアルフライドチキン",
+        "zh_CN": "脆皮无骨炸鸡",
+        "zh_TW": "Real原味無骨炸雞",
+        "price": "19500",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_581600_10-tf.jpg_5",
+      "ocr": {
+        "x": 62.159519193863865,
+        "y": 79.6110790078067,
+        "text": "교촌리얼후리이드순살",
+        "width": 19.893290533730788,
+        "height": 1.8856210064789496,
+        "rotation": 1.1855840499632109
+      }
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "file_name": "IN_KF04_M0002_721464_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:10:24 13:29:15",
+    "store_id": "721464",
+    "store_region": "IN",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.08183306055646483,
+          12.936046511627907
+        ],
+        [
+          99.67266775777414,
+          8.284883720930232
+        ],
+        [
+          98.77250409165305,
+          85.17441860465114
+        ],
+        [
+          3.8461538461538463,
+          83.28488372093024
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "갈비살",
+        "en.ROMAN": "galbisal",
+        "en": "Galbi",
+        "ja": "カルビ",
+        "zh_CN": "肋条肉",
+        "zh_TW": "牛肋條",
+        "price": "12000",
+        "ingredients.ko": [
+          "갈비살"
+        ],
+        "ingredients.en": [
+          "Galbi"
+        ],
+        "ingredients.ja": [
+          "カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "肋条肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肋條"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_5",
+      "ocr": {
+        "x": 42.104087108265205,
+        "y": 26.10838839334237,
+        "text": "갈비살",
+        "width": 9.75094504910903,
+        "height": 8.747779751332125,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "굴국밥",
+        "en.ROMAN": "gulgukbap",
+        "en": "Oyster and Rice Soup",
+        "ja": "カキクッパ",
+        "zh_CN": "牡蛎汤饭",
+        "zh_TW": "牡蠣湯飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_4",
+      "ocr": {
+        "x": 73.02589474192771,
+        "y": 26.249303272756855,
+        "text": "굴국밥",
+        "width": 13.419295298537483,
+        "height": 6.002171195052848,
+        "rotation": 358.3572746826042
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "돼지한마리",
+        "en.ROMAN": "dwaejihanmari",
+        "en": "Assorted Pork Cuts",
+        "ja": "豚肉の盛り合わせ",
+        "zh_CN": "猪肉拼盘",
+        "zh_TW": "豬肉拼盤（所有部位）",
+        "price": "23000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_7",
+      "ocr": {
+        "x": 4.213073706993642,
+        "y": 26.564925197254254,
+        "text": "돼지한마리",
+        "width": 16.3251049812943,
+        "height": 8.898689563493784,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "굴순두부찌개",
+        "en.ROMAN": "gulsundubujjigae",
+        "en": "Oyster and Soft Bean Curd Jjigae",
+        "ja": "カキ入りスンドゥブチゲ",
+        "zh_CN": "牡蛎嫩豆腐锅",
+        "zh_TW": "牡蠣嫩豆腐鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "굴",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Oyster",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "カキ",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牡蛎",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牡蠣",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "굴",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_9",
+      "ocr": {
+        "x": 72.80216920503436,
+        "y": 32.34646253093923,
+        "text": "굴순두부",
+        "width": 13.060633644223675,
+        "height": 5.9424300593628985,
+        "rotation": 358.3572746826027
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "우삼겹",
+        "en.ROMAN": "usamgyeop",
+        "en": "Beef Loin",
+        "ja": "牛バラ",
+        "zh_CN": "牛五花肉",
+        "zh_TW": "牛五花肉",
+        "price": "11000",
+        "ingredients.ko": [
+          "우삼겹"
+        ],
+        "ingredients.en": [
+          "Beef Loin"
+        ],
+        "ingredients.ja": [
+          "牛バラ"
+        ],
+        "ingredients.zh_CN": [
+          "牛五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛五花肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_12",
+      "ocr": {
+        "x": 42.55549933841299,
+        "y": 37.17771382958109,
+        "text": "우삼겹",
+        "width": 9.327549335894126,
+        "height": 8.648218674859272,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "조개순두부",
+        "en.ROMAN": "jogaesundubu",
+        "en": "Clam and Soft Bean Curd Stew",
+        "ja": "貝入りスンドゥブチゲ",
+        "zh_CN": "蛤蜊嫩豆腐锅",
+        "zh_TW": "蛤蜊嫩豆腐鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "조개",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Clam",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "貝",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "蛤蜊",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蛤蜊",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "조개",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_14",
+      "ocr": {
+        "x": 72.57517479608502,
+        "y": 38.556600792013604,
+        "text": "조개순두부",
+        "width": 13.046590567551993,
+        "height": 5.9177048944129576,
+        "rotation": 358.35727468260245
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "21000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_15",
+      "ocr": {
+        "x": 5.7072059102105275,
+        "y": 41.02672350071674,
+        "text": "삼겹살",
+        "width": 8.418884172557066,
+        "height": 8.351606872284801,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "굴해장국",
+        "en.ROMAN": "gulhaejangguk",
+        "en": "Oyster Hangover Soup",
+        "ja": "カキ酔い覚ましスープ",
+        "zh_CN": "牡蛎醒酒汤",
+        "zh_TW": "牡蠣醒酒湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_17",
+      "ocr": {
+        "x": 72.41014657823075,
+        "y": 44.081824375631506,
+        "text": "굴해장국",
+        "width": 13.14418292056675,
+        "height": 6.111222431277307,
+        "rotation": 358.3572746826027
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "굴돌솥비빔밥",
+        "en.ROMAN": "guldolsotbibimbap",
+        "en": "Oysters and Hot Stone Pot Bibimbap",
+        "ja": "カキ入り石焼きビビンバ",
+        "zh_CN": "牡蛎石锅拌饭",
+        "zh_TW": "牡蠣石鍋拌飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_21",
+      "ocr": {
+        "x": 72.2210627455568,
+        "y": 49.75218970552849,
+        "text": "굴돌솥비빔밥",
+        "width": 13.009955137865274,
+        "height": 5.69946219259859,
+        "rotation": 358.99536066007306
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "돼지왕갈비",
+        "en.ROMAN": "dwaejiwanggalbi",
+        "en": "Jumbo Grilled Pork Galbi",
+        "ja": "特大豚カルビ",
+        "zh_CN": "大猪排骨",
+        "zh_TW": "大豬排骨",
+        "price": "10000",
+        "ingredients.ko": [
+          "돼지갈비"
+        ],
+        "ingredients.en": [
+          "Pork Galbi"
+        ],
+        "ingredients.ja": [
+          "豚カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "猪排骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬排骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_22",
+      "ocr": {
+        "x": 6.905067006357833,
+        "y": 54.40684349210337,
+        "text": "돼지왕갈비",
+        "width": 16.058819082833804,
+        "height": 8.045979880534714,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "굴매생이국",
+        "en.ROMAN": "gulmaesaengiguk",
+        "en": "Oyster and Seaweed Fulvescens Soup",
+        "ja": "カキとカプサアオノリスープ",
+        "zh_CN": "牡蛎海藻汤",
+        "zh_TW": "牡蠣海藻湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "매생이",
+          "쌀",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seaweed Fulvescens",
+          "Rice",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "カプサアオノリ",
+          "米",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海藻",
+          "大米",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海藻",
+          "米",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_24",
+      "ocr": {
+        "x": 72.13807370699365,
+        "y": 55.23631497496191,
+        "text": "굴매생이국",
+        "width": 12.49885258601264,
+        "height": 5.422614571304803,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "항정살",
+        "en.ROMAN": "hangjeongsal",
+        "en": "Grilled Pork Neck",
+        "ja": "豚トロ焼き",
+        "zh_CN": "猪肩肉",
+        "zh_TW": "豬頸肉",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_26",
+      "ocr": {
+        "x": 43.07104526545289,
+        "y": 57.87043141395025,
+        "text": "항정살",
+        "width": 9.045348479154503,
+        "height": 7.84372133268434,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "굴모둠회",
+        "en.ROMAN": "gulmodumhoe",
+        "en": "Assorted Raw Oysters",
+        "ja": "牡蠣の盛合せ",
+        "zh_CN": "牡蛎生鱼片拼盘",
+        "zh_TW": "牡蠣生魚片拼盤",
+        "price": "25000",
+        "ingredients.ko": [
+          "굴"
+        ],
+        "ingredients.en": [
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_27",
+      "ocr": {
+        "x": 71.94608040762934,
+        "y": 60.6696806760253,
+        "text": "굴모둠회",
+        "width": 12.433534445594795,
+        "height": 5.497201507094343,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "생굴한접시",
+        "en.ROMAN": "saenggul hanjeopsi",
+        "en": "A Plate of Fresh Oysters",
+        "ja": "生ガキ(一皿)",
+        "zh_CN": "一盘生牡蛎",
+        "zh_TW": "一盤生牡蠣",
+        "price": "10000",
+        "ingredients.ko": [
+          "굴"
+        ],
+        "ingredients.en": [
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_30",
+      "ocr": {
+        "x": 71.74608040762934,
+        "y": 66.20781527531106,
+        "text": "생굴한접시",
+        "width": 12.25853444559482,
+        "height": 5.4351016416463676,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "가브리살",
+        "en.ROMAN": "gabeurisal",
+        "en": "Blade-end Fatback",
+        "ja": "豚ロースかぶり",
+        "zh_CN": "猪颊肉",
+        "zh_TW": "豬頰肉",
+        "price": "9000",
+        "ingredients.ko": [
+          "가브리살"
+        ],
+        "ingredients.en": [
+          "Blade-end Fatback"
+        ],
+        "ingredients.ja": [
+          "豚肩ロス"
+        ],
+        "ingredients.zh_CN": [
+          "猪颊肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬頰肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "HUVK9OoPVj",
+      "ocr": {
+        "x": 43.35111490518735,
+        "y": 67.94386395792557,
+        "text": "가브리살",
+        "width": 9.495205703161156,
+        "height": 7.180603647537848,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉면",
+        "en.ROMAN": "naengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0002_721464_1-tf_33",
+      "ocr": {
+        "x": 71.73006700635784,
+        "y": 71.37127925506657,
+        "text": "냉면",
+        "width": 11.695901305048627,
+        "height": 5.307094543324277,
+        "rotation": 0
+      }
+    }
+  ]
+}

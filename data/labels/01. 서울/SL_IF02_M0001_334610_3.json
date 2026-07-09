@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "file_name": "SL_IF02_M0001_334610_3.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:03 15:07:19",
+    "store_id": "334610",
+    "store_region": "SL",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          8.148148148148149,
+          3.0555555555555554
+        ],
+        [
+          85.92592592592592,
+          0.4166666666666667
+        ],
+        [
+          90.92592592592592,
+          86.5277777777778
+        ],
+        [
+          8.518518518518519,
+          84.44444444444444
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "깐풍새우",
+        "en.ROMAN": "kkanpungsaeu",
+        "en": "Sweet and Spicy Shrimp",
+        "ja": "海老の唐揚げ辛味甘酢がけ",
+        "zh_CN": "干烹虾",
+        "zh_TW": "乾烹蝦仁",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "새우",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Shrimp",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "海老",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "虾",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "蝦",
+          "澱粉"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_3",
+      "ocr": {
+        "x": 63.63094292174327,
+        "y": 26.406706227126474,
+        "text": "깐풍새우",
+        "width": 9.300302336526448,
+        "height": 2.2918840920858727,
+        "rotation": 357.3496542770346
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "탕수육",
+        "en.ROMAN": "tangsuyuk",
+        "en": "Deep-fried Pork with Sweet and Sour Sauce",
+        "ja": "酢豚",
+        "zh_CN": "糖醋肉",
+        "zh_TW": "糖醋肉",
+        "price": "16000",
+        "ingredients.ko": [
+          "채소",
+          "돼지고기",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "澱粉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_4",
+      "ocr": {
+        "x": 39.22594098778127,
+        "y": 27.609441426992856,
+        "text": "탕수육",
+        "width": 6.400284965359356,
+        "height": 2.0725224277640972,
+        "rotation": 356.83372565410764
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마라향귀(소고기/양고기선택)",
+        "en.ROMAN": "mala hyanggwi(sogogi/yanggogiseontaek)",
+        "en": "Spicy Stir-fry Hot Pot (Select from Beef/Lam)",
+        "ja": "麻辣香鍋(牛肉/ラム肉選択)",
+        "zh_CN": "麻辣香锅(选择牛肉/羊肉)",
+        "zh_TW": "麻辣香鍋（牛肉/羊肉選擇）",
+        "price": "30000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_5",
+      "ocr": {
+        "x": 16.928394675016467,
+        "y": 28.212841333881705,
+        "text": "마라향귀(소고기/양고기선택)",
+        "width": 19.40708543050746,
+        "height": 2.3013336719330244,
+        "rotation": 357.3497419848317
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "지삼선",
+        "en.ROMAN": "jisamseon",
+        "en": "Stir-fried Eggplants, Potatoes and Bell Pepper",
+        "ja": "地三鮮",
+        "zh_CN": "地三鲜",
+        "zh_TW": "地三鮮",
+        "price": "16000",
+        "ingredients.ko": [
+          "가지",
+          "감자",
+          "피망"
+        ],
+        "ingredients.en": [
+          "Eggplant",
+          "Potato",
+          "Sweet Pepper"
+        ],
+        "ingredients.ja": [
+          "茄子",
+          "じゃがいも",
+          "ピーマン"
+        ],
+        "ingredients.zh_CN": [
+          "茄子",
+          "土豆",
+          "青椒"
+        ],
+        "ingredients.zh_TW": [
+          "茄子",
+          "馬鈴薯",
+          "甜椒"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_8",
+      "ocr": {
+        "x": 63.930273739036934,
+        "y": 43.17416147664098,
+        "text": "지삼선",
+        "width": 7.131209057344182,
+        "height": 2.360988712724003,
+        "rotation": 358.6562594470574
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "향라육사",
+        "en.ROMAN": "hyangnayuksa",
+        "en": "Spicy Stir-fried Shredded Pork",
+        "ja": "細切り豚肉入り香辣炒め",
+        "zh_CN": "香辣肉丝",
+        "zh_TW": "香羅肉絲",
+        "price": "16000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_9",
+      "ocr": {
+        "x": 39.68513438479433,
+        "y": 43.83056103643576,
+        "text": "향라육사",
+        "width": 8.300264550264549,
+        "height": 2.157738095238097,
+        "rotation": 358.40122632818725
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "경장육사",
+        "en.ROMAN": "gyeongjangyuksa",
+        "en": "Stir-fried Shredded Pork with Black Bean Sauce",
+        "ja": "京醤肉絲",
+        "zh_CN": "京酱肉丝",
+        "zh_TW": "京醬肉絲",
+        "price": "16000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "건두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Dried Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "干し豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "干豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "豆乾"
+        ],
+        "allergy": [
+          "돼지고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_10",
+      "ocr": {
+        "x": 17.09358260798724,
+        "y": 44.17864241009701,
+        "text": "경장육사",
+        "width": 8.002645502645503,
+        "height": 2.083333333333334,
+        "rotation": 358.4525677360033
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "계란부추볶음",
+        "en.ROMAN": "gyeranbuchubokkeum",
+        "en": "Stir-fried Eggs and Chives",
+        "ja": "卵入りニラの炒め",
+        "zh_CN": "韭菜炒鸡蛋",
+        "zh_TW": "炒雞蛋韭菜",
+        "price": "13000",
+        "ingredients.ko": [
+          "채소",
+          "계란",
+          "부추"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Eggs",
+          "Chives"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "卵",
+          "ニラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡蛋",
+          "韭菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞蛋",
+          "韭菜"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_14",
+      "ocr": {
+        "x": 16.69973544973545,
+        "y": 60.391865079365104,
+        "text": "계란부추볶음",
+        "width": 12.302302502330518,
+        "height": 2.307084019605007,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마파두부",
+        "en.ROMAN": "mapadubu",
+        "en": "Spicy Bean Curd",
+        "ja": "麻婆豆腐",
+        "zh_CN": "麻婆豆腐",
+        "zh_TW": "麻婆豆腐",
+        "price": "13000",
+        "ingredients.ko": [
+          "고추",
+          "두부",
+          "돼지고기",
+          "파"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Bean Curd",
+          "Pork",
+          "Green Onions"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "豆腐",
+          "豚肉",
+          "ネギ"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "豆腐",
+          "猪肉",
+          "葱"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "豆腐",
+          "豬肉",
+          "蔥"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_15",
+      "ocr": {
+        "x": 39.634930976849766,
+        "y": 60.464687193550645,
+        "text": "마파두부",
+        "width": 8.436760076457524,
+        "height": 2.0942382752991766,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "건두부볶음",
+        "en.ROMAN": "geondububokkeum",
+        "en": "Stir-fried Dried Bean Curd",
+        "ja": "干し豆腐炒め",
+        "zh_CN": "炒干豆腐",
+        "zh_TW": "炒豆乾",
+        "price": "13000",
+        "ingredients.ko": [
+          "건두부"
+        ],
+        "ingredients.en": [
+          "Dried Bean Curd"
+        ],
+        "ingredients.ja": [
+          "干し豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "干豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆乾"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_16",
+      "ocr": {
+        "x": 64.41798941798929,
+        "y": 60.48055642181685,
+        "text": "건두부볶음",
+        "width": 11.551672789973603,
+        "height": 2.4881593543849108,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "건두부무침",
+        "en.ROMAN": "geondubumuchim",
+        "en": "Dried Bean Curd Salad",
+        "ja": "干し豆腐の和え物",
+        "zh_CN": "凉拌干豆腐",
+        "zh_TW": "涼拌豆乾",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "건두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Dried Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "干し豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "干豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆乾"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_20",
+      "ocr": {
+        "x": 16.369213026519674,
+        "y": 77.4944435398926,
+        "text": "건두부무침",
+        "width": 10.18874512338359,
+        "height": 2.3803372824030125,
+        "rotation": 1.2826606021062048
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "소고기오이무침",
+        "en.ROMAN": "sogogioimuchim",
+        "en": "Beef Cucumber Salad",
+        "ja": "牛肉入りキュウリの和え物",
+        "zh_CN": "凉拌黄瓜牛肉",
+        "zh_TW": "牛肉拌黃瓜",
+        "price": "20000",
+        "ingredients.ko": [
+          "소고기",
+          "오이"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Cucumber"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "キュウリ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "黄瓜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "小黃瓜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_334610_3-tf_21",
+      "ocr": {
+        "x": 39.54499868944439,
+        "y": 78.07216048244021,
+        "text": "소고기오이무침",
+        "width": 15.192366248569384,
+        "height": 2.400438053767108,
+        "rotation": 1.1843682854783424
+      }
+    }
+  ]
+}

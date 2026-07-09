@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "file_name": "KW_KF03_M0001_9006200_4.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:12:18 11:44:57",
+    "store_id": "9006200",
+    "store_region": "KW",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.747572815533981,
+          8.879184861717611
+        ],
+        [
+          91.6504854368932,
+          6.11353711790393
+        ],
+        [
+          96.11650485436894,
+          93.74090247452693
+        ],
+        [
+          2.3300970873786406,
+          94.32314410480349
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "뇨끼를곁들인오일감바스",
+        "en.ROMAN": "gnocchi reulgyeotdeurin oil gambas",
+        "en": "Oil Gambas and Gnocchi",
+        "ja": "ニョッキを添えたオイルガンバス",
+        "zh_CN": "意大利土豆面疙瘩橄榄油蒜油虾",
+        "zh_TW": "配湯糰的橄欖油西班牙蒜味蝦",
+        "price": "15000",
+        "ingredients.ko": [
+          "새우",
+          "해산물",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Seafood",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "海鮮",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "海鲜",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "海鮮",
+          "番茄"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0001_9006200_4-tf_6",
+      "ocr": {
+        "x": 29.683902451190196,
+        "y": 26.02353282211934,
+        "text": "뇨끼를곁들인오일감바스",
+        "width": 21.026571505621394,
+        "height": 1.5912623071124616,
+        "rotation": 357.51370793233065
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "파스타샐러드",
+        "en.ROMAN": "pasta salad",
+        "en": "Pasta Salad",
+        "ja": "パスタサラダ",
+        "zh_CN": "意大利面沙拉",
+        "zh_TW": "義大利麵沙拉",
+        "price": "13500",
+        "ingredients.ko": [
+          "야채",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0001_9006200_4-tf_12",
+      "ocr": {
+        "x": 30.066666666666627,
+        "y": 35.60203776493721,
+        "text": "파스타샐러드",
+        "width": 11.372229485954712,
+        "height": 1.5229622350627772,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "스테이크&에그인헬",
+        "en.ROMAN": "steak & egg in hell",
+        "en": "Steak and Eggs in Hell",
+        "ja": "ステーキ＆エッグインヘル",
+        "zh_CN": "牛排&地狱鸡蛋",
+        "zh_TW": "牛排&雞蛋在地獄",
+        "price": "24000",
+        "ingredients.ko": [
+          "쇠고기",
+          "계란",
+          "치즈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Eggs",
+          "Cheese",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "卵",
+          "チーズ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "鸡蛋",
+          "奶酪",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "雞蛋",
+          "起司",
+          "蔬菜"
+        ],
+        "allergy": [
+          "쇠고기",
+          "계란",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0001_9006200_4-tf_17",
+      "ocr": {
+        "x": 30.43424171282008,
+        "y": 45.59767554399203,
+        "text": "스테이크&에그인헬",
+        "width": 17.720695944961925,
+        "height": 1.4465157383311724,
+        "rotation": 358.3185417150699
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "어묵탕",
+        "en.ROMAN": "eomuktang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "18000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0001_9006200_4-tf_22",
+      "ocr": {
+        "x": 30.766782582388462,
+        "y": 57.16522647559038,
+        "text": "어묵탕",
+        "width": 5.533344434346828,
+        "height": 1.478354721793476,
+        "rotation": 358.28726113443133
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "육회",
+        "en.ROMAN": "yukhoe",
+        "en": "Beef Tartare",
+        "ja": "ユッケ",
+        "zh_CN": "生拌牛肉",
+        "zh_TW": "生拌牛肉",
+        "price": "18000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0001_9006200_4-tf_26",
+      "ocr": {
+        "x": 31.099999999999994,
+        "y": 65.32601888246862,
+        "text": "육회",
+        "width": 3.5680573714886705,
+        "height": 1.4739811175313782,
+        "rotation": 0
+      }
+    }
+  ]
+}

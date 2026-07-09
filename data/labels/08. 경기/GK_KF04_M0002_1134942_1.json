@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "file_name": "GK_KF04_M0002_1134942_1.jpg",
+    "image_original_width": 3456,
+    "image_original_height": 3456,
+    "captured_date": "2022:07:29 19:53:15",
+    "store_id": "1134942",
+    "store_region": "GK",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          14.285700108767019
+        ],
+        [
+          100,
+          14.285700108767019
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          0,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_KF04_M0002_1134942_1-tf-0",
+      "ocr": {
+        "x": 2.262838615289597,
+        "y": 29.42401699447836,
+        "text": "양념갈비",
+        "width": 34.245860126791605,
+        "height": 7.128941696596511,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념갈비",
+        "en.ROMAN": "yangnyeomgalbi",
+        "en": "Marinated Grilled Galbi",
+        "ja": "味付けカルビ",
+        "zh_CN": "调味排骨",
+        "zh_TW": "調味排骨",
+        "price": "10000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF04_M0002_1134942_1-tf-1",
+      "ocr": {
+        "x": 2.637858003321913,
+        "y": 37.89904039587071,
+        "text": "매운갈비",
+        "width": 33.9785079375129,
+        "height": 7.365846690455044,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "매운갈비",
+        "en.ROMAN": "maeungalbi",
+        "en": "Spicy Galbi",
+        "ja": "辛味カルビ",
+        "zh_CN": "香辣排骨",
+        "zh_TW": "辣味排骨",
+        "price": "11000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF04_M0002_1134942_1-tf-2",
+      "ocr": {
+        "x": 2.45427189421765,
+        "y": 46.77751336476122,
+        "text": "양념목살",
+        "width": 35.003890306545756,
+        "height": 7.44337141529719,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "양념목살",
+        "en.ROMAN": "yangnyeommoksal",
+        "en": "Marinated Pork Shoulder",
+        "ja": "味付け豚肩ロース焼き",
+        "zh_CN": "调味猪肩肉",
+        "zh_TW": "調味豬肩肉",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF04_M0002_1134942_1-tf-3",
+      "ocr": {
+        "x": 2.587152868226138,
+        "y": 55.3376992966148,
+        "text": "매운목살",
+        "width": 34.84485806226019,
+        "height": 7.297808718731183,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "매운목살",
+        "en.ROMAN": "maeunmoksal",
+        "en": "spicy pork neck",
+        "ja": "辛い肩ロース",
+        "zh_CN": "辣颈肉",
+        "zh_TW": "辣頸肉",
+        "price": "12500",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF04_M0002_1134942_1-tf-4",
+      "ocr": {
+        "x": 2.439663649247724,
+        "y": 64.468915052053,
+        "text": "생삼겹",
+        "width": 31.23462015225041,
+        "height": 7.133105659810707,
+        "rotation": 359.57936552917937
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "생삼겹",
+        "en.ROMAN": "saengsamgyeop",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "鲜五花肉",
+        "zh_TW": "鮮五花肉",
+        "price": "14500",
+        "ingredients.ko": [
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "五花肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

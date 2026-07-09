@@ -1,0 +1,616 @@
+{
+  "meta": {
+    "file_name": "SL_IF03_M0001_296611_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:30 12:05:57",
+    "store_id": "296611",
+    "store_region": "SL",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          97.84172661870504,
+          2.697841726618705
+        ],
+        [
+          22.062350119904078,
+          2.697841726618705
+        ],
+        [
+          24.940047961630697,
+          98.92086330935251
+        ],
+        [
+          98.32134292565948,
+          96.0431654676259
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-0",
+      "ocr": {
+        "x": 38.61817253776293,
+        "y": 22.503971940147697,
+        "text": "생대구탕",
+        "width": 16.279720104369225,
+        "height": 3.911931982131116,
+        "rotation": 358.3802796211801
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "생대구탕",
+        "en.ROMAN": "saengdaegutang",
+        "en": "Spicy Codfish Stew",
+        "ja": "たらスープ",
+        "zh_CN": "鲜鳕鱼汤",
+        "zh_TW": "鮮鱈魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "대구"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-1",
+      "ocr": {
+        "x": 38.89654966383272,
+        "y": 26.650286416736524,
+        "text": "생대구지리",
+        "width": 19.871676401536025,
+        "height": 3.9444943505818744,
+        "rotation": 358.38027962118144
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생대구지리",
+        "en.ROMAN": "saengdaegujiri",
+        "en": "Codfish Soup",
+        "ja": "たらスープ",
+        "zh_CN": "鲜鳕鱼清汤",
+        "zh_TW": "鮮鱈魚清湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "대구"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-2",
+      "ocr": {
+        "x": 39.163344899155604,
+        "y": 30.93931540283402,
+        "text": "알고니탕",
+        "width": 16.3253299447685,
+        "height": 3.7946428571428554,
+        "rotation": 358.3802796211801
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "알고니탕",
+        "en.ROMAN": "algonitang",
+        "en": "Spicy Fish Roe and Intestine Stew",
+        "ja": "魚の卵入り白子スープ",
+        "zh_CN": "鱼子白子汤",
+        "zh_TW": "魚卵湯",
+        "price": "11000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-3",
+      "ocr": {
+        "x": 39.462319328743106,
+        "y": 35.06860689783432,
+        "text": "알대구탕",
+        "width": 16.083969628759057,
+        "height": 4.114989833286368,
+        "rotation": 358.3802796211801
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "알대구탕",
+        "en.ROMAN": "aldaegutang",
+        "en": "Spicy Codfish and Roe Stew",
+        "ja": "魚の卵入りたらスープ",
+        "zh_CN": "鳕鱼子汤",
+        "zh_TW": "鱈魚卵湯",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "대구",
+          "대구알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish",
+          "Codfish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ",
+          "タラの卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼",
+          "鳕鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚",
+          "鱈魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-4",
+      "ocr": {
+        "x": 39.507284569296466,
+        "y": 39.44841796330907,
+        "text": "알탕",
+        "width": 8.611370738274234,
+        "height": 3.747204581219385,
+        "rotation": 358.3802796211801
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "알탕",
+        "en.ROMAN": "altang",
+        "en": "Spicy Fish Roe Soup",
+        "ja": "魚の卵スープ",
+        "zh_CN": "鱼子汤",
+        "zh_TW": "魚卵湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "생선알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-5",
+      "ocr": {
+        "x": 39.91956678544902,
+        "y": 43.633689138161195,
+        "text": "대구탕",
+        "width": 11.365012484451048,
+        "height": 3.610165616957795,
+        "rotation": 358.3802796211801
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "대구탕",
+        "en.ROMAN": "daegutang",
+        "en": "Codfish Soup",
+        "ja": "たらスープ",
+        "zh_CN": "鳕鱼汤",
+        "zh_TW": "鱈魚湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "대구"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-6",
+      "ocr": {
+        "x": 40.098310899978365,
+        "y": 47.55517228489472,
+        "text": "대구지리",
+        "width": 15.789958887002694,
+        "height": 3.6270921769796405,
+        "rotation": 358.3802796211812
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "대구지리",
+        "en.ROMAN": "daegujiri",
+        "en": "Codfish Soup",
+        "ja": "たらスープ",
+        "zh_CN": "鳕鱼清汤",
+        "zh_TW": "鱈魚清湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "대구"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-7",
+      "ocr": {
+        "x": 40.18878330228924,
+        "y": 51.770254098544946,
+        "text": "특회덮밥",
+        "width": 15.995835111295195,
+        "height": 3.782024316715131,
+        "rotation": 358.380279621181
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "특회덮밥",
+        "en.ROMAN": "teukhoedeopbap",
+        "en": "Raw Fish Bibimbap Special",
+        "ja": "上刺身丼",
+        "zh_CN": "特级生鱼片盖饭",
+        "zh_TW": "特生魚片蓋飯",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-8",
+      "ocr": {
+        "x": 40.484695047630204,
+        "y": 55.944126431990085,
+        "text": "회덮밥",
+        "width": 11.196060263244393,
+        "height": 3.704726813421605,
+        "rotation": 358.3802796211801
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "회덮밥",
+        "en.ROMAN": "hoedeopbap",
+        "en": "Raw Fish Bibimbap",
+        "ja": "刺身丼",
+        "zh_CN": "生鱼片盖饭",
+        "zh_TW": "生魚片蓋飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-9",
+      "ocr": {
+        "x": 40.643146506668806,
+        "y": 60.067476188559624,
+        "text": "알밥",
+        "width": 8.250276347320114,
+        "height": 3.724224867408975,
+        "rotation": 358.380279621181
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "알밥",
+        "en.ROMAN": "albap",
+        "en": "Fish Roe Rice",
+        "ja": "魚の卵ご飯",
+        "zh_CN": "鱼子饭",
+        "zh_TW": "魚卵飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "날치알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Flying Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "トビコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "飞鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "飛魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-10",
+      "ocr": {
+        "x": 41.270712910330786,
+        "y": 75.95590629689356,
+        "text": "옥수수콘",
+        "width": 16.216121303956918,
+        "height": 3.6178018714946187,
+        "rotation": 358.380279621181
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "옥수수콘",
+        "en.ROMAN": "oksusu corn",
+        "en": "Corns",
+        "ja": "とうもろこしコーン",
+        "zh_CN": "玉米粒罐头",
+        "zh_TW": "玉米粒",
+        "price": "3000",
+        "ingredients.ko": [
+          "옥수수"
+        ],
+        "ingredients.en": [
+          "Corn"
+        ],
+        "ingredients.ja": [
+          "トウモロコシ"
+        ],
+        "ingredients.zh_CN": [
+          "玉米"
+        ],
+        "ingredients.zh_TW": [
+          "玉米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-11",
+      "ocr": {
+        "x": 41.47181879586206,
+        "y": 79.76642476673562,
+        "text": "계란찜",
+        "width": 11.200291539453287,
+        "height": 3.5380212254204904,
+        "rotation": 358.380279621181
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "계란찜",
+        "en.ROMAN": "gyeranjjim",
+        "en": "Steamed Eggs",
+        "ja": "茶碗蒸し",
+        "zh_CN": "鸡蛋羹",
+        "zh_TW": "蒸蛋",
+        "price": "3000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_296611_1-tf-12",
+      "ocr": {
+        "x": 41.957946910501676,
+        "y": 83.53015992884163,
+        "text": "튀김",
+        "width": 7.814111638760733,
+        "height": 3.4499921288860906,
+        "rotation": 358.3802796211801
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "튀김",
+        "en.ROMAN": "twigim",
+        "en": "Deep-fried Dish",
+        "ja": "天ぷら",
+        "zh_CN": "炸什锦",
+        "zh_TW": "炸物",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

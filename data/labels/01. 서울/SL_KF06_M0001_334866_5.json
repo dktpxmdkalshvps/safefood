@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "file_name": "SL_KF06_M0001_334866_5.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:05 17:46:00",
+    "store_id": "334866",
+    "store_region": "SL",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.6315789473684204,
+          12.613981762917932
+        ],
+        [
+          98.582995951417,
+          11.55015197568389
+        ],
+        [
+          98.98785425101214,
+          85.86626139817629
+        ],
+        [
+          2.0242914979757085,
+          86.62613981762918
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "3종치즈볼",
+        "en.ROMAN": "samjong cheese ball",
+        "en": "3 Kinds of Cheese Balls",
+        "ja": "3種のチーズボール",
+        "zh_CN": "三拼奶酪球",
+        "zh_TW": "起司球（3種）",
+        "price": "5000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_334866_5-tf_2",
+      "ocr": {
+        "x": 61.41495616197914,
+        "y": 24.810011540080872,
+        "text": "3종치즈볼",
+        "width": 15.576058324313276,
+        "height": 3.213910620790732,
+        "rotation": 358.38648991425134
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "오리지널치즈볼",
+        "en.ROMAN": "original cheese ball",
+        "en": "Original Cheese Balls",
+        "ja": "オリジナルチーズボール",
+        "zh_CN": "原味奶酪球",
+        "zh_TW": "原味起司球",
+        "price": "4000",
+        "ingredients.ko": [
+          "밀가루",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_334866_5-tf_20",
+      "ocr": {
+        "x": 62.63734035687213,
+        "y": 47.02234825312575,
+        "text": "오리지널치즈볼",
+        "width": 9.631810522979595,
+        "height": 1.4166280692653967,
+        "rotation": 358.148175297305
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "똥집감자튀김",
+        "en.ROMAN": "ttongjipgamjatwigim",
+        "en": "Deep-fried Chicken Gizzards and French Fries",
+        "ja": "砂肝のフライとフライドポテト",
+        "zh_CN": "鸡胗炸土豆",
+        "zh_TW": "雞胗炸薯條",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "닭모래집",
+          "감자",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken Gizzard",
+          "Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "砂肝",
+          "じゃがいも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡胗",
+          "土豆",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞胗",
+          "馬鈴薯",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "Lw6EjDcq7d",
+      "ocr": {
+        "x": 19.35196214682609,
+        "y": 72.09159870556984,
+        "text": "똥집감자튀김",
+        "width": 8.7810336852775,
+        "height": 1.4301186173336444,
+        "rotation": 358.6419206111302
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "깐풍똥집",
+        "en.ROMAN": "kkanpungttongjip",
+        "en": "Sweet and Spicy Chicken Gizzards",
+        "ja": "砂肝唐揚げとフライドポテトの辛味甘酢がけ",
+        "zh_CN": "干烹鸡胗",
+        "zh_TW": "乾烹雞胗",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "닭모래집"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken Gizzard"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "砂肝"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡胗"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞胗"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "vkaF9Eoa6n",
+      "ocr": {
+        "x": 19.484787985533572,
+        "y": 75.85653981364588,
+        "text": "깐풍똥집",
+        "width": 5.905103964015624,
+        "height": 1.4076451255191589,
+        "rotation": 358.693200115686
+      }
+    }
+  ]
+}

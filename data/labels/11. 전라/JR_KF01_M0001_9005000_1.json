@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "file_name": "JR_KF01_M0001_9005000_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:22 17:16:15",
+    "store_id": "9005000",
+    "store_region": "JR",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.29239766081871343,
+          2.302631578947368
+        ],
+        [
+          96.19883040935673,
+          2.960526315789473
+        ],
+        [
+          96.49122807017544,
+          84.04605263157895
+        ],
+        [
+          0.29239766081871343,
+          84.375
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "돌문어숙회",
+        "en.ROMAN": "dolmuneosukhoe",
+        "en": "Parboiled Octopus",
+        "ja": "ゆでマダコ",
+        "zh_CN": "白灼章鱼",
+        "zh_TW": "燙大章魚片",
+        "price": "30000",
+        "ingredients.ko": [
+          "문어"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "タコ"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_9005000_1-tf_32",
+      "ocr": {
+        "x": 6.703760958862313,
+        "y": 54.76761720273505,
+        "text": "돌문어숙회",
+        "width": 16.9210748851173,
+        "height": 2.399999999999999,
+        "rotation": 0
+      }
+    }
+  ]
+}

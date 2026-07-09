@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "file_name": "BS_KF04_M0002_581705_2.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:15 14:16:01",
+    "store_id": "581705",
+    "store_region": "BS",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          8.83977900552486,
+          0
+        ],
+        [
+          55.2486187845304,
+          0
+        ],
+        [
+          44.19889502762431,
+          95.03105590062114
+        ],
+        [
+          8.287292724527408,
+          96.27329192546584
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "꽃갈비살",
+        "en.ROMAN": "kkotgalbisal",
+        "en": "Grilled Boneless Galbi",
+        "ja": "霜降りカルビ焼き",
+        "zh_CN": "雪花肋条肉",
+        "zh_TW": "霜降牛肋條",
+        "price": "11000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "_Bk_0OJtlY",
+      "ocr": {
+        "x": 20.354887341978852,
+        "y": 23.908598102433775,
+        "text": "꽃갈비살",
+        "width": 26.02871434427217,
+        "height": 4.892978291152896,
+        "rotation": 4.589012556629484
+      }
+    }
+  ]
+}

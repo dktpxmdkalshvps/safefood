@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "file_name": "KW_KF01_M0001_1311515_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:06 12:44:56",
+    "store_id": "1311515",
+    "store_region": "KW",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          95.67567567567568,
+          7.5126903553299496
+        ],
+        [
+          18.73873873873874,
+          6.903553299492386
+        ],
+        [
+          18.01801801801802,
+          95.83756345177665
+        ],
+        [
+          87.74774774774775,
+          99.8984771573604
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "건강삼계탕",
+        "en.ROMAN": "geongangsamgyetang",
+        "en": "Ginseng Chicken Soup for Health",
+        "ja": "健康サムゲタン",
+        "zh_CN": "营养参鸡汤",
+        "zh_TW": "健康蔘雞湯",
+        "price": "17000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1311515_1-tf_2",
+      "ocr": {
+        "x": 45.58004356412066,
+        "y": 24.053488742574288,
+        "text": "건강",
+        "width": 7.974227944030874,
+        "height": 2.4349003339911612,
+        "rotation": 1.2593145729784965
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "미용삼계탕",
+        "en.ROMAN": "miyongsamgyetang",
+        "en": "Ginseng Chicken Soup for Beauty",
+        "ja": "美容サムゲタン",
+        "zh_CN": "美容参鸡汤",
+        "zh_TW": "美容蔘雞湯",
+        "price": "17000",
+        "ingredients.ko": [
+          "닭고기",
+          "인삼"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Ginseng"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "高麗人参"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "人参"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "人蔘"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1311515_1-tf_13",
+      "ocr": {
+        "x": 44.6444458286728,
+        "y": 39.12490881598397,
+        "text": "미용",
+        "width": 7.605583953857399,
+        "height": 2.400000000000002,
+        "rotation": 1.3465589863445757
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "죽",
+        "en.ROMAN": "juk",
+        "en": "Porridge",
+        "ja": "粥",
+        "zh_CN": "粥",
+        "zh_TW": "粥",
+        "price": "18000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1311515_1-tf_20",
+      "ocr": {
+        "x": 43.86670804172325,
+        "y": 53.76685232921887,
+        "text": "죽",
+        "width": 3.815790422550069,
+        "height": 2.2156137158252114,
+        "rotation": 2.162960783165204
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "얼큰삼계탕",
+        "en.ROMAN": "eolkeunsamgyetang",
+        "en": "Spicy Ginseng Chicken Soup",
+        "ja": "辛味サムゲタン",
+        "zh_CN": "辣爽参鸡汤",
+        "zh_TW": "香辣蔘雞湯",
+        "price": "18000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1311515_1-tf_26",
+      "ocr": {
+        "x": 43.04485717754746,
+        "y": 67.88084635330523,
+        "text": "얼큰",
+        "width": 7.5051355122176515,
+        "height": 2.402109236802637,
+        "rotation": 3.9662688827987154
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "옻",
+        "en.ROMAN": "onggiganjang chicken +nunkkotgal lychee kin+onggigochujangmaneul chicken",
+        "en": "lacquer",
+        "ja": "漆",
+        "zh_CN": "漆",
+        "zh_TW": "漆",
+        "price": "19000",
+        "ingredients.ko": [
+          "옻"
+        ],
+        "ingredients.en": [
+          "Sumac"
+        ],
+        "ingredients.ja": [
+          "漆"
+        ],
+        "ingredients.zh_CN": [
+          "漆木"
+        ],
+        "ingredients.zh_TW": [
+          "漆"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1311515_1-tf_36",
+      "ocr": {
+        "x": 42.439740367877576,
+        "y": 81.58960727618287,
+        "text": "옻",
+        "width": 3.72737072477867,
+        "height": 2.2541230926547886,
+        "rotation": 5.794188952946513
+      }
+    }
+  ]
+}

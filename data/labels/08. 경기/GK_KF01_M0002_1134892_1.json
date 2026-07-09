@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_1134892_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "1134892",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 25.580480125934667,
+        "y": 14.674653858538159,
+        "width": 53.48645844513612,
+        "height": 67.85982653372302,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "뼈해장국",
+        "en.ROMAN": "ppyeohaejangguk",
+        "en": "Pork Backbone Hangover Soup",
+        "ja": "豚の背骨酔い覚ましスープ",
+        "zh_CN": "腔骨醒酒汤",
+        "zh_TW": "豬骨醒酒湯",
+        "price": "14000",
+        "ingredients.ko": [
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1134892_1-tf_0",
+      "ocr": {
+        "x": 28.898110944541344,
+        "y": 20.416534494422702,
+        "text": "뼈해장국",
+        "width": 23.379355950067296,
+        "height": 6.096362330974181,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "무뼈해장국",
+        "en.ROMAN": "muppyeohaejangguk",
+        "en": "Pork Rib Hangover Soup without Rib",
+        "ja": "豚の背骨酔い覚ましスープ(骨無し)",
+        "zh_CN": "无骨醒酒汤",
+        "zh_TW": "無骨醒酒湯",
+        "price": "14000",
+        "ingredients.ko": [
+          "무",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Radish",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "大根",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "白萝卜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "白蘿蔔",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1134892_1-tf_1",
+      "ocr": {
+        "x": 28.528295372309316,
+        "y": 29.548727236965092,
+        "text": "무뼈해장국",
+        "width": 23.687966130584638,
+        "height": 6.041550540812475,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "육개장",
+        "en.ROMAN": "yukgaejang",
+        "en": "Spicy Beef Soup",
+        "ja": "ユッケジャン",
+        "zh_CN": "香辣牛肉汤",
+        "zh_TW": "香辣牛肉湯",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "숙주",
+          "고사리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Mung Bean Sprout",
+          "Bracken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "緑豆もやし",
+          "ワラビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "绿豆芽",
+          "蕨菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "綠豆芽",
+          "蕨菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1134892_1-tf_3",
+      "ocr": {
+        "x": 28.432738754293858,
+        "y": 40.7864176871921,
+        "text": "육개장",
+        "width": 24.259177084552377,
+        "height": 6.262193423919069,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뼈추가",
+        "en.ROMAN": "ppyeo chuga",
+        "en": "Extra Serving of Pork Backbone",
+        "ja": "豚の背骨追加",
+        "zh_CN": "另加腔骨",
+        "zh_TW": "加點豬骨",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1134892_1-tf_4",
+      "ocr": {
+        "x": 34.05278646959921,
+        "y": 61.36302555899611,
+        "text": "뼈추가",
+        "width": 23.960789545284587,
+        "height": 6.196498250527897,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "우거지추가",
+        "en.ROMAN": "ugeoji chuga",
+        "en": "Extra Serving of Napa Cabbage",
+        "ja": "白菜追加",
+        "zh_CN": "另加干白菜",
+        "zh_TW": "加點乾白菜",
+        "price": "2000",
+        "ingredients.ko": [
+          "우거지"
+        ],
+        "ingredients.en": [
+          "Napa Cabbage"
+        ],
+        "ingredients.ja": [
+          "白菜"
+        ],
+        "ingredients.zh_CN": [
+          "干白菜"
+        ],
+        "ingredients.zh_TW": [
+          "乾白菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1134892_1-tf_6",
+      "ocr": {
+        "x": 33.69996548997818,
+        "y": 70.49871927449391,
+        "text": "우거지추가",
+        "width": 24.41978454492285,
+        "height": 6.386201360426998,
+        "rotation": 0
+      }
+    }
+  ]
+}

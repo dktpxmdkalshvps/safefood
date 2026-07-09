@@ -1,0 +1,685 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_333866_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:10:05 18:08:06",
+    "store_id": "333866",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          8.818011257035648,
+          11.75
+        ],
+        [
+          8.067542213883677,
+          79.5
+        ],
+        [
+          89.30581613508443,
+          78.25
+        ],
+        [
+          86.67917448405254,
+          8
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "염소탕",
+        "en.ROMAN": "yeomsotang",
+        "en": "Goat Soup",
+        "ja": "山羊肉スープ",
+        "zh_CN": "山羊肉汤",
+        "zh_TW": "山羊肉湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "염소고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Goat Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ヤギ肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "山羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "山羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_1",
+      "ocr": {
+        "x": 49.12686424061635,
+        "y": 15.198027281745015,
+        "text": "염소탕",
+        "width": 13.31845238095233,
+        "height": 6.9076731713918775,
+        "rotation": 358.44386326433414
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "사철탕",
+        "en.ROMAN": "sacheoltang",
+        "en": "Dog Meat Soup",
+        "ja": "犬肉スープ",
+        "zh_CN": "狗肉汤",
+        "zh_TW": "香肉湯",
+        "price": "14000",
+        "ingredients.ko": [
+          "개고기"
+        ],
+        "ingredients.en": [
+          "Dog Meat"
+        ],
+        "ingredients.ja": [
+          "犬肉"
+        ],
+        "ingredients.zh_CN": [
+          "狗肉"
+        ],
+        "ingredients.zh_TW": [
+          "香肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_3",
+      "ocr": {
+        "x": 11.710019407295775,
+        "y": 17.080883826629705,
+        "text": "사철탕",
+        "width": 14.940454690256104,
+        "height": 7.117844409101782,
+        "rotation": 357.77944201973196
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "염소수육",
+        "en.ROMAN": "yeomsosuyuk",
+        "en": "Boiled Goat Slices",
+        "ja": "ゆで山羊肉",
+        "zh_CN": "白切山羊肉",
+        "zh_TW": "白切山羊肉",
+        "price": "28000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_4",
+      "ocr": {
+        "x": 49.36300992799711,
+        "y": 22.430101901966072,
+        "text": "염소수육",
+        "width": 17.808588150226235,
+        "height": 6.82191580540022,
+        "rotation": 358.4438632643339
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "수육",
+        "en.ROMAN": "suyuk",
+        "en": "Boiled Pork Slices",
+        "ja": "ゆで肉",
+        "zh_CN": "白切肉",
+        "zh_TW": "白切肉",
+        "price": "28000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "FVfNL0ij_q",
+      "ocr": {
+        "x": 11.610027796555164,
+        "y": 23.824959733625725,
+        "text": "수육",
+        "width": 9.693304081752936,
+        "height": 6.996977982149182,
+        "rotation": 359.01457753961836
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "염소무침",
+        "en.ROMAN": "yeomsomuchim",
+        "en": "Goat Meat Salad",
+        "ja": "山羊肉の和え物",
+        "zh_CN": "凉拌山羊肉",
+        "zh_TW": "涼拌山羊肉",
+        "price": "28000",
+        "ingredients.ko": [
+          "야채",
+          "염소고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Goat Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ヤギ肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "山羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "山羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_7",
+      "ocr": {
+        "x": 49.48419937838766,
+        "y": 29.747426138450063,
+        "text": "염소무침",
+        "width": 17.559523809523714,
+        "height": 7.006879520598336,
+        "rotation": 357.82184615367606
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "전골",
+        "en.ROMAN": "jeongol",
+        "en": "Hot Pot",
+        "ja": "寄せ鍋",
+        "zh_CN": "火锅",
+        "zh_TW": "牛肉火鍋",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "jac0VokfOe",
+      "ocr": {
+        "x": 11.67242501313819,
+        "y": 31.077957101846486,
+        "text": "전골",
+        "width": 9.734513274336246,
+        "height": 6.286836935166991,
+        "rotation": 358.9755437556411
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "염소전골",
+        "en.ROMAN": "yeomsojeongol",
+        "en": "Goat Hot Pot",
+        "ja": "山羊肉の寄せ鍋",
+        "zh_CN": "山羊肉火锅",
+        "zh_TW": "山羊肉火鍋",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "염소고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Goat Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ヤギ肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "山羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "山羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_11",
+      "ocr": {
+        "x": 49.3345392814672,
+        "y": 36.53585040742857,
+        "text": "염소전골",
+        "width": 18.173181198644823,
+        "height": 7.208994708994688,
+        "rotation": 358.4438632643332
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "무침",
+        "en.ROMAN": "muchim",
+        "en": "Salad",
+        "ja": "和え物",
+        "zh_CN": "凉拌",
+        "zh_TW": "涼拌",
+        "price": "28000",
+        "ingredients.ko": [
+          "염소고기"
+        ],
+        "ingredients.en": [
+          "Goat Meat"
+        ],
+        "ingredients.ja": [
+          "ヤギ肉"
+        ],
+        "ingredients.zh_CN": [
+          "山羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "山羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_12",
+      "ocr": {
+        "x": 11.758312317171189,
+        "y": 37.46651963098046,
+        "text": "무침",
+        "width": 9.002976190476184,
+        "height": 7.1759259259259265,
+        "rotation": 359.30794314614064
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_15",
+      "ocr": {
+        "x": 60.216064756684304,
+        "y": 46.8584656084656,
+        "text": "소주",
+        "width": 9.355118068682508,
+        "height": 6.779100529100528,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "삼계탕",
+        "en.ROMAN": "samgyetang",
+        "en": "Ginseng Chicken Soup",
+        "ja": "サムゲタン",
+        "zh_CN": "参鸡汤",
+        "zh_TW": "蔘雞湯",
+        "price": "14000",
+        "ingredients.ko": [
+          "인삼",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_17",
+      "ocr": {
+        "x": 11.680068548151315,
+        "y": 47.98441872740698,
+        "text": "삼계탕",
+        "width": 12.847222222222213,
+        "height": 6.944444444444445,
+        "rotation": 359.30794314614064
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_18",
+      "ocr": {
+        "x": 60.34782698300378,
+        "y": 54.1494844649511,
+        "text": "맥주",
+        "width": 9.434175404474193,
+        "height": 7.043650793650792,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "옻닭",
+        "en.ROMAN": "otdak",
+        "en": "Braised Chicken with Sumac",
+        "ja": "鶏肉の漆エキス煮込み",
+        "zh_CN": "漆木鸡汤",
+        "zh_TW": "漆木雞",
+        "price": "60000",
+        "ingredients.ko": [
+          "닭고기",
+          "옻"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Sumac"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "漆"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "漆木"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "漆"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_20",
+      "ocr": {
+        "x": 11.398525946589556,
+        "y": 55.000042151101695,
+        "text": "옻닭",
+        "width": 9.08122233640424,
+        "height": 6.941600418116545,
+        "rotation": 359.30794314614275
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료",
+        "en.ROMAN": "eumnyo",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_22",
+      "ocr": {
+        "x": 60.54532717706151,
+        "y": 61.541005291005284,
+        "text": "음료",
+        "width": 9.381470513946404,
+        "height": 6.779100529100528,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "백숙",
+        "en.ROMAN": "baeksuk",
+        "en": "Whole Chicken Soup",
+        "ja": "鶏肉の水炊き",
+        "zh_CN": "清炖鸡",
+        "zh_TW": "藥膳燉雞",
+        "price": "60000",
+        "ingredients.ko": [
+          "인삼",
+          "마늘",
+          "닭고기",
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Garlic",
+          "Chicken",
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "にんにく",
+          "鶏肉",
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "大蒜",
+          "鸡肉",
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "大蒜",
+          "雞肉",
+          "糯米"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_24",
+      "ocr": {
+        "x": 11.68607533109684,
+        "y": 62.32261066086833,
+        "text": "백숙",
+        "width": 8.823175656693339,
+        "height": 6.892916072893092,
+        "rotation": 359.30794314614116
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "한방오리",
+        "en.ROMAN": "hanbangori",
+        "en": "Braised Duck with Medicinal Herbs",
+        "ja": "韓方鴨",
+        "zh_CN": "药膳鸭肉",
+        "zh_TW": "藥膳鴨肉",
+        "price": "60000",
+        "ingredients.ko": [
+          "야채",
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_333866_1-tf_26",
+      "ocr": {
+        "x": 11.551493392072668,
+        "y": 69.4827645508776,
+        "text": "한방오리",
+        "width": 17.11418071811796,
+        "height": 6.911375661375664,
+        "rotation": 359.30794314614013
+      }
+    }
+  ]
+}

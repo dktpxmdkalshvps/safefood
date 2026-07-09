@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "file_name": "IN_KF02_M0002_692412_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:25 13:48:17",
+    "store_id": "692412",
+    "store_region": "IN",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          95.66982408660351,
+          21.218274111675125
+        ],
+        [
+          99.05277401894452,
+          60.40609137055838
+        ],
+        [
+          15.426251691474967,
+          60.50761421319797
+        ],
+        [
+          17.726657645466847,
+          22.639593908629436
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "고기왕만두",
+        "en.ROMAN": "gogiwangmandu",
+        "en": "Jumbo Meat Mandu",
+        "ja": "王餃子",
+        "zh_CN": "肉馅大包子",
+        "zh_TW": "大肉包",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF02_M0002_692412_1-tf_2",
+      "ocr": {
+        "x": 23.880880513665076,
+        "y": 26.641639225021006,
+        "text": "고기왕만두",
+        "width": 28.172079007990323,
+        "height": 3.4907912163270938,
+        "rotation": 359.17047104552046
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "김치왕만두",
+        "en.ROMAN": "kimchiwangmandu",
+        "en": "Jumbo Kimchi Mandu",
+        "ja": "キムチ王餃子",
+        "zh_CN": "辛奇馅大包子",
+        "zh_TW": "辛奇大包子",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "辛奇"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF02_M0002_692412_1-tf_5",
+      "ocr": {
+        "x": 23.57593958027571,
+        "y": 30.603047643671236,
+        "text": "김치왕만두",
+        "width": 28.488794009910915,
+        "height": 3.6681672433987695,
+        "rotation": 359.3077163104786
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "흑미찐빵",
+        "en.ROMAN": "heungmijjinppang",
+        "en": "Black Rice Steamed Bun with Red Bean Filling",
+        "ja": "黒米蒸しパン",
+        "zh_CN": "蒸黑米馒头",
+        "zh_TW": "黑米豆沙包",
+        "price": "5000",
+        "ingredients.ko": [
+          "빵",
+          "밀가루",
+          "흑미"
+        ],
+        "ingredients.en": [
+          "Bread",
+          "Wheat Flour",
+          "Black Rice"
+        ],
+        "ingredients.ja": [
+          "パン",
+          "小麦粉",
+          "黒米"
+        ],
+        "ingredients.zh_CN": [
+          "面包",
+          "面粉",
+          "黑米"
+        ],
+        "ingredients.zh_TW": [
+          "麵包",
+          "麵粉",
+          "黑米"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF02_M0002_692412_1-tf_8",
+      "ocr": {
+        "x": 23.4710234841479,
+        "y": 34.65017270289613,
+        "text": "흑미찐빵",
+        "width": 28.586598074617534,
+        "height": 3.69949590997051,
+        "rotation": 359.6345793846031
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "우유찐빵",
+        "en.ROMAN": "uyujjinppang",
+        "en": "Steamed Milk Bun",
+        "ja": "牛乳蒸しパン",
+        "zh_CN": "牛奶馒头",
+        "zh_TW": "牛奶豆沙包",
+        "price": "5000",
+        "ingredients.ko": [
+          "우유"
+        ],
+        "ingredients.en": [
+          "Milk"
+        ],
+        "ingredients.ja": [
+          "牛乳"
+        ],
+        "ingredients.zh_CN": [
+          "牛奶"
+        ],
+        "ingredients.zh_TW": [
+          "牛奶"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF02_M0002_692412_1-tf_11",
+      "ocr": {
+        "x": 23.149717788710138,
+        "y": 38.922025314954666,
+        "text": "우유찐빵",
+        "width": 28.839594977504536,
+        "height": 3.7241466101415654,
+        "rotation": 359.6314877699135
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "고기통만두",
+        "en.ROMAN": "gogitongmandu",
+        "en": "Meat Mandu",
+        "ja": "丸ごと肉餃子",
+        "zh_CN": "肉饺",
+        "zh_TW": "肉餡餃子",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF02_M0002_692412_1-tf_13",
+      "ocr": {
+        "x": 22.79063075812548,
+        "y": 43.228976445107,
+        "text": "고기통만두",
+        "width": 28.86241607118353,
+        "height": 3.764817226923604,
+        "rotation": 359.64320802273147
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "김치통만두",
+        "en.ROMAN": "kimchitongmandu",
+        "en": "Kimchi Mandu",
+        "ja": "蒸しキムチ餃子",
+        "zh_CN": "辛奇饺子",
+        "zh_TW": "辛奇餃子",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "辛奇"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF02_M0002_692412_1-tf_16",
+      "ocr": {
+        "x": 22.531518232086846,
+        "y": 47.484148625721005,
+        "text": "김치통만두",
+        "width": 29.08440994114331,
+        "height": 3.9541539565586166,
+        "rotation": 359.6402612749701
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "새우통만두",
+        "en.ROMAN": "saeutongmandu",
+        "en": "Shrimp Whole Mandu",
+        "ja": "蒸し海老餃子",
+        "zh_CN": "虾饺",
+        "zh_TW": "大蝦餃子",
+        "price": "6000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "蝦"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF02_M0002_692412_1-tf_19",
+      "ocr": {
+        "x": 22.113000869171003,
+        "y": 52.007962494482875,
+        "text": "새우통만두",
+        "width": 29.43043312305863,
+        "height": 3.8879678210010593,
+        "rotation": 359.6440262673044
+      }
+    }
+  ]
+}

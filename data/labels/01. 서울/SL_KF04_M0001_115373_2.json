@@ -1,0 +1,639 @@
+{
+  "meta": {
+    "file_name": "SL_KF04_M0001_115373_2.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:10:22 16:32:09",
+    "store_id": "115373",
+    "store_region": "SL",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.985074626865671,
+          9.56175298804781
+        ],
+        [
+          91.04477611940298,
+          19.52191235059761
+        ],
+        [
+          94.32835820895522,
+          91.63346613545816
+        ],
+        [
+          6.567164179104478,
+          94.02390438247012
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "족마호크",
+        "en.ROMAN": "jongmahokeu",
+        "en": "a foot horsehawk",
+        "ja": "豚足の甘辛ソースがけ",
+        "zh_CN": "甜辣酱猪蹄",
+        "zh_TW": "JOKMAHOC",
+        "price": "42000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_11",
+      "ocr": {
+        "x": 21.48869296706864,
+        "y": 26.172228482954367,
+        "text": "족마호크",
+        "width": 10.075157225109834,
+        "height": 3.6206192979858685,
+        "rotation": 2.552108131941168
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "쟁반쫄면",
+        "en.ROMAN": "jaengbanjjolmyeon",
+        "en": "Jumbo Sized Spicy Chewy Noodles",
+        "ja": "大皿チョルミョン",
+        "zh_CN": "大盘辣拌筋面",
+        "zh_TW": "大盤Q麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "콩나물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Sprout",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆もやし",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "黄豆芽",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "黃豆芽",
+          "麵粉"
+        ],
+        "allergy": [
+          "콩",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_17",
+      "ocr": {
+        "x": 76.59999999999997,
+        "y": 32.133333333333276,
+        "text": "쟁반쫄면",
+        "width": 5.674999999999985,
+        "height": 2.355653241172781,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "쟁반막국수",
+        "en.ROMAN": "jaengbanmakguksu",
+        "en": "Jumbo Buckwheat Noodles",
+        "ja": "大皿混ぜそば",
+        "zh_CN": "大盘荞麦凉面",
+        "zh_TW": "大盤蕎麥麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "오이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Cucumber"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "キュウリ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "黄瓜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "小黃瓜"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_20",
+      "ocr": {
+        "x": 76.67500000000001,
+        "y": 34.6333333333332,
+        "text": "쟁반막국수",
+        "width": 7.216632395162141,
+        "height": 2.355653241172739,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "춘천물막국수",
+        "en.ROMAN": "Chuncheonmulmakguksu",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "チュンチョン冷や汁混ぜそば",
+        "zh_CN": "春川荞麦凉面",
+        "zh_TW": "春川蕎麥涼麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "오이",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Cucumber",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "キュウリ",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "黄瓜",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "小黃瓜",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_25",
+      "ocr": {
+        "x": 83.03347660422259,
+        "y": 41.399090576865476,
+        "text": "춘천물막국수",
+        "width": 8.358358416387278,
+        "height": 2.4666522153114596,
+        "rotation": 0.009304793251601495
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "보쌈",
+        "en.ROMAN": "bossam",
+        "en": "Napa Wraps with Pork",
+        "ja": "ポサム",
+        "zh_CN": "菜包肉",
+        "zh_TW": "菜包肉",
+        "price": "33000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_28",
+      "ocr": {
+        "x": 57.62211905470008,
+        "y": 42.97637226738166,
+        "text": "보쌈",
+        "width": 4.239912928267959,
+        "height": 2.9999999999999964,
+        "rotation": 0.6579061123958354
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "반반막국수",
+        "en.ROMAN": "banbanmakguksu",
+        "en": "Buckwheat Noodles (Half and Half)",
+        "ja": "半々混ぜそば",
+        "zh_CN": "荞麦凉面双拼",
+        "zh_TW": "雙拼蕎麥麵",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "오이",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Cucumber",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "キュウリ",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "黄瓜",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "小黃瓜",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_36",
+      "ocr": {
+        "x": 83.38840074163427,
+        "y": 49.793535201226966,
+        "text": "반반막국수",
+        "width": 6.999999999999998,
+        "height": 2.4666666666666677,
+        "rotation": 359.2628286782092
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "해물부추전",
+        "en.ROMAN": "haemulbuchujeon",
+        "en": "Seafood and Chive Pancake",
+        "ja": "海鮮入りニラのチヂミ",
+        "zh_CN": "海鲜韭菜煎饼",
+        "zh_TW": "海鮮韭菜煎餅",
+        "price": "12000",
+        "ingredients.ko": [
+          "해산물",
+          "계란",
+          "밀가루",
+          "부추"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Eggs",
+          "Wheat Flour",
+          "Chives"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "卵",
+          "小麦粉",
+          "ニラ"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "鸡蛋",
+          "面粉",
+          "韭菜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "雞蛋",
+          "麵粉",
+          "韭菜"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_44",
+      "ocr": {
+        "x": 72.68660436575998,
+        "y": 59.808648165938834,
+        "text": "해물부추전",
+        "width": 7.849999999999996,
+        "height": 2.630130746610727,
+        "rotation": 359.17767314088877
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "해물김치전",
+        "en.ROMAN": "haemulkimchijeon",
+        "en": "Seafood and Kimchi Pancake",
+        "ja": "海鮮入りキムチのチヂミ",
+        "zh_CN": "海鲜辛奇煎饼",
+        "zh_TW": "海鮮辛奇煎餅",
+        "price": "12000",
+        "ingredients.ko": [
+          "김치",
+          "해산물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Seafood",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "海鮮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "海鲜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "海鮮",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_51",
+      "ocr": {
+        "x": 72.79035097477757,
+        "y": 67.22531321790028,
+        "text": "해물김치전",
+        "width": 7.899999999999983,
+        "height": 2.6815700909089455,
+        "rotation": 359.2112911310003
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "보쌈김치추가",
+        "en.ROMAN": "bossamkimchi chuga",
+        "en": "Extra Serving of Wrapped Kimchi",
+        "ja": "ポサムキムチ追加",
+        "zh_CN": "另加包卷辛奇",
+        "zh_TW": "加點包捲辛奇",
+        "price": "47000",
+        "ingredients.ko": [
+          "김치",
+          "배추",
+          "무"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Napa Cabbage",
+          "Radish"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "白菜",
+          "大根"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "白菜",
+          "白萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "白菜",
+          "白蘿蔔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "4JfNUDN9ZZ",
+      "ocr": {
+        "x": 42.33469489344258,
+        "y": 69.63926524711955,
+        "text": "보쌈김치추가",
+        "width": 4.055138654630317,
+        "height": 1.1259103232215872,
+        "rotation": 359.0735216584705
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반반전",
+        "en.ROMAN": "banbanjeon",
+        "en": "Half and Half of Pancakes",
+        "ja": "半々チヂミ",
+        "zh_CN": "双拼煎饼",
+        "zh_TW": "反轉",
+        "price": "14000",
+        "ingredients.ko": [
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_60",
+      "ocr": {
+        "x": 72.94852985619089,
+        "y": 75.97832826782253,
+        "text": "반반전",
+        "width": 5.003666793742973,
+        "height": 2.684245675989571,
+        "rotation": 359.17767314088655
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "냉채족발",
+        "en.ROMAN": "naengchaejokbal",
+        "en": "Chilled Braised Pigs' Feet Salad",
+        "ja": "豚足冷菜",
+        "zh_CN": "酱猪蹄冷盘",
+        "zh_TW": "豬腳冷盤",
+        "price": "37000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_62",
+      "ocr": {
+        "x": 41.91918367566344,
+        "y": 78.19925504703026,
+        "text": "냉채족발",
+        "width": 9.235959705764861,
+        "height": 3.496692332943191,
+        "rotation": 358.3422546204272
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "반반족발",
+        "en.ROMAN": "banbanjokbal",
+        "en": "Half and Half Braised Pigs' Feet",
+        "ja": "半々豚足",
+        "zh_CN": "酱猪蹄双拼",
+        "zh_TW": "雙拼豬腳",
+        "price": "42000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_115373_2-tf_65",
+      "ocr": {
+        "x": 9.620205322895826,
+        "y": 80.52702899567183,
+        "text": "반반족발",
+        "width": 9.51708594850268,
+        "height": 3.3686860891634396,
+        "rotation": 358.54845686636617
+      }
+    }
+  ]
+}

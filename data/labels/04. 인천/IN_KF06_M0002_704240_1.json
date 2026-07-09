@@ -1,0 +1,602 @@
+{
+  "meta": {
+    "file_name": "IN_KF06_M0002_704240_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:16 12:55:08",
+    "store_id": "704240",
+    "store_region": "IN",
+    "store_type": "KF06",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          94.41805225653206,
+          31.645569620253166
+        ],
+        [
+          95.24940617577197,
+          88.18565400843882
+        ],
+        [
+          5.10688836104513,
+          85.23206751054853
+        ],
+        [
+          6.65083135391924,
+          30.16877637130801
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "똥집튀김",
+        "en.ROMAN": "ttongjiptwigim",
+        "en": "Deep-fried Chicken Gizzards",
+        "ja": "砂肝の唐揚げ",
+        "zh_CN": "炸鸡胗",
+        "zh_TW": "炸雞胗",
+        "price": "16000",
+        "ingredients.ko": [
+          "닭모래집"
+        ],
+        "ingredients.en": [
+          "Chicken Gizzard"
+        ],
+        "ingredients.ja": [
+          "砂肝"
+        ],
+        "ingredients.zh_CN": [
+          "鸡胗"
+        ],
+        "ingredients.zh_TW": [
+          "雞胗"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_15",
+      "ocr": {
+        "x": 44.11534962463237,
+        "y": 35.65199395723604,
+        "text": "똥집튀김",
+        "width": 7.762419423247718,
+        "height": 5.006424777827465,
+        "rotation": 0.5995359981842512
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_17",
+      "ocr": {
+        "x": 76.06697198457026,
+        "y": 36.037395735680875,
+        "text": "소주",
+        "width": 4.11070402057308,
+        "height": 3.971108655921658,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "병맥주",
+        "en.ROMAN": "byeongmaekju",
+        "en": "Bottled Beer",
+        "ja": "瓶ビール",
+        "zh_CN": "瓶装啤酒",
+        "zh_TW": "瓶裝啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_20",
+      "ocr": {
+        "x": 76.14197198457025,
+        "y": 40.27568743788254,
+        "text": "병맥주",
+        "width": 5.94954202314471,
+        "height": 4.069828219278198,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "감자튀김",
+        "en.ROMAN": "gamjatwigim",
+        "en": "French Fries",
+        "ja": "フライドポテト",
+        "zh_CN": "炸薯条",
+        "zh_TW": "炸薯條",
+        "price": "10000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_21",
+      "ocr": {
+        "x": 41.05456303140357,
+        "y": 40.831086829282555,
+        "text": "감자튀김",
+        "width": 7.844437359193002,
+        "height": 5.063952691886794,
+        "rotation": 0.639684106638299
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_26",
+      "ocr": {
+        "x": 76.19755298328451,
+        "y": 44.6864559236564,
+        "text": "막걸리",
+        "width": 5.7995420231447925,
+        "height": 4.000837505849302,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "노가리",
+        "en.ROMAN": "nogari",
+        "en": "Dried Young Pollack",
+        "ja": "干し姫タラ",
+        "zh_CN": "小明太鱼干",
+        "zh_TW": "小明太魚乾",
+        "price": "16000",
+        "ingredients.ko": [
+          "명태"
+        ],
+        "ingredients.en": [
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "明太子"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_28",
+      "ocr": {
+        "x": 41.08467085677949,
+        "y": 46.243329774004216,
+        "text": "노가리",
+        "width": 5.9207514430801025,
+        "height": 4.852275017104188,
+        "rotation": 0.6425509895223058
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_34",
+      "ocr": {
+        "x": 76.20022898842778,
+        "y": 48.95924298257249,
+        "text": "청하",
+        "width": 4.205123021858775,
+        "height": 4.06982821927823,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "오뎅탕",
+        "en.ROMAN": "odengtang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "12000",
+        "ingredients.ko": [
+          "생선살",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish Fillet",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚の身",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_36",
+      "ocr": {
+        "x": 40.99990201695671,
+        "y": 51.62048812605545,
+        "text": "오뎅탕",
+        "width": 6.194019453368981,
+        "height": 5.118308882593327,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "칭따오",
+        "en.ROMAN": "Tsingtao",
+        "en": "Tsingtao",
+        "ja": "青島",
+        "zh_CN": "青岛啤酒",
+        "zh_TW": "青島啤酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_39",
+      "ocr": {
+        "x": 76.23906699099926,
+        "y": 53.296254248130765,
+        "text": "칭따오",
+        "width": 6.041285019287239,
+        "height": 4.138818932707091,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "번데기탕",
+        "en.ROMAN": "beondegitang",
+        "en": "Pupa Soup",
+        "ja": "カイコのさなぎスープ",
+        "zh_CN": "蝉蛹汤",
+        "zh_TW": "蠶蛹湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "번데기"
+        ],
+        "ingredients.en": [
+          "Pupae"
+        ],
+        "ingredients.ja": [
+          "カイコのさなぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蝉蛹"
+        ],
+        "ingredients.zh_TW": [
+          "蠶蛹"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_45",
+      "ocr": {
+        "x": 40.92085281999428,
+        "y": 57.016540644476386,
+        "text": "번데기탕",
+        "width": 7.944117436412248,
+        "height": 5.119492450631489,
+        "rotation": 0.6257130112123264
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "생맥주",
+        "en.ROMAN": "saengmaekju",
+        "en": "Draft Beer",
+        "ja": "生ビール",
+        "zh_CN": "扎啤",
+        "zh_TW": "生啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "-wSBtbKtA6",
+      "ocr": {
+        "x": 79.56356969753526,
+        "y": 60.624017173563445,
+        "text": "생맥주",
+        "width": 6.066964038457457,
+        "height": 3.728793314663333,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨",
+        "en.ROMAN": "fried chicken",
+        "en": "Fried Chicken",
+        "ja": "フライドチキン",
+        "zh_CN": "脆皮炸鸡",
+        "zh_TW": "炸雞",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_48",
+      "ocr": {
+        "x": 11.222826420109314,
+        "y": 60.72036505535491,
+        "text": "뼈있는후라이드치킨",
+        "width": 16.217974316030038,
+        "height": 5.119903575098098,
+        "rotation": 0.6257250403896251
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "먹태",
+        "en.ROMAN": "meoktae",
+        "en": "Grilled Dried Pollack",
+        "ja": "干しスケトウダラ焼き",
+        "zh_CN": "黑干明太鱼",
+        "zh_TW": "乾黑斑明太魚乾",
+        "price": "16000",
+        "ingredients.ko": [
+          "황태"
+        ],
+        "ingredients.en": [
+          "Dried Pollack"
+        ],
+        "ingredients.ja": [
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "干明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚乾"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_50",
+      "ocr": {
+        "x": 40.89362752119585,
+        "y": 62.53296142829611,
+        "text": "먹태",
+        "width": 4.319019453368978,
+        "height": 5.129654627162333,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치킨반마리",
+        "en.ROMAN": "chicken banmari",
+        "en": "Fried Half Chicken",
+        "ja": "チキンハーフ",
+        "zh_CN": "炸鸡（半只）",
+        "zh_TW": "半隻炸雞",
+        "price": "11000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0002_704240_1-tf_58",
+      "ocr": {
+        "x": 40.81599907861651,
+        "y": 67.92879149116848,
+        "text": "치킨반마리(추가시)",
+        "width": 13.480438170239086,
+        "height": 5.236079252869615,
+        "rotation": 0.613774883543897
+      }
+    }
+  ]
+}

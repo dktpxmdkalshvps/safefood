@@ -1,0 +1,639 @@
+{
+  "meta": {
+    "file_name": "DG_KF01_M0004_613406_6.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 3744,
+    "captured_date": "2022:11:28 13:34:40",
+    "store_id": "613406",
+    "store_region": "DG",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.24098671726756,
+          0.303951367781155
+        ],
+        [
+          0.3795066413662239,
+          0.303951367781155
+        ],
+        [
+          4.743833017077799,
+          99.39209726443767
+        ],
+        [
+          92.40986717267552,
+          99.69604863221883
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_14",
+      "ocr": {
+        "x": 15.656509210206258,
+        "y": 32.74483212703121,
+        "text": "후라이드순살",
+        "width": 8.459224081011564,
+        "height": 1.5614362981107412,
+        "rotation": 0.5687955047769151
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드순살",
+        "en.ROMAN": "fried sunsal",
+        "en": "Fried Boneless Chicken",
+        "ja": "骨なしフライドチキン",
+        "zh_CN": "脆皮无骨炸鸡",
+        "zh_TW": "無骨炸雞",
+        "price": "7500",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_15",
+      "ocr": {
+        "x": 30.835728551429586,
+        "y": 32.85040195712623,
+        "text": "후라이드순살(소)_양념치킨",
+        "width": 16.835595879565687,
+        "height": 1.6249722768379777,
+        "rotation": 0.5687955047832816
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드순살_양념치킨",
+        "en.ROMAN": "fried sunsal_yangnyeom chicken",
+        "en": "Fried Boneless Chicken_Seasoned Fried Chicken",
+        "ja": "骨なしフライド_ヤンニョムチキン",
+        "zh_CN": "脆皮无骨炸鸡_调味炸鸡",
+        "zh_TW": "脆皮無骨_調味炸雞",
+        "price": "4000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_23",
+      "ocr": {
+        "x": 18.33011972747812,
+        "y": 47.90547884167176,
+        "text": "닭강정(소)",
+        "width": 4.1779304183519645,
+        "height": 1.5491452991452979,
+        "rotation": 0.568795504779473
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "닭강정(소)",
+        "en.ROMAN": "dakgangjeong(so)",
+        "en": "Deep-fried and Braised Chicken (Small)",
+        "ja": "タッカンジョン(小)",
+        "zh_CN": "小份甜辣鸡块",
+        "zh_TW": "甜辣雞塊(小)",
+        "price": "3400",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_24",
+      "ocr": {
+        "x": 33.302931463849596,
+        "y": 48.061818543848695,
+        "text": "반찬(김치부대찌개)",
+        "width": 12.066666666666663,
+        "height": 1.5491452991452992,
+        "rotation": 0.5687955047787909
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "반찬(김치부대찌개)",
+        "en.ROMAN": "banchan(kimchibudaejjigae)",
+        "en": "Side Dishes (Kimchi Sausage Jjigae)",
+        "ja": "おかず(キムチ入りプデチゲ)",
+        "zh_CN": "小菜（辛奇部队锅）",
+        "zh_TW": "小菜（辛奇部隊鍋）",
+        "price": "4500",
+        "ingredients.ko": [
+          "돼지고기",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "辛奇"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_25",
+      "ocr": {
+        "x": 50.652689148352174,
+        "y": 48.28273356627042,
+        "text": "반찬(토네이도소세지)",
+        "width": 13.105194409298104,
+        "height": 1.5449972425451002,
+        "rotation": 0.568795504779473
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반찬(토네이도소세지)",
+        "en.ROMAN": "banchan(tornado sausage)",
+        "en": "Side Dish (Tornado Sausage)",
+        "ja": "おかず(トルネードソーセージ)",
+        "zh_CN": "小菜（旋风香肠）",
+        "zh_TW": "小菜（旋風香腸）",
+        "price": "2600",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_26",
+      "ocr": {
+        "x": 68.6925502420289,
+        "y": 48.38822499246537,
+        "text": "반찬(묵은지김치찌개)",
+        "width": 13.333333333333329,
+        "height": 1.6075693147399124,
+        "rotation": 0.5687955047769151
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "반찬(묵은지김치찌개)",
+        "en.ROMAN": "banchan(mugeunjikimchijjigae)",
+        "en": "Side Dishes (Aged Kimchi Jjigae)",
+        "ja": "おかず(熟成キムチチゲ)",
+        "zh_CN": "小菜（酸辛奇汤）",
+        "zh_TW": "小菜（酸辛奇鍋）",
+        "price": "4000",
+        "ingredients.ko": [
+          "김치"
+        ],
+        "ingredients.en": [
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_31",
+      "ocr": {
+        "x": 17.42745321592736,
+        "y": 62.40160866903881,
+        "text": "반찬(제육볶음)",
+        "width": 8.896893095719312,
+        "height": 1.5758547008547021,
+        "rotation": 0.5687955047775404
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "반찬(제육볶음)",
+        "en.ROMAN": "banchan(jeyukbokkeum)",
+        "en": "Side Dishes (Spicy Stir-fried Pork)",
+        "ja": "おかず(豚肉炒め)",
+        "zh_CN": "小菜（辣炒猪肉）",
+        "zh_TW": "小菜（辣炒豬肉）",
+        "price": "3200",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_32",
+      "ocr": {
+        "x": 34.919609327155506,
+        "y": 62.66816812965017,
+        "text": "반찬(고기고기)",
+        "width": 8.875732965766426,
+        "height": 1.546620252296613,
+        "rotation": 0.5687955047787909
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반찬(고기고기)",
+        "en.ROMAN": "banchan(gogigogi)",
+        "en": "Side Dishes (Meat)",
+        "ja": "おかず(肉)",
+        "zh_CN": "小菜（烤牛肉辣炒猪肉双拼）",
+        "zh_TW": "小菜（肉）",
+        "price": "3400",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_33",
+      "ocr": {
+        "x": 53.68369595509956,
+        "y": 62.88920071001419,
+        "text": "반찬(치킨)",
+        "width": 6.385181757626736,
+        "height": 1.5476754602289338,
+        "rotation": 0.5687955047787909
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반찬(치킨)",
+        "en.ROMAN": "banchan(chicken)",
+        "en": "Side Dish (Chicken)",
+        "ja": "おかず(チキン)",
+        "zh_CN": "小菜（炸鸡）",
+        "zh_TW": "小菜（炸雞）",
+        "price": "3600",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_34",
+      "ocr": {
+        "x": 68.88088007871889,
+        "y": 63.11905148997594,
+        "text": "반찬(돈까스도련님)",
+        "width": 11.79999999999999,
+        "height": 1.5977120612234312,
+        "rotation": 1.120651948140221
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "반찬(돈까스도련님)",
+        "en.ROMAN": "banchan(dongaseudoryeonnim)",
+        "en": "Side Dish (Pork Curtlet, Deep-fried Chicken and Grilled Galbi Patty)",
+        "ja": "おかず(豚カツの盛り合わせ)",
+        "zh_CN": "小菜（炸猪排）",
+        "zh_TW": "小菜（炸豬排）",
+        "price": "3800",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_40",
+      "ocr": {
+        "x": 18.52135591914835,
+        "y": 76.52685054860146,
+        "text": "반찬(돈까스)",
+        "width": 7.499999999999996,
+        "height": 1.3918734482430677,
+        "rotation": 0.5687955047787909
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "반찬(돈까스)",
+        "en.ROMAN": "banchan(dongaseu)",
+        "en": "Side Dish (Pork Curtlet)",
+        "ja": "おかず(豚カツ)",
+        "zh_CN": "小菜（炸猪排）",
+        "zh_TW": "小菜（炸豬排）",
+        "price": "2800",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_41",
+      "ocr": {
+        "x": 35.03314567934678,
+        "y": 76.66840989350612,
+        "text": "반찬(계란말이)",
+        "width": 8.733333333333327,
+        "height": 1.567558587654288,
+        "rotation": 0.5687955047787909
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반찬(계란말이)",
+        "en.ROMAN": "banchan(gyeranmari)",
+        "en": "Side Dishes (Rolled Omelet)",
+        "ja": "おかず(卵焼き)",
+        "zh_CN": "小菜（鸡蛋卷）",
+        "zh_TW": "小菜（雞蛋捲）",
+        "price": "2500",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_42",
+      "ocr": {
+        "x": 53.47540760230076,
+        "y": 77.03597787723118,
+        "text": "반찬(카레)",
+        "width": 6.335615110588102,
+        "height": 1.4957264957264953,
+        "rotation": 1.1743965013254183
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "반찬(카레)",
+        "en.ROMAN": "banchan(curry)",
+        "en": "Side Dishes (Curry)",
+        "ja": "おかず(カレー)",
+        "zh_CN": "小菜（咖喱）",
+        "zh_TW": "小菜（咖哩）",
+        "price": "2800",
+        "ingredients.ko": [
+          "카레"
+        ],
+        "ingredients.en": [
+          "Curry"
+        ],
+        "ingredients.ja": [
+          "カレー"
+        ],
+        "ingredients.zh_CN": [
+          "咖喱"
+        ],
+        "ingredients.zh_TW": [
+          "咖哩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF01_M0004_613406_6-tf_43",
+      "ocr": {
+        "x": 67.86257357301825,
+        "y": 77.36022234008963,
+        "text": "뉴감자고로케",
+        "width": 8.512828734935026,
+        "height": 1.3917050222535925,
+        "rotation": 2.2264218667463638
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "뉴감자고로케",
+        "en.ROMAN": "new gamja croquette",
+        "en": "New Potato Croquette",
+        "ja": "NEWじゃがいもコロッケ",
+        "zh_CN": "NEW土豆可乐饼",
+        "zh_TW": "新馬鈴薯可樂餅",
+        "price": "2700",
+        "ingredients.ko": [
+          "감자",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "じゃがいも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "土豆",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

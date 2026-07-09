@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "file_name": "US_KF04_M0001_881818_5.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:23 17:13:35",
+    "store_id": "881818",
+    "store_region": "US",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          7.87037037037037,
+          1.7361111111111112
+        ],
+        [
+          93.05555555555556,
+          2.7777777777777777
+        ],
+        [
+          87.96296296296296,
+          100
+        ],
+        [
+          5.555555555555555,
+          97.2222222222222
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "통오징어통핑세트",
+        "en.ROMAN": "tongojingeotongping set",
+        "en": "Whole Squid Set Menu",
+        "ja": "丸ごとイカトンピングセット",
+        "zh_CN": "整条鱿鱼配料套餐",
+        "zh_TW": "整隻魷魚佐料套餐",
+        "price": "29000",
+        "ingredients.ko": [
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0001_881818_5-tf_7",
+      "ocr": {
+        "x": 13.035703996102704,
+        "y": 37.2533804670147,
+        "text": "통오징어통핑세트",
+        "width": 25.712591032412497,
+        "height": 3.063628925717088,
+        "rotation": 1.618851575315034
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "통오징어튀김",
+        "en.ROMAN": "tongojingeotwigim",
+        "en": "Deep-fried Whole Squid",
+        "ja": "丸ごとイカの天ぷら",
+        "zh_CN": "炸整条鱿鱼",
+        "zh_TW": "炸整隻魷魚",
+        "price": "9000",
+        "ingredients.ko": [
+          "오징어",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Squid",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "イカ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "tNkvqJhxbv",
+      "ocr": {
+        "x": 16.878535430547668,
+        "y": 49.24001409984334,
+        "text": "통오징어튀김",
+        "width": 6.701599104810218,
+        "height": 1.231547624938083,
+        "rotation": 2.3695078590583307
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "통등심돈까스통핑세트",
+        "en.ROMAN": "tongdeungsimdongaseu tongping set",
+        "en": "Whole Pork Sirloin Cutlet with Tongping Set Menu",
+        "ja": "丸ごとロースカツトッピングセット",
+        "zh_CN": "整炸猪外脊排浇头套餐",
+        "zh_TW": "整塊炸豬里肌排配料套餐",
+        "price": "27000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0001_881818_5-tf_18",
+      "ocr": {
+        "x": 12.491767366186567,
+        "y": 72.88141642376316,
+        "text": "통등심돈까스통핑세트",
+        "width": 31.143134383912003,
+        "height": 2.9795083627601837,
+        "rotation": 3.81933823717668
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "부대찌개제육세트",
+        "en.ROMAN": "budaejjigaejeyuk set",
+        "en": "Sausage Jjigae and Spicy Stir-fried Pork Set",
+        "ja": "プデチゲと豚肉炒めセット",
+        "zh_CN": "部队锅辣炒猪肉套餐",
+        "zh_TW": "部隊鍋辣炒豬肉套餐",
+        "price": "27000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0001_881818_5-tf_20",
+      "ocr": {
+        "x": 51.15156937965313,
+        "y": 74.67983953044642,
+        "text": "놀부부대찌개제육세트",
+        "width": 32.649548562618115,
+        "height": 3.117581468664063,
+        "rotation": 3.127256202870228
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈돈까스통핑",
+        "en.ROMAN": "cheese dongaseu tongping",
+        "en": "Pork Cutlet Stuffed with Cheese",
+        "ja": "チーズ豚カツトンピング",
+        "zh_CN": "奶酪炸猪排套餐",
+        "zh_TW": "加點起司炸豬排",
+        "price": "1000",
+        "ingredients.ko": [
+          "치즈",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "豬肉"
+        ],
+        "allergy": [
+          "우유",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "T8ExGcAB6Y",
+      "ocr": {
+        "x": 28.45662326546601,
+        "y": 87.73821598777835,
+        "text": "치즈돈까스통핑",
+        "width": 9.461621702012605,
+        "height": 1.4668615899261015,
+        "rotation": 3.3188410222427933
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치즈돈까스",
+        "en.ROMAN": "cheese dongaseu",
+        "en": "Cheese Stuffed Pork Cutlet",
+        "ja": "チーズ豚カツ",
+        "zh_CN": "炸奶酪猪排",
+        "zh_TW": "起司炸豬排",
+        "price": "7500",
+        "ingredients.ko": [
+          "돼지고기",
+          "치즈",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Cheese",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "チーズ",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "奶酪",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "起司",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "zlbxYj8HYX",
+      "ocr": {
+        "x": 15.972714486804207,
+        "y": 90.8608593848369,
+        "text": "치즈돈까스",
+        "width": 5.812531626235714,
+        "height": 1.229777498977037,
+        "rotation": 2.5252619964642804
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "통등심돈카츠",
+        "en.ROMAN": "tongdeungsim donkatsu",
+        "en": "Pork Sirloin Cutlet",
+        "ja": "丸ごとロースカツ",
+        "zh_CN": "炸整块猪外脊猪排",
+        "zh_TW": "炸豬里肌排",
+        "price": "6500",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "HWQJ7YSTp2",
+      "ocr": {
+        "x": 15.88183030054533,
+        "y": 92.0628393395067,
+        "text": "통등심돈카츠",
+        "width": 6.865657955479941,
+        "height": 1.226342748664969,
+        "rotation": 2.419509007139027
+      }
+    }
+  ]
+}

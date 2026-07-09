@@ -1,0 +1,394 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_353871_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:04 18:59:01",
+    "store_id": "353871",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.949730700179533,
+          4.576043068640645
+        ],
+        [
+          99.10233393177738,
+          2.422611036339166
+        ],
+        [
+          99.2818671454219,
+          72.27456258411844
+        ],
+        [
+          3.052064631956912,
+          72.27456258411844
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0002_353871_1-tf-0",
+      "ocr": {
+        "x": 56.55959365720739,
+        "y": 15.727687199223906,
+        "text": "순대곱창볶음",
+        "width": 27.583660238031666,
+        "height": 3.541213013538858,
+        "rotation": 358.90312056852713
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "순대곱창볶음",
+        "en.ROMAN": "sundae gopchangbokkeum",
+        "en": "Stir-fried Sundae and Small Intestines",
+        "ja": "スンデとコプチャン炒め",
+        "zh_CN": "血肠炒小肠",
+        "zh_TW": "血腸炒小腸",
+        "price": "9500",
+        "ingredients.ko": [
+          "야채",
+          "곱창",
+          "순대"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Small Intestine",
+          "Sundae"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "コプチャン",
+          "スンデ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "小肠",
+          "血肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "小腸",
+          "血腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_353871_1-tf-1",
+      "ocr": {
+        "x": 56.59515602757267,
+        "y": 22.153058622244618,
+        "text": "백순대볶음",
+        "width": 27.741307220212754,
+        "height": 3.5432315995259867,
+        "rotation": 359.7152986758841
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "백순대볶음",
+        "en.ROMAN": "baeksundaebokkeum",
+        "en": "Stir-fried Sundae",
+        "ja": "白スンデ炒め",
+        "zh_CN": "清炒血肠",
+        "zh_TW": "原味炒血腸",
+        "price": "9500",
+        "ingredients.ko": [
+          "돼지내장",
+          "순대",
+          "당면"
+        ],
+        "ingredients.en": [
+          "Pork Offal",
+          "Sundae",
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "豚内臓",
+          "スンデ",
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "猪内脏",
+          "血肠",
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "豬內臟",
+          "血腸",
+          "粉條"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_353871_1-tf-2",
+      "ocr": {
+        "x": 56.88279252518672,
+        "y": 29.02812868553277,
+        "text": "불순대곱창볶음",
+        "width": 27.208260118913937,
+        "height": 3.3495296740388296,
+        "rotation": 359.71529867588026
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "불순대곱창볶음",
+        "en.ROMAN": "bulsundaegopchangbokkeum",
+        "en": "Spicy Stir-fried Sundae and Small Intestine",
+        "ja": "激辛スンデ入りコプチャン炒め",
+        "zh_CN": "香辣血肠炒小肠",
+        "zh_TW": "勁辣血腸炒小腸",
+        "price": "10500",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_353871_1-tf-3",
+      "ocr": {
+        "x": 56.96361646830694,
+        "y": 35.79999999999994,
+        "text": "오징어백순대",
+        "width": 27.083660238031676,
+        "height": 3.0832335104678363,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "오징어백순대",
+        "en.ROMAN": "ojingeobaeksundae",
+        "en": "Stuffed Squid",
+        "ja": "イカ入り白スンデ",
+        "zh_CN": "鱿鱼清炒血肠",
+        "zh_TW": "魷魚炒血腸",
+        "price": "10500",
+        "ingredients.ko": [
+          "오징어",
+          "당면",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Squid",
+          "Glass Noodles",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "イカ",
+          "春雨",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼",
+          "粉条",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚",
+          "粉條",
+          "雞蛋"
+        ],
+        "allergy": [
+          "오징어",
+          "계란"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_353871_1-tf-4",
+      "ocr": {
+        "x": 57.005446587322815,
+        "y": 42.59999999999994,
+        "text": "찰순대",
+        "width": 27.076041583318833,
+        "height": 3.375000000000006,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "찰순대",
+        "en.ROMAN": "chalsundae",
+        "en": "Sweet Rice Sundae",
+        "ja": "もち米入りスンデ",
+        "zh_CN": "糯米血肠",
+        "zh_TW": "糯米血腸",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기",
+          "순대",
+          "찹쌀",
+          "내장"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Sundae",
+          "Sweet Rice",
+          "Offal"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "スンデ",
+          "もち米",
+          "内臓"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "血肠",
+          "糯米",
+          "内脏"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "血腸",
+          "糯米",
+          "內臟"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_353871_1-tf-5",
+      "ocr": {
+        "x": 57.0505116818768,
+        "y": 49.493323022249626,
+        "text": "오징어순대",
+        "width": 19.667109836863396,
+        "height": 3.2960708816238795,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "오징어순대",
+        "en.ROMAN": "ojingeosundae",
+        "en": "Stuffed Squid",
+        "ja": "イカスンデ",
+        "zh_CN": "鱿鱼血肠",
+        "zh_TW": "魷魚血腸",
+        "price": "17000",
+        "ingredients.ko": [
+          "야채",
+          "오징어",
+          "고기",
+          "순대"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid",
+          "Meat",
+          "Sundae"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ",
+          "肉",
+          "スンデ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼",
+          "肉",
+          "血肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚",
+          "肉",
+          "血腸"
+        ],
+        "allergy": [
+          "오징어",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_353871_1-tf-6",
+      "ocr": {
+        "x": 56.816339761968074,
+        "y": 56.2436751328508,
+        "text": "순대국",
+        "width": 13.686704963442416,
+        "height": 3.7063248671491418,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "순대국",
+        "en.ROMAN": "sundaeguk",
+        "en": "Sundae Soup",
+        "ja": "スンデスープ",
+        "zh_CN": "血肠汤",
+        "zh_TW": "血腸湯",
+        "price": "8500",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

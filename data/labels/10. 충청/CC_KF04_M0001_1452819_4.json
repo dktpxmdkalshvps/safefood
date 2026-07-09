@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "file_name": "CC_KF04_M0001_1452819_4.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:13 13:41:31",
+    "store_id": "1452819",
+    "store_region": "CC",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 16.5266106442577,
+        "y": 20.27310924369748,
+        "width": 64.84812675070029,
+        "height": 79.72689075630252,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "본인립아이스테이크",
+        "en.ROMAN": "bone in ribeye steak",
+        "en": "Bone-in Rib Eye Steak",
+        "ja": "ボンインリブアイステーキ",
+        "zh_CN": "肋眼牛排",
+        "zh_TW": "肋眼牛排",
+        "price": "28000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF04_M0001_1452819_4-tf_14",
+      "ocr": {
+        "x": 36.541726852633694,
+        "y": 53.15376240932656,
+        "text": "서동본인립아이스테이크",
+        "width": 28.690462238075003,
+        "height": 2.5057410170287584,
+        "rotation": 1.328447703125164
+      }
+    }
+  ]
+}

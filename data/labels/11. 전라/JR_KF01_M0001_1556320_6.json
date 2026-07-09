@@ -1,0 +1,542 @@
+{
+  "meta": {
+    "file_name": "JR_KF01_M0001_1556320_6.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:13 15:34:29",
+    "store_id": "1556320",
+    "store_region": "JR",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          97.33233714748623,
+          0
+        ],
+        [
+          97.97977125659209,
+          100
+        ],
+        [
+          0,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "사골곰탕",
+        "en.ROMAN": "sagolgomtang",
+        "en": "Beef Bone Soup",
+        "ja": "牛骨のコムタン",
+        "zh_CN": "牛骨汤",
+        "zh_TW": "牛骨湯",
+        "price": "2000",
+        "ingredients.ko": [
+          "소고기",
+          "파",
+          "소뼈",
+          "사골육수"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Green Onions",
+          "Beef Bone",
+          "Ox Bone Broth"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "ネギ",
+          "牛骨",
+          "牛骨のだし汁"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "葱",
+          "牛骨",
+          "牛骨肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔥",
+          "牛骨",
+          "牛骨高湯"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_1",
+      "ocr": {
+        "x": 31.484570206105868,
+        "y": 37.708895808034484,
+        "text": "사골곰탕",
+        "width": 17.606988201869306,
+        "height": 2.835583232137,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "녹두닭죽",
+        "en.ROMAN": "nokdudakjuk",
+        "en": "Mung Bean Chicken Porridge",
+        "ja": "緑豆入り鶏粥",
+        "zh_CN": "绿豆粥炖鸡粥",
+        "zh_TW": "綠豆雞肉粥",
+        "price": "2000",
+        "ingredients.ko": [
+          "녹두",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Mung Beans",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "緑豆",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "绿豆芽",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "綠豆",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_3",
+      "ocr": {
+        "x": 31.547592885530097,
+        "y": 41.71882837171866,
+        "text": "녹두닭죽",
+        "width": 17.535519531755188,
+        "height": 2.836679456277015,
+        "rotation": 359.4894021913139
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "누룽지",
+        "en.ROMAN": "nurungji",
+        "en": "Scorched Rice",
+        "ja": "おこげ湯",
+        "zh_CN": "锅巴",
+        "zh_TW": "鍋粑",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_5",
+      "ocr": {
+        "x": 31.64823818037998,
+        "y": 45.58461524152251,
+        "text": "누룽지",
+        "width": 12.654371444161061,
+        "height": 2.8605957242777724,
+        "rotation": 359.2440504100713
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_7",
+      "ocr": {
+        "x": 31.725128987017108,
+        "y": 49.39032068847252,
+        "text": "공기밥",
+        "width": 12.957732843099345,
+        "height": 2.791084664795006,
+        "rotation": 359.60675216307953
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "흑염소탕",
+        "en.ROMAN": "heugyeomsotang",
+        "en": "Black Goat Soup",
+        "ja": "黒山羊肉スープ",
+        "zh_CN": "黑山羊肉汤",
+        "zh_TW": "黑山羊肉湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "흑염소고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Black Goat Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "黒ヤギ肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "黑山羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "黑山羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_9",
+      "ocr": {
+        "x": 31.85556436814912,
+        "y": 53.27310102243299,
+        "text": "흑염소탕",
+        "width": 13.858189643539147,
+        "height": 2.83948300444176,
+        "rotation": 359.1506920136328
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_12",
+      "ocr": {
+        "x": 36.63860232974153,
+        "y": 63.88452427842342,
+        "text": "소주",
+        "width": 16.141893521123826,
+        "height": 2.55184393937224,
+        "rotation": 359.7408240256417
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_15",
+      "ocr": {
+        "x": 36.73977853315592,
+        "y": 67.96028339899671,
+        "text": "맥주",
+        "width": 16.123340916909022,
+        "height": 2.6590030880167377,
+        "rotation": 359.2953024869488
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "15000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_17",
+      "ocr": {
+        "x": 36.75383086724833,
+        "y": 72.17872570627473,
+        "text": "복분자",
+        "width": 16.30906400352148,
+        "height": 2.6180708054733124,
+        "rotation": 359.38115317542736
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "매취순",
+        "en.ROMAN": "matchsoon",
+        "en": "Matchsoon (Green Plum Wine)",
+        "ja": "梅翠純(梅酒)",
+        "zh_CN": "梅翠纯",
+        "zh_TW": "梅翠純",
+        "price": "10000",
+        "ingredients.ko": [
+          "매실",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Green Plum",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "梅",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "青梅",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "梅子",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_19",
+      "ocr": {
+        "x": 36.808198069577685,
+        "y": 76.26509355385377,
+        "text": "매취순",
+        "width": 16.10446478244085,
+        "height": 2.6574747182773364,
+        "rotation": 359.2350510569427
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "일품진로",
+        "en.ROMAN": "ilpoom jinro",
+        "en": "Ilpoom Jinro Soju",
+        "ja": "一品眞露",
+        "zh_CN": "一品真露",
+        "zh_TW": "一品真露",
+        "price": "30000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_21",
+      "ocr": {
+        "x": 23.386184979629082,
+        "y": 79.78429777363853,
+        "text": "일품진로",
+        "width": 12.30600396581404,
+        "height": 2.2830033332738595,
+        "rotation": 358.2148336921682
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_24",
+      "ocr": {
+        "x": 36.944513914462874,
+        "y": 84.40069234352691,
+        "text": "음료수",
+        "width": 16.08100331612264,
+        "height": 2.6487174212738767,
+        "rotation": 358.9675460960453
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "콜키지",
+        "en.ROMAN": "corkage",
+        "en": "Corkage",
+        "ja": "コルケージチャージ",
+        "zh_CN": "开瓶费",
+        "zh_TW": "開瓶費",
+        "price": "30000",
+        "ingredients.ko": [
+          "와인"
+        ],
+        "ingredients.en": [
+          "Wine"
+        ],
+        "ingredients.ja": [
+          "ワイン"
+        ],
+        "ingredients.zh_CN": [
+          "红酒"
+        ],
+        "ingredients.zh_TW": [
+          "葡萄酒"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1556320_6-tf_27",
+      "ocr": {
+        "x": 35.8004887250189,
+        "y": 89.06616999627781,
+        "text": "콜키지",
+        "width": 8.263342361670729,
+        "height": 2.3423873607665175,
+        "rotation": 358.7440417376121
+      }
+    }
+  ]
+}

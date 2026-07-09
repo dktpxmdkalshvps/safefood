@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_1015357_2.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:18 14:41:50",
+    "store_id": "1015357",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          52.199413489736074,
+          5.619834710743802
+        ],
+        [
+          36.950146627565985,
+          7.107438016528926
+        ],
+        [
+          26.099706744868037,
+          12.727272727272727
+        ],
+        [
+          19.06158357771261,
+          19.173553719008265
+        ],
+        [
+          24.34017595307918,
+          80.66115702479338
+        ],
+        [
+          75.95307917888563,
+          78.01652892561984
+        ],
+        [
+          82.69794721407625,
+          23.801652892561982
+        ],
+        [
+          78.8856304985337,
+          15.867768595041323
+        ],
+        [
+          71.26099706744868,
+          9.75206611570248
+        ],
+        [
+          63.63636363636363,
+          6.9421487603305785
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "백세명태찜",
+        "en.ROMAN": "baeksemyeongtaejjim",
+        "en": "Steamed pollack.",
+        "ja": "百歳スケトウダラの蒸し物",
+        "zh_CN": "蒸百岁明太鱼",
+        "zh_TW": "蒸百歲明太魚",
+        "price": "32000",
+        "ingredients.ko": [
+          "명태"
+        ],
+        "ingredients.en": [
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "明太子"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1015357_2-tf_2",
+      "ocr": {
+        "x": 43.91051580292325,
+        "y": 18.373418138225357,
+        "text": "백세명태찜",
+        "width": 19.722695727920062,
+        "height": 2.9565926915805454,
+        "rotation": 1.7953121994839307
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "가오리찜",
+        "en.ROMAN": "gaorijjim",
+        "en": "Steamed Ray",
+        "ja": "アカエイの蒸し物",
+        "zh_CN": "蒸鳐鱼",
+        "zh_TW": "蒸鰩魚",
+        "price": "35000",
+        "ingredients.ko": [
+          "가오리"
+        ],
+        "ingredients.en": [
+          "Ray"
+        ],
+        "ingredients.ja": [
+          "エイ"
+        ],
+        "ingredients.zh_CN": [
+          "鳐鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鰩魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1015357_2-tf_10",
+      "ocr": {
+        "x": 42.31071312571045,
+        "y": 33.383867203281284,
+        "text": "백세가오리찜",
+        "width": 21.871140490693794,
+        "height": 2.6768879945311617,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "시래기갑오징어찜",
+        "en.ROMAN": "siraegigabojingeojjim",
+        "en": "Steamed squid with dried radish leaves.",
+        "ja": "干し菜っ葉とイカの蒸し物",
+        "zh_CN": "干菜盒炖鱿鱼",
+        "zh_TW": "乾菜盒燉魷魚",
+        "price": "33000",
+        "ingredients.ko": [
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1015357_2-tf_17",
+      "ocr": {
+        "x": 39.17515647549832,
+        "y": 46.497362239895814,
+        "text": "시래기갑오징어찜",
+        "width": 27.07548587309824,
+        "height": 2.5018621763629434,
+        "rotation": 358.89751027365395
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "한방반계탕",
+        "en.ROMAN": "hanbangbangyetang",
+        "en": "Ginseng Half Chicken Soup with Medicinal Herbs",
+        "ja": "韓方サムゲタン(半匹)",
+        "zh_CN": "药膳半鸡汤",
+        "zh_TW": "韓方雞湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1015357_2-tf_24",
+      "ocr": {
+        "x": 28.555293177910965,
+        "y": 59.37879072550647,
+        "text": "백세한방반계탕",
+        "width": 20.24612953564426,
+        "height": 2.0638715609446123,
+        "rotation": 357.20465545984183
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "한방삼계탕",
+        "en.ROMAN": "hanbangsamgyetang",
+        "en": "Ginseng Chicken Soup with Medicinal Herbs",
+        "ja": "韓方サムゲタン",
+        "zh_CN": "药膳参鸡汤",
+        "zh_TW": "藥膳蔘雞湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1015357_2-tf_26",
+      "ocr": {
+        "x": 28.58279260281197,
+        "y": 61.63938611334869,
+        "text": "백세한방삼계탕",
+        "width": 20.282918904064527,
+        "height": 1.9672789853088988,
+        "rotation": 356.80409396884585
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "명태비빔냉면",
+        "en.ROMAN": "myeongtaebibimnaengmyeon",
+        "en": "Spicy Pollack Buckwheat Noodle",
+        "ja": "スケトウダラ入り混ぜ冷麺",
+        "zh_CN": "明太鱼拌冷面",
+        "zh_TW": "明太魚拌冷麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "명태",
+          "메밀"
+        ],
+        "ingredients.en": [
+          "Pollack",
+          "Buckwheat"
+        ],
+        "ingredients.ja": [
+          "明太子",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼",
+          "荞麦"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚",
+          "蕎麥"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1015357_2-tf_30",
+      "ocr": {
+        "x": 28.774039742876774,
+        "y": 63.78301203111838,
+        "text": "명태비빔냉면",
+        "width": 14.096238458352635,
+        "height": 1.890854851866122,
+        "rotation": 356.3570594688148
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "명태물냉면",
+        "en.ROMAN": "myeongtaemullaengmyeon",
+        "en": "Pollack cold noodles.",
+        "ja": "スケソウダラ冷麺",
+        "zh_CN": "明太鱼冷面",
+        "zh_TW": "明太魚冷麪",
+        "price": "9000",
+        "ingredients.ko": [
+          "명태",
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Pollack",
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "明太子",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼",
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚",
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1015357_2-tf_28",
+      "ocr": {
+        "x": 28.8450503623698,
+        "y": 65.82401640800572,
+        "text": "명태물냉면",
+        "width": 16.79867788963241,
+        "height": 1.9738295278428455,
+        "rotation": 356.167662058907
+      }
+    }
+  ]
+}

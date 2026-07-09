@@ -1,0 +1,762 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0002_677359_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:17 13:15:52",
+    "store_id": "677359",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.395585738539898,
+          6.624203821656051
+        ],
+        [
+          98.81154499151104,
+          6.496815286624204
+        ],
+        [
+          100,
+          79.7452229299363
+        ],
+        [
+          0.6791171477079796,
+          79.61783439490446
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "7000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_0",
+      "ocr": {
+        "x": 13.164917502337895,
+        "y": 21.797140854689246,
+        "text": "김치찌개",
+        "width": 21.770164995324233,
+        "height": 4.174149264994467,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "조기매운탕",
+        "en.ROMAN": "jogimaeuntang",
+        "en": "Spicy Yellow Croaker Stew",
+        "ja": "イシモチの辛味スープ",
+        "zh_CN": "鲜辣黄花鱼汤",
+        "zh_TW": "鮮辣黃花魚湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "조기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Yellow Croaker"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イシモチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "黄花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "黃花魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_1",
+      "ocr": {
+        "x": 52.94447315890319,
+        "y": 21.899457130793998,
+        "text": "조기매운탕",
+        "width": 22.04049669130641,
+        "height": 4.144589554745083,
+        "rotation": 359.3030174604437
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_4",
+      "ocr": {
+        "x": 13.233333333333334,
+        "y": 26.97214085468922,
+        "text": "된장찌개",
+        "width": 21.9,
+        "height": 4.202859145310785,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "조기구이",
+        "en.ROMAN": "jogigui",
+        "en": "Grilled Yellow Croaker",
+        "ja": "イシモチ焼き",
+        "zh_CN": "烤黄花鱼",
+        "zh_TW": "烤黃花魚",
+        "price": "8000",
+        "ingredients.ko": [
+          "조기"
+        ],
+        "ingredients.en": [
+          "Yellow Croaker"
+        ],
+        "ingredients.ja": [
+          "イシモチ"
+        ],
+        "ingredients.zh_CN": [
+          "黄花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "黃花魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_5",
+      "ocr": {
+        "x": 53.24829415045552,
+        "y": 27.054069995049773,
+        "text": "조기구이",
+        "width": 21.791901251753206,
+        "height": 4.200000000000006,
+        "rotation": 359.27432949186596
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "고등어자반구이",
+        "en.ROMAN": "godeungeojabangui",
+        "en": "Grilled Salted Mackerel",
+        "ja": "サバ焼き",
+        "zh_CN": "烤盐渍青花鱼",
+        "zh_TW": "烤鹽漬鯖魚",
+        "price": "8000",
+        "ingredients.ko": [
+          "고등어"
+        ],
+        "ingredients.en": [
+          "Mackerel"
+        ],
+        "ingredients.ja": [
+          "サバ"
+        ],
+        "ingredients.zh_CN": [
+          "青花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯖魚"
+        ],
+        "allergy": [
+          "고등어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_8",
+      "ocr": {
+        "x": 53.23333333333336,
+        "y": 32.099999999999966,
+        "text": "고등어자반구이",
+        "width": 21.914300574944814,
+        "height": 4.185645059841883,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "순두부",
+        "en.ROMAN": "sundubu",
+        "en": "Soft Bean Curd",
+        "ja": "スンドゥブ",
+        "zh_CN": "嫩豆腐",
+        "zh_TW": "嫩豆腐",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_9",
+      "ocr": {
+        "x": 13.041563845434712,
+        "y": 32.20000000000052,
+        "text": "순두부",
+        "width": 22.095872710130653,
+        "height": 4.0545014017174745,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "청국장",
+        "en.ROMAN": "cheonggukjang",
+        "en": "Rich Soybean Paste",
+        "ja": "チョングクチャン",
+        "zh_CN": "清麴酱锅",
+        "zh_TW": "清麴醬",
+        "price": "7000",
+        "ingredients.ko": [
+          "청국장"
+        ],
+        "ingredients.en": [
+          "Rich Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "チョングクチャン"
+        ],
+        "ingredients.zh_CN": [
+          "清麴酱"
+        ],
+        "ingredients.zh_TW": [
+          "清麴醬"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_14",
+      "ocr": {
+        "x": 12.83333333333344,
+        "y": 37.28485353844063,
+        "text": "청국장",
+        "width": 22.11799251224808,
+        "height": 4.240146461559492,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "제육볶음",
+        "en.ROMAN": "jeyukbokkeum",
+        "en": "Spicy Stir-fried Pork",
+        "ja": "豚肉炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "16000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_16",
+      "ocr": {
+        "x": 52.90000000000043,
+        "y": 37.32500000000031,
+        "text": "제육볶음",
+        "width": 22.222998139152146,
+        "height": 4.225000000000037,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "오징어볶음",
+        "en.ROMAN": "ojingeobokkeum",
+        "en": "Spicy Stir-fried Squid",
+        "ja": "イカ炒め",
+        "zh_CN": "辣炒鱿鱼",
+        "zh_TW": "辣炒魷魚",
+        "price": "16000",
+        "ingredients.ko": [
+          "야채",
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_19",
+      "ocr": {
+        "x": 52.9000000000009,
+        "y": 42.44898428732527,
+        "text": "오징어볶음",
+        "width": 22.29017799276852,
+        "height": 4.300203142535106,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "고추장찌개",
+        "en.ROMAN": "gochujangjjigae",
+        "en": "Red Chili Paste Jjigae",
+        "ja": "コチュジャンチゲ",
+        "zh_CN": "辣椒酱锅",
+        "zh_TW": "辣椒醬鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_20",
+      "ocr": {
+        "x": 12.691769487898833,
+        "y": 42.58114365812443,
+        "text": "고추장찌개",
+        "width": 22.174897178767857,
+        "height": 4.165571829062178,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생삼겹살",
+        "en.ROMAN": "saengsamgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "鲜五花肉",
+        "zh_TW": "鮮五花肉",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_24",
+      "ocr": {
+        "x": 52.9000000000002,
+        "y": 47.72500000000037,
+        "text": "생삼겹살",
+        "width": 22.25556169206118,
+        "height": 4.248984287324758,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "콩비지",
+        "en.ROMAN": "kongbiji",
+        "en": "Pureed Soybean Stew",
+        "ja": "おから",
+        "zh_CN": "黄豆渣锅",
+        "zh_TW": "黃豆渣",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "콩비지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pureed Soybean"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "おから"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "黄豆渣"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "黃豆渣"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_23",
+      "ocr": {
+        "x": 12.600000000000042,
+        "y": 47.82828451281348,
+        "text": "콩비지",
+        "width": 22.069228773797917,
+        "height": 4.185645059841844,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "육계장",
+        "en.ROMAN": "yukgyejang",
+        "en": "a meat market",
+        "ja": "ユッケジャン",
+        "zh_CN": "香辣牛肉汤",
+        "zh_TW": "辣牛肉湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "숙주",
+          "고사리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Mung Bean Sprout",
+          "Bracken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "緑豆もやし",
+          "ワラビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "绿豆芽",
+          "蕨菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "綠豆芽",
+          "蕨菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_27",
+      "ocr": {
+        "x": 12.441563845434526,
+        "y": 53.04671548718648,
+        "text": "육계장",
+        "width": 22.348238801852627,
+        "height": 4.2987831110959975,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오삼불고기",
+        "en.ROMAN": "osambulgogi",
+        "en": "Spicy Squid and Pork Belly Bulgogi",
+        "ja": "イカ入りサムギョプサルのプルゴギ",
+        "zh_CN": "鱿鱼烤五花肉",
+        "zh_TW": "烤魷魚五花肉",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "오징어",
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid",
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ",
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼",
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚",
+          "五花肉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_26",
+      "ocr": {
+        "x": 52.23282014638416,
+        "y": 53.20264085295677,
+        "text": "오삼불고기",
+        "width": 23.391460960143217,
+        "height": 3.8947182940889613,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "동태탕",
+        "en.ROMAN": "dongtaetang",
+        "en": "Pollack Soup",
+        "ja": "スケトウダラスープ",
+        "zh_CN": "冻明太鱼汤",
+        "zh_TW": "凍明太魚湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "동태"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "冻明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "凍明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_30",
+      "ocr": {
+        "x": 52.86820622751569,
+        "y": 58.2241874298599,
+        "text": "동태탕",
+        "width": 22.46512710581767,
+        "height": 4.425812570140226,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "두부김치",
+        "en.ROMAN": "dubukimchi",
+        "en": "Bean Curd with Stir-fried Kimchi",
+        "ja": "豆腐キムチ",
+        "zh_CN": "炒辛奇佐豆腐",
+        "zh_TW": "炒辛奇佐豆腐",
+        "price": "15000",
+        "ingredients.ko": [
+          "김치",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "豆腐"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_677359_1-tf_31",
+      "ocr": {
+        "x": 11.833333333333341,
+        "y": 58.42500000000002,
+        "text": "두부김치",
+        "width": 22.295679101485064,
+        "height": 4.327859145310753,
+        "rotation": 0
+      }
+    }
+  ]
+}

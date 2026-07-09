@@ -1,0 +1,995 @@
+{
+  "meta": {
+    "file_name": "BS_KF03_M0003_585729_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:12:08 14:00:01",
+    "store_id": "585729",
+    "store_region": "BS",
+    "store_type": "KF03",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          100,
+          0
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          0,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "찹스테이크",
+        "en.ROMAN": "chop steak",
+        "en": "Chop Steak",
+        "ja": "チョップステーキ",
+        "zh_CN": "酱炒牛排肉",
+        "zh_TW": "醬炒牛排肉",
+        "price": "22000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_1",
+      "ocr": {
+        "x": 9.384556180118786,
+        "y": 25.200795316550668,
+        "text": "찹스테이크",
+        "width": 12.34285855065921,
+        "height": 2.380255854311679,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "훈제연어와샐러드",
+        "en.ROMAN": "hunjeyeoneowa salad",
+        "en": "Smoked Salmon and Salad",
+        "ja": "スモークサーモンとサラダ",
+        "zh_CN": "熏三文鱼和沙拉",
+        "zh_TW": "煙燻鮭魚沙拉",
+        "price": "20000",
+        "ingredients.ko": [
+          "연어",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Salmon",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鮭",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "三文鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "鮭魚",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_0",
+      "ocr": {
+        "x": 42.025599217487375,
+        "y": 25.44255857485461,
+        "text": "훈제연어와샐러드",
+        "width": 20.199380950713298,
+        "height": 2.098346030223664,
+        "rotation": 359.3045454310613
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "레드",
+        "en.ROMAN": "red",
+        "en": "Red",
+        "ja": "レッド",
+        "zh_CN": "红果汁",
+        "zh_TW": "紅果汁",
+        "price": "5000",
+        "ingredients.ko": [
+          "와인"
+        ],
+        "ingredients.en": [
+          "Wine"
+        ],
+        "ingredients.ja": [
+          "ワイン"
+        ],
+        "ingredients.zh_CN": [
+          "红酒"
+        ],
+        "ingredients.zh_TW": [
+          "葡萄酒"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_6",
+      "ocr": {
+        "x": 77.41834117053165,
+        "y": 38.31646820112131,
+        "text": "레드",
+        "width": 4.437776359264401,
+        "height": 1.8098263237623098,
+        "rotation": 358.80073699553196
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "화이트",
+        "en.ROMAN": "white",
+        "en": "White",
+        "ja": "ホワイト",
+        "zh_CN": "白色",
+        "zh_TW": "白咖啡",
+        "price": "5000",
+        "ingredients.ko": [
+          "우유",
+          "화이트초콜릿"
+        ],
+        "ingredients.en": [
+          "Milk",
+          "White Chocolate"
+        ],
+        "ingredients.ja": [
+          "牛乳",
+          "ホワイトチョコレート"
+        ],
+        "ingredients.zh_CN": [
+          "牛奶",
+          "白巧克力"
+        ],
+        "ingredients.zh_TW": [
+          "牛奶",
+          "白巧克力"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_8",
+      "ocr": {
+        "x": 77.33965955003782,
+        "y": 40.16445673121252,
+        "text": "화이트",
+        "width": 6.773700620255191,
+        "height": 1.8759531702947354,
+        "rotation": 359.04181748471217
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "파인애플",
+        "en.ROMAN": "pineapple",
+        "en": "Pineapples",
+        "ja": "パインアップル",
+        "zh_CN": "菠萝",
+        "zh_TW": "鳳梨",
+        "price": "2000",
+        "ingredients.ko": [
+          "파인애플"
+        ],
+        "ingredients.en": [
+          "Pineapple"
+        ],
+        "ingredients.ja": [
+          "パインアップル"
+        ],
+        "ingredients.zh_CN": [
+          "菠萝"
+        ],
+        "ingredients.zh_TW": [
+          "鳳梨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_15",
+      "ocr": {
+        "x": 56.25713587052306,
+        "y": 40.534141733312005,
+        "text": "파인애플",
+        "width": 8.938025539163307,
+        "height": 1.912197451867328,
+        "rotation": 358.5103764988307
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_7",
+      "ocr": {
+        "x": 51.22659693423619,
+        "y": 40.609240402676996,
+        "text": "콜라",
+        "width": 4.85656337217111,
+        "height": 1.9315122085390621,
+        "rotation": 358.5593177569778
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_9",
+      "ocr": {
+        "x": 44.1875968762865,
+        "y": 40.640914342202876,
+        "text": "사이다",
+        "width": 6.915675398645786,
+        "height": 2.0089969834991868,
+        "rotation": 359.0263233284508
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "카레밥",
+        "en.ROMAN": "curry bap",
+        "en": "Curry rice",
+        "ja": "カレーライス",
+        "zh_CN": "咖喱饭",
+        "zh_TW": "咖哩飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "카레",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Curry",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "カレー",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "咖喱",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "咖哩",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_10",
+      "ocr": {
+        "x": 12.523582955964567,
+        "y": 41.03472667919445,
+        "text": "카레밥",
+        "width": 7.223714772773212,
+        "height": 2.0011032939103996,
+        "rotation": 359.355916593686
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "마늘빵",
+        "en.ROMAN": "maneulppang",
+        "en": "Garlic Bread",
+        "ja": "ガーリックトースト",
+        "zh_CN": "香蒜面包",
+        "zh_TW": "香蒜麵包",
+        "price": "3000",
+        "ingredients.ko": [
+          "계란",
+          "마늘",
+          "빵",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Garlic",
+          "Bread",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "にんにく",
+          "パン",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "大蒜",
+          "面包",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "大蒜",
+          "麵包",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_11",
+      "ocr": {
+        "x": 12.66078125337163,
+        "y": 46.29807104079503,
+        "text": "마늘빵",
+        "width": 7.191012720063109,
+        "height": 1.9256591018915143,
+        "rotation": 358.5484874665284
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_17",
+      "ocr": {
+        "x": 53.472254447347254,
+        "y": 49.79567791949612,
+        "text": "맥주",
+        "width": 4.479707447608786,
+        "height": 1.8162724832198145,
+        "rotation": 359.11530555218343
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_18",
+      "ocr": {
+        "x": 43.70878103763858,
+        "y": 49.963914104983466,
+        "text": "소주",
+        "width": 4.563307451882391,
+        "height": 1.7917149600319227,
+        "rotation": 358.82303897106516
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "하이볼",
+        "en.ROMAN": "highball",
+        "en": "Highball",
+        "ja": "ハイボール",
+        "zh_CN": "高杯酒",
+        "zh_TW": "高球",
+        "price": "6000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_21",
+      "ocr": {
+        "x": 43.80338552100591,
+        "y": 51.874313189475124,
+        "text": "하이볼",
+        "width": 6.618177917781606,
+        "height": 1.8294079525054427,
+        "rotation": 358.719734190759
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "감자고로케",
+        "en.ROMAN": "gamjacroquette",
+        "en": "Potato Croquettes",
+        "ja": "じゃがいもコロッケ",
+        "zh_CN": "土豆可乐饼",
+        "zh_TW": "馬鈴薯可樂餅",
+        "price": "3500",
+        "ingredients.ko": [
+          "계란",
+          "양파",
+          "감자",
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Onion",
+          "Potato",
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "玉ねぎ",
+          "じゃがいも",
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "洋葱",
+          "土豆",
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "洋蔥",
+          "馬鈴薯",
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_22",
+      "ocr": {
+        "x": 12.790015062007033,
+        "y": 52.17279977543627,
+        "text": "감자고로케",
+        "width": 12.053398668447286,
+        "height": 1.9597770703614112,
+        "rotation": 358.7263099623407
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_27",
+      "ocr": {
+        "x": 12.967072036919863,
+        "y": 58.085628445007664,
+        "text": "공기밥",
+        "width": 7.140106739594386,
+        "height": 1.9321078302973995,
+        "rotation": 358.12067608648874
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "우롱차",
+        "en.ROMAN": "oolong cha",
+        "en": "Oolong Tea",
+        "ja": "ウーロン茶",
+        "zh_CN": "乌龙茶",
+        "zh_TW": "烏龍茶",
+        "price": "4000",
+        "ingredients.ko": [
+          "우롱"
+        ],
+        "ingredients.en": [
+          "Oolong"
+        ],
+        "ingredients.ja": [
+          "烏龍"
+        ],
+        "ingredients.zh_CN": [
+          "乌龙"
+        ],
+        "ingredients.zh_TW": [
+          "烏龍"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_30",
+      "ocr": {
+        "x": 39.552264895077315,
+        "y": 68.9930702729965,
+        "text": "우롱차",
+        "width": 5.87441405997852,
+        "height": 1.7302508251688364,
+        "rotation": 358.81858466286
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "에스프레소",
+        "en.ROMAN": "espresso",
+        "en": "Espresso",
+        "ja": "エスプレッソ",
+        "zh_CN": "意式浓缩咖啡",
+        "zh_TW": "義式濃縮咖啡",
+        "price": "2000",
+        "ingredients.ko": [
+          "에스프레소"
+        ],
+        "ingredients.en": [
+          "Espresso"
+        ],
+        "ingredients.ja": [
+          "エスプレッソ"
+        ],
+        "ingredients.zh_CN": [
+          "意式浓缩咖啡"
+        ],
+        "ingredients.zh_TW": [
+          "義式濃縮咖啡"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_31",
+      "ocr": {
+        "x": 10.750924009273838,
+        "y": 69.93150068779704,
+        "text": "에스프레소",
+        "width": 10.60788116088268,
+        "height": 1.8864286852208796,
+        "rotation": 358.07952342262115
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "백차",
+        "en.ROMAN": "baekcha",
+        "en": "White Tea",
+        "ja": "白茶",
+        "zh_CN": "白茶",
+        "zh_TW": "白茶",
+        "price": "4000",
+        "ingredients.ko": [
+          "백차"
+        ],
+        "ingredients.en": [
+          "White Tea"
+        ],
+        "ingredients.ja": [
+          "白茶"
+        ],
+        "ingredients.zh_CN": [
+          "白茶"
+        ],
+        "ingredients.zh_TW": [
+          "白茶"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_32",
+      "ocr": {
+        "x": 39.59799108405771,
+        "y": 71.0227156761071,
+        "text": "백차",
+        "width": 4.154501115216406,
+        "height": 1.7585045218492368,
+        "rotation": 358.6255455088681
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "아메리카노",
+        "en.ROMAN": "Americano",
+        "en": "Americano",
+        "ja": "アメリカーノ",
+        "zh_CN": "美式咖啡",
+        "zh_TW": "美式咖啡",
+        "price": "2000",
+        "ingredients.ko": [
+          "커피"
+        ],
+        "ingredients.en": [
+          "Coffee"
+        ],
+        "ingredients.ja": [
+          "コーヒー"
+        ],
+        "ingredients.zh_CN": [
+          "咖啡"
+        ],
+        "ingredients.zh_TW": [
+          "咖啡"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_34",
+      "ocr": {
+        "x": 10.757103800994091,
+        "y": 71.93641555641564,
+        "text": "아메리카노",
+        "width": 10.640780670018978,
+        "height": 1.97431984404837,
+        "rotation": 358.3372518964544
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "페퍼민트",
+        "en.ROMAN": "peppermint",
+        "en": "Peppermint",
+        "ja": "ペパーミント",
+        "zh_CN": "薄荷茶",
+        "zh_TW": "薄荷茶",
+        "price": "4000",
+        "ingredients.ko": [
+          "페퍼민트"
+        ],
+        "ingredients.en": [
+          "Peppermint"
+        ],
+        "ingredients.ja": [
+          "ペパーミント"
+        ],
+        "ingredients.zh_CN": [
+          "薄荷"
+        ],
+        "ingredients.zh_TW": [
+          "薄荷茶"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_35",
+      "ocr": {
+        "x": 39.559261925136134,
+        "y": 73.01248736285065,
+        "text": "페퍼민트",
+        "width": 7.829723271876983,
+        "height": 1.7633086596993643,
+        "rotation": 358.6016262396107
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "히비스커스",
+        "en.ROMAN": "hibiscus",
+        "en": "Hibiscus Tea",
+        "ja": "ハイビスカス",
+        "zh_CN": "木槿茶",
+        "zh_TW": "木槿茶",
+        "price": "4000",
+        "ingredients.ko": [
+          "히비스커스"
+        ],
+        "ingredients.en": [
+          "Hibiscus"
+        ],
+        "ingredients.ja": [
+          "ハイビスカス"
+        ],
+        "ingredients.zh_CN": [
+          "木槿"
+        ],
+        "ingredients.zh_TW": [
+          "木槿"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_36",
+      "ocr": {
+        "x": 39.62277927285145,
+        "y": 75.05550754255891,
+        "text": "히비스커스",
+        "width": 9.61710115697999,
+        "height": 1.7921815750911598,
+        "rotation": 358.3585026199554
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "패션후르츠수제청",
+        "en.ROMAN": "passion fruit sujecheong",
+        "en": "Handmade Passionfruit Preserves",
+        "ja": "パッションフルーツ手作りシロップ",
+        "zh_CN": "百香果手工蜜茶",
+        "zh_TW": "自製百香果醬",
+        "price": "5000",
+        "ingredients.ko": [
+          "백향과"
+        ],
+        "ingredients.en": [
+          "Passion Fruit"
+        ],
+        "ingredients.ja": [
+          "パッションフルーツ"
+        ],
+        "ingredients.zh_CN": [
+          "百香果"
+        ],
+        "ingredients.zh_TW": [
+          "百香果"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_38",
+      "ocr": {
+        "x": 39.73101380166829,
+        "y": 83.17835873769594,
+        "text": "패션후르츠수제청",
+        "width": 15.719370288092437,
+        "height": 1.855734993119445,
+        "rotation": 358.12393355258143
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "레몬에이드수제청",
+        "en.ROMAN": "lemonade sujecheong",
+        "en": "Handmade Lemonade Preserves",
+        "ja": "レモンエード手作りシロップ",
+        "zh_CN": "柠檬汽水手工蜜茶",
+        "zh_TW": "自製檸檬氣泡飲",
+        "price": "5000",
+        "ingredients.ko": [
+          "레몬"
+        ],
+        "ingredients.en": [
+          "Lemon"
+        ],
+        "ingredients.ja": [
+          "レモン"
+        ],
+        "ingredients.zh_CN": [
+          "柠檬"
+        ],
+        "ingredients.zh_TW": [
+          "檸檬"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_39",
+      "ocr": {
+        "x": 39.74749719144974,
+        "y": 85.20817651695327,
+        "text": "레몬에이드수제청",
+        "width": 15.78377932223341,
+        "height": 1.7577858940289164,
+        "rotation": 358.279918961545
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "라임에이드수제청",
+        "en.ROMAN": "lime ade sujecheong",
+        "en": "Handmade Lime Ade Preserves",
+        "ja": "ライムエイード手作りシロップ",
+        "zh_CN": "青柠汽水手工蜜茶",
+        "zh_TW": "自製萊姆氣泡飲",
+        "price": "5500",
+        "ingredients.ko": [
+          "라임"
+        ],
+        "ingredients.en": [
+          "Lime"
+        ],
+        "ingredients.ja": [
+          "ライム"
+        ],
+        "ingredients.zh_CN": [
+          "青柠"
+        ],
+        "ingredients.zh_TW": [
+          "萊姆"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0003_585729_1-tf_40",
+      "ocr": {
+        "x": 39.84615743712299,
+        "y": 87.23750130232582,
+        "text": "라임에이드수제청",
+        "width": 15.648206981415544,
+        "height": 1.8604692412372885,
+        "rotation": 358.1697354722119
+      }
+    }
+  ]
+}

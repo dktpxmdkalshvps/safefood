@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_191710_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:18 19:01:10",
+    "store_id": "191710",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.8086253369272237,
+          42.10526315789473
+        ],
+        [
+          94.33962264150944,
+          42.30769230769231
+        ],
+        [
+          93.80053908355795,
+          97.77327935222672
+        ],
+        [
+          2.4258760107816713,
+          97.9757085020243
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0002_191710_1-tf-0",
+      "ocr": {
+        "x": 9.543496735257206,
+        "y": 67.24276912478372,
+        "text": "한우소고기돌미역국정찬",
+        "width": 22.755237122903857,
+        "height": 1.924695554795763,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "한우소고기돌미역국정찬",
+        "en.ROMAN": "hanusogogidolmiyeokgukjeongchan",
+        "en": "Korean Beef and Brown Rock Seaweed Soup Set Menu",
+        "ja": "韓牛入り岩わかめスープ定食",
+        "zh_CN": "韩牛肉褐岩藻汤正餐",
+        "zh_TW": "韓牛石鍋海帶湯正餐",
+        "price": "13000",
+        "ingredients.ko": [
+          "미역",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Seaweed",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "ワカメ",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "海带",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "海帶",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_191710_1-tf-1",
+      "ocr": {
+        "x": 13.985078612394213,
+        "y": 89.95309593151717,
+        "text": "고등어구이정찬",
+        "width": 14.437872563585788,
+        "height": 1.8755807780399902,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "고등어구이정찬",
+        "en.ROMAN": "godeungeoguijeongchan",
+        "en": "Grilled Mackerel Set Menu",
+        "ja": "サバ焼き定食",
+        "zh_CN": "烤青花鱼正餐",
+        "zh_TW": "烤鯖魚正餐",
+        "price": "12000",
+        "ingredients.ko": [
+          "고등어"
+        ],
+        "ingredients.en": [
+          "Mackerel"
+        ],
+        "ingredients.ja": [
+          "サバ"
+        ],
+        "ingredients.zh_CN": [
+          "青花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯖魚"
+        ],
+        "allergy": [
+          "고등어"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_191710_1-tf-2",
+      "ocr": {
+        "x": 39.526005598343716,
+        "y": 67.19917890780351,
+        "text": "가자미돌미역국정찬",
+        "width": 18.72613841655026,
+        "height": 1.9024892604407686,
+        "rotation": 359.7208152565739
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "가자미돌미역국정찬",
+        "en.ROMAN": "gajamidolmiyeokgukjeongchan",
+        "en": "Plaice and Brown Rock Seaweed Soup Set Menu",
+        "ja": "カレイ入り岩わかめスープ定食",
+        "zh_CN": "比目鱼褐岩藻汤正餐",
+        "zh_TW": "鰈魚石鍋海帶湯正餐",
+        "price": "14000",
+        "ingredients.ko": [
+          "가자미",
+          "미역"
+        ],
+        "ingredients.en": [
+          "Plaice",
+          "Seaweed"
+        ],
+        "ingredients.ja": [
+          "カレイ",
+          "ワカメ"
+        ],
+        "ingredients.zh_CN": [
+          "鲽鱼",
+          "海带"
+        ],
+        "ingredients.zh_TW": [
+          "鰈魚",
+          "海帶"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_191710_1-tf-3",
+      "ocr": {
+        "x": 40.730238492211186,
+        "y": 89.87974431931717,
+        "text": "모듬생선구이정찬",
+        "width": 16.32864814998906,
+        "height": 1.9088020043168938,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "모듬생선구이정찬",
+        "en.ROMAN": "modeumsaengseonguijeongchan",
+        "en": "Assorted Grilled Fish Set Menu",
+        "ja": "盛り合わせ海鮮焼き定食",
+        "zh_CN": "烤鱼什锦正餐",
+        "zh_TW": "烤魚拼盤正餐",
+        "price": "13500",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_191710_1-tf-4",
+      "ocr": {
+        "x": 68.77761181705772,
+        "y": 67.21851095536663,
+        "text": "전복돌미역국정찬",
+        "width": 16.817335847428367,
+        "height": 1.880769581089677,
+        "rotation": 359.6997395787231
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "전복돌미역국정찬",
+        "en.ROMAN": "jeonbokdolmiyeokgukjeongchan",
+        "en": "Abalone and Brown Rock Seaweed Soup Set Menu",
+        "ja": "アワビ入り岩わかめスープ定食",
+        "zh_CN": "鲍鱼褐岩藻汤正餐",
+        "zh_TW": "鮑魚石鍋海帶湯正餐",
+        "price": "16000",
+        "ingredients.ko": [
+          "전복",
+          "미역"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Seaweed"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "ワカメ"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "海带"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "海帶"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_191710_1-tf-5",
+      "ocr": {
+        "x": 70.83277352689657,
+        "y": 89.83584819963724,
+        "text": "병어조림정찬",
+        "width": 12.269638131391487,
+        "height": 1.8449786566279947,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "병어조림정찬",
+        "en.ROMAN": "byeongeojorimjeongchan",
+        "en": "Boiled Byung-eo's dinner.",
+        "ja": "マナガツオ煮付けディナー",
+        "zh_CN": "炖鲳鱼正餐",
+        "zh_TW": "燉鯧魚正餐",
+        "price": "12000",
+        "ingredients.ko": [
+          "병어"
+        ],
+        "ingredients.en": [
+          "Promfret"
+        ],
+        "ingredients.ja": [
+          "マナガツオ"
+        ],
+        "ingredients.zh_CN": [
+          "银鲳"
+        ],
+        "ingredients.zh_TW": [
+          "銀鯧"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

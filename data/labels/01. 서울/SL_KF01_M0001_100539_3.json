@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_100539_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "100539",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.775280898876403,
+          0
+        ],
+        [
+          0.2808988764044944,
+          84.38818565400841
+        ],
+        [
+          0,
+          99.57805907172995
+        ],
+        [
+          99.71910112359551,
+          100
+        ],
+        [
+          99.43820224719101,
+          0
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0001_100539_3-tf-0",
+      "ocr": {
+        "x": 45.79805629296761,
+        "y": 28.70051573309796,
+        "text": "똥집튀김",
+        "width": 12.183393827058543,
+        "height": 3.363768095700881,
+        "rotation": 359.4793650168526
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "똥집튀김",
+        "en.ROMAN": "ttongjiptwigim",
+        "en": "Deep-fried Chicken Gizzards",
+        "ja": "砂肝の唐揚げ",
+        "zh_CN": "炸鸡胗",
+        "zh_TW": "炸雞胗",
+        "price": "8000",
+        "ingredients.ko": [
+          "닭모래집"
+        ],
+        "ingredients.en": [
+          "Chicken Gizzard"
+        ],
+        "ingredients.ja": [
+          "砂肝"
+        ],
+        "ingredients.zh_CN": [
+          "鸡胗"
+        ],
+        "ingredients.zh_TW": [
+          "雞胗"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_100539_3-tf-1",
+      "ocr": {
+        "x": 16.82746252241619,
+        "y": 50.06372368338244,
+        "text": "소떡소떡",
+        "width": 12.293936788904428,
+        "height": 3.3430629638149543,
+        "rotation": 0.3825251629103832
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "소떡소떡",
+        "en.ROMAN": "sotteoksotteok",
+        "en": "Sausage and Rice Cake Skewers",
+        "ja": "ソトックソトック",
+        "zh_CN": "烤香肠年糕串",
+        "zh_TW": "牛肉年糕",
+        "price": "8000",
+        "ingredients.ko": [
+          "떡",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Rice Cake",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "トク",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "糕",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "年糕",
+          "香腸"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_100539_3-tf-2",
+      "ocr": {
+        "x": 45.99686033564688,
+        "y": 49.945140156497274,
+        "text": "아이스황도",
+        "width": 15.57551559891147,
+        "height": 3.360440864668913,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "아이스황도",
+        "en.ROMAN": "ice hwangdo",
+        "en": "Iced Yellow Peaches",
+        "ja": "アイス黄桃",
+        "zh_CN": "冰黄桃",
+        "zh_TW": "冰黃桃",
+        "price": "7000",
+        "ingredients.ko": [
+          "복숭아"
+        ],
+        "ingredients.en": [
+          "Peach"
+        ],
+        "ingredients.ja": [
+          "桃"
+        ],
+        "ingredients.zh_CN": [
+          "蜜桃"
+        ],
+        "ingredients.zh_TW": [
+          "蜜桃"
+        ],
+        "allergy": [
+          "복숭아"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_100539_3-tf-3",
+      "ocr": {
+        "x": 54.8233353407705,
+        "y": 67.09910462287702,
+        "text": "감자튀김",
+        "width": 10.450598154297309,
+        "height": 2.7357841856998846,
+        "rotation": 359.9956859654868
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "감자튀김",
+        "en.ROMAN": "gamjatwigim",
+        "en": "French Fries",
+        "ja": "フライドポテト",
+        "zh_CN": "炸薯条",
+        "zh_TW": "炸薯條",
+        "price": "6000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_100539_3-tf-4",
+      "ocr": {
+        "x": 55.61886190924516,
+        "y": 83.20478881168324,
+        "text": "닭껍데기튀김",
+        "width": 15.892431804133773,
+        "height": 2.9364834037577245,
+        "rotation": 359.53617837287584
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "닭껍데기튀김",
+        "en.ROMAN": "dakkkeopdegitwigim",
+        "en": "Deep-fried Chicken Skin",
+        "ja": "鶏皮フライ",
+        "zh_CN": "炸鸡皮",
+        "zh_TW": "炸雞皮",
+        "price": "6000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0001_100539_3-tf-5",
+      "ocr": {
+        "x": 16.32693470397817,
+        "y": 83.40519530510524,
+        "text": "사천탕수육",
+        "width": 12.990336874144162,
+        "height": 2.917776232569411,
+        "rotation": 359.55035501198506
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "사천탕수육",
+        "en.ROMAN": "sacheontangsuyuk",
+        "en": "Sichuan Deep-fried Pork with Sweet and Sour Sauce",
+        "ja": "四川風酢豚",
+        "zh_CN": "四川糖醋肉",
+        "zh_TW": "四川糖醋肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지고기",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "澱粉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "icFJgshsXB",
+      "ocr": {
+        "x": 16.998152686019164,
+        "y": 28.66180007764159,
+        "text": "멘보샤",
+        "width": 10.119559455951253,
+        "height": 3.397709253251307,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "멘보샤",
+        "en.ROMAN": "menbosha",
+        "en": "Fried Shrimp Sandwich",
+        "ja": "エビパン包み揚げ",
+        "zh_CN": "面包虾",
+        "zh_TW": "麵包蝦",
+        "price": "13000",
+        "ingredients.ko": [
+          "새우",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

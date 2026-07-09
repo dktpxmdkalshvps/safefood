@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "file_name": "DG_KF01_M0002_594062_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:08 14:55:32",
+    "store_id": "594062",
+    "store_region": "DG",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.917355371900827,
+          2.7950310559006213
+        ],
+        [
+          92.14876033057851,
+          3.1055900621118013
+        ],
+        [
+          91.73553719008265,
+          93.7888198757764
+        ],
+        [
+          6.6115702479338845,
+          92.85714285714286
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "찜갈비",
+        "en.ROMAN": "jjimgalbi",
+        "en": "Spicy Braised Pork Galbi",
+        "ja": "カルビの蒸し物",
+        "zh_CN": "炖排骨",
+        "zh_TW": "燉排骨",
+        "price": "20000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_594062_1-tf_6",
+      "ocr": {
+        "x": 52.22014122306659,
+        "y": 23.607413311866416,
+        "text": "찜갈비",
+        "width": 16.249646942333026,
+        "height": 4.810173376267167,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "갈비살찌개",
+        "en.ROMAN": "galbisaljjigae",
+        "en": "Boneless Galbi Jjigae",
+        "ja": "カルビチゲ",
+        "zh_CN": "牛肋条肉锅",
+        "zh_TW": "牛肋條鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "쇠고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_594062_1-tf_22",
+      "ocr": {
+        "x": 51.926520649394035,
+        "y": 58.70910756276797,
+        "text": "갈비살찌개",
+        "width": 26.95533808212646,
+        "height": 4.956642505796491,
+        "rotation": 0.6572251680861996
+      }
+    }
+  ]
+}

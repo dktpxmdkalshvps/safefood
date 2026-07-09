@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "file_name": "SL_KF06_M0003_321479_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:17 21:42:40",
+    "store_id": "321479",
+    "store_region": "SL",
+    "store_type": "KF06",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.316176470588234,
+          9.24137931034483
+        ],
+        [
+          88.97058823529413,
+          9.793103448275868
+        ],
+        [
+          80.33088235294116,
+          94.34482758620685
+        ],
+        [
+          16.911764705882355,
+          91.44827586206897
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드",
+        "en.ROMAN": "fried",
+        "en": "Fried Chicken",
+        "ja": "フライドチキン",
+        "zh_CN": "脆皮炸鸡",
+        "zh_TW": "炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_0",
+      "ocr": {
+        "x": 16.372931147080127,
+        "y": 15.917588100604476,
+        "text": "감계후라이드",
+        "width": 28.745532905207305,
+        "height": 4.510027684943132,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드반반",
+        "en.ROMAN": "fried banban",
+        "en": "Half and Half Fried Chicken",
+        "ja": "フライドチキン(ハーフ&ハーフ)",
+        "zh_CN": "脆皮炸鸡双拼",
+        "zh_TW": "炸雞雙拼",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_1",
+      "ocr": {
+        "x": 16.54244438457209,
+        "y": 20.6578502827058,
+        "text": "감계후라이드반반",
+        "width": 38.54431254042004,
+        "height": 4.393739230263809,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "생똥집튀김",
+        "en.ROMAN": "saengttongjiptwigim",
+        "en": "Muryang Deep-fried Chicken Gizzards",
+        "ja": "砂肝揚げ",
+        "zh_CN": "炸鲜鸡胗",
+        "zh_TW": "炸鮮雞胗",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_3",
+      "ocr": {
+        "x": 16.336372732907368,
+        "y": 30.661878572364927,
+        "text": "무량생똥집튀김",
+        "width": 33.902892314173044,
+        "height": 4.74249345407192,
+        "rotation": 0.6443656527771395
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "빨간부산어묵",
+        "en.ROMAN": "ppalganbusaneomuk",
+        "en": "Red Busan Fishcake",
+        "ja": "激辛プサン練り天",
+        "zh_CN": "辣味鱼糕",
+        "zh_TW": "辣味釜山魚板",
+        "price": "16000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_8",
+      "ocr": {
+        "x": 17.449405411838327,
+        "y": 42.36188362821151,
+        "text": "빨간부산어묵",
+        "width": 26.224734626254083,
+        "height": 4.725938241317225,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "꼬치추가",
+        "en.ROMAN": "kkochichuga",
+        "en": "Extra Serving of Skewers",
+        "ja": "串追加",
+        "zh_CN": "另加串",
+        "zh_TW": "加點串物",
+        "price": "800",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_9",
+      "ocr": {
+        "x": 17.54544651324618,
+        "y": 47.47525570149025,
+        "text": "꼬치추가",
+        "width": 11.455688215158602,
+        "height": 2.7945171501791974,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동사리",
+        "en.ROMAN": "udon sari",
+        "en": "Extra Udon Noodles",
+        "ja": "うどん追加",
+        "zh_CN": "另加乌冬面",
+        "zh_TW": "加點烏龍麵條",
+        "price": "2500",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_10",
+      "ocr": {
+        "x": 46.33023955072266,
+        "y": 48.06230271236833,
+        "text": "우동사리",
+        "width": 11.758588711301137,
+        "height": 2.930246852836406,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "꽈리고추튀김",
+        "en.ROMAN": "kkwarigochutwigim",
+        "en": "Deep-fried Shishito Peppers",
+        "ja": "青唐辛子の天ぷら",
+        "zh_CN": "炸螺丝椒",
+        "zh_TW": "炸糯米椒",
+        "price": "3000",
+        "ingredients.ko": [
+          "고추",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_11",
+      "ocr": {
+        "x": 18.00840947620911,
+        "y": 53.29436602195935,
+        "text": "꽈리고추튀김",
+        "width": 25.474237610076393,
+        "height": 4.3423215351042055,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "생맥주",
+        "en.ROMAN": "saengmaekju",
+        "en": "Draft Beer",
+        "ja": "生ビール",
+        "zh_CN": "扎啤",
+        "zh_TW": "生啤酒",
+        "price": "3000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_12",
+      "ocr": {
+        "x": 18.732757455923828,
+        "y": 59.974898497809114,
+        "text": "생맥주",
+        "width": 13.086697918382745,
+        "height": 3.85363759660987,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4500",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_15",
+      "ocr": {
+        "x": 18.71780568828869,
+        "y": 63.64087301587315,
+        "text": "소주",
+        "width": 9.160266234598085,
+        "height": 3.650979809045224,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "의리남소주",
+        "en.ROMAN": "uirinamsoju",
+        "en": "Loyal soju.",
+        "ja": "義理男焼酎",
+        "zh_CN": "义气男烧酒",
+        "zh_TW": "義氣男燒酒",
+        "price": "8000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_17",
+      "ocr": {
+        "x": 18.81701203749506,
+        "y": 67.2332152891328,
+        "text": "의리남소주",
+        "width": 20.80557130041508,
+        "height": 4.06179906356769,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "병맥주",
+        "en.ROMAN": "byeongmaekju",
+        "en": "Bottled Beer",
+        "ja": "瓶ビール",
+        "zh_CN": "瓶装啤酒",
+        "zh_TW": "瓶裝啤酒",
+        "price": "4500",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_18",
+      "ocr": {
+        "x": 19.2437409695907,
+        "y": 70.76627637896613,
+        "text": "병맥주",
+        "width": 12.602947520184257,
+        "height": 3.7160637658084443,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료",
+        "en.ROMAN": "eumnyo",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0003_321479_1-tf_20",
+      "ocr": {
+        "x": 19.23511969755263,
+        "y": 74.01259691050724,
+        "text": "음료",
+        "width": 8.904699840720196,
+        "height": 3.539050842368083,
+        "rotation": 0
+      }
+    }
+  ]
+}

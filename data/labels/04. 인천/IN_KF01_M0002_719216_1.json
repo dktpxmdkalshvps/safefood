@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0002_719216_1.jpg",
+    "image_original_width": 6120,
+    "image_original_height": 8160,
+    "captured_date": "2022:09:24 19:21:39",
+    "store_id": "719216",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          6.451612903225806,
+          4.96815286624204
+        ],
+        [
+          5.602716468590832,
+          68.28025477707004
+        ],
+        [
+          88.45500848896437,
+          69.68152866242035
+        ],
+        [
+          88.79456706281836,
+          7.006369426751592
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "해물찜",
+        "en.ROMAN": "haemuljjim",
+        "en": "Spicy Braised Seafood",
+        "ja": "海鮮の蒸し物",
+        "zh_CN": "辣炖海鲜",
+        "zh_TW": "辣燉海鮮",
+        "price": "45000",
+        "ingredients.ko": [
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_719216_1-tf-0",
+      "ocr": {
+        "x": 60.098039215686015,
+        "y": 26.615403289806224,
+        "text": "해물(2인)",
+        "width": 12.243889840592551,
+        "height": 2.387597431590923,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "코다리구이",
+        "en.ROMAN": "kodarigui",
+        "en": "Grilled Half-dried Pollack",
+        "ja": "半干しスケトウダラ焼き",
+        "zh_CN": "烤半干明太鱼",
+        "zh_TW": "烤半乾明太魚",
+        "price": "6000",
+        "ingredients.ko": [
+          "고추",
+          "코다리"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Half-dried Pollack"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "半干しスケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "半干明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "半乾明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_719216_1-tf-1",
+      "ocr": {
+        "x": 39.22433852056738,
+        "y": 29.246028292993714,
+        "text": "코다리구이",
+        "width": 9.90859659511956,
+        "height": 2.1936274509803906,
+        "rotation": 0.838117232788818
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "아구찜",
+        "en.ROMAN": "agujjim",
+        "en": "Spicy Braised Monkfish",
+        "ja": "アンコウの蒸し物",
+        "zh_CN": "炖安康鱼",
+        "zh_TW": "燉鮟鱇魚",
+        "price": "37000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_719216_1-tf-2",
+      "ocr": {
+        "x": 7.265656499996908,
+        "y": 31.570128734896095,
+        "text": "커플(2인)",
+        "width": 11.602655270614008,
+        "height": 2.8839043254513337,
+        "rotation": 1.475101800853679
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "더덕구이",
+        "en.ROMAN": "deodeokgui",
+        "en": "Grilled Deodeok",
+        "ja": "蔓人参焼き",
+        "zh_CN": "烤沙参",
+        "zh_TW": "烤沙蔘",
+        "price": "6000",
+        "ingredients.ko": [
+          "더덕"
+        ],
+        "ingredients.en": [
+          "Deodeok"
+        ],
+        "ingredients.ja": [
+          "蔓人参"
+        ],
+        "ingredients.zh_CN": [
+          "沙参"
+        ],
+        "ingredients.zh_TW": [
+          "沙蔘"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_719216_1-tf-3",
+      "ocr": {
+        "x": 39.18605937700763,
+        "y": 32.31341467313351,
+        "text": "더덕구이",
+        "width": 7.967750527030356,
+        "height": 2.142882102557695,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "해물섞어찜",
+        "en.ROMAN": "haemulseokkeojjim",
+        "en": "Spicy Braised Seafood",
+        "ja": "海鮮の蒸し物",
+        "zh_CN": "炖什锦海鲜",
+        "zh_TW": "辣燉綜合海鮮",
+        "price": "47000",
+        "ingredients.ko": [
+          "야채",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_719216_1-tf-4",
+      "ocr": {
+        "x": 59.42387265982841,
+        "y": 33.151592407834606,
+        "text": "해물섞어찜",
+        "width": 29.159754423430332,
+        "height": 8.673469768098782,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "도토리묵",
+        "en.ROMAN": "dotorimuk",
+        "en": "Acorn Jelly Salad",
+        "ja": "どんぐりこんにゃくの和え物",
+        "zh_CN": "橡子凉粉",
+        "zh_TW": "橡子涼粉",
+        "price": "5000",
+        "ingredients.ko": [
+          "도토리"
+        ],
+        "ingredients.en": [
+          "Acorn"
+        ],
+        "ingredients.ja": [
+          "どんぐり"
+        ],
+        "ingredients.zh_CN": [
+          "橡子"
+        ],
+        "ingredients.zh_TW": [
+          "橡子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_719216_1-tf-5",
+      "ocr": {
+        "x": 39.18605937700766,
+        "y": 35.01449867097785,
+        "text": "도토리묵",
+        "width": 7.853371442063035,
+        "height": 2.228666416283195,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "메밀부추전",
+        "en.ROMAN": "memilbuchujeon",
+        "en": "Buckwheat and Chive Pancake",
+        "ja": "ニラのそば粉のチヂミ",
+        "zh_CN": "荞麦韭菜煎饼",
+        "zh_TW": "蕎麥韭菜煎餅",
+        "price": "5000",
+        "ingredients.ko": [
+          "메밀",
+          "부추"
+        ],
+        "ingredients.en": [
+          "Buckwheat",
+          "Chives"
+        ],
+        "ingredients.ja": [
+          "そば",
+          "ニラ"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦",
+          "韭菜"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥",
+          "韭菜"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_719216_1-tf-6",
+      "ocr": {
+        "x": 38.85926199138673,
+        "y": 37.53400290842763,
+        "text": "메밀부추전",
+        "width": 10.212418300653571,
+        "height": 2.3462098694192126,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "계란찜",
+        "en.ROMAN": "gyeranjjim",
+        "en": "Steamed Eggs",
+        "ja": "茶碗蒸し",
+        "zh_CN": "鸡蛋羹",
+        "zh_TW": "蒸蛋",
+        "price": "4000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_719216_1-tf-7",
+      "ocr": {
+        "x": 38.80718954248366,
+        "y": 40.36764705882353,
+        "text": "계란찜",
+        "width": 6.356209150326797,
+        "height": 2.071078431372549,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,797 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_284801_1.jpg",
+    "image_original_width": 4624,
+    "image_original_height": 3468,
+    "captured_date": "2022:09:09 17:12:30",
+    "store_id": "284801",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          14.844533600802407,
+          6.684491978609626
+        ],
+        [
+          80.54162487462388,
+          8.155080213903746
+        ],
+        [
+          77.73319959879642,
+          72.19251336898395
+        ],
+        [
+          16.549648946840527,
+          69.78609625668449
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "순대국밥",
+        "en.ROMAN": "sundaegukbap",
+        "en": "Sundae and Rice Soup",
+        "ja": "スンデクッパ",
+        "zh_CN": "血肠汤饭",
+        "zh_TW": "血腸湯飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-0",
+      "ocr": {
+        "x": 17.734103851711755,
+        "y": 23.798630512778285,
+        "text": "순대국밥",
+        "width": 7.969499164090817,
+        "height": 3.291354133587302,
+        "rotation": 0.8938926332431265
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-1",
+      "ocr": {
+        "x": 63.51389745969775,
+        "y": 24.959074629836294,
+        "text": "소주",
+        "width": 6.079762796243595,
+        "height": 3.2133185708911305,
+        "rotation": 0.9688061278653208
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "순대한접시",
+        "en.ROMAN": "sundae hanjeopsi",
+        "en": "A Plate of Sundae",
+        "ja": "スンデの盛り合わせ",
+        "zh_CN": "血肠（一碟）",
+        "zh_TW": "一盤血腸",
+        "price": "18000",
+        "ingredients.ko": [
+          "돼지내장",
+          "순대",
+          "당면"
+        ],
+        "ingredients.en": [
+          "Pork Offal",
+          "Sundae",
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "豚内臓",
+          "スンデ",
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "猪内脏",
+          "血肠",
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "豬內臟",
+          "血腸",
+          "粉條"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-2",
+      "ocr": {
+        "x": 40.861164837816474,
+        "y": 26.130083613673843,
+        "text": "순대한접시",
+        "width": 9.69515772717503,
+        "height": 3.3632104528870546,
+        "rotation": 1.0011456451271101
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "고기순대국밥",
+        "en.ROMAN": "gogisundaegukbap",
+        "en": "Meat, Sundae and Rice Soup",
+        "ja": "肉入りスンデクッパ",
+        "zh_CN": "白切猪头肉+血肠汤饭",
+        "zh_TW": "豬肉血腸湯飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-3",
+      "ocr": {
+        "x": 17.942553905947918,
+        "y": 31.165856786756418,
+        "text": "고기순대국밥",
+        "width": 11.681545521328305,
+        "height": 3.29561925097306,
+        "rotation": 0.893892633248015
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-4",
+      "ocr": {
+        "x": 63.448167722373206,
+        "y": 32.18657540182668,
+        "text": "맥주",
+        "width": 5.880389258018715,
+        "height": 3.135909869397718,
+        "rotation": 1.1080662660970688
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "수육",
+        "en.ROMAN": "suyuk",
+        "en": "Boiled Pork Slices",
+        "ja": "ゆで肉",
+        "zh_CN": "白切肉",
+        "zh_TW": "白切肉",
+        "price": "18000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-5",
+      "ocr": {
+        "x": 40.90654172491637,
+        "y": 35.66733993628189,
+        "text": "수육",
+        "width": 6.292200493068188,
+        "height": 3.232729650451334,
+        "rotation": 1.43860999643897
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "오소리국밥",
+        "en.ROMAN": "osorigukbap",
+        "en": "Pork Stomach and Rice Soup",
+        "ja": "豚ガツ(胃袋)クッパ",
+        "zh_CN": "猪胃汤饭",
+        "zh_TW": "豬胃湯飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-6",
+      "ocr": {
+        "x": 18.136933429901564,
+        "y": 38.39613669529903,
+        "text": "오소리국밥",
+        "width": 9.716398141258894,
+        "height": 3.257830716997446,
+        "rotation": 1.6151076979091386
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-7",
+      "ocr": {
+        "x": 63.172655551508676,
+        "y": 39.2348913529992,
+        "text": "막걸리",
+        "width": 5.795847750865035,
+        "height": 3.1889888387287915,
+        "rotation": 1.0982133179932703
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "술국",
+        "en.ROMAN": "sulguk",
+        "en": "Hangover Soup",
+        "ja": "酔い覚ましスープ",
+        "zh_CN": "醒酒汤",
+        "zh_TW": "醒酒湯",
+        "price": "18000",
+        "ingredients.ko": [
+          "야채",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "高湯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-8",
+      "ocr": {
+        "x": 40.89645017832123,
+        "y": 43.419710826884604,
+        "text": "술국",
+        "width": 6.2330265414266774,
+        "height": 3.024300083932058,
+        "rotation": 1.3834409917206472
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "내장국밥",
+        "en.ROMAN": "naejanggukbap",
+        "en": "Offal and Rice Soup",
+        "ja": "ネジャンクッパ",
+        "zh_CN": "内脏汤饭",
+        "zh_TW": "內臟湯飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "내장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Offal"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "内臓"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "内脏"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "內臟"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-9",
+      "ocr": {
+        "x": 18.316888941199938,
+        "y": 45.66569061359414,
+        "text": "내장국밥",
+        "width": 7.752795537624499,
+        "height": 3.112219803804603,
+        "rotation": 0.893892633248413
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-10",
+      "ocr": {
+        "x": 62.9324335047294,
+        "y": 46.21800968007,
+        "text": "콜라",
+        "width": 5.886185940805487,
+        "height": 3.1430219146482123,
+        "rotation": 0.9137454024827321
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "순대정식",
+        "en.ROMAN": "sundaejeongsik",
+        "en": "Sundae Set Menu",
+        "ja": "スンデ定食",
+        "zh_CN": "血肠套餐",
+        "zh_TW": "血腸套餐",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "돼지내장",
+          "순대",
+          "육수",
+          "당면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Pork Offal",
+          "Sundae",
+          "Meat Broth",
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "豚内臓",
+          "スンデ",
+          "だし汁",
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "猪内脏",
+          "血肠",
+          "肉汤",
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "豬內臟",
+          "血腸",
+          "高湯",
+          "粉條"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-11",
+      "ocr": {
+        "x": 18.40612983664306,
+        "y": 52.698185812928465,
+        "text": "순대정식",
+        "width": 7.588234109700118,
+        "height": 3.141419904709086,
+        "rotation": 0.6822371404117575
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-12",
+      "ocr": {
+        "x": 62.679251641512465,
+        "y": 53.0341706364112,
+        "text": "사이다",
+        "width": 5.928032359266468,
+        "height": 3.094123527237635,
+        "rotation": 1.4182742216924566
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "육개장",
+        "en.ROMAN": "yukgaejang",
+        "en": "Spicy Beef Soup",
+        "ja": "ユッケジャン",
+        "zh_CN": "香辣牛肉汤",
+        "zh_TW": "香辣牛肉湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "숙주",
+          "고사리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Mung Bean Sprout",
+          "Bracken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "緑豆もやし",
+          "ワラビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "绿豆芽",
+          "蕨菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "綠豆芽",
+          "蕨菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-13",
+      "ocr": {
+        "x": 18.528851481690474,
+        "y": 59.61457607808027,
+        "text": "육개장",
+        "width": 5.774221453287189,
+        "height": 3.017810679841929,
+        "rotation": 0.8592453469312318
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "국밥머리고기주가",
+        "en.ROMAN": "gukbammeorigogi chuga",
+        "en": "Extra Serving of Pork Head Meat for Rice Soup",
+        "ja": "クッパの牛頭肉追加",
+        "zh_CN": "汤饭另加白切猪头肉",
+        "zh_TW": "加點湯飯豬頰肉",
+        "price": "3000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-14",
+      "ocr": {
+        "x": 18.58737535728682,
+        "y": 64.88440000475177,
+        "text": "국밥머리고기주가",
+        "width": 8.31938452765475,
+        "height": 2.138268207163628,
+        "rotation": 0.8061404667885768
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1500",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-15",
+      "ocr": {
+        "x": 31.70528744296353,
+        "y": 65.15338076877968,
+        "text": "공기밥",
+        "width": 3.267336120791769,
+        "height": 2.1337946943483304,
+        "rotation": 0.3705465530800325
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "야채/당면/셀프볶음밥추가",
+        "en.ROMAN": "yachae/dangmyeon/self bokkeumbap chuga",
+        "en": "Extra Serving of Vegetables/ Glass Noodles/ Self-serve Fried Rice",
+        "ja": "野菜/春雨/セルフチャーハン追加",
+        "zh_CN": "另加蔬菜/粉条/自助炒饭",
+        "zh_TW": "加點蔬菜/粉條/自助式飯糰",
+        "price": "3000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_284801_1-tf-16",
+      "ocr": {
+        "x": 40.8264524642961,
+        "y": 65.33995950331665,
+        "text": "야채/당면/셀프볶음밥추가",
+        "width": 13.36764944435159,
+        "height": 2.1315354571521423,
+        "rotation": 0.9925388159350064
+      }
+    }
+  ]
+}

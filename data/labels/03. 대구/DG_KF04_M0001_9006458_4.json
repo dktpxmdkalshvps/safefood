@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file_name": "DG_KF04_M0001_9006458_4.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:21 17:30:30",
+    "store_id": "9006458",
+    "store_region": "DG",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.240740740740741,
+          11.74934725848564
+        ],
+        [
+          98.61111111111111,
+          9.399477806788509
+        ],
+        [
+          99.07407407407408,
+          91.64490861618799
+        ],
+        [
+          0.9259259259259258,
+          89.29503916449086
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "숙성삼겹살",
+        "en.ROMAN": "sukseongsamgyeopsal",
+        "en": "Aged Pork Belly",
+        "ja": "熟成サムギョプサル",
+        "zh_CN": "熟成五花肉",
+        "zh_TW": "熟成五花肉",
+        "price": "10000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_9006458_4-tf_3",
+      "ocr": {
+        "x": 64.26237317045891,
+        "y": 34.874999999999964,
+        "text": "숙성삼겹살",
+        "width": 20.939043289655434,
+        "height": 2.9295091407609997,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹오돌뼈",
+        "en.ROMAN": "samgyeobodolppyeo",
+        "en": "Grilled Pork Belly Cartilage",
+        "ja": "サムギョプサル軟骨",
+        "zh_CN": "五花肉脆骨",
+        "zh_TW": "五花肉脆骨",
+        "price": "9500",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_9006458_4-tf_9",
+      "ocr": {
+        "x": 63.0977917957482,
+        "y": 72.90090182815229,
+        "text": "삼겹오돌뼈",
+        "width": 20.557827319727025,
+        "height": 3.0036073126087848,
+        "rotation": 0
+      }
+    }
+  ]
+}

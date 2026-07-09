@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "file_name": "CC_KF01_M0003_1904582_1.jpg",
+    "image_original_width": 2604,
+    "image_original_height": 4624,
+    "captured_date": "2022:10:05 16:57:17",
+    "store_id": "1904582",
+    "store_region": "CC",
+    "store_type": "KF01",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.094653812445223,
+          10.57542768273717
+        ],
+        [
+          88.51884312007012,
+          16.640746500777606
+        ],
+        [
+          92.46275197195445,
+          86.15863141524106
+        ],
+        [
+          9.027169149868536,
+          91.60186625194399
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "곰탕",
+        "en.ROMAN": "gomtang",
+        "en": "Beef Bone Soup",
+        "ja": "コムタン",
+        "zh_CN": "牛骨汤",
+        "zh_TW": "牛骨湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1904582_1-tf_2",
+      "ocr": {
+        "x": 16.66855673477903,
+        "y": 30.858989529297094,
+        "text": "곰탕",
+        "width": 20.70253401463372,
+        "height": 6.343313114653905,
+        "rotation": 1.8676766670358802
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "모둠수육",
+        "en.ROMAN": "modumsuyuk",
+        "en": "Assorted Boiled Pork Slices",
+        "ja": "ゆで肉の盛り合わせ",
+        "zh_CN": "白切肉拼盘",
+        "zh_TW": "白切肉拼盤",
+        "price": "30000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1904582_1-tf_4",
+      "ocr": {
+        "x": 53.98813414659566,
+        "y": 33.025577704229114,
+        "text": "모둠수육",
+        "width": 17.184978469148174,
+        "height": 5.74768755461174,
+        "rotation": 1.1931336540348525
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "양곰탕",
+        "en.ROMAN": "yanggomtang",
+        "en": "Beef Tripe Soup",
+        "ja": "牛の胃袋のコムタン",
+        "zh_CN": "牛胃汤",
+        "zh_TW": "牛肚湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "소양"
+        ],
+        "ingredients.en": [
+          "Beef Tripe"
+        ],
+        "ingredients.ja": [
+          "牛ミノ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肚"
+        ],
+        "ingredients.zh_TW": [
+          "牛肚"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1904582_1-tf_6",
+      "ocr": {
+        "x": 16.24886338941084,
+        "y": 41.4962910044491,
+        "text": "양곰탕",
+        "width": 20.787907950273446,
+        "height": 6.7144580213982445,
+        "rotation": 1.1565593023622682
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "낙지곰탕",
+        "en.ROMAN": "nakjigomtang",
+        "en": "Octopus Soup",
+        "ja": "テナガダコ入りコムタン",
+        "zh_CN": "长爪章鱼汤",
+        "zh_TW": "章魚牛骨湯",
+        "price": "13000",
+        "ingredients.ko": [
+          "낙지",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "テナガダコ",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1904582_1-tf_10",
+      "ocr": {
+        "x": 16.099757812227008,
+        "y": 50.225548565626596,
+        "text": "낙지곰탕",
+        "width": 20.72897409591362,
+        "height": 6.758832565284169,
+        "rotation": 0.6072813255128153
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "사태수육",
+        "en.ROMAN": "sataesuyuk",
+        "en": "Boiled Beef Shank Slices",
+        "ja": "ゆで牛モモ肉",
+        "zh_CN": "白切牛腱",
+        "zh_TW": "白切牛腱",
+        "price": "0",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1904582_1-tf_11",
+      "ocr": {
+        "x": 54.05368959627067,
+        "y": 50.99846390168959,
+        "text": "사태수육",
+        "width": 17.601122478227946,
+        "height": 6.194804906304818,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "도가니탕",
+        "en.ROMAN": "doganitang",
+        "en": "Ox Knee Soup",
+        "ja": "牛の膝軟骨スープ",
+        "zh_CN": "牛膝骨汤",
+        "zh_TW": "牛膝骨湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "소도가니"
+        ],
+        "ingredients.en": [
+          "Ox Knee Cartilage"
+        ],
+        "ingredients.ja": [
+          "牛の膝軟骨"
+        ],
+        "ingredients.zh_CN": [
+          "牛膝骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛膝骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1904582_1-tf_14",
+      "ocr": {
+        "x": 15.70337579166816,
+        "y": 59.19319891321893,
+        "text": "도가니탕",
+        "width": 20.954920652562,
+        "height": 6.782223513816333,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "감자만두",
+        "en.ROMAN": "gamjamandu",
+        "en": "Potato Mandu",
+        "ja": "じゃがいも餃子",
+        "zh_CN": "土豆粉皮饺子",
+        "zh_TW": "馬鈴薯餃子",
+        "price": "6000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "馬鈴薯"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1904582_1-tf_17",
+      "ocr": {
+        "x": 54.35048016519591,
+        "y": 67.7164349231339,
+        "text": "감자만두",
+        "width": 17.73862482547355,
+        "height": 6.100860944230875,
+        "rotation": 359.37870783348694
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "행복한곰탕",
+        "en.ROMAN": "haengbokangomtang",
+        "en": "Happy beef-bone soup.",
+        "ja": "幸せなコムタン",
+        "zh_CN": "幸福的牛骨汤",
+        "zh_TW": "幸福的牛骨湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1904582_1-tf_19",
+      "ocr": {
+        "x": 15.412661973944134,
+        "y": 68.31797235023022,
+        "text": "행복한곰탕",
+        "width": 20.950099431225386,
+        "height": 7.18125960061441,
+        "rotation": 0
+      }
+    }
+  ]
+}

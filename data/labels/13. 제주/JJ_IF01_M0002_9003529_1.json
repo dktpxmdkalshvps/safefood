@@ -1,0 +1,1549 @@
+{
+  "meta": {
+    "file_name": "JJ_IF01_M0002_9003529_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:14 13:06:11",
+    "store_id": "9003529",
+    "store_region": "JJ",
+    "store_type": "IF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          93.38654503990878,
+          10.030395136778118
+        ],
+        [
+          8.665906499429875,
+          13.677811550151976
+        ],
+        [
+          10.718358038768528,
+          88.75379939209726
+        ],
+        [
+          92.24629418472064,
+          91.03343465045593
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "밥",
+        "ko": "팟카파오무쌉",
+        "en.ROMAN": "pad krapao moo sab",
+        "en": "Pad Krapow Moo Sab",
+        "ja": "豚挽き肉のバジル炒め",
+        "zh_CN": "泰式辣味猪肉盖饭",
+        "zh_TW": "辣味豬肉蓋飯",
+        "price": "9900",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "바질"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Basil"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "バジル"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "罗勒"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "羅勒"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": 2
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_3",
+      "ocr": {
+        "x": 57.61616167497036,
+        "y": 28.51089840791333,
+        "text": "팟카파오무쌉",
+        "width": 8.0718690358619,
+        "height": 2.540185264376341,
+        "rotation": 358.55383746622874
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "커리라이스치킨",
+        "en.ROMAN": "curry rice chicken",
+        "en": "Curry with Rice and Fried Chicken",
+        "ja": "カリーライスチキン",
+        "zh_CN": "炸鸡咖喱饭",
+        "zh_TW": "咖哩飯(雞肉)",
+        "price": "13500",
+        "ingredients.ko": [
+          "닭고기",
+          "카레",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Curry",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "カレー",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "咖喱",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "咖哩",
+          "米"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_5",
+      "ocr": {
+        "x": 43.42624609040276,
+        "y": 28.73502029930835,
+        "text": "커리라이스치킨",
+        "width": 6.584304207541856,
+        "height": 2.418401632681068,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "소고기국수",
+        "en.ROMAN": "sogogiguksu",
+        "en": "Beef Noodles",
+        "ja": "牛肉素麺",
+        "zh_CN": "牛肉面",
+        "zh_TW": "牛肉麵",
+        "price": "10500",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "麵"
+        ],
+        "allergy": [
+          "쇠고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_7",
+      "ocr": {
+        "x": 15.764196086032985,
+        "y": 29.372731944165157,
+        "text": "소고기국수",
+        "width": 6.746029593251268,
+        "height": 2.299268023298944,
+        "rotation": 358.47388764044956
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "밥",
+        "ko": "카오팟오징어",
+        "en.ROMAN": "khao pad ojingeo",
+        "en": "Squid Fried Rice",
+        "ja": "カオパットイカ",
+        "zh_CN": "鱿鱼炒饭",
+        "zh_TW": "泰式炒飯(魷魚)",
+        "price": "10500",
+        "ingredients.ko": [
+          "오징어",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Squid",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "イカ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚",
+          "米"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_9",
+      "ocr": {
+        "x": 79.5508343296132,
+        "y": 30.396213476484157,
+        "text": "카오팟오징어",
+        "width": 2.690706289967355,
+        "height": 1.5962103107094276,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "밥",
+        "ko": "카오팟새우",
+        "en.ROMAN": "khao pad saeu",
+        "en": "Shrimp Fried Rice",
+        "ja": "カオパットエビ",
+        "zh_CN": "虾仁炒饭",
+        "zh_TW": "泰式炒飯(蝦仁)",
+        "price": "10500",
+        "ingredients.ko": [
+          "쌀",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_10",
+      "ocr": {
+        "x": 72.60477841335448,
+        "y": 30.554854086723694,
+        "text": "카오팟새우",
+        "width": 1.98026787850823,
+        "height": 1.5843856659094027,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "팟타이해물",
+        "en.ROMAN": "pad Thai haemul",
+        "en": "Seafood Pad Thai",
+        "ja": "パッタイイカ",
+        "zh_CN": "泰式海鲜炒面",
+        "zh_TW": "泰式炒河粉(海鮮)",
+        "price": "12900",
+        "ingredients.ko": [
+          "쌀면",
+          "숙주나물",
+          "해물"
+        ],
+        "ingredients.en": [
+          "Rice Noodle",
+          "Mung Bean Sprout Salad",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "米麺",
+          "もやしのナムル",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "米线",
+          "凉拌绿豆芽",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "河粉",
+          "涼拌綠豆芽",
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": 2
+      },
+      "sn": "YUPLmq2LPh",
+      "ocr": {
+        "x": 37.40917426765816,
+        "y": 31.2805044817899,
+        "text": "팟타이해물",
+        "width": 1.764370415225631,
+        "height": 1.5354273547227504,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "팟타이새우",
+        "en.ROMAN": "pad Thai saeu",
+        "en": "Shrimp Pad Thai",
+        "ja": "パッタイエビ",
+        "zh_CN": "泰式虾仁炒面",
+        "zh_TW": "泰式炒河粉(蝦仁)",
+        "price": "10900",
+        "ingredients.ko": [
+          "쌀면",
+          "숙주나물",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Rice Noodle",
+          "Mung Bean Sprout Salad",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "米麺",
+          "もやしのナムル",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "米线",
+          "凉拌绿豆芽",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "河粉",
+          "涼拌綠豆芽",
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": 2
+      },
+      "sn": "Z4hMmdIzWL",
+      "ocr": {
+        "x": 32.918394901834226,
+        "y": 31.329729269085576,
+        "text": "팟타이새우",
+        "width": 1.7866371583427332,
+        "height": 1.5180969090223242,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "파타이치킨",
+        "en.ROMAN": "pa Thai chicken",
+        "en": "Chicken Pad Thai",
+        "ja": "パッタイチキン",
+        "zh_CN": "泰式炸鸡炒面",
+        "zh_TW": "泰式炒河粉(雞肉)",
+        "price": "10900",
+        "ingredients.ko": [
+          "닭고기",
+          "쌀면",
+          "계란",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Rice Noodle",
+          "Eggs",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "米麺",
+          "卵",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "米线",
+          "鸡蛋",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "河粉",
+          "雞蛋",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기",
+          "계란"
+        ],
+        "spicy_level": 2
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_14",
+      "ocr": {
+        "x": 28.559256129564755,
+        "y": 31.381654000762747,
+        "text": "파타이치킨",
+        "width": 1.6642141902113339,
+        "height": 1.5109692688243535,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "스프링롤",
+        "en.ROMAN": "spring roll",
+        "en": "Spring Roll",
+        "ja": "スプリングロール",
+        "zh_CN": "越南春卷",
+        "zh_TW": "春捲",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "라이스페이퍼",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Paper",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ライスペーパー",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "春卷皮",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米紙",
+          "河粉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_27",
+      "ocr": {
+        "x": 72.4298349323954,
+        "y": 48.06645213361833,
+        "text": "스프링롤",
+        "width": 5.974016776400941,
+        "height": 2.3662488504900696,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "쏨땀",
+        "en.ROMAN": "som tam",
+        "en": "Som Tam",
+        "ja": "ソムタム",
+        "zh_CN": "青木瓜沙拉",
+        "zh_TW": "青木瓜沙拉",
+        "price": "9900",
+        "ingredients.ko": [
+          "파파야"
+        ],
+        "ingredients.en": [
+          "Papaya"
+        ],
+        "ingredients.ja": [
+          "パパヤ"
+        ],
+        "ingredients.zh_CN": [
+          "木瓜"
+        ],
+        "ingredients.zh_TW": [
+          "木瓜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_29",
+      "ocr": {
+        "x": 59.071346703902286,
+        "y": 48.191161771180084,
+        "text": "쏨땀",
+        "width": 2.9616908465548133,
+        "height": 2.2387324087140685,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "그린커리",
+        "en.ROMAN": "green curry",
+        "en": "Green Curry",
+        "ja": "グリーンカレー",
+        "zh_CN": "绿咖喱",
+        "zh_TW": "綠咖哩",
+        "price": "14500",
+        "ingredients.ko": [
+          "야채",
+          "고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_28",
+      "ocr": {
+        "x": 44.23043017049057,
+        "y": 48.242168347890484,
+        "text": "그린커리",
+        "width": 5.418814528703772,
+        "height": 2.2897389854244454,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "팟씨유",
+        "en.ROMAN": "pad see ew",
+        "en": "Thai Stir-fried Rice Noodles",
+        "ja": "パッシーイウ",
+        "zh_CN": "泰式炒面",
+        "zh_TW": "泰式炒河粉",
+        "price": "13500",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "숙주",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Mung Bean Sprout",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "緑豆もやし",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "绿豆芽",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "綠豆芽",
+          "河粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_33",
+      "ocr": {
+        "x": 30.715698945719126,
+        "y": 48.30311976456409,
+        "text": "팟씨유",
+        "width": 4.132665067604618,
+        "height": 2.2670425012836404,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "똠얌꿍",
+        "en.ROMAN": "tom yum goong",
+        "en": "Tom Yum Goong",
+        "ja": "トムヤムクン",
+        "zh_CN": "冬阴功汤",
+        "zh_TW": "泰式酸辣海鮮湯",
+        "price": "16000",
+        "ingredients.ko": [
+          "새우",
+          "허브"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Herb"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "ハブ"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "香草"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "香草"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_32",
+      "ocr": {
+        "x": 16.763739161279492,
+        "y": 48.35412634127442,
+        "text": "똠얌꿍",
+        "width": 4.058260305699861,
+        "height": 2.2514840528916653,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "텃만꿍",
+        "en.ROMAN": "tod mun goong",
+        "en": "I'm so sorry",
+        "ja": "トートマンクン",
+        "zh_CN": "月亮虾饼",
+        "zh_TW": "鮮蝦可樂餅",
+        "price": "8000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_43",
+      "ocr": {
+        "x": 72.47767156770679,
+        "y": 51.961003041021044,
+        "text": "텃만꿍",
+        "width": 4.448981884031695,
+        "height": 2.3379387579204605,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "국수고기추가",
+        "en.ROMAN": "guksugogi chuga",
+        "en": "Extra Serving of Meat for Noodles",
+        "ja": "素麺の肉追加",
+        "zh_CN": "另加面条肉",
+        "zh_TW": "加點麵、牛肉",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루",
+          "고기"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "肉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_57",
+      "ocr": {
+        "x": 16.22767156770682,
+        "y": 61.210317460317576,
+        "text": "국수고기추가",
+        "width": 6.99831532823477,
+        "height": 1.9080445780262156,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_59",
+      "ocr": {
+        "x": 54.25203797962361,
+        "y": 61.383226870374955,
+        "text": "콜라",
+        "width": 2.67150527140454,
+        "height": 2.05026455026455,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_58",
+      "ocr": {
+        "x": 41.92583224662995,
+        "y": 61.40873015873013,
+        "text": "소주",
+        "width": 2.5592275488553917,
+        "height": 1.9510582010581983,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "새우추가",
+        "en.ROMAN": "saeu chuga",
+        "en": "Extra Serving of Shrimp",
+        "ja": "海老追加",
+        "zh_CN": "另加鲜虾",
+        "zh_TW": "加點鮮蝦",
+        "price": "2000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_64",
+      "ocr": {
+        "x": 16.2372388947691,
+        "y": 63.61677312962511,
+        "text": "새우추가",
+        "width": 4.683966921416579,
+        "height": 1.9510582010581996,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_67",
+      "ocr": {
+        "x": 41.914682539682445,
+        "y": 64.64947089947081,
+        "text": "맥주",
+        "width": 2.617818547020807,
+        "height": 2.033913455967585,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "스프라이트",
+        "en.ROMAN": "sprite",
+        "en": "Sprite",
+        "ja": "スプライト",
+        "zh_CN": "雪碧",
+        "zh_TW": "雪碧",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_68",
+      "ocr": {
+        "x": 54.25203797962367,
+        "y": 64.72317396032201,
+        "text": "스프라이트",
+        "width": 6.359875622174185,
+        "height": 2.1522777036853364,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "흰다리새우추가",
+        "en.ROMAN": "huindarisaeuchuga",
+        "en": "Additional Order of Leg Lobster",
+        "ja": "バナメイエビ追加",
+        "zh_CN": "另加南美白对虾",
+        "zh_TW": "加點白尾蝦",
+        "price": "3000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_71",
+      "ocr": {
+        "x": 16.37118147364124,
+        "y": 66.09455251453414,
+        "text": "흰다리새우추가",
+        "width": 7.713293650793648,
+        "height": 1.9916924788405876,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "칭따오",
+        "en.ROMAN": "Tsingtao",
+        "en": "Tsingtao",
+        "ja": "青島",
+        "zh_CN": "青岛啤酒",
+        "zh_TW": "青島啤酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "보리"
+        ],
+        "ingredients.en": [
+          "Barley"
+        ],
+        "ingredients.ja": [
+          "麦"
+        ],
+        "ingredients.zh_CN": [
+          "大麦"
+        ],
+        "ingredients.zh_TW": [
+          "大麥"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_74",
+      "ocr": {
+        "x": 41.91468253968247,
+        "y": 67.95634920634897,
+        "text": "칭타오",
+        "width": 3.800186101799702,
+        "height": 2.050264550264546,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "환타",
+        "en.ROMAN": "fanta",
+        "en": "Fanta",
+        "ja": "ファンタ",
+        "zh_CN": "芬达",
+        "zh_TW": "芬達",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_75",
+      "ocr": {
+        "x": 54.26587301587302,
+        "y": 67.98941798941797,
+        "text": "환타",
+        "width": 2.678571428571428,
+        "height": 2.1901051772532862,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치킨추가",
+        "en.ROMAN": "chicken chuga",
+        "en": "Extra Serving of Chicken",
+        "ja": "チキン追加",
+        "zh_CN": "另加炸鸡",
+        "zh_TW": "加點雞肉",
+        "price": "2000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_77",
+      "ocr": {
+        "x": 16.414750399765502,
+        "y": 68.54920795633781,
+        "text": "치킨추가",
+        "width": 4.619129486574111,
+        "height": 1.9510582010582007,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "오징어채추가",
+        "en.ROMAN": "ojingeochae chuga",
+        "en": "Extra Serving of Dried Squid Strips",
+        "ja": "サキイカ追加",
+        "zh_CN": "另加鱿鱼丝",
+        "zh_TW": "加點魷魚絲",
+        "price": "1000",
+        "ingredients.ko": [
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_80",
+      "ocr": {
+        "x": 16.45088585342109,
+        "y": 71.00148405289183,
+        "text": "오징어채추가",
+        "width": 6.691128953553441,
+        "height": 1.909996464310974,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "싱하",
+        "en.ROMAN": "singha",
+        "en": "Singha",
+        "ja": "シンハービール",
+        "zh_CN": "胜狮",
+        "zh_TW": "勝獅啤酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_81",
+      "ocr": {
+        "x": 41.941646010369226,
+        "y": 71.264680649575,
+        "text": "싱하",
+        "width": 2.6145757219430936,
+        "height": 2.0502645502645445,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "망고스틴",
+        "en.ROMAN": "mangosteen",
+        "en": "Mangosteen",
+        "ja": "マンゴスチン",
+        "zh_CN": "山竹",
+        "zh_TW": "山竹",
+        "price": "3000",
+        "ingredients.ko": [
+          "망고"
+        ],
+        "ingredients.en": [
+          "Mango"
+        ],
+        "ingredients.ja": [
+          "マンゴー"
+        ],
+        "ingredients.zh_CN": [
+          "芒果"
+        ],
+        "ingredients.zh_TW": [
+          "芒果"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_82",
+      "ocr": {
+        "x": 54.31547619047619,
+        "y": 71.39550264550263,
+        "text": "망고스틴",
+        "width": 4.872812292766983,
+        "height": 2.083333333333333,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "계란후라이추가",
+        "en.ROMAN": "gyeran fry chuga",
+        "en": "Extra Serving of Fried Egg",
+        "ja": "目玉焼き追加",
+        "zh_CN": "另加煎鸡蛋",
+        "zh_TW": "加點荷包蛋",
+        "price": "1000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_87",
+      "ocr": {
+        "x": 16.443452380952383,
+        "y": 73.44338785051761,
+        "text": "계란후라이추가",
+        "width": 7.780264940229696,
+        "height": 2.002064777768584,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "창",
+        "en.ROMAN": "chang",
+        "en": "Chang Beer",
+        "ja": "チャン",
+        "zh_CN": "Chang",
+        "zh_TW": "泰象啤酒",
+        "price": "6500",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_89",
+      "ocr": {
+        "x": 41.96860948105614,
+        "y": 74.58791005075012,
+        "text": "창",
+        "width": 1.4251804731593842,
+        "height": 1.9783144387371625,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "구아바",
+        "en.ROMAN": "guava",
+        "en": "Guava",
+        "ja": "グアバ",
+        "zh_CN": "番石榴",
+        "zh_TW": "芭樂",
+        "price": "3000",
+        "ingredients.ko": [
+          "과일"
+        ],
+        "ingredients.en": [
+          "Fruit"
+        ],
+        "ingredients.ja": [
+          "果物"
+        ],
+        "ingredients.zh_CN": [
+          "水果"
+        ],
+        "ingredients.zh_TW": [
+          "水果"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_90",
+      "ocr": {
+        "x": 54.31900926905961,
+        "y": 74.75814621959067,
+        "text": "구아바",
+        "width": 3.8637480011724765,
+        "height": 2.116829575366863,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고수추가",
+        "en.ROMAN": "gosu chuga",
+        "en": "Extra Serving of Coriander",
+        "ja": "パクチー追加",
+        "zh_CN": "另加香菜",
+        "zh_TW": "加點香菜",
+        "price": "1000",
+        "ingredients.ko": [
+          "고수"
+        ],
+        "ingredients.en": [
+          "Coriander"
+        ],
+        "ingredients.ja": [
+          "パクチー"
+        ],
+        "ingredients.zh_CN": [
+          "香菜"
+        ],
+        "ingredients.zh_TW": [
+          "香菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_94",
+      "ocr": {
+        "x": 16.51572328826356,
+        "y": 75.91836043121235,
+        "text": "고수추가",
+        "width": 4.686100776010189,
+        "height": 1.844286357138238,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "리오",
+        "en.ROMAN": "rio",
+        "en": "Leo",
+        "ja": "中国酒リオ",
+        "zh_CN": "LEO酒",
+        "zh_TW": "LEO（啤酒）",
+        "price": "6500",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_96",
+      "ocr": {
+        "x": 42.03652859280532,
+        "y": 77.87698412698418,
+        "text": "리오",
+        "width": 2.559227548855326,
+        "height": 2.0655291026888514,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "리치",
+        "en.ROMAN": "lychee",
+        "en": "Rich",
+        "ja": "ライチ",
+        "zh_CN": "荔枝",
+        "zh_TW": "荔枝",
+        "price": "3000",
+        "ingredients.ko": [
+          "리치",
+          "얼음",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "Lychee",
+          "Ice",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "ライチ",
+          "氷",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "荔枝",
+          "冰块",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "荔枝",
+          "冰",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_98",
+      "ocr": {
+        "x": 54.38598055849561,
+        "y": 78.11084495371527,
+        "text": "리치",
+        "width": 2.459624852044328,
+        "height": 2.0785746428340897,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "두부추가",
+        "en.ROMAN": "dubu chuga",
+        "en": "Extra Serving of Bean Curd",
+        "ja": "豆腐追加",
+        "zh_CN": "另加豆腐",
+        "zh_TW": "加點豆腐",
+        "price": "1000",
+        "ingredients.ko": [
+          "두부"
+        ],
+        "ingredients.en": [
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF01_M0002_9003529_1-tf_99",
+      "ocr": {
+        "x": 16.496588634138988,
+        "y": 78.31206445634228,
+        "text": "두부추가",
+        "width": 4.724370084259322,
+        "height": 1.9510582010582007,
+        "rotation": 0
+      }
+    }
+  ]
+}

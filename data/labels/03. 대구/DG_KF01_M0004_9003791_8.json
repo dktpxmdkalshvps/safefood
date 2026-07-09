@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "file_name": "DG_KF01_M0004_9003791_8.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "",
+    "store_id": "9003791",
+    "store_region": "DG",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          10.714285714285714
+        ],
+        [
+          94.37751004016064,
+          6.071428571428571
+        ],
+        [
+          88.62115127175367,
+          85.35714285714285
+        ],
+        [
+          4.819277108433736,
+          81.78571428571428
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "먹태",
+        "en.ROMAN": "meoktae",
+        "en": "Grilled Dried Pollack",
+        "ja": "干しスケトウダラ焼き",
+        "zh_CN": "黑干明太鱼",
+        "zh_TW": "乾黑斑明太魚乾",
+        "price": "14000",
+        "ingredients.ko": [
+          "황태"
+        ],
+        "ingredients.en": [
+          "Dried Pollack"
+        ],
+        "ingredients.ja": [
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "干明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚乾"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_9003791_8-tf_13",
+      "ocr": {
+        "x": 13.269116648593478,
+        "y": 60.152116402116434,
+        "text": "먹태",
+        "width": 2.8678254570693635,
+        "height": 2.2810915854426708,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반건조오징어",
+        "en.ROMAN": "bangeonjoojingeo",
+        "en": "Half-dried Squid",
+        "ja": "イカの一夜干し",
+        "zh_CN": "半干鱿鱼",
+        "zh_TW": "半乾魷魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_9003791_8-tf_14",
+      "ocr": {
+        "x": 32.39087301587301,
+        "y": 60.35118354683244,
+        "text": "반건조오징어",
+        "width": 8.639576166378598,
+        "height": 2.4470899470899465,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "통통군만두",
+        "en.ROMAN": "tongtonggunmandu",
+        "en": "Pan-fried Mandu",
+        "ja": "焼き餃子",
+        "zh_CN": "大煎饺",
+        "zh_TW": "大煎餃",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_9003791_8-tf_15",
+      "ocr": {
+        "x": 70.90041995028521,
+        "y": 60.85643974704466,
+        "text": "통통군만두",
+        "width": 7.720842677993798,
+        "height": 2.536812056759142,
+        "rotation": 0.498989529087396
+      }
+    }
+  ]
+}

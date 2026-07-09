@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "file_name": "SL_IF03_M0001_187041_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:21 19:47:49",
+    "store_id": "187041",
+    "store_region": "SL",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.872531418312388,
+          10.901749663526243
+        ],
+        [
+          88.8689407540395,
+          9.555854643337822
+        ],
+        [
+          90.30520646319569,
+          92.7321668909825
+        ],
+        [
+          5.385996409335727,
+          93.80888290713324
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "관동식스끼야끼",
+        "en.ROMAN": "gwandongsik sukiyaki",
+        "en": "Kanto-style Beef Hot Pot",
+        "ja": "関東式すき焼き",
+        "zh_CN": "关东式日式烧饼",
+        "zh_TW": "關東式日式燒餅",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JexuFoonEI",
+      "ocr": {
+        "x": 18.993262459524296,
+        "y": 23.278429636701297,
+        "text": "관동식스끼야끼",
+        "width": 28.245867258113574,
+        "height": 3.196419742065894,
+        "rotation": 359.2747757009423
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "토리나베",
+        "en.ROMAN": "tori nabe",
+        "en": "Chicken Hot Pot",
+        "ja": "鶏肉鍋",
+        "zh_CN": "日式鸡肉火锅",
+        "zh_TW": "日式雞肉鍋",
+        "price": "25000",
+        "ingredients.ko": [
+          "닭고기",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "a5WTEIIwa6",
+      "ocr": {
+        "x": 19.703407842447323,
+        "y": 43.57860268278541,
+        "text": "토리나베",
+        "width": 17.20755148154066,
+        "height": 2.9681125377347173,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "나가사끼짬뽕나베",
+        "en.ROMAN": "Nagasaki jjamppong nabe",
+        "en": "Nagasaki Seafood Noodle Soup Hot Pot",
+        "ja": "長崎チャンポン鍋",
+        "zh_CN": "日式长崎炒码火锅",
+        "zh_TW": "日式長崎炒碼麵火鍋",
+        "price": "19000",
+        "ingredients.ko": [
+          "채소",
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "94i3cZBrRv",
+      "ocr": {
+        "x": 20.32186145662654,
+        "y": 60.338121478979424,
+        "text": "나가사끼짬뽕나베",
+        "width": 33.19686922987488,
+        "height": 2.968112537734755,
+        "rotation": 358.79395122078154
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "오뎅탕",
+        "en.ROMAN": "odengtang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "생선살",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish Fillet",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚の身",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "Z73HgOZsV9",
+      "ocr": {
+        "x": 20.453990300986483,
+        "y": 73.28982638739696,
+        "text": "오뎅탕",
+        "width": 11.647808092077739,
+        "height": 3.0786538710012286,
+        "rotation": 358.79395122078125
+      }
+    }
+  ]
+}

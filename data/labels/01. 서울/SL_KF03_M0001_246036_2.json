@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_246036_2.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:08:22 12:46:47",
+    "store_id": "246036",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.4553508150248048,
+          6.401396494416392
+        ],
+        [
+          61.63536498936924,
+          3.175590042803492
+        ],
+        [
+          81.9277108433735,
+          3.743302720547776
+        ],
+        [
+          94.851169383416,
+          4.616674379644471
+        ],
+        [
+          100,
+          6.753192680501244
+        ],
+        [
+          100,
+          98.88623662478211
+        ],
+        [
+          92.16867469879519,
+          99.66859983429991
+        ],
+        [
+          0.014174344436569463,
+          99.90899155042105
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "달링포인트스트립",
+        "en.ROMAN": "darling point strip",
+        "en": "Darling Point Strip",
+        "ja": "ダーリンポイントストリップステーキ",
+        "zh_CN": "达令亮点牛排",
+        "zh_TW": "darlingpointstrip（紐約客牛排）",
+        "price": "67000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_246036_2-tf.jpg_1",
+      "ocr": {
+        "x": 58.26744827643045,
+        "y": 24.007222875967567,
+        "text": "달링포인트스트립",
+        "width": 15.787004813330308,
+        "height": 1.529361228684861,
+        "rotation": 359.3657298826416
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "퀸즈랜드립아이",
+        "en.ROMAN": "Queensland rib eye",
+        "en": "Queensland Rib Eye",
+        "ja": "クイーンズランドリブアイステーキ",
+        "zh_CN": "昆士兰牛肋眼肉",
+        "zh_TW": "昆士蘭州肋眼牛排",
+        "price": "67000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_246036_2-tf.jpg_2",
+      "ocr": {
+        "x": 16.066509341967496,
+        "y": 25.387234596254377,
+        "text": "퀸즈랜드립아이",
+        "width": 12.051838122203991,
+        "height": 1.401871229432632,
+        "rotation": 357.186587639374
+      }
+    }
+  ]
+}

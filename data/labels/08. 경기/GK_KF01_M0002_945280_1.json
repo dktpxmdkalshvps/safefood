@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_945280_1.jpg",
+    "image_original_width": 2268,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:03 15:00:51",
+    "store_id": "945280",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.56281407035176,
+          0
+        ],
+        [
+          85.42713567839196,
+          0
+        ],
+        [
+          80.65326633165829,
+          100
+        ],
+        [
+          19.095477386934668,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "순한두부찌개",
+        "en.ROMAN": "sunhandubujjigae",
+        "en": "Soft Bean Curd Jjigae",
+        "ja": "まろやか豆腐チゲ",
+        "zh_CN": "原味豆腐锅",
+        "zh_TW": "原味豆腐鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "채소",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_0",
+      "ocr": {
+        "x": 58.280849857676124,
+        "y": 5.11978678834088,
+        "text": "순한두부찌개",
+        "width": 15.338626379988597,
+        "height": 1.9226731264407166,
+        "rotation": 359.54750125849046
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "콩나물국밥",
+        "en.ROMAN": "kongnamulgukbap",
+        "en": "Bean Sprout and Rice Soup",
+        "ja": "豆もやしクッパ",
+        "zh_CN": "黄豆芽汤饭",
+        "zh_TW": "黃豆芽湯飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "콩나물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Bean Sprout"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "豆もやし"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "黄豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "黃豆芽"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_1",
+      "ocr": {
+        "x": 27.015375752375043,
+        "y": 5.479385826743694,
+        "text": "콩나물국밥",
+        "width": 10.758377425044092,
+        "height": 1.8353174603174598,
+        "rotation": 359.5432245634838
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "순대국밥",
+        "en.ROMAN": "sundaegukbap",
+        "en": "Sundae and Rice Soup",
+        "ja": "スンデクッパ",
+        "zh_CN": "血肠汤饭",
+        "zh_TW": "血腸湯飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_9",
+      "ocr": {
+        "x": 60.833156815276034,
+        "y": 25.66964285714286,
+        "text": "순대국밥",
+        "width": 9.544856370316088,
+        "height": 1.6121031746031738,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "얼큰돼지국밥",
+        "en.ROMAN": "eolkeundwaejigukbap",
+        "en": "Spicy Pork and Rice Soup",
+        "ja": "辛味豚肉クッパ",
+        "zh_CN": "辣爽猪肉汤饭",
+        "zh_TW": "香辣豬肉湯飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_10",
+      "ocr": {
+        "x": 26.32275132275133,
+        "y": 25.744047619047617,
+        "text": "얼큰돼지국밥",
+        "width": 13.883127672825905,
+        "height": 1.6865079365079365,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "새우볶음밥",
+        "en.ROMAN": "saeubokkeumbap",
+        "en": "Shrimp Fried Rice",
+        "ja": "海老チャーハン",
+        "zh_CN": "虾仁炒饭",
+        "zh_TW": "蝦仁炒飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "왕새우",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Jumbo Shrimp",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "大正海老",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大虾",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "明蝦",
+          "米"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_24",
+      "ocr": {
+        "x": 50.802678696659676,
+        "y": 52.283453270060825,
+        "text": "새우볶음밥",
+        "width": 12.230411881802278,
+        "height": 1.934523809523808,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "시래기국밥",
+        "en.ROMAN": "siraegigukbap",
+        "en": "Dried Radish Leaf and Rice Soup",
+        "ja": "干し菜っ葉クッパ",
+        "zh_CN": "干萝卜缨汤饭",
+        "zh_TW": "乾蘿蔔纓湯飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "쌀",
+          "시래기"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Dried Radish Leaf"
+        ],
+        "ingredients.ja": [
+          "米",
+          "干し菜っ葉"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "干萝卜缨"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "乾蘿蔔纓"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_25",
+      "ocr": {
+        "x": 19.522474759907798,
+        "y": 52.41156302954864,
+        "text": "시래기국밥",
+        "width": 12.477919685426198,
+        "height": 1.8722969130595224,
+        "rotation": 358.9614032997617
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김치찌개국밥",
+        "en.ROMAN": "kimchi jjigaegukbap",
+        "en": "Kimchi and Rice Soup",
+        "ja": "キムチチゲクッパ",
+        "zh_CN": "辛奇汤饭",
+        "zh_TW": "辛奇鍋湯飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "채소",
+          "김치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_32",
+      "ocr": {
+        "x": 51.02211715862556,
+        "y": 57.433730275576,
+        "text": "김치찌개국밥",
+        "width": 14.100319539671897,
+        "height": 1.8353174603174605,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "황태콩나물국밥",
+        "en.ROMAN": "hwangtaekongnamulgukbap",
+        "en": "Rice Soup with Dried Pollack and Bean Sprouts",
+        "ja": "干しスケトウダラ入り豆もやしクッパ",
+        "zh_CN": "干明太鱼黄豆芽汤饭",
+        "zh_TW": "明太魚乾黃豆芽湯飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "황태",
+          "쌀",
+          "파",
+          "콩나물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Dried Pollack",
+          "Rice",
+          "Green Onions",
+          "Bean Sprout"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スケトウダラ",
+          "米",
+          "ネギ",
+          "豆もやし"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "干明太鱼",
+          "大米",
+          "葱",
+          "黄豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "明太魚乾",
+          "米",
+          "蔥",
+          "黃豆芽"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_31",
+      "ocr": {
+        "x": 19.744945846832344,
+        "y": 57.50816953458765,
+        "text": "황태콩나물국밥",
+        "width": 16.944854486418723,
+        "height": 1.9416693606144346,
+        "rotation": 358.8617663703369
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "곤드레밥",
+        "en.ROMAN": "gondeurebap",
+        "en": "Thistle Rice",
+        "ja": "コンドゥレナムルご飯",
+        "zh_CN": "山蓟菜饭",
+        "zh_TW": "山薊菜飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "쌀",
+          "곤드레"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Thistles"
+        ],
+        "ingredients.ja": [
+          "米",
+          "コンドゥレ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "山蓟菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "山薊菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_36",
+      "ocr": {
+        "x": 50.88984202635041,
+        "y": 59.95000035053759,
+        "text": "곤드레밥",
+        "width": 9.700192616593888,
+        "height": 1.8713289561188464,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "콩나물밥",
+        "en.ROMAN": "kongnamulbap",
+        "en": "Bean Sprout Rice",
+        "ja": "豆もやしご飯",
+        "zh_CN": "黄豆芽饭",
+        "zh_TW": "黃豆芽飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "파",
+          "콩나물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Green Onions",
+          "Bean Sprout"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ネギ",
+          "豆もやし"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "葱",
+          "黄豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蔥",
+          "黃豆芽"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_945280_1-tf.jpg_34",
+      "ocr": {
+        "x": 19.90881278185346,
+        "y": 60.078423848188464,
+        "text": "콩나물밥",
+        "width": 9.964726631393278,
+        "height": 1.908142953989614,
+        "rotation": 358.5308078309502
+      }
+    }
+  ]
+}

@@ -1,0 +1,970 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_147492_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:10:24 16:37:44",
+    "store_id": "147492",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 0,
+        "width": 99.89224137931035,
+        "height": 100,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉국수",
+        "en.ROMAN": "naengguksu",
+        "en": "Cold Noodles",
+        "ja": "冷やし素麺",
+        "zh_CN": "凉清汤面",
+        "zh_TW": "冷湯麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_0",
+      "ocr": {
+        "x": 43.76755142003723,
+        "y": 3.826978965672297,
+        "text": "냉국수",
+        "width": 11.380377864823702,
+        "height": 4.017522517874524,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "고등어구이",
+        "en.ROMAN": "godeungeogui",
+        "en": "Grilled Mackerel",
+        "ja": "サバ焼き",
+        "zh_CN": "烤青花鱼",
+        "zh_TW": "烤鯖魚",
+        "price": "9000",
+        "ingredients.ko": [
+          "고등어"
+        ],
+        "ingredients.en": [
+          "Mackerel"
+        ],
+        "ingredients.ja": [
+          "サバ"
+        ],
+        "ingredients.zh_CN": [
+          "青花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯖魚"
+        ],
+        "allergy": [
+          "고등어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_4",
+      "ocr": {
+        "x": 72.45353716333824,
+        "y": 12.30158730158731,
+        "text": "고등어구이",
+        "width": 10.61237914661204,
+        "height": 3.7511722792629474,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "임연수구이",
+        "en.ROMAN": "imyeonsugui",
+        "en": "Grilled Okhotsk Atka Mackerel",
+        "ja": "ホッケ焼き",
+        "zh_CN": "烤多线鱼",
+        "zh_TW": "烤遠東多線魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "임연수어"
+        ],
+        "ingredients.en": [
+          "Okhotsk Atka Mackerel"
+        ],
+        "ingredients.ja": [
+          "ホッケ"
+        ],
+        "ingredients.zh_CN": [
+          "远东多线鱼"
+        ],
+        "ingredients.zh_TW": [
+          "遠東多線魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_6",
+      "ocr": {
+        "x": 72.59424603174591,
+        "y": 16.798941798941804,
+        "text": "임연수구이",
+        "width": 10.420716994367615,
+        "height": 3.7493723052016388,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "홍어삼합",
+        "en.ROMAN": "hongeosamhap",
+        "en": "Skate, Pork, and Kimchi Combo",
+        "ja": "ガンギエイのサムハプ",
+        "zh_CN": "斑鳐三合(辛奇、斑鳐、五花肉）",
+        "zh_TW": "斑甕鰩三合（辛奇、斑甕鰩、五花肉）",
+        "price": "45000",
+        "ingredients.ko": [
+          "돼지고기",
+          "묵은지",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Aged Kimchi",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "熟成キムチ",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "酸辛奇",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "酸辛奇",
+          "斑甕鰩"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_8",
+      "ocr": {
+        "x": 6.453813135347269,
+        "y": 18.67666253761721,
+        "text": "홍어삼합",
+        "width": 10.6538816658134,
+        "height": 4.552022969158962,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "동태탕",
+        "en.ROMAN": "dongtaetang",
+        "en": "Pollack Soup",
+        "ja": "スケトウダラスープ",
+        "zh_CN": "冻明太鱼汤",
+        "zh_TW": "凍明太魚湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "동태"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "冻明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "凍明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_10",
+      "ocr": {
+        "x": 72.37103174603133,
+        "y": 21.222958833913516,
+        "text": "동태탕",
+        "width": 6.721230158730162,
+        "height": 3.8263097157070454,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "알탕",
+        "en.ROMAN": "altang",
+        "en": "Spicy Fish Roe Soup",
+        "ja": "魚の卵スープ",
+        "zh_CN": "鱼子汤",
+        "zh_TW": "魚卵湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "생선알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_14",
+      "ocr": {
+        "x": 72.4729383137052,
+        "y": 25.76598193276592,
+        "text": "알탕",
+        "width": 4.530589820788556,
+        "height": 3.707303651826312,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오삼불고기",
+        "en.ROMAN": "osambulgogi",
+        "en": "Spicy Squid and Pork Belly Bulgogi",
+        "ja": "イカ入りサムギョプサルのプルゴギ",
+        "zh_CN": "鱿鱼烤五花肉",
+        "zh_TW": "烤魷魚五花肉",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "오징어",
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid",
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ",
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼",
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚",
+          "五花肉"
+        ],
+        "allergy": [
+          "오징어",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_16",
+      "ocr": {
+        "x": 72.32817911759676,
+        "y": 30.32407407407405,
+        "text": "오삼불고기",
+        "width": 10.608328818911165,
+        "height": 3.7957101566648235,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "홍어사시미",
+        "en.ROMAN": "hongeo sashimi",
+        "en": "Sliced Raw Skate",
+        "ja": "ガンギエイの刺身",
+        "zh_CN": "斑鳐生鱼片",
+        "zh_TW": "斑甕鰩生魚片",
+        "price": "30000",
+        "ingredients.ko": [
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_18",
+      "ocr": {
+        "x": 6.679727639528838,
+        "y": 31.2830687830688,
+        "text": "홍어사시미",
+        "width": 12.66551045570927,
+        "height": 4.669898308943635,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "제육볶음",
+        "en.ROMAN": "jeyukbokkeum",
+        "en": "Spicy Stir-fried Pork",
+        "ja": "豚肉炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_21",
+      "ocr": {
+        "x": 72.39853355180061,
+        "y": 34.795559684604946,
+        "text": "제육볶음",
+        "width": 8.746859662058485,
+        "height": 3.894916505871161,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "홍어무침",
+        "en.ROMAN": "hongsomuchim",
+        "en": "Skate Salad",
+        "ja": "ガンギエイの和え物",
+        "zh_CN": "凉拌斑鳐",
+        "zh_TW": "涼拌斑甕鰩",
+        "price": "35000",
+        "ingredients.ko": [
+          "야채",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_24",
+      "ocr": {
+        "x": 6.7541324014335995,
+        "y": 37.63227513227513,
+        "text": "홍어무침",
+        "width": 10.207453094384833,
+        "height": 4.570691959737294,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "갈치조림",
+        "en.ROMAN": "galchijorim",
+        "en": "Braised Cutlassfish",
+        "ja": "太刀魚の煮付け",
+        "zh_CN": "炖带鱼",
+        "zh_TW": "燉白帶魚",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "갈치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cutlassfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "太刀魚"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "带鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "白帶魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_27",
+      "ocr": {
+        "x": 72.35163059566467,
+        "y": 39.353651825913154,
+        "text": "갈치조림",
+        "width": 8.504244225977128,
+        "height": 3.834178861917528,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "갈치구이",
+        "en.ROMAN": "galchigui",
+        "en": "Grilled Cutlassfish",
+        "ja": "太刀魚焼き",
+        "zh_CN": "烤带鱼",
+        "zh_TW": "烤白帶魚",
+        "price": "9000",
+        "ingredients.ko": [
+          "갈치"
+        ],
+        "ingredients.en": [
+          "Cutlassfish"
+        ],
+        "ingredients.ja": [
+          "太刀魚"
+        ],
+        "ingredients.zh_CN": [
+          "带鱼"
+        ],
+        "ingredients.zh_TW": [
+          "白帶魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_31",
+      "ocr": {
+        "x": 72.30472763952866,
+        "y": 43.851006323267676,
+        "text": "갈치구이",
+        "width": 8.551147182113016,
+        "height": 3.775241192025186,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "홍어애탕",
+        "en.ROMAN": "hongeoaetang",
+        "en": "Skate Liver Soup",
+        "ja": "ガンギエイの内臓スープ",
+        "zh_CN": "斑鳐肝汤",
+        "zh_TW": "斑甕鰩肝湯",
+        "price": "40000",
+        "ingredients.ko": [
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_30",
+      "ocr": {
+        "x": 6.902941925243121,
+        "y": 43.94481275029002,
+        "text": "홍어애탕",
+        "width": 10.432017489332752,
+        "height": 4.570691959737296,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "고등어조림",
+        "en.ROMAN": "godeungeojorim",
+        "en": "Braised Mackerel",
+        "ja": "サバの煮付け",
+        "zh_CN": "炖青花鱼",
+        "zh_TW": "燉鯖魚",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "고등어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mackerel"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "サバ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "青花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鯖魚"
+        ],
+        "allergy": [
+          "고등어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_35",
+      "ocr": {
+        "x": 72.35163059566456,
+        "y": 48.315292037553355,
+        "text": "고등어조림",
+        "width": 10.55671722580042,
+        "height": 3.70910362588763,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "개인솥밥추가주문시",
+        "en.ROMAN": "gaeinsotbapchugajumunsi",
+        "en": "Extra Serving of Personal Hot Stone Pot Rice",
+        "ja": "釜飯(1人前)追加注文の際",
+        "zh_CN": "另加个人石锅饭",
+        "zh_TW": "加點單人鍋飯時",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_38",
+      "ocr": {
+        "x": 72.26912517835812,
+        "y": 53.96105407200871,
+        "text": "개인솥밥추가주문시",
+        "width": 15.554645565796188,
+        "height": 3.121065426894769,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "홍어고기추가",
+        "en.ROMAN": "hongeogogichuga",
+        "en": "Extra Serving of Skate Meat",
+        "ja": "ガンギエイの身追加",
+        "zh_CN": "另加斑鳐",
+        "zh_TW": "加點斑甕鰩肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_42",
+      "ocr": {
+        "x": 6.977317554498875,
+        "y": 56.53889618359253,
+        "text": "홍어고기추가",
+        "width": 15.557219138382287,
+        "height": 4.570696087293642,
+        "rotation": 359.5345214633935
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_46",
+      "ocr": {
+        "x": 72.33222944529774,
+        "y": 64.87735243282991,
+        "text": "소주",
+        "width": 4.475586209250924,
+        "height": 3.576828493612508,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_49",
+      "ocr": {
+        "x": 72.3462301587303,
+        "y": 69.13242560433507,
+        "text": "맥주",
+        "width": 4.490437410820833,
+        "height": 3.7619721236307972,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_53",
+      "ocr": {
+        "x": 72.3985335518006,
+        "y": 73.66824880694216,
+        "text": "청하",
+        "width": 4.554041298856584,
+        "height": 3.6886346612480176,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "지평막걸리",
+        "en.ROMAN": "jipyeong makgeolli",
+        "en": "Jipyeong Unrefined Rice Wine",
+        "ja": "チピョンマッコリ",
+        "zh_CN": "砥平马格利酒",
+        "zh_TW": "砥平馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_55",
+      "ocr": {
+        "x": 72.37508207373267,
+        "y": 78.04232804232804,
+        "text": "지평막걸리",
+        "width": 10.491071428571495,
+        "height": 3.775241192025197,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "장수막걸리",
+        "en.ROMAN": "jangsoo makkoli",
+        "en": "Jangsoo Makkoli",
+        "ja": "ジャンスマッコリ",
+        "zh_CN": "长寿马格利酒",
+        "zh_TW": "長壽馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_58",
+      "ocr": {
+        "x": 72.2993272025943,
+        "y": 82.46454510323818,
+        "text": "장수막걸리",
+        "width": 10.544724930875528,
+        "height": 3.7914409585770743,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료",
+        "en.ROMAN": "eumnyo",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_147492_1-tf_60",
+      "ocr": {
+        "x": 72.30472763952883,
+        "y": 87.00396825396805,
+        "text": "음료",
+        "width": 4.452134731182927,
+        "height": 3.6598350762671417,
+        "rotation": 0
+      }
+    }
+  ]
+}

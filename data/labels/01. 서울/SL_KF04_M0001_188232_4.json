@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "file_name": "SL_KF04_M0001_188232_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:19 20:02:22",
+    "store_id": "188232",
+    "store_region": "SL",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.33572710951526,
+          7.537012113055182
+        ],
+        [
+          87.25314183123878,
+          4.576043068640645
+        ],
+        [
+          99.82046678635548,
+          90.04037685060565
+        ],
+        [
+          12.746858168761223,
+          96.76985195154778
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "제주돈차돌",
+        "en.ROMAN": "Jejudonchadol",
+        "en": "Jeju beef brisket",
+        "ja": "薄切りチェジュ豚",
+        "zh_CN": "济州豚猪胸肉",
+        "zh_TW": "濟州豬胸肉",
+        "price": "7900",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0001_188232_4-tf_1",
+      "ocr": {
+        "x": 25.323112898474893,
+        "y": 17.761239256879502,
+        "text": "제주돈차돌",
+        "width": 21.504856123845588,
+        "height": 3.269390700561928,
+        "rotation": 357.55053948044645
+      }
+    }
+  ]
+}

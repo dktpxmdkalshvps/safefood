@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "file_name": "SL_IF02_M0002_36373_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:03 20:04:56",
+    "store_id": "36373",
+    "store_region": "SL",
+    "store_type": "IF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          15.620978256298102
+        ],
+        [
+          100,
+          17.168019514657022
+        ],
+        [
+          100,
+          49.41935483870968
+        ],
+        [
+          0,
+          49.81452664339488
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "마라탕",
+        "en.ROMAN": "mala tang",
+        "en": "Mala Soup",
+        "ja": "麻辣湯",
+        "zh_CN": "麻辣烫",
+        "zh_TW": "麻辣燙",
+        "price": "1800",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "고기",
+          "면",
+          "완자"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Meat",
+          "Noodles",
+          "Meatballs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "肉",
+          "麺",
+          "団子"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "肉",
+          "大豆",
+          "丸子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "肉",
+          "麵",
+          "丸"
+        ],
+        "allergy": [
+          "콩",
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_3",
+      "ocr": {
+        "x": 0.39357111851828297,
+        "y": 24.001398048808483,
+        "text": "마라탕",
+        "width": 6.814599958759668,
+        "height": 2.929668287436778,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "토마토계란덮밥",
+        "en.ROMAN": "tomato gyerandeopbap",
+        "en": "Stir-fried Tomato and Egg with Rice",
+        "ja": "トマト卵丼",
+        "zh_CN": "番茄鸡蛋盖饭",
+        "zh_TW": "番茄雞蛋蓋飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "쌀",
+          "계란",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Eggs",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "米",
+          "卵",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "鸡蛋",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "雞蛋",
+          "番茄"
+        ],
+        "allergy": [
+          "계란",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_8",
+      "ocr": {
+        "x": 74.57008934793798,
+        "y": 24.966931216931176,
+        "text": "토마토계란덮밥",
+        "width": 14.619179811214849,
+        "height": 2.9761904761904705,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마라반",
+        "en.ROMAN": "mala ban",
+        "en": "Malaban",
+        "ja": "麻辣飯",
+        "zh_CN": "麻辣拌",
+        "zh_TW": "麻辣拌",
+        "price": "2200",
+        "ingredients.ko": [
+          "야채",
+          "고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_11",
+      "ocr": {
+        "x": 0.23134998148206462,
+        "y": 28.17460317460297,
+        "text": "마라반",
+        "width": 6.9210720529404295,
+        "height": 3.108465608465592,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "마파두부덮밥",
+        "en.ROMAN": "mapadubudeopbap",
+        "en": "Mapo Bean Curd with Rice",
+        "ja": "麻婆豆腐丼",
+        "zh_CN": "麻婆豆腐盖饭",
+        "zh_TW": "麻婆豆腐蓋飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "고추",
+          "두부",
+          "돼지고기",
+          "파"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Bean Curd",
+          "Pork",
+          "Green Onions"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "豆腐",
+          "豚肉",
+          "ネギ"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "豆腐",
+          "猪肉",
+          "葱"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "豆腐",
+          "豬肉",
+          "蔥"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_14",
+      "ocr": {
+        "x": 74.5869100948592,
+        "y": 28.811538633308473,
+        "text": "마파두부덮밥",
+        "width": 12.558577148199406,
+        "height": 3.1180036321573734,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마라샹궈",
+        "en.ROMAN": "mala xiangguo",
+        "en": "Mala Stir-fry Hot Pot",
+        "ja": "麻辣香鍋",
+        "zh_CN": "麻辣香锅",
+        "zh_TW": "麻辣香鍋",
+        "price": "3200",
+        "ingredients.ko": [
+          "야채",
+          "고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_16",
+      "ocr": {
+        "x": 0.11752894659287313,
+        "y": 32.31250832413052,
+        "text": "마라샹궈",
+        "width": 9.362354624866853,
+        "height": 3.2307368645145185,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "지삼선",
+        "en.ROMAN": "jisamseon",
+        "en": "Stir-fried Eggplants, Potatoes and Bell Pepper",
+        "ja": "地三鮮",
+        "zh_CN": "地三鲜",
+        "zh_TW": "地三鮮",
+        "price": "15000",
+        "ingredients.ko": [
+          "가지",
+          "감자",
+          "피망"
+        ],
+        "ingredients.en": [
+          "Eggplant",
+          "Potato",
+          "Sweet Pepper"
+        ],
+        "ingredients.ja": [
+          "茄子",
+          "じゃがいも",
+          "ピーマン"
+        ],
+        "ingredients.zh_CN": [
+          "茄子",
+          "土豆",
+          "青椒"
+        ],
+        "ingredients.zh_TW": [
+          "茄子",
+          "馬鈴薯",
+          "甜椒"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_17",
+      "ocr": {
+        "x": 42.931547619047564,
+        "y": 32.58056893368202,
+        "text": "지삼선",
+        "width": 6.374007936507924,
+        "height": 3.0182336144043225,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "꼬치류",
+        "en.ROMAN": "kkochiryu",
+        "en": "Skewers",
+        "ja": "串焼き類",
+        "zh_CN": "烤串类",
+        "zh_TW": "串類",
+        "price": "1000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_21",
+      "ocr": {
+        "x": 83.08531746031755,
+        "y": 35.152116402116405,
+        "text": "꼬치류",
+        "width": 4.138420912588525,
+        "height": 2.0502645502645516,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "어항육슬",
+        "en.ROMAN": "eohangyukseul",
+        "en": "Stir-fried Fish Flavored Pork",
+        "ja": "豚肉の魚香ソースがけ",
+        "zh_CN": "鱼香肉丝",
+        "zh_TW": "魚香肉絲",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_22",
+      "ocr": {
+        "x": 42.9315476190474,
+        "y": 36.50793650793617,
+        "text": "어항육슬",
+        "width": 8.64988560744104,
+        "height": 3.108465608465592,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "샤오롱바오",
+        "en.ROMAN": "xiaolongbao",
+        "en": "Xiaolongbao",
+        "ja": "小籠包",
+        "zh_CN": "小笼包",
+        "zh_TW": "小籠包",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "돼지껍데기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork Rind",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚皮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪皮",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬皮",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_23",
+      "ocr": {
+        "x": 0,
+        "y": 36.60714285714285,
+        "text": "샤오롱바오",
+        "width": 11.474530808120978,
+        "height": 3.145841657463888,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_26",
+      "ocr": {
+        "x": 83.15972222222307,
+        "y": 37.89973242511631,
+        "text": "라면사리",
+        "width": 5.647145286231859,
+        "height": 2.069978838057813,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마파두부",
+        "en.ROMAN": "mapadubu",
+        "en": "Spicy Bean Curd",
+        "ja": "麻婆豆腐",
+        "zh_CN": "麻婆豆腐",
+        "zh_TW": "麻婆豆腐",
+        "price": "13000",
+        "ingredients.ko": [
+          "고추",
+          "두부",
+          "돼지고기",
+          "파"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Bean Curd",
+          "Pork",
+          "Green Onions"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "豆腐",
+          "豚肉",
+          "ネギ"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "豆腐",
+          "猪肉",
+          "葱"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "豆腐",
+          "豬肉",
+          "蔥"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_28",
+      "ocr": {
+        "x": 42.9315476190474,
+        "y": 40.575396825396595,
+        "text": "마파두부",
+        "width": 8.724290369345795,
+        "height": 3.075396825396809,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "소고기",
+        "en.ROMAN": "sogogi",
+        "en": "Beef",
+        "ja": "牛肉",
+        "zh_CN": "牛肉",
+        "zh_TW": "牛肉",
+        "price": "3000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_29",
+      "ocr": {
+        "x": 83.33333333333333,
+        "y": 40.67460317460318,
+        "text": "소고기",
+        "width": 4.166666666666667,
+        "height": 1.9510582010582012,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "꽃빵튀김",
+        "en.ROMAN": "kkotppangtwigim",
+        "en": "Deep-fried Chinese Flower Bun",
+        "ja": "揚げ花巻",
+        "zh_CN": "炸花卷",
+        "zh_TW": "炸花捲",
+        "price": "7000",
+        "ingredients.ko": [
+          "꽃빵"
+        ],
+        "ingredients.en": [
+          "Chinese Flower Bun"
+        ],
+        "ingredients.ja": [
+          "花巻"
+        ],
+        "ingredients.zh_CN": [
+          "花卷"
+        ],
+        "ingredients.zh_TW": [
+          "花捲"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_30",
+      "ocr": {
+        "x": 0,
+        "y": 40.707671957671955,
+        "text": "꽃빵튀김",
+        "width": 9.052579365079364,
+        "height": 3.4391534391534386,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양고기",
+        "en.ROMAN": "yanggogi",
+        "en": "Lamb",
+        "ja": "ラム",
+        "zh_CN": "羊肉",
+        "zh_TW": "羊肉",
+        "price": "3000",
+        "ingredients.ko": [
+          "양고기"
+        ],
+        "ingredients.en": [
+          "Lamb"
+        ],
+        "ingredients.ja": [
+          "ラム"
+        ],
+        "ingredients.zh_CN": [
+          "羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_34",
+      "ocr": {
+        "x": 83.4077380952381,
+        "y": 43.38624338624338,
+        "text": "양고기",
+        "width": 4.191468253968254,
+        "height": 2.0502645502645502,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "향라새우",
+        "en.ROMAN": "hyangnasaeu",
+        "en": "Spicy Stir-fried Shrimp",
+        "ja": "香辣海老",
+        "zh_CN": "香辣虾",
+        "zh_TW": "香辣蝦",
+        "price": "23000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0002_36373_1-tf_35",
+      "ocr": {
+        "x": 43.080357142856904,
+        "y": 44.543650793650485,
+        "text": "향라새우",
+        "width": 8.728432203313297,
+        "height": 3.1746031746031558,
+        "rotation": 0
+      }
+    }
+  ]
+}

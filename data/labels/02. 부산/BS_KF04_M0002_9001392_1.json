@@ -1,0 +1,490 @@
+{
+  "meta": {
+    "file_name": "BS_KF04_M0002_9001392_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:06 15:06:16",
+    "store_id": "9001392",
+    "store_region": "BS",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.8781163434903045,
+          1.8450184501845015
+        ],
+        [
+          95.29085872576178,
+          0.36900369003690037
+        ],
+        [
+          97.22991689750693,
+          99.63099630996312
+        ],
+        [
+          1.385041551246537,
+          97.7859778597786
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양곱창모듬",
+        "en.ROMAN": "yanggopchangmodeum",
+        "en": "Assorted Beef Tripe",
+        "ja": "牛ミノとコプチャンの盛り合わせ",
+        "zh_CN": "牛肚拼盘",
+        "zh_TW": "牛肚拼盤",
+        "price": "15000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_3",
+      "ocr": {
+        "x": 22.743055555555575,
+        "y": 20.53571428571429,
+        "text": "양곱창모듬",
+        "width": 15.870945479641128,
+        "height": 4.728835978835975,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "특양",
+        "en.ROMAN": "teugyang",
+        "en": "Special Beef Tripe",
+        "ja": "ミノ",
+        "zh_CN": "特级草肚",
+        "zh_TW": "特級牛肚",
+        "price": "20000",
+        "ingredients.ko": [
+          "특양"
+        ],
+        "ingredients.en": [
+          "Special Beef Tripe"
+        ],
+        "ingredients.ja": [
+          "ミノ"
+        ],
+        "ingredients.zh_CN": [
+          "草肚"
+        ],
+        "ingredients.zh_TW": [
+          "牛肚"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_6",
+      "ocr": {
+        "x": 22.41454528419349,
+        "y": 25.593889429327085,
+        "text": "특양",
+        "width": 15.713644589814812,
+        "height": 4.937073810858595,
+        "rotation": 359.18819791244687
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "대창",
+        "en.ROMAN": "daechang",
+        "en": "Grilled Beef Large Intestines",
+        "ja": "牛大腸",
+        "zh_CN": "大肠",
+        "zh_TW": "大腸",
+        "price": "15000",
+        "ingredients.ko": [
+          "소대창"
+        ],
+        "ingredients.en": [
+          "Beef Large Intestine"
+        ],
+        "ingredients.ja": [
+          "牛大腸"
+        ],
+        "ingredients.zh_CN": [
+          "牛大肠"
+        ],
+        "ingredients.zh_TW": [
+          "大腸"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_5",
+      "ocr": {
+        "x": 22.308296327491714,
+        "y": 30.482475969006046,
+        "text": "대창",
+        "width": 15.848214285714212,
+        "height": 4.714731013963031,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소창",
+        "en.ROMAN": "sochang",
+        "en": "Grilled Beef Small Intestines",
+        "ja": "小腸",
+        "zh_CN": "小肠",
+        "zh_TW": "小腸",
+        "price": "15000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_11",
+      "ocr": {
+        "x": 22.343785963969793,
+        "y": 35.54894179894154,
+        "text": "소창",
+        "width": 15.663915125426525,
+        "height": 4.59656084656082,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "곱창전골",
+        "en.ROMAN": "gopchangjeongol",
+        "en": "Small Intestine Hot Pot (Beef/Pork)",
+        "ja": "コプチャンの寄せ鍋(豚肉/牛肉)",
+        "zh_CN": "小肠火锅（猪/牛）",
+        "zh_TW": "小腸火鍋",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "곱창"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Small Intestine"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "コプチャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "小肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "小腸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_26",
+      "ocr": {
+        "x": 22.05774373516631,
+        "y": 40.645927712984204,
+        "text": "곱창전골",
+        "width": 15.956492422934303,
+        "height": 4.929419138246644,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "차돌박이",
+        "en.ROMAN": "chadolbagi",
+        "en": "Beef Brisket",
+        "ja": "牛のともばら肉",
+        "zh_CN": "牛胸肉",
+        "zh_TW": "牛胸肉",
+        "price": "10000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_18",
+      "ocr": {
+        "x": 22.098214285714285,
+        "y": 48.37962962962963,
+        "text": "차돌박이",
+        "width": 15.376984126984127,
+        "height": 4.894179894179894,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_21",
+      "ocr": {
+        "x": 21.974206349206348,
+        "y": 53.47222222222222,
+        "text": "삼겹살",
+        "width": 15.7358756925711,
+        "height": 4.8126805764648495,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "돼지막창",
+        "en.ROMAN": "dwaejimakchang",
+        "en": "Pork Intestine",
+        "ja": "豚マクチャン",
+        "zh_CN": "猪皱胃",
+        "zh_TW": "大腸頭",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지막창"
+        ],
+        "ingredients.en": [
+          "Pork Intestine"
+        ],
+        "ingredients.ja": [
+          "豚マクチャン"
+        ],
+        "ingredients.zh_CN": [
+          "猪皱胃"
+        ],
+        "ingredients.zh_TW": [
+          "大腸頭"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_24",
+      "ocr": {
+        "x": 21.863330656635263,
+        "y": 58.63095238095241,
+        "text": "돼지막창",
+        "width": 15.858420728506927,
+        "height": 4.820361452253567,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_27",
+      "ocr": {
+        "x": 21.749127864157547,
+        "y": 63.708183221967204,
+        "text": "된장찌개",
+        "width": 15.743574563587925,
+        "height": 4.9018607699686445,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_29",
+      "ocr": {
+        "x": 21.445705833363878,
+        "y": 68.98148148148115,
+        "text": "볶음밥",
+        "width": 16.10243444066713,
+        "height": 4.835723203831066,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "당면,우동,라면사리",
+        "en.ROMAN": "dangmyeon, udon ,ramyeonsari",
+        "en": "Extra Glass Noodles, Udon Noodles, Instant Noodles",
+        "ja": "春雨、うどん、ラーメン追加",
+        "zh_CN": "另加粉条、乌冬面、方便面面条",
+        "zh_TW": "加點粉條、烏龍麵、泡麵麵條",
+        "price": "2000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9001392_1-tf_31",
+      "ocr": {
+        "x": 21.424199657461127,
+        "y": 74.18330657898304,
+        "text": "사리(당면,우동,라면)",
+        "width": 21.816636352570285,
+        "height": 5.0241097465411375,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "file_name": "GK_KF04_M0003_1015077_4.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:04 14:34:09",
+    "store_id": "1015077",
+    "store_region": "GK",
+    "store_type": "KF04",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.2508038585209005,
+          1.6304347826086956
+        ],
+        [
+          99.67845659163987,
+          4.710144927536232
+        ],
+        [
+          94.53376205787781,
+          78.44202898550725
+        ],
+        [
+          11.897106109324762,
+          82.42753623188406
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "돼지한마리",
+        "en.ROMAN": "dwaejihanmari",
+        "en": "Assorted Pork Cuts",
+        "ja": "豚肉の盛り合わせ",
+        "zh_CN": "猪肉拼盘",
+        "zh_TW": "豬肉拼盤（所有部位）",
+        "price": "28000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0003_1015077_4-tf_0",
+      "ocr": {
+        "x": 17.211615663258016,
+        "y": 10.309441141019935,
+        "text": "돼지한마리",
+        "width": 51.714484953060946,
+        "height": 8.49166898208936,
+        "rotation": 1.62412370059036
+      }
+    }
+  ]
+}

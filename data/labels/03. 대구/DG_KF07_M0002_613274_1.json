@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "file_name": "DG_KF07_M0002_613274_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:12:02 11:44:07",
+    "store_id": "613274",
+    "store_region": "DG",
+    "store_type": "KF07",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          16.24441132637854,
+          4.586129753914989
+        ],
+        [
+          16.095380029806257,
+          83.55704697986577
+        ],
+        [
+          89.12071535022355,
+          84.56375838926175
+        ],
+        [
+          90.31296572280179,
+          4.3624161073825505
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "엄마김밥",
+        "en.ROMAN": "eommagimbap",
+        "en": "Mother's Gimbap",
+        "ja": "オンマキンパプ",
+        "zh_CN": "妈妈紫菜卷饭",
+        "zh_TW": "媽媽海苔飯捲",
+        "price": "2500",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF07_M0002_613274_1-tf_2",
+      "ocr": {
+        "x": 29.26587301587302,
+        "y": 24.01032353549832,
+        "text": "엄마김밥",
+        "width": 23.050827107147892,
+        "height": 4.809120908946149,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "진튀김밥",
+        "en.ROMAN": "jintwigimbap",
+        "en": "Fried rice.",
+        "ja": "濃いてんぷらご飯",
+        "zh_CN": "油炸食品",
+        "zh_TW": "油炸食品",
+        "price": "3500",
+        "ingredients.ko": [
+          "오징어",
+          "김",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Squid",
+          "Laver",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "イカ",
+          "海苔",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼",
+          "紫菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚",
+          "海苔",
+          "米"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF07_M0002_613274_1-tf_6",
+      "ocr": {
+        "x": 29.009962985825517,
+        "y": 36.3303198903898,
+        "text": "진튀김밥",
+        "width": 23.103061667428275,
+        "height": 4.517894395324525,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "매운오뎅김밥",
+        "en.ROMAN": "maeunodenggimbap",
+        "en": "Spicy Fishcake Gimbap",
+        "ja": "辛味練り物入りキンパプ",
+        "zh_CN": "香辣鱼糕紫菜卷饭",
+        "zh_TW": "辣味魚板海苔飯捲",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "김",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔",
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF07_M0002_613274_1-tf_10",
+      "ocr": {
+        "x": 28.70708116685205,
+        "y": 48.28869047619044,
+        "text": "매운오뎅김밥",
+        "width": 35.765028119623864,
+        "height": 4.662698412698409,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "참치김밥",
+        "en.ROMAN": "chamchigimbap",
+        "en": "Tuna Gimbap",
+        "ja": "ツナキンパプ",
+        "zh_CN": "金枪鱼紫菜卷饭",
+        "zh_TW": "鮪魚海苔飯捲",
+        "price": "3500",
+        "ingredients.ko": [
+          "야채",
+          "참치",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Tuna",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ツナ",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "金枪鱼",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮪魚",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF07_M0002_613274_1-tf_13",
+      "ocr": {
+        "x": 28.637566137566157,
+        "y": 60.21825396825396,
+        "text": "참치김밥",
+        "width": 23.33454314890973,
+        "height": 4.6875,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "애기김밥",
+        "en.ROMAN": "aegigimbap",
+        "en": "Baby Gimbap",
+        "ja": "ミニキンパプ",
+        "zh_CN": "宝宝紫菜卷饭",
+        "zh_TW": "兒童海苔飯捲",
+        "price": "2000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF07_M0002_613274_1-tf_18",
+      "ocr": {
+        "x": 28.29108999281502,
+        "y": 72.42063492063492,
+        "text": "애기김밥",
+        "width": 21.719435549893806,
+        "height": 4.78670634920635,
+        "rotation": 0
+      }
+    }
+  ]
+}

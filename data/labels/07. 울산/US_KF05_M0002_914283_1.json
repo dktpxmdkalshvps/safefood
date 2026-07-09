@@ -1,0 +1,817 @@
+{
+  "meta": {
+    "file_name": "US_KF05_M0002_914283_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:12 14:48:25",
+    "store_id": "914283",
+    "store_region": "US",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          24.357034795763994,
+          13.911290322580642
+        ],
+        [
+          22.239031770045386,
+          78.0241935483871
+        ],
+        [
+          70.8018154311649,
+          78.2258064516129
+        ],
+        [
+          70.65052950075643,
+          15.524193548387096
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "생아구찜",
+        "en.ROMAN": "saengagujjim",
+        "en": "Spicy Braised Monkfish",
+        "ja": "アンコウの蒸し物",
+        "zh_CN": "辣炖鲜安康鱼",
+        "zh_TW": "辣燉鮮鮟鱇魚",
+        "price": "30000",
+        "ingredients.ko": [
+          "야채",
+          "아귀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮟鱇魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_3",
+      "ocr": {
+        "x": 27.773794810474804,
+        "y": 21.294420866370828,
+        "text": "생아구찜",
+        "width": 5.607280780417197,
+        "height": 1.8846881460185871,
+        "rotation": 1.595601163933452
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "생맥주",
+        "en.ROMAN": "saengmaekju",
+        "en": "Draft Beer",
+        "ja": "生ビール",
+        "zh_CN": "扎啤",
+        "zh_TW": "生啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_8",
+      "ocr": {
+        "x": 53.39462072590277,
+        "y": 22.486740513109027,
+        "text": "생맥주",
+        "width": 4.513578655215886,
+        "height": 2.4472017879631993,
+        "rotation": 1.2918206927804476
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "뽈찜",
+        "en.ROMAN": "ppoljjim",
+        "en": "Braised Codfish Head",
+        "ja": "たらの頭の蒸し物",
+        "zh_CN": "炖鳕鱼头",
+        "zh_TW": "燉鱈魚頭",
+        "price": "30000",
+        "ingredients.ko": [
+          "야채",
+          "대구",
+          "대구곤이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish",
+          "Codfish Intestine"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ",
+          "タラの白子"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼",
+          "鳕鱼白子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚",
+          "鱈魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_9",
+      "ocr": {
+        "x": 27.596873635113308,
+        "y": 24.37970647937899,
+        "text": "뽈찜",
+        "width": 5.293355746509996,
+        "height": 1.9509442115285807,
+        "rotation": 1.4480274899866004
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_16",
+      "ocr": {
+        "x": 59.86373070484053,
+        "y": 25.620321337092072,
+        "text": "라면사리",
+        "width": 4.042435940552929,
+        "height": 1.5871859518735991,
+        "rotation": 1.5571224469658205
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "해물찜",
+        "en.ROMAN": "haemuljjim",
+        "en": "Spicy Braised Seafood",
+        "ja": "海鮮の蒸し物",
+        "zh_CN": "辣炖海鲜",
+        "zh_TW": "辣燉海鮮",
+        "price": "40000",
+        "ingredients.ko": [
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_18",
+      "ocr": {
+        "x": 27.573356916575673,
+        "y": 26.735135479121436,
+        "text": "해물찜",
+        "width": 5.282428845114497,
+        "height": 1.919579203301191,
+        "rotation": 1.3870023890946754
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동사리",
+        "en.ROMAN": "udon sari",
+        "en": "Extra Udon Noodles",
+        "ja": "うどん追加",
+        "zh_CN": "另加乌冬面",
+        "zh_TW": "加點烏龍麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_20",
+      "ocr": {
+        "x": 59.83922474865704,
+        "y": 27.471789931852232,
+        "text": "우동사리",
+        "width": 4.067163757506453,
+        "height": 1.6202548991442467,
+        "rotation": 1.5465841988857392
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_25",
+      "ocr": {
+        "x": 59.81476476198699,
+        "y": 29.342121101681386,
+        "text": "볶음밥",
+        "width": 3.1737120161794725,
+        "height": 1.6201390995144693,
+        "rotation": 1.5571224469662752
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "해물아구찜",
+        "en.ROMAN": "haemulagujjim",
+        "en": "Spicy Braised Seafood and Monkfish",
+        "ja": "海鮮入りアンコウの蒸し物",
+        "zh_CN": "炖海鲜安康鱼",
+        "zh_TW": "燉海鮮鮟鱇魚",
+        "price": "40000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "아귀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "鮟鱇魚"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_27",
+      "ocr": {
+        "x": 27.450771806047467,
+        "y": 29.93093165321201,
+        "text": "해물아구찜",
+        "width": 5.729166666666666,
+        "height": 2.0173096212199124,
+        "rotation": 1.4386773464951261
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_33",
+      "ocr": {
+        "x": 59.780703036909415,
+        "y": 31.25483812979845,
+        "text": "공기밥",
+        "width": 3.1742661079301473,
+        "height": 1.6201573566205891,
+        "rotation": 0.7787050083704798
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "해물아구갈비찜",
+        "en.ROMAN": "haemuragugalbijjim",
+        "en": "Braised Seafood, Monkfish and Galbi",
+        "ja": "海鮮とアンコウ入りカルビの蒸し物",
+        "zh_CN": "海鲜安康鱼炖排骨",
+        "zh_TW": "海鮮鮟鱇魚燉排骨",
+        "price": "35000",
+        "ingredients.ko": [
+          "해물",
+          "아구",
+          "갈비"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Monkfish",
+          "Galbi"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "アンコウ",
+          "カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "安康鱼",
+          "排骨"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "鮟鱇魚",
+          "排骨"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_37",
+      "ocr": {
+        "x": 27.747202184776803,
+        "y": 33.1224470080466,
+        "text": "해물아구갈비찜",
+        "width": 6.944735030680518,
+        "height": 1.9518525679913026,
+        "rotation": 1.4126176918394435
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_44",
+      "ocr": {
+        "x": 59.80613706899194,
+        "y": 36.74683022528895,
+        "text": "소주",
+        "width": 2.871745294674784,
+        "height": 1.5215898833082624,
+        "rotation": 0.7734002199243832
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_48",
+      "ocr": {
+        "x": 59.82951676548681,
+        "y": 38.40000010064321,
+        "text": "맥주",
+        "width": 2.822950095328891,
+        "height": 1.5868746864089533,
+        "rotation": 0.8061455826630777
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "새우찜",
+        "en.ROMAN": "saeujjim",
+        "en": "Steamed Shrimp",
+        "ja": "海老の蒸し物",
+        "zh_CN": "蒸鲜虾",
+        "zh_TW": "蒸鮮蝦",
+        "price": "30000",
+        "ingredients.ko": [
+          "왕새우"
+        ],
+        "ingredients.en": [
+          "Jumbo Shrimp"
+        ],
+        "ingredients.ja": [
+          "大正海老"
+        ],
+        "ingredients.zh_CN": [
+          "大虾"
+        ],
+        "ingredients.zh_TW": [
+          "明蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_50",
+      "ocr": {
+        "x": 27.787126754547003,
+        "y": 39.187265494138366,
+        "text": "새우찜",
+        "width": 3.9930309149046566,
+        "height": 1.9510582010582043,
+        "rotation": 0.7198253962713466
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_54",
+      "ocr": {
+        "x": 59.739784273510566,
+        "y": 40.059783148193965,
+        "text": "막걸리",
+        "width": 3.0254633769975845,
+        "height": 1.653226221858117,
+        "rotation": 1.5363593496950898
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "꽃게찜",
+        "en.ROMAN": "kkotgejjim",
+        "en": "Steamed Blue Crab",
+        "ja": "ワタリガニの蒸し物",
+        "zh_CN": "蒸梭子蟹",
+        "zh_TW": "清蒸梭子蟹",
+        "price": "30000",
+        "ingredients.ko": [
+          "꽃게"
+        ],
+        "ingredients.en": [
+          "Blue Crab"
+        ],
+        "ingredients.ja": [
+          "ワタリガニ"
+        ],
+        "ingredients.zh_CN": [
+          "梭子蟹"
+        ],
+        "ingredients.zh_TW": [
+          "梭子蟹"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_57",
+      "ocr": {
+        "x": 27.68648826708396,
+        "y": 41.80004245360901,
+        "text": "꽃게찜",
+        "width": 4.091827113641879,
+        "height": 1.9845799412572769,
+        "rotation": 0.680210420338824
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_58",
+      "ocr": {
+        "x": 59.615522498035844,
+        "y": 41.80768287325233,
+        "text": "음료수",
+        "width": 3.1983210671380684,
+        "height": 1.554232804232812,
+        "rotation": 1.557194322814837
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "쭈꾸미찜",
+        "en.ROMAN": "jjukkumijjim",
+        "en": "Braised Webfoot Octopus",
+        "ja": "イイダコの蒸し物",
+        "zh_CN": "炖八爪鱼",
+        "zh_TW": "蒸小章魚",
+        "price": "30000",
+        "ingredients.ko": [
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_63",
+      "ocr": {
+        "x": 26.977871458996503,
+        "y": 44.29188462873177,
+        "text": "쭈꾸미찜",
+        "width": 5.3321233284194,
+        "height": 1.984580911189229,
+        "rotation": 1.4126723368428316
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "동태탕",
+        "en.ROMAN": "dongtaetang",
+        "en": "Pollack Soup",
+        "ja": "スケトウダラスープ",
+        "zh_CN": "冻明太鱼汤",
+        "zh_TW": "凍明太魚湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "동태"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "冻明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "凍明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF05_M0002_914283_1-tf_97",
+      "ocr": {
+        "x": 34.04056452652173,
+        "y": 64.86631183300135,
+        "text": "동태탕",
+        "width": 21.186404443645365,
+        "height": 8.798962498256238,
+        "rotation": 0.5233047375405704
+      }
+    }
+  ]
+}

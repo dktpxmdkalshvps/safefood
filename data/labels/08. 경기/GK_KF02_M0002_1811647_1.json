@@ -1,0 +1,684 @@
+{
+  "meta": {
+    "file_name": "GK_KF02_M0002_1811647_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "1811647",
+    "store_region": "GK",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0.1697792869269949,
+        "y": 25.987261146496817,
+        "width": 99.830220713073,
+        "height": 63.69426751592357,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "홀릭셋트",
+        "en.ROMAN": "holic set",
+        "en": "Holic Set",
+        "ja": "ホリックセット",
+        "zh_CN": "辣炒年糕1人+糯米血肠1人+炸什锦套餐",
+        "zh_TW": "狂熱套餐",
+        "price": "10000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_3",
+      "ocr": {
+        "x": 4.550185948742804,
+        "y": 35.93411940147621,
+        "text": "홀릭셋트",
+        "width": 22.89682253291213,
+        "height": 5.416887827317742,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "튀김세트",
+        "en.ROMAN": "twigim set",
+        "en": "Deep-fried Dish Set Menu",
+        "ja": "天ぷらセット",
+        "zh_CN": "炸什锦套餐",
+        "zh_TW": "炸物拼盤",
+        "price": "3000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_9",
+      "ocr": {
+        "x": 62.59477097762326,
+        "y": 41.564079718936405,
+        "text": "튀김세트",
+        "width": 19.184329551477262,
+        "height": 3.723618693762023,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "옛날떡볶이",
+        "en.ROMAN": "yennaltteokbokki",
+        "en": "Old-fashioned Tteokbokki",
+        "ja": "昔ながらのトッポッキ",
+        "zh_CN": "老式辣炒年糕",
+        "zh_TW": "古早味辣炒年糕",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_11",
+      "ocr": {
+        "x": 5.116790632495214,
+        "y": 42.00712769184105,
+        "text": "옛날떡볶이",
+        "width": 27.53096899955983,
+        "height": 5.218475128905068,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈토핑",
+        "en.ROMAN": "cheese topping",
+        "en": "Cheese Topping",
+        "ja": "チーズトッピング",
+        "zh_CN": "加奶酪",
+        "zh_TW": "起司佐料",
+        "price": "1000",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_14",
+      "ocr": {
+        "x": 4.918377934082518,
+        "y": 47.71149277120614,
+        "text": "치즈토핑",
+        "width": 27.899160984899524,
+        "height": 4.899435092508334,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "김말이",
+        "en.ROMAN": "gimmari",
+        "en": "Deep-fried Laver Rolls",
+        "ja": "春雨のり巻き天ぷら",
+        "zh_CN": "炸紫菜卷",
+        "zh_TW": "炸海苔捲",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루",
+          "김",
+          "당면"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Laver",
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "海苔",
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "紫菜",
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "海苔",
+          "粉條"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_16",
+      "ocr": {
+        "x": 62.529698415195455,
+        "y": 49.95039682539638,
+        "text": "김말이",
+        "width": 19.518984316788977,
+        "height": 3.4955523243153666,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "순대",
+        "en.ROMAN": "sundae",
+        "en": "Sundae",
+        "ja": "スンデ",
+        "zh_CN": "血肠",
+        "zh_TW": "血腸",
+        "price": "4500",
+        "ingredients.ko": [
+          "돼지고기",
+          "순대",
+          "내장"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Sundae",
+          "Offal"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "スンデ",
+          "内臓"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "血肠",
+          "内脏"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "血腸",
+          "內臟"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_18",
+      "ocr": {
+        "x": 5.21599698170156,
+        "y": 53.44742063492068,
+        "text": "순대",
+        "width": 27.51676458170516,
+        "height": 4.839690122333438,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "만두",
+        "en.ROMAN": "mandu",
+        "en": "Mandu",
+        "ja": "餃子",
+        "zh_CN": "饺子",
+        "zh_TW": "餃子",
+        "price": "2000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "QxczIf5h1o",
+      "ocr": {
+        "x": 62.62396727997059,
+        "y": 53.84705162520721,
+        "text": "만두",
+        "width": 19.55054019201535,
+        "height": 3.7391903646874427,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "고구마튀김",
+        "en.ROMAN": "gogumatwigim",
+        "en": "Deep-fried Sweet Potatoes",
+        "ja": "さつまいも天ぷら",
+        "zh_CN": "炸红薯",
+        "zh_TW": "炸地瓜",
+        "price": "2000",
+        "ingredients.ko": [
+          "고구마",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Sweet Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "サツマイモ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "红薯",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_22",
+      "ocr": {
+        "x": 63.029100529100525,
+        "y": 57.99360287578568,
+        "text": "고구마튀김",
+        "width": 19.404634925629775,
+        "height": 3.6854474883703285,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "김말이떡볶이순대버무리",
+        "en.ROMAN": "gimmaritteokbokkisundaebeomuri",
+        "en": "Deep-fried Laver Roll, Tteokbokki and Sundae Mixed in Sauce",
+        "ja": "春雨のり巻き天ぷらとトッポッキとスンデのソース和え",
+        "zh_CN": "杂拌紫菜卷辣炒年糕血肠",
+        "zh_TW": "海苔捲+辣炒年糕+血腸",
+        "price": "6500",
+        "ingredients.ko": [
+          "김",
+          "밀가루",
+          "당면",
+          "순대"
+        ],
+        "ingredients.en": [
+          "Laver",
+          "Wheat Flour",
+          "Glass Noodles",
+          "Sundae"
+        ],
+        "ingredients.ja": [
+          "海苔",
+          "小麦粉",
+          "春雨",
+          "スンデ"
+        ],
+        "ingredients.zh_CN": [
+          "紫菜",
+          "面粉",
+          "粉条",
+          "血肠"
+        ],
+        "ingredients.zh_TW": [
+          "海苔",
+          "麵粉",
+          "粉條",
+          "血腸"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_25",
+      "ocr": {
+        "x": 5.0220196548719445,
+        "y": 58.773000707714054,
+        "text": "김말이떡볶이순대버무리",
+        "width": 42.6389674904106,
+        "height": 5.274839500556051,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "쿨피스",
+        "en.ROMAN": "coolpis",
+        "en": "Coolpis",
+        "ja": "クールピース",
+        "zh_CN": "Coolpis果味饮料",
+        "zh_TW": "Coolpis飲料",
+        "price": "1500",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "VkqXQY4Y-2",
+      "ocr": {
+        "x": 63.053793477134484,
+        "y": 66.23583662552547,
+        "text": "쿨피스",
+        "width": 19.776605867499004,
+        "height": 3.9388196980275016,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "찹쌀도너츠",
+        "en.ROMAN": "chapssal doughnuts",
+        "en": "Sweet Rice Donut",
+        "ja": "もち米あんドーナツ",
+        "zh_CN": "糯米甜甜圈",
+        "zh_TW": "麻糬甜甜圈",
+        "price": "3000",
+        "ingredients.ko": [
+          "버터",
+          "계란",
+          "밀가루",
+          "찹쌀",
+          "설탕"
+        ],
+        "ingredients.en": [
+          "Butter",
+          "Eggs",
+          "Wheat Flour",
+          "Sweet Rice",
+          "Sugar"
+        ],
+        "ingredients.ja": [
+          "バター",
+          "卵",
+          "小麦粉",
+          "もち米",
+          "ソルロンタン"
+        ],
+        "ingredients.zh_CN": [
+          "黄油",
+          "鸡蛋",
+          "面粉",
+          "糯米",
+          "白糖"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "雞蛋",
+          "麵粉",
+          "糯米",
+          "糖"
+        ],
+        "allergy": [
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_30",
+      "ocr": {
+        "x": 5.116790632495226,
+        "y": 70.13550829036508,
+        "text": "찹쌀도너츠",
+        "width": 27.679469731676853,
+        "height": 5.137309169952481,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "1500",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "f3y8Jjz60-",
+      "ocr": {
+        "x": 63.25373071817549,
+        "y": 70.66158239365112,
+        "text": "콜라",
+        "width": 19.768340589124975,
+        "height": 3.7333220649475893,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "1500",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DWdIjYQwQa",
+      "ocr": {
+        "x": 63.371459375248655,
+        "y": 75.15303407775485,
+        "text": "사이다",
+        "width": 19.82039121897865,
+        "height": 3.3183035018627822,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "국물오뎅",
+        "en.ROMAN": "gungmurodeng",
+        "en": "Fishcake in Soup",
+        "ja": "練り物",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "湯式魚板",
+        "price": "3000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0002_1811647_1-tf.jpg_34",
+      "ocr": {
+        "x": 5.050653066357645,
+        "y": 75.91089753311087,
+        "text": "국물오뎅",
+        "width": 27.944019996227134,
+        "height": 5.246657314730568,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "환타",
+        "en.ROMAN": "fanta",
+        "en": "Fanta",
+        "ja": "ファンタ",
+        "zh_CN": "芬达",
+        "zh_TW": "芬達",
+        "price": "1500",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "8XSf68bBDh",
+      "ocr": {
+        "x": 63.27562339391525,
+        "y": 79.14113321276595,
+        "text": "환타",
+        "width": 20.042221135759483,
+        "height": 3.739523655982456,
+        "rotation": 0
+      }
+    }
+  ]
+}

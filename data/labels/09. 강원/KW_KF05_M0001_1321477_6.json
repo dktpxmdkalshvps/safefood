@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "file_name": "KW_KF05_M0001_1321477_6.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:13 19:33:59",
+    "store_id": "1321477",
+    "store_region": "KW",
+    "store_type": "KF05",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          100,
+          0
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          0,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "활어회",
+        "en.ROMAN": "hwareohoe",
+        "en": "Sliced Raw Fish",
+        "ja": "(活魚)刺身",
+        "zh_CN": "鲜生鱼片",
+        "zh_TW": "鮮生魚片",
+        "price": "300000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF05_M0001_1321477_6-tf_48",
+      "ocr": {
+        "x": 24.21576183622592,
+        "y": 90.21790841573012,
+        "text": "스페셜활어회",
+        "width": 18.14515291232322,
+        "height": 2.7927875288609796,
+        "rotation": 2.0446226481178087
+      }
+    }
+  ]
+}

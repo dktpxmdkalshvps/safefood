@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "file_name": "SL_KF02_M0002_352010_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:09:01 20:28:52",
+    "store_id": "352010",
+    "store_region": "SL",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          7.991830089113085,
+          46.12205537952885
+        ],
+        [
+          99.69278033794163,
+          45.69672131147541
+        ],
+        [
+          99.69278033794163,
+          99.59016393442622
+        ],
+        [
+          8.294930875576037,
+          99.79508196721312
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "떡볶이",
+        "en.ROMAN": "tteokbokki",
+        "en": "Tteokbokki",
+        "ja": "トッポッキ",
+        "zh_CN": "辣炒年糕",
+        "zh_TW": "辣炒年糕",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_352010_1-tf-0",
+      "ocr": {
+        "x": 54.193424215111946,
+        "y": 56.56318082788659,
+        "text": "떡볶이",
+        "width": 20.40489960442638,
+        "height": 16.32430750077812,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김밥",
+        "en.ROMAN": "gimbap",
+        "en": "Gimbap",
+        "ja": "キンパプ",
+        "zh_CN": "紫菜卷饭",
+        "zh_TW": "海苔飯捲",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_352010_1-tf-1",
+      "ocr": {
+        "x": 10.45735065845476,
+        "y": 57.19926859632728,
+        "text": "김밥",
+        "width": 16.927826598567904,
+        "height": 15.585122938064085,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "순대",
+        "en.ROMAN": "sundae",
+        "en": "Sundae",
+        "ja": "スンデ",
+        "zh_CN": "血肠",
+        "zh_TW": "血腸",
+        "price": "3000",
+        "ingredients.ko": [
+          "돼지고기",
+          "순대",
+          "내장"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Sundae",
+          "Offal"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "スンデ",
+          "内臓"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "血肠",
+          "内脏"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "血腸",
+          "內臟"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_352010_1-tf-2",
+      "ocr": {
+        "x": 53.59607368183867,
+        "y": 74.40670712729525,
+        "text": "순대",
+        "width": 21.587864904110997,
+        "height": 16.13562091503267,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "만두",
+        "en.ROMAN": "mandu",
+        "en": "Mandu",
+        "ja": "餃子",
+        "zh_CN": "饺子",
+        "zh_TW": "餃子",
+        "price": "3000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_352010_1-tf-3",
+      "ocr": {
+        "x": 11.009948800761093,
+        "y": 75.35014005602237,
+        "text": "만두",
+        "width": 15.866365605127443,
+        "height": 15.116324307500783,
+        "rotation": 0
+      }
+    }
+  ]
+}

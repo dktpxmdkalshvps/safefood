@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "file_name": "KW_KF04_M0002_1331775_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:19 17:49:18",
+    "store_id": "1331775",
+    "store_region": "KW",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          85.61967833491012,
+          20.33613445378151
+        ],
+        [
+          86.66035950804162,
+          87.56302521008404
+        ],
+        [
+          3.216650898770104,
+          87.22689075630252
+        ],
+        [
+          5.014191106906338,
+          19.327731092436977
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "왕소금생구이",
+        "en.ROMAN": "wangsogeumsaenggui",
+        "en": "Salt Grilled Pork",
+        "ja": "生サムギョプサルの塩焼き",
+        "zh_CN": "粗盐烤鲜猪肉",
+        "zh_TW": "粗鹽烤鮮肉",
+        "price": "17000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_2",
+      "ocr": {
+        "x": 24.003390850005655,
+        "y": 32.18536108122597,
+        "text": "왕소금생구이",
+        "width": 16.013671359773017,
+        "height": 4.220206687933392,
+        "rotation": 0.5865555967683918
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_4",
+      "ocr": {
+        "x": 61.8366221356265,
+        "y": 32.6746968907019,
+        "text": "소주",
+        "width": 4.974999999999992,
+        "height": 4.20632866866594,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_9",
+      "ocr": {
+        "x": 61.90526718624002,
+        "y": 40.0821298957325,
+        "text": "맥주",
+        "width": 4.931354949386609,
+        "height": 4.246482351091734,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "잔치소면",
+        "en.ROMAN": "janchisomyeon",
+        "en": "Banquet Noodles",
+        "ja": "にゅうめん",
+        "zh_CN": "喜筵龙须面",
+        "zh_TW": "喜麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_12",
+      "ocr": {
+        "x": 23.90089854727183,
+        "y": 44.28352893638897,
+        "text": "잔치소면",
+        "width": 10.219338125580066,
+        "height": 4.247869866419417,
+        "rotation": 0.5865555967683918
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_15",
+      "ocr": {
+        "x": 61.87851145749285,
+        "y": 47.48333848250194,
+        "text": "청하",
+        "width": 5.072576305653548,
+        "height": 4.2102749233257795,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "열무소면",
+        "en.ROMAN": "yeolmusomyeon",
+        "en": "Noodles with Cold Young Summer Radish Kimchi",
+        "ja": "大根若菜キムチ素麺",
+        "zh_CN": "萝卜缨辛奇龙须面",
+        "zh_TW": "蘿蔔纓辛奇細麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "열무김치",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Young Summer Radish Kimchi",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "大根若菜キムチ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "萝卜缨辛奇",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蘿蔔纓辛奇",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_18",
+      "ocr": {
+        "x": 23.850000000000097,
+        "y": 52.77928911073597,
+        "text": "열무소면",
+        "width": 10.182357288851428,
+        "height": 4.239263594400487,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "백세주",
+        "en.ROMAN": "baekseju",
+        "en": "Bekseju",
+        "ja": "百歳酒",
+        "zh_CN": "百岁酒",
+        "zh_TW": "百歲酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_20",
+      "ocr": {
+        "x": 61.940133593119675,
+        "y": 54.954683761202006,
+        "text": "백세주",
+        "width": 7.571488542506964,
+        "height": 4.267128733205224,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "장국소면",
+        "en.ROMAN": "jangguksomyeon",
+        "en": "Soysauce Paste Soup with Noodles",
+        "ja": "テンジャンスープ素麺",
+        "zh_CN": "酱汤龙须面",
+        "zh_TW": "醬湯細麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_22",
+      "ocr": {
+        "x": 23.588996126880488,
+        "y": 61.10949485352609,
+        "text": "장국소면",
+        "width": 10.35227228890526,
+        "height": 4.409071974551724,
+        "rotation": 0.4864139198475641
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "14000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_24",
+      "ocr": {
+        "x": 61.86688932186713,
+        "y": 62.48485597711167,
+        "text": "복분자",
+        "width": 7.72148854250623,
+        "height": 4.348880216128749,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_29",
+      "ocr": {
+        "x": 23.46323203336134,
+        "y": 69.69758395975906,
+        "text": "공기밥",
+        "width": 7.880893222128819,
+        "height": 4.34899257042902,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료",
+        "en.ROMAN": "eumnyo",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1331775_1-tf_30",
+      "ocr": {
+        "x": 61.882022914986656,
+        "y": 69.98109892885607,
+        "text": "음료",
+        "width": 5.124332034399885,
+        "height": 4.320870333953924,
+        "rotation": 0
+      }
+    }
+  ]
+}

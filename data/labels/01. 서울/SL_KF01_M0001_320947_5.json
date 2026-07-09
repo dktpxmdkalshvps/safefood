@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_320947_5.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:15 13:25:02",
+    "store_id": "320947",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.1564945226917058,
+          7.400881057268722
+        ],
+        [
+          96.24413145539906,
+          6.607929515418502
+        ],
+        [
+          99.68701095461657,
+          91.01321585903084
+        ],
+        [
+          0.1564945226917058,
+          92.07048458149782
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "송정식",
+        "en.ROMAN": "songjeongsik",
+        "en": "Pine Tree Set Menu",
+        "ja": "松定食",
+        "zh_CN": "松套餐",
+        "zh_TW": "松套餐",
+        "price": "68000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_320947_5-tf-0",
+      "ocr": {
+        "x": 25.930683280349115,
+        "y": 14.971213044959935,
+        "text": "송정식",
+        "width": 10.903203529126326,
+        "height": 2.271415216800832,
+        "rotation": 355.2413720836751
+      }
+    }
+  ]
+}

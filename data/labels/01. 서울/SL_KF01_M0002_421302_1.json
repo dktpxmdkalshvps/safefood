@@ -1,0 +1,803 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_421302_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "",
+    "store_id": "421302",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.022988505747127,
+          7.2796934865900385
+        ],
+        [
+          92.81609195402297,
+          6.896551724137931
+        ],
+        [
+          91.0919540229885,
+          89.272030651341
+        ],
+        [
+          7.758620689655173,
+          90.42145593869732
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "소고기전골",
+        "en.ROMAN": "sogogijeongol",
+        "en": "Beef Hot Pot",
+        "ja": "牛肉の寄せ鍋",
+        "zh_CN": "牛肉火锅",
+        "zh_TW": "牛肉火鍋",
+        "price": "35000",
+        "ingredients.ko": [
+          "소고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_3",
+      "ocr": {
+        "x": 72.47809246690298,
+        "y": 24.10714285714279,
+        "text": "소고기전골",
+        "width": 8.587823926433032,
+        "height": 2.6785714285714266,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "설렁탕",
+        "en.ROMAN": "seolleongtang",
+        "en": "Ox Bone Soup",
+        "ja": "ソルロンタン",
+        "zh_CN": "雪浓汤",
+        "zh_TW": "雪濃湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "사골"
+        ],
+        "ingredients.en": [
+          "Ox Bone"
+        ],
+        "ingredients.ja": [
+          "牛骨"
+        ],
+        "ingredients.zh_CN": [
+          "牛骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_6",
+      "ocr": {
+        "x": 21.506031567492222,
+        "y": 24.210423022428284,
+        "text": "설렁탕",
+        "width": 5.475040039618758,
+        "height": 2.7737039616987462,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "낙지볶음",
+        "en.ROMAN": "nakjibokkeum",
+        "en": "Spicy Stir-fried Octopus",
+        "ja": "テナガダコ炒め",
+        "zh_CN": "辣炒长爪章鱼",
+        "zh_TW": "辣炒章魚",
+        "price": "26000",
+        "ingredients.ko": [
+          "낙지",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "テナガダコ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_9",
+      "ocr": {
+        "x": 72.45067275571313,
+        "y": 34.79185061471703,
+        "text": "낙지볶음",
+        "width": 6.926117577226611,
+        "height": 2.7412181683517085,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소우거지국밥",
+        "en.ROMAN": "sougeojigukbap",
+        "en": "Beef and Napa Cabbage Rice Soup",
+        "ja": "牛肉と白菜入りクッパ",
+        "zh_CN": "牛肉干白菜汤饭",
+        "zh_TW": "牛肉乾白菜湯飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "쇠고기",
+          "우거지",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Napa Cabbage",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "白菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "干白菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "乾白菜",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_12",
+      "ocr": {
+        "x": 21.672393941841488,
+        "y": 34.944038714707226,
+        "text": "소우거지국밥",
+        "width": 10.404576459396536,
+        "height": 2.9183108836155713,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "매운닭발",
+        "en.ROMAN": "maeundakbal",
+        "en": "Spicy Grilled Chicken Feet",
+        "ja": "辛味鶏足",
+        "zh_CN": "辣鸡爪",
+        "zh_TW": "辣雞爪",
+        "price": "18000",
+        "ingredients.ko": [
+          "고추",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_13",
+      "ocr": {
+        "x": 72.39583333333336,
+        "y": 45.232547542853744,
+        "text": "매운닭발",
+        "width": 6.729551683463,
+        "height": 2.7171879068817213,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "물냉면",
+        "en.ROMAN": "mullaengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "水冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_15",
+      "ocr": {
+        "x": 47.20527500658547,
+        "y": 45.43650793650796,
+        "text": "물냉면",
+        "width": 5.101272612462245,
+        "height": 2.7481998210662484,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "갈비탕",
+        "en.ROMAN": "galbitang",
+        "en": "Galbi Soup",
+        "ja": "カルビタン",
+        "zh_CN": "牛排骨汤",
+        "zh_TW": "牛排骨湯",
+        "price": "14000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_18",
+      "ocr": {
+        "x": 21.994814576762163,
+        "y": 45.57285688486232,
+        "text": "갈비탕",
+        "width": 5.43993433853935,
+        "height": 2.6744976124924387,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "불껍데기",
+        "en.ROMAN": "bulkkeopdegi",
+        "en": "a fire shell",
+        "ja": "激辛豚皮炒め",
+        "zh_CN": "火辣猪皮",
+        "zh_TW": "辣味豬皮",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지껍데기"
+        ],
+        "ingredients.en": [
+          "Pork Rind"
+        ],
+        "ingredients.ja": [
+          "豚皮"
+        ],
+        "ingredients.zh_CN": [
+          "猪皮"
+        ],
+        "ingredients.zh_TW": [
+          "豬皮"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_19",
+      "ocr": {
+        "x": 72.1932598725542,
+        "y": 55.55000786031406,
+        "text": "불껍데기",
+        "width": 6.7543532707646365,
+        "height": 2.684119123812925,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔냉면",
+        "en.ROMAN": "bibimnaengmyeon",
+        "en": "Spicy Buckwheat Noodles",
+        "ja": "混ぜ冷麺",
+        "zh_CN": "拌冷面",
+        "zh_TW": "拌冷麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "비빔장",
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Sauce",
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "ビビンソース",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "拌饭酱",
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "拌飯醬",
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_21",
+      "ocr": {
+        "x": 47.296626984127066,
+        "y": 55.76094990668285,
+        "text": "비빔냉면",
+        "width": 6.492779625239251,
+        "height": 2.704658558925659,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "도가니탕",
+        "en.ROMAN": "doganitang",
+        "en": "Ox Knee Soup",
+        "ja": "牛の膝軟骨スープ",
+        "zh_CN": "牛膝骨汤",
+        "zh_TW": "牛膝骨湯",
+        "price": "12000",
+        "ingredients.ko": [
+          "소도가니"
+        ],
+        "ingredients.en": [
+          "Ox Knee Cartilage"
+        ],
+        "ingredients.ja": [
+          "牛の膝軟骨"
+        ],
+        "ingredients.zh_CN": [
+          "牛膝骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛膝骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_24",
+      "ocr": {
+        "x": 22.26038330031777,
+        "y": 55.933050974388,
+        "text": "도가니탕",
+        "width": 6.995185601777551,
+        "height": 2.783368950695428,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "수육",
+        "en.ROMAN": "suyuk",
+        "en": "Boiled Pork Slices",
+        "ja": "ゆで肉",
+        "zh_CN": "白切肉",
+        "zh_TW": "白切肉",
+        "price": "30000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_25",
+      "ocr": {
+        "x": 49.822195529143315,
+        "y": 64.69627848761554,
+        "text": "수육",
+        "width": 3.7038232274280647,
+        "height": 2.6510938184203456,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "떡만두국",
+        "en.ROMAN": "tteongmanduguk",
+        "en": "Sliced Rice Cake and Mandu Soup",
+        "ja": "トク入り餃子スープ",
+        "zh_CN": "年糕饺子汤",
+        "zh_TW": "年糕餃子湯",
+        "price": "8500",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_28",
+      "ocr": {
+        "x": 22.48779094577786,
+        "y": 66.25051129184814,
+        "text": "떡만두국",
+        "width": 6.7502251057776235,
+        "height": 2.830176538839743,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "오징어볶음",
+        "en.ROMAN": "ojingeobokkeum",
+        "en": "Spicy Stir-fried Squid",
+        "ja": "イカ炒め",
+        "zh_CN": "辣炒鱿鱼",
+        "zh_TW": "辣炒魷魚",
+        "price": "28000",
+        "ingredients.ko": [
+          "야채",
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_31",
+      "ocr": {
+        "x": 47.56219570768276,
+        "y": 75.92592592592678,
+        "text": "오징어볶음",
+        "width": 8.392164908193973,
+        "height": 2.9044617371352537,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "고기만두",
+        "en.ROMAN": "gogimandu",
+        "en": "Meat Mandu",
+        "ja": "肉餃子",
+        "zh_CN": "肉饺",
+        "zh_TW": "肉餃",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_33",
+      "ocr": {
+        "x": 22.770912519873278,
+        "y": 76.37922389989245,
+        "text": "고기만두",
+        "width": 6.796118030227248,
+        "height": 2.631763840427016,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "육전",
+        "en.ROMAN": "yukjeon",
+        "en": "Pan-fried Battered Beef",
+        "ja": "牛肉のチヂミ",
+        "zh_CN": "香煎肉片",
+        "zh_TW": "香煎肉片",
+        "price": "28000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_35",
+      "ocr": {
+        "x": 63.44874982613237,
+        "y": 83.1465090816369,
+        "text": "육전",
+        "width": 4.271365037846184,
+        "height": 3.2305263193801927,
+        "rotation": 358.48923987812265
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "오징어데침",
+        "en.ROMAN": "ojingeodechim",
+        "en": "Parboiled Squid",
+        "ja": "ゆでイカ",
+        "zh_CN": "鱿鱼漂烫",
+        "zh_TW": "魷魚漂燙",
+        "price": "19000",
+        "ingredients.ko": [
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_34",
+      "ocr": {
+        "x": 46.16780043801117,
+        "y": 83.63881109568432,
+        "text": "오징어데침",
+        "width": 10.406984342135889,
+        "height": 3.354551831865994,
+        "rotation": 357.6126257723898
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "시사모구이",
+        "en.ROMAN": "sisamogui",
+        "en": "Grilled Shishamo",
+        "ja": "シシャモ焼き",
+        "zh_CN": "烤多春鱼",
+        "zh_TW": "烤柳葉魚",
+        "price": "20000",
+        "ingredients.ko": [
+          "열빙어"
+        ],
+        "ingredients.en": [
+          "Capelin"
+        ],
+        "ingredients.ja": [
+          "シシャモ"
+        ],
+        "ingredients.zh_CN": [
+          "多春鱼"
+        ],
+        "ingredients.zh_TW": [
+          "柳葉魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_421302_1-tf.jpg_36",
+      "ocr": {
+        "x": 22.48779094577785,
+        "y": 83.82529126328669,
+        "text": "시사모구이",
+        "width": 10.674690351496448,
+        "height": 3.5989061815796988,
+        "rotation": 0
+      }
+    }
+  ]
+}

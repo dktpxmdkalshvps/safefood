@@ -1,0 +1,816 @@
+{
+  "meta": {
+    "file_name": "KS_KF01_M0003_1805385_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:03 12:26:57",
+    "store_id": "1805385",
+    "store_region": "KS",
+    "store_type": "KF01",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.32362459546925576,
+          0.819672131147541
+        ],
+        [
+          99.83818770226537,
+          0.9107468123861568
+        ],
+        [
+          99.51456310679612,
+          97.632058287796
+        ],
+        [
+          0.9708737864077668,
+          97.54098360655738
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "엄나무백숙",
+        "en.ROMAN": "eomnamubaeksuk",
+        "en": "Whole Chicken Soup with Castor Aralia",
+        "ja": "ハリギリ入り鶏肉の水炊き",
+        "zh_CN": "刺楸清炖鸡",
+        "zh_TW": "刺楸藥膳燉雞",
+        "price": "60000",
+        "ingredients.ko": [
+          "인삼",
+          "마늘",
+          "닭고기",
+          "찹쌀",
+          "엄나무"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Garlic",
+          "Chicken",
+          "Sweet Rice",
+          "Prickly Castor Oil Tree"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "にんにく",
+          "鶏肉",
+          "もち米",
+          "ハリギリ"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "大蒜",
+          "鸡肉",
+          "糯米",
+          "刺楸"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "大蒜",
+          "雞肉",
+          "糯米",
+          "刺楸"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_4",
+      "ocr": {
+        "x": 11.323268206039076,
+        "y": 27.775,
+        "text": "엄나무백숙",
+        "width": 11.456483126110124,
+        "height": 1.525,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "한방닭백숙",
+        "en.ROMAN": "hanbangdakbaeksuk",
+        "en": "Whole Chicken Soup with Medicinal Herbs",
+        "ja": "鶏肉の韓方水炊き",
+        "zh_CN": "药膳清炖鸡",
+        "zh_TW": "藥膳燉雞",
+        "price": "65000",
+        "ingredients.ko": [
+          "야채",
+          "마늘",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Garlic",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "にんにく",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大蒜",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "大蒜",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_10",
+      "ocr": {
+        "x": 11.056838365896981,
+        "y": 33.625,
+        "text": "한방닭백숙",
+        "width": 11.456483126110124,
+        "height": 1.55,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "옻닭",
+        "en.ROMAN": "otdak",
+        "en": "Braised Chicken with Sumac",
+        "ja": "鶏肉の漆エキス煮込み",
+        "zh_CN": "漆木鸡汤",
+        "zh_TW": "漆木雞",
+        "price": "65000",
+        "ingredients.ko": [
+          "닭고기",
+          "옻"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Sumac"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "漆"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "漆木"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "漆"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_14",
+      "ocr": {
+        "x": 10.879218472468917,
+        "y": 38.625,
+        "text": "옻닭",
+        "width": 4.396092362344582,
+        "height": 1.475,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "닭볶음탕",
+        "en.ROMAN": "dakbokkeumtang",
+        "en": "Spicy Braised Chicken",
+        "ja": "鶏肉の炒め煮",
+        "zh_CN": "辣炖鸡块",
+        "zh_TW": "辣燒雞",
+        "price": "60000",
+        "ingredients.ko": [
+          "닭고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_18",
+      "ocr": {
+        "x": 10.746003552397866,
+        "y": 43.55,
+        "text": "닭볶음탕",
+        "width": 8.675990272678558,
+        "height": 1.4749999999999994,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "한방오리백숙",
+        "en.ROMAN": "hanbangoribaeksuk",
+        "en": "Whole Duck Soup with Medicinal Herbs",
+        "ja": "韓方鴨肉の水炊き",
+        "zh_CN": "药膳清炖鸭",
+        "zh_TW": "藥膳燉鴨",
+        "price": "65000",
+        "ingredients.ko": [
+          "인삼",
+          "오리고기",
+          "마늘",
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Duck Meat",
+          "Garlic",
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "鴨肉",
+          "にんにく",
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "鸭肉",
+          "大蒜",
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "鴨肉",
+          "大蒜",
+          "糯米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_23",
+      "ocr": {
+        "x": 10.879218472468917,
+        "y": 51.45,
+        "text": "한방오리백숙",
+        "width": 13.587921847246891,
+        "height": 1.525,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "옻오리",
+        "en.ROMAN": "odori",
+        "en": "Whole Duck Soup with Sumac",
+        "ja": "鴨肉の漆エキス煮込み",
+        "zh_CN": "漆木鸭汤",
+        "zh_TW": "漆鴨",
+        "price": "65000",
+        "ingredients.ko": [
+          "야채",
+          "오리고기",
+          "마늘",
+          "옻"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Duck Meat",
+          "Garlic",
+          "Sumac"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鴨肉",
+          "にんにく",
+          "漆"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸭肉",
+          "大蒜",
+          "漆木"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鴨肉",
+          "大蒜",
+          "漆"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_29",
+      "ocr": {
+        "x": 10.612788632326822,
+        "y": 56.525,
+        "text": "옻오리",
+        "width": 6.483126110124334,
+        "height": 1.45,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오리허브양념구이",
+        "en.ROMAN": "O-ri herb yangnyeomgui",
+        "en": "Grilled Marinated Duck with Herbs",
+        "ja": "ハーブ入り味付け鴨肉焼き",
+        "zh_CN": "调味烤鸭肉香草",
+        "zh_TW": "香草調味炒鴨肉",
+        "price": "60000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_34",
+      "ocr": {
+        "x": 10.506206212858135,
+        "y": 62.35804821229667,
+        "text": "오리허브양념구이",
+        "width": 17.007104795737146,
+        "height": 1.5505564260266658,
+        "rotation": 1.0957907885837699
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "오리양념(주물럭)",
+        "en.ROMAN": "oriyangnyeom(jumulleok)",
+        "en": "Spicy Stir-fried Marinated Duck",
+        "ja": "味付け鴨肉炒め",
+        "zh_CN": "调味鸭肉（辣炒）",
+        "zh_TW": "調味鴨肉（調味炒肉）",
+        "price": "60000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_43",
+      "ocr": {
+        "x": 10.524725584822448,
+        "y": 69.63699336032994,
+        "text": "오리양념(주물럭)",
+        "width": 18.117229129662526,
+        "height": 1.570800696892858,
+        "rotation": 1.6024051426130654
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "돌솥비빔밥",
+        "en.ROMAN": "dolsotbibimbap",
+        "en": "Hot Stone Pot Bibimbap",
+        "ja": "石焼きビビンバ",
+        "zh_CN": "石锅拌饭",
+        "zh_TW": "石鍋拌飯",
+        "price": "11000",
+        "ingredients.ko": [
+          "쌀",
+          "비빔장",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sauce",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "米",
+          "ビビンソース",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "拌饭酱",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "拌飯醬",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_50",
+      "ocr": {
+        "x": 9.75181190152867,
+        "y": 79.73725996721329,
+        "text": "돌솥비빔밥",
+        "width": 10.746003552397854,
+        "height": 1.3291852612848114,
+        "rotation": 0.6633280437108056
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "도토리묵",
+        "en.ROMAN": "dotorimuk",
+        "en": "Acorn Jelly Salad",
+        "ja": "どんぐりこんにゃくの和え物",
+        "zh_CN": "橡子凉粉",
+        "zh_TW": "橡子涼粉",
+        "price": "15000",
+        "ingredients.ko": [
+          "도토리"
+        ],
+        "ingredients.en": [
+          "Acorn"
+        ],
+        "ingredients.ja": [
+          "どんぐり"
+        ],
+        "ingredients.zh_CN": [
+          "橡子"
+        ],
+        "ingredients.zh_TW": [
+          "橡子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_52",
+      "ocr": {
+        "x": 9.896898250850203,
+        "y": 81.18789841816667,
+        "text": "도토리묵",
+        "width": 8.525754884547057,
+        "height": 1.3119239684075092,
+        "rotation": 0.6633280437118856
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "전병",
+        "en.ROMAN": "jeonbyeong",
+        "en": "Buckwheat Crepe",
+        "ja": "薄皮巻き",
+        "zh_CN": "煎饼",
+        "zh_TW": "煎餅",
+        "price": "12000",
+        "ingredients.ko": [
+          "메밀가루",
+          "배추",
+          "무"
+        ],
+        "ingredients.en": [
+          "Buckwheat Powder",
+          "Napa Cabbage",
+          "Radish"
+        ],
+        "ingredients.ja": [
+          "そば粉",
+          "白菜",
+          "大根"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦粉",
+          "白菜",
+          "白萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥粉",
+          "白菜",
+          "白蘿蔔"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_54",
+      "ocr": {
+        "x": 9.773783775489568,
+        "y": 82.54370281622478,
+        "text": "전병",
+        "width": 7.922500416689202,
+        "height": 1.3201230253927076,
+        "rotation": 1.1160817453334175
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "부침개",
+        "en.ROMAN": "buchimgae",
+        "en": "Pancake",
+        "ja": "チヂミ",
+        "zh_CN": "煎饼",
+        "zh_TW": "煎餅",
+        "price": "12000",
+        "ingredients.ko": [
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_56",
+      "ocr": {
+        "x": 9.849129340322312,
+        "y": 83.90699306200142,
+        "text": "부침개",
+        "width": 7.753679099426456,
+        "height": 1.3290317252881076,
+        "rotation": 1.4706476092261482
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_60",
+      "ocr": {
+        "x": 10.149123449553919,
+        "y": 89.31777631590819,
+        "text": "소주",
+        "width": 5.719284510990716,
+        "height": 1.2542763155606322,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_62",
+      "ocr": {
+        "x": 51.53473832718814,
+        "y": 90.0183002685244,
+        "text": "막걸리",
+        "width": 6.349911190053275,
+        "height": 1.319668004196952,
+        "rotation": 0.819188861649593
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_64",
+      "ocr": {
+        "x": 10.094910751595547,
+        "y": 90.6249999999995,
+        "text": "맥주",
+        "width": 5.79828673310339,
+        "height": 1.2923947367139694,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_65",
+      "ocr": {
+        "x": 51.439051893522795,
+        "y": 91.45660393634533,
+        "text": "음료수",
+        "width": 6.551010780745883,
+        "height": 1.3272176340969142,
+        "rotation": 0.7909201834784767
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매실마을",
+        "en.ROMAN": "maesilmaeul",
+        "en": "Maesilmaeul",
+        "ja": "メシルマウル(梅酒)",
+        "zh_CN": "梅村",
+        "zh_TW": "梅村青梅酒",
+        "price": "8000",
+        "ingredients.ko": [
+          "매실"
+        ],
+        "ingredients.en": [
+          "Green Plum"
+        ],
+        "ingredients.ja": [
+          "梅"
+        ],
+        "ingredients.zh_CN": [
+          "青梅"
+        ],
+        "ingredients.zh_TW": [
+          "梅子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0003_1805385_1-tf_67",
+      "ocr": {
+        "x": 10.134141650001,
+        "y": 92.01653947360172,
+        "text": "매실마을",
+        "width": 8.52575488454706,
+        "height": 1.2834605263981373,
+        "rotation": 0
+      }
+    }
+  ]
+}

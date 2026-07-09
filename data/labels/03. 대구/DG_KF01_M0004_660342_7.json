@@ -1,0 +1,679 @@
+{
+  "meta": {
+    "file_name": "DG_KF01_M0004_660342_7.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 3744,
+    "captured_date": "2022:11:28 12:22:50",
+    "store_id": "660342",
+    "store_region": "DG",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          92.26869455006337,
+          99.79695431472082
+        ],
+        [
+          91.88846641318125,
+          0.2030456852791878
+        ],
+        [
+          3.929024081115336,
+          0.2030456852791878
+        ],
+        [
+          4.43599493029151,
+          99.79695431472082
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "케이준후라이",
+        "en.ROMAN": "Cajun fry",
+        "en": "Cajun Deep-fried Potatoes",
+        "ja": "ケイジャンフレンチフライ",
+        "zh_CN": "新奥尔良炸薯条",
+        "zh_TW": "紐奧良炸雞",
+        "price": "1700",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_17",
+      "ocr": {
+        "x": 73.28498064909,
+        "y": 33.84344356034555,
+        "text": "케이준후라이",
+        "width": 9.159386306281146,
+        "height": 1.5982948544570184,
+        "rotation": 359.60539817620844
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "미니찹쌀핫도그",
+        "en.ROMAN": "mini chapssal hot dog",
+        "en": "Mini Sweet Rice Corn Dog",
+        "ja": "ミニもち米ホットドッグ",
+        "zh_CN": "迷你糯米热狗",
+        "zh_TW": "迷你糯米熱狗",
+        "price": "2500",
+        "ingredients.ko": [
+          "밀가루",
+          "찹쌀",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Sweet Rice",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "もち米",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "糯米",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "糯米",
+          "香腸"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_18",
+      "ocr": {
+        "x": 52.425679475674954,
+        "y": 34.01734492316059,
+        "text": "미니찹쌀핫도그",
+        "width": 10.548338259875047,
+        "height": 1.6826923076923495,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "미니찹쌀탕수육",
+        "en.ROMAN": "mini chapssaltangsuyuk",
+        "en": "Mini Deep-fried Pork in Sweet Rice Batter with Sweet and Sour Sauce",
+        "ja": "ミニもち米酢豚",
+        "zh_CN": "迷你糯米糖醋肉",
+        "zh_TW": "迷你糯米糖醋肉",
+        "price": "2200",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "전분",
+          "찹쌀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Starch",
+          "Sweet Rice Powder"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "デン粉",
+          "もち米粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "淀粉",
+          "糯米粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "澱粉",
+          "糯米粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_19",
+      "ocr": {
+        "x": 32.46915984868478,
+        "y": 34.23706841560866,
+        "text": "미니찹쌀탕수육",
+        "width": 10.43084015131526,
+        "height": 1.5535298749898794,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "뉴감자고로케",
+        "en.ROMAN": "new gamja croquette",
+        "en": "New Potato Croquette",
+        "ja": "NEWじゃがいもコロッケ",
+        "zh_CN": "NEW土豆可乐饼",
+        "zh_TW": "新馬鈴薯可樂餅",
+        "price": "2700",
+        "ingredients.ko": [
+          "감자",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "じゃがいも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "土豆",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_20",
+      "ocr": {
+        "x": 10.675101858631221,
+        "y": 34.42706469511113,
+        "text": "뉴감자고로케",
+        "width": 9.478495788214259,
+        "height": 1.5326943655495269,
+        "rotation": 359.5691225690506
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "현미밥",
+        "en.ROMAN": "hyeonmibap",
+        "en": "brown rice",
+        "ja": "玄米ご飯",
+        "zh_CN": "糙米饭",
+        "zh_TW": "玄米飯",
+        "price": "1700",
+        "ingredients.ko": [
+          "현미"
+        ],
+        "ingredients.en": [
+          "Brown Rice"
+        ],
+        "ingredients.ja": [
+          "玄米"
+        ],
+        "ingredients.zh_CN": [
+          "糙米"
+        ],
+        "ingredients.zh_TW": [
+          "糙米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_28",
+      "ocr": {
+        "x": 75.60095295428901,
+        "y": 51.28205128205131,
+        "text": "현미밥",
+        "width": 4.858157621707659,
+        "height": 1.46901709401709,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "한솥밥",
+        "en.ROMAN": "hansotbap",
+        "en": "Steamed Hansot Rice",
+        "ja": "ご飯",
+        "zh_CN": "白米饭",
+        "zh_TW": "鐵鍋飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_27",
+      "ocr": {
+        "x": 55.433333333333444,
+        "y": 51.35768694084113,
+        "text": "한솥밥",
+        "width": 4.676914033446051,
+        "height": 1.5536378454837494,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "리얼꿀미니호떡",
+        "en.ROMAN": "real kkul mini hotteok",
+        "en": "Mini Real Honey Syrup-filled Pancake",
+        "ja": "蜂蜜入りミニホットク",
+        "zh_CN": "真正蜂蜜迷你糖饼",
+        "zh_TW": "蜂蜜迷你糖餅",
+        "price": "2200",
+        "ingredients.ko": [
+          "밀가루",
+          "설탕"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Sugar"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "ソルロンタン"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "白糖"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "糖"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_26",
+      "ocr": {
+        "x": 32.43333333333321,
+        "y": 51.43279057608884,
+        "text": "리얼꿀미니호떡",
+        "width": 10.719079264537644,
+        "height": 1.5768815468075175,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "떡",
+        "ko": "리얼티라미수찰떡",
+        "en.ROMAN": "real tiramisu chaltteok",
+        "en": "Tiramisu Glutenous Rice Cake",
+        "ja": "リアルティラミストク",
+        "zh_CN": "提拉米苏糯米糕",
+        "zh_TW": "真提拉米麵糯米糕",
+        "price": "1500",
+        "ingredients.ko": [
+          "떡"
+        ],
+        "ingredients.en": [
+          "Rice Cake"
+        ],
+        "ingredients.ja": [
+          "トク"
+        ],
+        "ingredients.zh_CN": [
+          "糕"
+        ],
+        "ingredients.zh_TW": [
+          "年糕"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_29",
+      "ocr": {
+        "x": 12.044323095450276,
+        "y": 51.56379409283782,
+        "text": "리얼티라미수찰떡",
+        "width": 11.8149950221998,
+        "height": 1.542778463360621,
+        "rotation": 359.6304500409847
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "볶음김치(별도)",
+        "en.ROMAN": "bokkeum kimchi (byeoldo)",
+        "en": "Stir-fried Kimchi (Not Included)",
+        "ja": "炒めキムチ（別売り）",
+        "zh_CN": "炒辛奇（需单点）",
+        "zh_TW": "炒辛奇(不含)",
+        "price": "500",
+        "ingredients.ko": [
+          "김치"
+        ],
+        "ingredients.en": [
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_34",
+      "ocr": {
+        "x": 72.89121082479036,
+        "y": 68.63343353198385,
+        "text": "볶음김치(별도)",
+        "width": 10.652060633969471,
+        "height": 1.770569132718856,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "김치",
+        "en.ROMAN": "kimchi",
+        "en": "Kimchi",
+        "ja": "キムチ",
+        "zh_CN": "辛奇",
+        "zh_TW": "辛奇",
+        "price": "400",
+        "ingredients.ko": [
+          "김치"
+        ],
+        "ingredients.en": [
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_37",
+      "ocr": {
+        "x": 56.39999999999999,
+        "y": 68.63659403045942,
+        "text": "김치",
+        "width": 3.1000000000000005,
+        "height": 1.5290042601388607,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "무생채",
+        "en.ROMAN": "mu saengchae",
+        "en": "Julienne Radish Fresh Salad",
+        "ja": "大根の和え物",
+        "zh_CN": "生拌萝卜丝",
+        "zh_TW": "生拌白蘿蔔絲",
+        "price": "400",
+        "ingredients.ko": [
+          "무",
+          "고춧가루"
+        ],
+        "ingredients.en": [
+          "Radish",
+          "Chili Pepper Powder"
+        ],
+        "ingredients.ja": [
+          "大根",
+          "唐辛子粉"
+        ],
+        "ingredients.zh_CN": [
+          "白萝卜",
+          "辣椒粉"
+        ],
+        "ingredients.zh_TW": [
+          "白蘿蔔",
+          "辣椒粉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_36",
+      "ocr": {
+        "x": 35.573304820781374,
+        "y": 68.64316239316257,
+        "text": "무생채",
+        "width": 4.626695179218746,
+        "height": 1.5442921243299819,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "김치",
+        "ko": "열무김치",
+        "en.ROMAN": "yeolmukimchi",
+        "en": "Young Summer Radish Kimchi",
+        "ja": "大根若菜キムチ",
+        "zh_CN": "萝卜缨辛奇",
+        "zh_TW": "蘿蔔纓辛奇",
+        "price": "500",
+        "ingredients.ko": [
+          "김치",
+          "열무"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Young Summer Radish"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "大根若菜"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "萝卜缨"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "蘿蔔纓"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_35",
+      "ocr": {
+        "x": 15.066666666666665,
+        "y": 68.6431623931626,
+        "text": "열무김치",
+        "width": 5.9999999999999964,
+        "height": 1.5800353606679662,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "미니오징어젓갈",
+        "en.ROMAN": "mini ojingeojeotgal",
+        "en": "Mini Salted Squid",
+        "ja": "ミニイカの塩辛",
+        "zh_CN": "迷你鱿鱼酱",
+        "zh_TW": "迷你魷魚醬",
+        "price": "500",
+        "ingredients.ko": [
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_42",
+      "ocr": {
+        "x": 13.079098970704525,
+        "y": 85.85954729867812,
+        "text": "미니오징어젓갈",
+        "width": 10.438798627606104,
+        "height": 1.5826828902907573,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "무말랭이",
+        "en.ROMAN": "mumallaengi",
+        "en": "Dried Radish",
+        "ja": "切り干し大根",
+        "zh_CN": "凉拌萝卜干",
+        "zh_TW": "蘿蔔乾兒",
+        "price": "400",
+        "ingredients.ko": [
+          "무"
+        ],
+        "ingredients.en": [
+          "Radish"
+        ],
+        "ingredients.ja": [
+          "大根"
+        ],
+        "ingredients.zh_CN": [
+          "白萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "白蘿蔔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_43",
+      "ocr": {
+        "x": 35.01264100536939,
+        "y": 85.93109448685307,
+        "text": "무말랭이",
+        "width": 6.096045620083173,
+        "height": 1.5475312156897674,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "장",
+        "ko": "볶음고추장(별도)",
+        "en.ROMAN": "bokkeumgochujang(byeoldo)",
+        "en": "Stir-fried Red Chili Paste (Not Included)",
+        "ja": "炒めコチュジャン（別売り）",
+        "zh_CN": "炒辣椒酱（需单点）",
+        "zh_TW": "炒辣椒醬(不含)",
+        "price": "1200",
+        "ingredients.ko": [
+          "고추장"
+        ],
+        "ingredients.en": [
+          "Red Chili Paste"
+        ],
+        "ingredients.ja": [
+          "コチュジャン"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒酱"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒醬"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_660342_7-tf_44",
+      "ocr": {
+        "x": 52.159485320383126,
+        "y": 85.95583964045757,
+        "text": "볶음고추장(별도)",
+        "width": 11.914306560891184,
+        "height": 1.8638889982507616,
+        "rotation": 0
+      }
+    }
+  ]
+}

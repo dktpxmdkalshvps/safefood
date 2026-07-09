@@ -1,0 +1,508 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_145609_3.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:10:30 19:12:52",
+    "store_id": "145609",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.2567324955116697,
+          5.787348586810229
+        ],
+        [
+          98.56373429084381,
+          6.998654104979811
+        ],
+        [
+          93.71633752244165,
+          98.1157469717362
+        ],
+        [
+          3.411131059245961,
+          98.1157469717362
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "해산물토마토",
+        "en.ROMAN": "haesanmul tomato",
+        "en": "Seafood Tomato Pasta",
+        "ja": "海鮮トマト",
+        "zh_CN": "海鲜茄汁意大利面",
+        "zh_TW": "海鮮番茄",
+        "price": "13000",
+        "ingredients.ko": [
+          "해산물",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "番茄"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_0",
+      "ocr": {
+        "x": 15.314737343417372,
+        "y": 12.97420257040012,
+        "text": "해산물토마토",
+        "width": 16.06520331931526,
+        "height": 2.2527830681064938,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "토마토짬뽕파스타",
+        "en.ROMAN": "tomato jjamppong pasta",
+        "en": "Spicy Seafood Tomato Pasta",
+        "ja": "トマトチャンポンパスタ",
+        "zh_CN": "番茄炒码意大利面",
+        "zh_TW": "蕃茄炒碼義大利麵",
+        "price": "13000",
+        "ingredients.ko": [
+          "토마토",
+          "해산물",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Tomato",
+          "Seafood",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "トマト",
+          "海鮮",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "番茄",
+          "海鲜",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "番茄",
+          "海鮮",
+          "義大利麵"
+        ],
+        "allergy": [
+          "토마토",
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_5",
+      "ocr": {
+        "x": 15.252490559850626,
+        "y": 22.447814437272406,
+        "text": "토마토짬뽕파스타",
+        "width": 24.00363656562552,
+        "height": 2.2545665151085443,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "명란아보카도",
+        "en.ROMAN": "myeongnan avocado",
+        "en": "Pollack Roe Avocado",
+        "ja": "明太子アボカド",
+        "zh_CN": "明太鱼子酪梨",
+        "zh_TW": "明太子酪梨",
+        "price": "9500",
+        "ingredients.ko": [
+          "명태알",
+          "아보카도"
+        ],
+        "ingredients.en": [
+          "Pollack Roe",
+          "Avocado"
+        ],
+        "ingredients.ja": [
+          "スケトウダラの卵",
+          "アボカド"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼子",
+          "酪梨"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚魚卵",
+          "酪梨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_14",
+      "ocr": {
+        "x": 15.714675366299456,
+        "y": 37.7001961454147,
+        "text": "명란아보카도",
+        "width": 15.96054987450972,
+        "height": 2.230359410140862,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "마늘새우버터덮밥",
+        "en.ROMAN": "maneulsaeu butter deopbap",
+        "en": "Garlic, Shrimp and Butter with Rice",
+        "ja": "ニンニクエビバター丼",
+        "zh_CN": "蒜香虾仁黄油盖饭",
+        "zh_TW": "蒜味蝦奶油蓋板",
+        "price": "10500",
+        "ingredients.ko": [
+          "마늘",
+          "새우",
+          "버터"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Shrimp",
+          "Butter"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "海老",
+          "バター"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "虾",
+          "黄油"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "蝦",
+          "奶油"
+        ],
+        "allergy": [
+          "새우",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_21",
+      "ocr": {
+        "x": 15.945378691266756,
+        "y": 45.16606840552649,
+        "text": "마늘새우버터",
+        "width": 15.66526529643316,
+        "height": 2.2551609974424203,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_24",
+      "ocr": {
+        "x": 24.12524736896676,
+        "y": 59.23154922385802,
+        "text": "사이다",
+        "width": 7.423918810887307,
+        "height": 1.972241513707044,
+        "rotation": 358.84180895118084
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_27",
+      "ocr": {
+        "x": 16.34379284832067,
+        "y": 59.331854690023846,
+        "text": "콜라",
+        "width": 4.950636640171222,
+        "height": 2.017194647628887,
+        "rotation": 358.2210805822615
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "레몬에이드",
+        "en.ROMAN": "lemonade",
+        "en": "Lemonade",
+        "ja": "レモネード",
+        "zh_CN": "柠檬汽水",
+        "zh_TW": "檸檬氣泡飲",
+        "price": "3500",
+        "ingredients.ko": [
+          "레몬",
+          "얼음",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "Lemon",
+          "Ice",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "レモン",
+          "氷",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "柠檬",
+          "冰块",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "檸檬",
+          "冰",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_29",
+      "ocr": {
+        "x": 16.62189988657214,
+        "y": 62.89716338430323,
+        "text": "레몬에이드",
+        "width": 11.800886616470548,
+        "height": 1.9582058937230564,
+        "rotation": 359.37695833785097
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "트리플베리에이드",
+        "en.ROMAN": "triple berry ade",
+        "en": "Triple Berry Ade",
+        "ja": "トリプルベリーエード",
+        "zh_CN": "三种莓果汽水",
+        "zh_TW": "三種莓果氣泡飲",
+        "price": "4000",
+        "ingredients.ko": [
+          "블루베리",
+          "라즈베리",
+          "얼음",
+          "블랙베리",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "Blueberries",
+          "Raspberry",
+          "Ice",
+          "Blackberry",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "ブルーベリー",
+          "ラズベリー",
+          "氷",
+          "ブラックベリー",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "蓝莓",
+          "树莓",
+          "冰块",
+          "黑莓",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "藍莓",
+          "樹莓",
+          "冰",
+          "黑莓",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_31",
+      "ocr": {
+        "x": 16.577314418867363,
+        "y": 66.48997536140875,
+        "text": "트리플베리에이드",
+        "width": 18.808857752964855,
+        "height": 2.090134324266382,
+        "rotation": 358.7946615459404
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "바게트",
+        "en.ROMAN": "baguette",
+        "en": "Baguette",
+        "ja": "バゲット",
+        "zh_CN": "法国长棍面包",
+        "zh_TW": "法國麵包",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루",
+          "바게트"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Baguette"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "フランスパン"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "法国长棍面包"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "法國麵包"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_33",
+      "ocr": {
+        "x": 42.39079424349831,
+        "y": 75.06326745427936,
+        "text": "바게트",
+        "width": 6.864639090580188,
+        "height": 1.8636754390915526,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "식전빵",
+        "en.ROMAN": "sikjeonppang",
+        "en": "Appetizer Bread",
+        "ja": "食前パン",
+        "zh_CN": "餐前面包",
+        "zh_TW": "飯前麵包",
+        "price": "1500",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_145609_3-tf_36",
+      "ocr": {
+        "x": 17.012196063548092,
+        "y": 75.23182462128861,
+        "text": "식전빵",
+        "width": 7.00368552421849,
+        "height": 1.8565626561466682,
+        "rotation": 0
+      }
+    }
+  ]
+}

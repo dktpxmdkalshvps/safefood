@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "file_name": "DG_KF01_M0001_619573_8.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 3744,
+    "captured_date": "2022:11:14 12:33:21",
+    "store_id": "619573",
+    "store_region": "DG",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 38.4737678855326,
+        "y": 1.7834394904458575,
+        "width": 61.526232114467305,
+        "height": 97.57961783439491,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "전복죽",
+        "en.ROMAN": "jeonbokjuk",
+        "en": "Abalone Porridge",
+        "ja": "アワビ粥",
+        "zh_CN": "鲍鱼粥",
+        "zh_TW": "鮑魚粥",
+        "price": "12000",
+        "ingredients.ko": [
+          "전복",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0001_619573_8-tf_2",
+      "ocr": {
+        "x": 71.03333333333333,
+        "y": 6.356837606837606,
+        "text": "전복죽",
+        "width": 5.033333333333333,
+        "height": 1.7895299145299146,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "전복내장죽",
+        "en.ROMAN": "jeonbongnaejangjuk",
+        "en": "Abalone Intestine Porridge",
+        "ja": "アワビの内臓粥",
+        "zh_CN": "鲍鱼内脏粥",
+        "zh_TW": "鮑魚內臟粥",
+        "price": "14000",
+        "ingredients.ko": [
+          "전복",
+          "쌀",
+          "전복내장"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice",
+          "Abalone Intestine"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米",
+          "アワビ味噌"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米",
+          "鲍鱼内脏"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米",
+          "鮑魚內臟"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0001_619573_8-tf_9",
+      "ocr": {
+        "x": 71.34755012669936,
+        "y": 17.387820512820493,
+        "text": "전복내장죽",
+        "width": 8.533494148812597,
+        "height": 1.8429487179487156,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "트러플전복죽",
+        "en.ROMAN": "truffle jeonbokjuk",
+        "en": "Truffle Abalone Porridge",
+        "ja": "トリュフ入りアワビ粥",
+        "zh_CN": "松露鲍鱼粥",
+        "zh_TW": "松露鮑魚粥",
+        "price": "16000",
+        "ingredients.ko": [
+          "전복",
+          "쌀",
+          "트러플"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice",
+          "Truffle"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米",
+          "トリュフ"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米",
+          "松露"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米",
+          "松露"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0001_619573_8-tf_16",
+      "ocr": {
+        "x": 45.15035690244329,
+        "y": 34.98695634617477,
+        "text": "트러플전복죽",
+        "width": 9.575007225965479,
+        "height": 2.0604414719780184,
+        "rotation": 2.399327064849615
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "삼계전복죽",
+        "en.ROMAN": "samgyejeonbokjuk",
+        "en": "Ginseng Chicken and Abalone Porridge",
+        "ja": "高麗人蔘と鶏肉入りアワビ粥",
+        "zh_CN": "参鸡鲍鱼粥",
+        "zh_TW": "蔘雞鮑魚粥",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "전복",
+          "인삼",
+          "쌀",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Abalone",
+          "Ginseng",
+          "Rice",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "アワビ",
+          "高麗人参",
+          "米",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鲍鱼",
+          "人参",
+          "大米",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮑魚",
+          "人蔘",
+          "米",
+          "雞肉"
+        ],
+        "allergy": [
+          "전복",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0001_619573_8-tf_17",
+      "ocr": {
+        "x": 71.11392168708494,
+        "y": 35.496322400397425,
+        "text": "삼계전복죽",
+        "width": 8.628580584091857,
+        "height": 2.083333333333333,
+        "rotation": 1.7813082595466767
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "능이삼계죽",
+        "en.ROMAN": "neungisamgyejuk",
+        "en": "Shingled Hedgehog and Ginseng Chicken Porridge",
+        "ja": "コウタケと高麗人蔘入り鶏肉のお粥",
+        "zh_CN": "虎掌菇参鸡粥",
+        "zh_TW": "虎掌菇蔘雞粥",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "인삼",
+          "쌀",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ginseng",
+          "Rice",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "高麗人参",
+          "米",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "人参",
+          "大米",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "人蔘",
+          "米",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0001_619573_8-tf_25",
+      "ocr": {
+        "x": 44.52769469573551,
+        "y": 51.31082035289286,
+        "text": "능이삼계죽",
+        "width": 8.726548162496362,
+        "height": 2.190170940170939,
+        "rotation": 2.144999313341202
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "끼리크림치즈단호박죽",
+        "en.ROMAN": "kkiri cream cheese danhobakjuk",
+        "en": "Cream Cheese Pumpkin Porridge",
+        "ja": "キリクリームチーズ入りかぼちゃ粥",
+        "zh_CN": "奶油奶酪甜南瓜粥",
+        "zh_TW": "kiri奶油起司南瓜粥",
+        "price": "12000",
+        "ingredients.ko": [
+          "단호박",
+          "크림",
+          "치즈",
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Pumpkin",
+          "Cream",
+          "Cheese",
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "カボチャ",
+          "クリーム",
+          "チーズ",
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "绿南瓜",
+          "奶油",
+          "奶酪",
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "栗子南瓜",
+          "奶油",
+          "起司",
+          "糯米"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0001_619573_8-tf_27",
+      "ocr": {
+        "x": 75.78920902145533,
+        "y": 53.24425471956394,
+        "text": "끼리크림치즈단호박죽",
+        "width": 11.733827881862386,
+        "height": 1.9551045875151698,
+        "rotation": 2.470658948375444
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "홍게품은죽",
+        "en.ROMAN": "honggepumeunjuk",
+        "en": "Red Snow Crab Porridge",
+        "ja": "ベニズワイガニ入り粥",
+        "zh_CN": "日本雪蟹粥",
+        "zh_TW": "深海雪蟹粥",
+        "price": "13000",
+        "ingredients.ko": [
+          "쌀",
+          "홍게"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Red Snow Crab"
+        ],
+        "ingredients.ja": [
+          "米",
+          "ベニズワイガニ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "雪蟹"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "深海雪蟹"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0001_619573_8-tf_33",
+      "ocr": {
+        "x": 70.85875500219097,
+        "y": 66.58125729776972,
+        "text": "홍게품은죽",
+        "width": 8.433333333333332,
+        "height": 2.136752136752137,
+        "rotation": 2.3704147737970516
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "삼계죽",
+        "en.ROMAN": "samgyejuk",
+        "en": "Ginseng and Chicken Porridge",
+        "ja": "高麗人蔘入り鶏肉のお粥",
+        "zh_CN": "参鸡粥",
+        "zh_TW": "蔘雞粥",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "인삼",
+          "쌀",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ginseng",
+          "Rice",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "高麗人参",
+          "米",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "人参",
+          "大米",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "人蔘",
+          "米",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0001_619573_8-tf_39",
+      "ocr": {
+        "x": 43.315806621336534,
+        "y": 86.87914051770203,
+        "text": "삼계죽",
+        "width": 5.6779929624230405,
+        "height": 2.047601245795987,
+        "rotation": 1.758510401382921
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "불낙죽",
+        "en.ROMAN": "bullakjuk",
+        "en": "Bulgogi and Octopus Porridge",
+        "ja": "牛肉入りテナガダコ粥",
+        "zh_CN": "烤牛肉章鱼粥",
+        "zh_TW": "烤牛肉小章魚粥",
+        "price": "11500",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0001_619573_8-tf_41",
+      "ocr": {
+        "x": 70.62883190700936,
+        "y": 87.32417902497102,
+        "text": "불낙죽",
+        "width": 5.636381320835814,
+        "height": 2.154396938730992,
+        "rotation": 2.9218784016579207
+      }
+    }
+  ]
+}

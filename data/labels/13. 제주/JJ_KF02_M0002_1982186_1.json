@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "file_name": "JJ_KF02_M0002_1982186_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:03 09:40:23",
+    "store_id": "1982186",
+    "store_region": "JJ",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          21.28205128205128,
+          22.5
+        ],
+        [
+          83.84615384615387,
+          23.46153846153846
+        ],
+        [
+          82.82051282051285,
+          89.42307692307693
+        ],
+        [
+          20,
+          88.84615384615384
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "고사리보리비빔밥",
+        "en.ROMAN": "gosariboribibimbap",
+        "en": "Bracken and Barley Rice Bibimbap",
+        "ja": "ワラビ入り麦飯ビビンバ",
+        "zh_CN": "蕨菜大麦拌饭",
+        "zh_TW": "蕨菜大麥拌飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "고사리",
+          "보리",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Bracken",
+          "Barley",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "ワラビ",
+          "麦",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蕨菜",
+          "大麦",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蕨菜",
+          "大麥",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_KF02_M0002_1982186_1-tf_1",
+      "ocr": {
+        "x": 23.322368433303616,
+        "y": 33.738006064189314,
+        "text": "고사리보리비빔밥",
+        "width": 29.29904903490408,
+        "height": 4.099234339900471,
+        "rotation": 0.981216119412295
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "닭칼국수",
+        "en.ROMAN": "dakkalguksu",
+        "en": "Noodle Soup with Chicken",
+        "ja": "鶏肉カルグクス",
+        "zh_CN": "鸡丝刀切面",
+        "zh_TW": "雞絲刀切麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "닭고기",
+          "면"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_KF02_M0002_1982186_1-tf_4",
+      "ocr": {
+        "x": 25.112482441350323,
+        "y": 41.810342055287556,
+        "text": "닭칼국수",
+        "width": 27.29852205917273,
+        "height": 3.773955188916358,
+        "rotation": 0.902029338346324
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "바지락칼국수",
+        "en.ROMAN": "bajirakkalguksu",
+        "en": "Noodle Soup with Clams",
+        "ja": "アサリカルグクス",
+        "zh_CN": "蛤蜊刀切面",
+        "zh_TW": "蛤蜊刀切麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "면",
+          "바지락"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles",
+          "Clams"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺",
+          "アサリ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆",
+          "蛤蜊"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵",
+          "蛤蜊"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_KF02_M0002_1982186_1-tf_7",
+      "ocr": {
+        "x": 25.085496925096358,
+        "y": 49.657766627219,
+        "text": "바지락칼국수",
+        "width": 27.193511846510997,
+        "height": 3.7488899553718764,
+        "rotation": 0.8985052743258848
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "보말칼국수",
+        "en.ROMAN": "bomalkalguksu",
+        "en": "Noodle Soup with Brown Turban Shell",
+        "ja": "クボガイカルグクス",
+        "zh_CN": "海螺刀切面",
+        "zh_TW": "海螺刀切麵",
+        "price": "10000",
+        "ingredients.ko": [
+          "밀가루",
+          "보말"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Brown Turban Shell"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "エビスガイ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "海螺"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "海螺"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_KF02_M0002_1982186_1-tf_9",
+      "ocr": {
+        "x": 24.87855155077583,
+        "y": 57.642587703724175,
+        "text": "보말칼국수",
+        "width": 27.187879398629324,
+        "height": 3.724961643827848,
+        "rotation": 0.4313750769323974
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "해물칼국수",
+        "en.ROMAN": "haemulkalguksku",
+        "en": "Noodle Soup with Seafood",
+        "ja": "海鮮カルグクス",
+        "zh_CN": "海鲜刀切面",
+        "zh_TW": "海鮮刀切麵",
+        "price": "12000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵"
+        ],
+        "allergy": [
+          "밀",
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_KF02_M0002_1982186_1-tf_11",
+      "ocr": {
+        "x": 24.808383228940666,
+        "y": 65.5288446541277,
+        "text": "해물칼국수",
+        "width": 27.140322653480236,
+        "height": 3.7299549752164065,
+        "rotation": 0.4350005136009827
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉콩칼국수",
+        "en.ROMAN": "naengkongkalguksu",
+        "en": "Cold Soybean Noodle Soup",
+        "ja": "豆乳カルグクス",
+        "zh_CN": "冷豆汁刀切面",
+        "zh_TW": "冷豆汁刀切麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "밀가루",
+          "콩"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Soybeans"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "豆"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "大豆"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_KF02_M0002_1982186_1-tf_14",
+      "ocr": {
+        "x": 24.513078515775344,
+        "y": 81.36264898301108,
+        "text": "냉콩칼국수",
+        "width": 27.172576429111103,
+        "height": 3.9247074267863495,
+        "rotation": 0.4435368947873144
+      }
+    }
+  ]
+}

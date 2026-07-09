@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "file_name": "SL_KF04_M0002_247084_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:08 14:03:28",
+    "store_id": "247084",
+    "store_region": "SL",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 0,
+        "width": 97.16386554621849,
+        "height": 89.36567164179104,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "제주산생근고기",
+        "en.ROMAN": "Jeju sansaenggeungogi",
+        "en": "Thick Cut Pork Chops from Jeju",
+        "ja": "済州産厚切り生肉焼き",
+        "zh_CN": "济州岛鲜厚切猪肉",
+        "zh_TW": "濟州產鮮厚切豬肉",
+        "price": "57000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_247084_1-tf_0",
+      "ocr": {
+        "x": 7.850848690559014,
+        "y": 6.447670383295814,
+        "text": "제주산생근고기",
+        "width": 75.80967062354884,
+        "height": 18.62392358893224,
+        "rotation": 0
+      }
+    }
+  ]
+}

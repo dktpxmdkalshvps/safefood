@@ -1,0 +1,432 @@
+{
+  "meta": {
+    "file_name": "GK_KF07_M0002_992081_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:10:29 18:05:21",
+    "store_id": "992081",
+    "store_region": "GK",
+    "store_type": "KF07",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          81,
+          11.834319526627219
+        ],
+        [
+          21.33333333333334,
+          11.538461538461538
+        ],
+        [
+          19.833333333333332,
+          89.05325443786982
+        ],
+        [
+          83.5,
+          88.16568047337276
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "돈까스",
+        "en.ROMAN": "dongaseu",
+        "en": "Pork Cutlet",
+        "ja": "豚カツ",
+        "zh_CN": "炸猪排",
+        "zh_TW": "炸豬排",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF07_M0002_992081_1-tf_4",
+      "ocr": {
+        "x": 23.707921750432174,
+        "y": 29.070371084957284,
+        "text": "고봉민돈까스",
+        "width": 15.167078249567828,
+        "height": 5.743382445251031,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "순두부찌개",
+        "en.ROMAN": "sundubujjigae",
+        "en": "Soft Bean Curd Jjigae",
+        "ja": "スンドゥブチゲ",
+        "zh_CN": "嫩豆腐锅",
+        "zh_TW": "嫩豆腐鍋",
+        "price": "6500",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF07_M0002_992081_1-tf_5",
+      "ocr": {
+        "x": 53.267971140380325,
+        "y": 29.098299180714072,
+        "text": "순두부찌개",
+        "width": 12.274800504334443,
+        "height": 5.670794957829455,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치즈돈까스",
+        "en.ROMAN": "cheese dongaseu",
+        "en": "Cheese Stuffed Pork Cutlet",
+        "ja": "チーズ豚カツ",
+        "zh_CN": "炸奶酪猪排",
+        "zh_TW": "起司炸豬排",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지고기",
+          "치즈",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Cheese",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "チーズ",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "奶酪",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "起司",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF07_M0002_992081_1-tf_8",
+      "ocr": {
+        "x": 23.674753050259298,
+        "y": 38.27683261544004,
+        "text": "치즈돈까스",
+        "width": 12.892078249567831,
+        "height": 5.639686034648777,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "고구마치즈돈까스",
+        "en.ROMAN": "goguma cheese dongaseu",
+        "en": "Sweet Potato and Cheese Stuffed Pork Cutlet",
+        "ja": "さつまいも入りチーズ豚カツ",
+        "zh_CN": "炸红薯奶酪猪排",
+        "zh_TW": "地瓜起司炸豬排",
+        "price": "8000",
+        "ingredients.ko": [
+          "고구마",
+          "돼지고기",
+          "치즈",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Sweet Potato",
+          "Pork",
+          "Cheese",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "サツマイモ",
+          "豚肉",
+          "チーズ",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "红薯",
+          "猪肉",
+          "奶酪",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜",
+          "豬肉",
+          "起司",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF07_M0002_992081_1-tf_15",
+      "ocr": {
+        "x": 23.4247530502593,
+        "y": 47.631395529882205,
+        "text": "고구마치즈돈까스",
+        "width": 19.275493899481386,
+        "height": 5.876597365322067,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "육개장한상",
+        "en.ROMAN": "yukgaejanghansang",
+        "en": "Spicy Beef Soup Set Menu",
+        "ja": "ユッケジャン御膳",
+        "zh_CN": "香辣牛肉汤套餐",
+        "zh_TW": "香辣牛肉湯套餐",
+        "price": "7000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF07_M0002_992081_1-tf_16",
+      "ocr": {
+        "x": 53.47148557019028,
+        "y": 47.70398301730373,
+        "text": "육개장한상",
+        "width": 12.760543289429421,
+        "height": 5.918075929563056,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소불고기덮밥",
+        "en.ROMAN": "sobulgogideopbap",
+        "en": "Beef Bulgogi with Rice",
+        "ja": "牛肉プルゴギ丼",
+        "zh_CN": "烤牛肉盖饭",
+        "zh_TW": "烤牛肉蓋飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "김치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF07_M0002_992081_1-tf_22",
+      "ocr": {
+        "x": 53.50722835528563,
+        "y": 57.46003552397932,
+        "text": "소불고기덮밥",
+        "width": 15.420957886555703,
+        "height": 5.671809330864403,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "오므라이스",
+        "en.ROMAN": "omeurice",
+        "en": "Omelet Rice",
+        "ja": "オムライス",
+        "zh_CN": "蛋包饭",
+        "zh_TW": "蛋包飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF07_M0002_992081_1-tf_27",
+      "ocr": {
+        "x": 22.89658531802281,
+        "y": 66.85271169203581,
+        "text": "오므라이스",
+        "width": 13.024097618372588,
+        "height": 6.548709267111594,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "된장돈불고기덮밥",
+        "en.ROMAN": "doenjangdonbulgogideopbap",
+        "en": "Soybean Paste Pork Bulgogi with Rice",
+        "ja": "テンジャン豚プルゴギ丼",
+        "zh_CN": "大酱烤猪肉盖饭",
+        "zh_TW": "大醬烤豬肉蓋飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF07_M0002_992081_1-tf_28",
+      "ocr": {
+        "x": 53.649369195880304,
+        "y": 67.1266294238125,
+        "text": "된장돈불고기덮밥",
+        "width": 19.085363132989198,
+        "height": 5.6718093308643995,
+        "rotation": 0
+      }
+    }
+  ]
+}

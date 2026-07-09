@@ -1,0 +1,466 @@
+{
+  "meta": {
+    "file_name": "BS_KF02_M0002_9000753_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:03 13:22:45",
+    "store_id": "9000753",
+    "store_region": "BS",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          49.053030303030305
+        ],
+        [
+          100,
+          55.11363636363635
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          0,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "오리지날닭강정",
+        "en.ROMAN": "original dakgangjeong",
+        "en": "Original Deep-fried and Braised Chicken",
+        "ja": "オリジナルタッカンジョン",
+        "zh_CN": "原味甜辣鸡块",
+        "zh_TW": "原味甜辣雞塊",
+        "price": "10000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9000753_1-tf_3",
+      "ocr": {
+        "x": 8.904678845922037,
+        "y": 59.99182088392656,
+        "text": "오리지날닭강정",
+        "width": 20.4967776406642,
+        "height": 4.452534266115713,
+        "rotation": 2.06368938784766
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "쌀핫도그",
+        "en.ROMAN": "ssal hot dog",
+        "en": "Rice Hot dog",
+        "ja": "もち米アメリカンドッグ",
+        "zh_CN": "大米热狗",
+        "zh_TW": "糯米熱狗",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "米",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9000753_1-tf_7",
+      "ocr": {
+        "x": 70.57014915341557,
+        "y": 63.35030515651118,
+        "text": "쌀핫도그",
+        "width": 10.72371474999379,
+        "height": 4.211726761934545,
+        "rotation": 2.479248518063855
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "간장닭강정",
+        "en.ROMAN": "ganjangdakgangjeong",
+        "en": "Deep-fried and Soy Sauce Braised Chicken",
+        "ja": "カンジャンタッカンジョン",
+        "zh_CN": "酱味甜鸡块",
+        "zh_TW": "醬油甜辣雞塊",
+        "price": "10000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9000753_1-tf_10",
+      "ocr": {
+        "x": 8.509776782423385,
+        "y": 66.36335069038444,
+        "text": "간장닭강정",
+        "width": 15.337187886623296,
+        "height": 4.3634472817429435,
+        "rotation": 1.9674781704935072
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "치즈핫도그",
+        "en.ROMAN": "cheese hot dog",
+        "en": "Cheese Corn Dog",
+        "ja": "チーズホットドッグ",
+        "zh_CN": "奶酪热狗",
+        "zh_TW": "起司熱狗",
+        "price": "2000",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉",
+          "香腸"
+        ],
+        "allergy": [
+          "우유",
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9000753_1-tf_13",
+      "ocr": {
+        "x": 71.21419348914081,
+        "y": 69.3677335235482,
+        "text": "치즈핫도그",
+        "width": 13.556487637189383,
+        "height": 4.258522709882515,
+        "rotation": 1.9555920435919916
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "허니닭강정",
+        "en.ROMAN": "honey dakgangjeong",
+        "en": "Honey Deep-fried and Braised Chicken",
+        "ja": "ハニータッカンジョン",
+        "zh_CN": "蜂蜜甜辣鸡块",
+        "zh_TW": "蜂蜜甜辣雞塊",
+        "price": "10000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9000753_1-tf_15",
+      "ocr": {
+        "x": 8.34969295093676,
+        "y": 72.88783882767166,
+        "text": "허니닭강정",
+        "width": 15.434117667274483,
+        "height": 4.5536655106588535,
+        "rotation": 1.4440500665537002
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살후라이드",
+        "en.ROMAN": "sunsal fried",
+        "en": "Fried Boneless Chicken",
+        "ja": "骨なしフライド",
+        "zh_CN": "无骨脆皮炸鸡",
+        "zh_TW": "無骨炸雞",
+        "price": "10000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9000753_1-tf_22",
+      "ocr": {
+        "x": 7.6720870745756855,
+        "y": 79.62717274134198,
+        "text": "순살후라이드",
+        "width": 18.362098653052545,
+        "height": 4.596560846560866,
+        "rotation": 0.9299233138305567
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "치즈볼",
+        "en.ROMAN": "cheese ball",
+        "en": "Cheese Balls",
+        "ja": "チーズボール",
+        "zh_CN": "奶酪球",
+        "zh_TW": "起司球",
+        "price": "5000",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9000753_1-tf_25",
+      "ocr": {
+        "x": 72.5571098535324,
+        "y": 81.93669777126755,
+        "text": "치즈볼",
+        "width": 8.538363438985607,
+        "height": 4.637981932907205,
+        "rotation": 1.2860612535776
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반+반",
+        "en.ROMAN": "ban+ban",
+        "en": "Half and Half",
+        "ja": "ハーフ&ハーフチキン",
+        "zh_CN": "炸鸡双拼",
+        "zh_TW": "帶骨+無骨炸雞",
+        "price": "19000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9000753_1-tf_27",
+      "ocr": {
+        "x": 7.537522290484955,
+        "y": 86.60209349254339,
+        "text": "반+반",
+        "width": 10.22130597978029,
+        "height": 4.679639700926387,
+        "rotation": 0.842988306282848
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "소스",
+        "en.ROMAN": "sauce",
+        "en": "Sauce",
+        "ja": "ソース",
+        "zh_CN": "酱料",
+        "zh_TW": "加點醬料",
+        "price": "500",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_9000753_1-tf_29",
+      "ocr": {
+        "x": 73.37249191224161,
+        "y": 88.44513020298248,
+        "text": "소스",
+        "width": 6.145927394250862,
+        "height": 4.2169825365152604,
+        "rotation": 1.2133946295283522
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "무",
+        "en.ROMAN": "mu",
+        "en": "Radish",
+        "ja": "大根",
+        "zh_CN": "萝卜",
+        "zh_TW": "白蘿蔔",
+        "price": "500",
+        "ingredients.ko": [
+          "무"
+        ],
+        "ingredients.en": [
+          "Radish"
+        ],
+        "ingredients.ja": [
+          "大根"
+        ],
+        "ingredients.zh_CN": [
+          "白萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "白蘿蔔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "I-NzqsB9dQ",
+      "ocr": {
+        "x": 79.49747196784016,
+        "y": 88.71228749395281,
+        "text": "무",
+        "width": 3.1359075641331375,
+        "height": 4.222599935037243,
+        "rotation": 1.8881880067412453
+      }
+    }
+  ]
+}

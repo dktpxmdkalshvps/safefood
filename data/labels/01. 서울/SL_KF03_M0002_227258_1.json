@@ -1,0 +1,1065 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0002_227258_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:10:10 18:05:18",
+    "store_id": "227258",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 7.0408163646616995,
+        "y": 0.18115942028985507,
+        "width": 78.26530608431787,
+        "height": 96.73914916412357,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "바지락찜",
+        "en.ROMAN": "bajirakjjim",
+        "en": "Braised Clam",
+        "ja": "アサリの蒸し物",
+        "zh_CN": "蒸蛤仔",
+        "zh_TW": "蒸蛤蜊",
+        "price": "17500",
+        "ingredients.ko": [
+          "조개"
+        ],
+        "ingredients.en": [
+          "Clam"
+        ],
+        "ingredients.ja": [
+          "貝"
+        ],
+        "ingredients.zh_CN": [
+          "蛤蜊"
+        ],
+        "ingredients.zh_TW": [
+          "蛤蜊"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_3",
+      "ocr": {
+        "x": 63.656432630338344,
+        "y": 19.070021003711666,
+        "text": "바지락찜",
+        "width": 3.12719156405871,
+        "height": 1.7153366336252658,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "해산물수프",
+        "en.ROMAN": "haesanmul soup",
+        "en": "Seafood Soup",
+        "ja": "シーフードスープ",
+        "zh_CN": "海鲜浓汤",
+        "zh_TW": "海鮮濃湯",
+        "price": "22000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_4",
+      "ocr": {
+        "x": 75.50570210898546,
+        "y": 19.226076761503446,
+        "text": "해산물수프",
+        "width": 3.9429789101468815,
+        "height": 1.7000861085114645,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "하몽시저샐러드",
+        "en.ROMAN": "jamon caesar salad",
+        "en": "Jamón Caesar Salad",
+        "ja": "ハモンシーザーサラダ",
+        "zh_CN": "香肠\t凯撒沙拉",
+        "zh_TW": "西班牙火腿凱撒沙拉",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "하몽"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Jamón"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "生ハム"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "熏火腿"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "西班牙伊比利火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_9",
+      "ocr": {
+        "x": 27.787134739323555,
+        "y": 20.85764035685265,
+        "text": "하몽시저샐러드",
+        "width": 5.702191564058763,
+        "height": 1.7559115007288568,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "모듬핀초스",
+        "en.ROMAN": "modeum pincho seu",
+        "en": "Assorted Pinchos",
+        "ja": "ピンチョス盛り合わせ",
+        "zh_CN": "Pinchos拼盘",
+        "zh_TW": "西班牙下酒菜拼盤",
+        "price": "14500",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_8",
+      "ocr": {
+        "x": 17.772077914588348,
+        "y": 20.857640356852684,
+        "text": "모듬핀초스",
+        "width": 4.0577313990436625,
+        "height": 1.6455374183785463,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "메론하몽",
+        "en.ROMAN": "melon jamon",
+        "en": "Melon and Jamón",
+        "ja": "生ハムメロン",
+        "zh_CN": "哈密瓜香肠",
+        "zh_TW": "西班牙火腿佐蜜瓜",
+        "price": "15000",
+        "ingredients.ko": [
+          "메론",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Melon",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "メロン",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "哈密瓜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "哈密瓜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_11",
+      "ocr": {
+        "x": 39.66856736966182,
+        "y": 20.978158155978893,
+        "text": "메론하몽",
+        "width": 3.260085237102835,
+        "height": 1.7267570524856206,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "문어감자",
+        "en.ROMAN": "muneogamja",
+        "en": "Parboiled Octopus with Potatoes",
+        "ja": "タコとジャガイモ",
+        "zh_CN": "章鱼土豆",
+        "zh_TW": "章魚馬鈴薯",
+        "price": "17000",
+        "ingredients.ko": [
+          "문어",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "タコ",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_18",
+      "ocr": {
+        "x": 52.66491476289711,
+        "y": 24.089059695138953,
+        "text": "문어감자",
+        "width": 3.3179789101469876,
+        "height": 1.7444910818684798,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "머쉬룸알아히요",
+        "en.ROMAN": "mushroom al ajillo",
+        "en": "Mushroom al Ajillo",
+        "ja": "マッシュルーム·アル·アヒージョ",
+        "zh_CN": "蘑菇蒜香虾仁",
+        "zh_TW": "大蒜蘑菇",
+        "price": "15500",
+        "ingredients.ko": [
+          "버섯",
+          "새우",
+          "마늘"
+        ],
+        "ingredients.en": [
+          "Mushroom",
+          "Shrimp",
+          "Garlic"
+        ],
+        "ingredients.ja": [
+          "きのこ",
+          "海老",
+          "にんにく"
+        ],
+        "ingredients.zh_CN": [
+          "蘑菇",
+          "虾",
+          "大蒜"
+        ],
+        "ingredients.zh_TW": [
+          "蘑菇",
+          "蝦",
+          "大蒜"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_24",
+      "ocr": {
+        "x": 14.96886606916294,
+        "y": 33.409307524190936,
+        "text": "머쉬룸알아히요",
+        "width": 5.6806696541852375,
+        "height": 1.7761989342806392,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "감바스알아히요",
+        "en.ROMAN": "gambas al ajillo",
+        "en": "Gambas al Ajillo",
+        "ja": "ガンバス・アル・アヒージョ",
+        "zh_CN": "西班牙蒜油虾",
+        "zh_TW": "西班牙香辣蒜蝦",
+        "price": "15500",
+        "ingredients.ko": [
+          "새우",
+          "마늘",
+          "페페론치노"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Garlic",
+          "Peperoncino"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "にんにく",
+          "ペペロンチーノ"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "大蒜",
+          "意大利红辣椒"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "大蒜",
+          "辣椒"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_26",
+      "ocr": {
+        "x": 29.449999999999985,
+        "y": 33.753677457119814,
+        "text": "감바스알아히요",
+        "width": 5.695051344383356,
+        "height": 1.7288451080297649,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "미트볼",
+        "en.ROMAN": "meatball",
+        "en": "Meatballs",
+        "ja": "ミートボール",
+        "zh_CN": "肉丸",
+        "zh_TW": "肉丸",
+        "price": "14000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_29",
+      "ocr": {
+        "x": 65.22499999999998,
+        "y": 35.332540085363625,
+        "text": "미트볼",
+        "width": 2.201185275220413,
+        "height": 1.6923611357060926,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "이베리코늑간살스테이크",
+        "en.ROMAN": "Iberico neukgansal steak",
+        "en": "Ibérico Pork Rib Fingers Steak",
+        "ja": "イベリコゲタカルビステーキ",
+        "zh_CN": "伊比利亚火腿肋间肉牛排",
+        "zh_TW": "伊貝利豬肋條",
+        "price": "26000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_33",
+      "ocr": {
+        "x": 63.302909929608504,
+        "y": 41.99038416048349,
+        "text": "이베리코늑간살스테이크",
+        "width": 8.39777829564248,
+        "height": 1.7548216905373004,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "비프퀘사디아",
+        "en.ROMAN": "beef quesadilla",
+        "en": "Beef Quesadilla",
+        "ja": "ビーフケサディーヤ",
+        "zh_CN": "牛肉玉米饼",
+        "zh_TW": "牛肉玉米餅",
+        "price": "16000",
+        "ingredients.ko": [
+          "소고기",
+          "또띠아"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Tortilla"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "トルティーヤ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "墨西哥玉米饼"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "墨西哥薄餅"
+        ],
+        "allergy": [
+          "쇠고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_36",
+      "ocr": {
+        "x": 65.15643263033824,
+        "y": 49.431602361050274,
+        "text": "비프퀘사디아",
+        "width": 4.580702108985301,
+        "height": 1.6988094064269956,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "황제소늑간스테이크",
+        "en.ROMAN": "hwangjesoneukgan steak",
+        "en": "Premium Beef Rib Fingers Steak",
+        "ja": "皇帝牛ゲタステーキ",
+        "zh_CN": "肋间肉牛排",
+        "zh_TW": "牛肋條",
+        "price": "29500",
+        "ingredients.ko": [
+          "쇠고기",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_40",
+      "ocr": {
+        "x": 63.259433034581164,
+        "y": 55.61179420269859,
+        "text": "황제소늑간스테이크",
+        "width": 7.247886171476055,
+        "height": 1.717049696454435,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "오징어튀김과마요소스",
+        "en.ROMAN": "ojingeotwigimgwa mayo sauce",
+        "en": "Deep-fried Squid with Mayonnaise Sauce",
+        "ja": "イカフライとマヨソース",
+        "zh_CN": "鱿鱼炸什锦和蛋黄酱",
+        "zh_TW": "炸魷魚與美乃滋",
+        "price": "16000",
+        "ingredients.ko": [
+          "오징어",
+          "밀가루",
+          "마요네즈"
+        ],
+        "ingredients.en": [
+          "Squid",
+          "Wheat Flour",
+          "Mayonnaise"
+        ],
+        "ingredients.ja": [
+          "イカ",
+          "小麦粉",
+          "マヨネーズ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼",
+          "面粉",
+          "蛋黄酱"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚",
+          "麵粉",
+          "美乃滋"
+        ],
+        "allergy": [
+          "오징어",
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_45",
+      "ocr": {
+        "x": 54.48219084509904,
+        "y": 65.0648962680742,
+        "text": "오징어튀김과마요소스",
+        "width": 7.9541129576433995,
+        "height": 1.7633918750824074,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "크리스피치킨&코올슬로",
+        "en.ROMAN": "crispy chicken &koolseullo",
+        "en": "Crispy Fried Chicken and Coleslaw",
+        "ja": "クリスピーチキン&コールスロー",
+        "zh_CN": "脆炸鸡&凉拌菜丝",
+        "zh_TW": "香脆炸雞&美式高麗菜沙拉",
+        "price": "17000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_47",
+      "ocr": {
+        "x": 74.86232794368725,
+        "y": 65.53022681014883,
+        "text": "크리스피치킨&코올슬로",
+        "width": 8.394180140782003,
+        "height": 1.6602548114197873,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "새우크림파스타",
+        "en.ROMAN": "saeu cream pasta",
+        "en": "Shrimp Cream Pasta",
+        "ja": "海老クリームパスタ",
+        "zh_CN": "鲜虾奶油意大利面",
+        "zh_TW": "鮮蝦奶油義大利麵",
+        "price": "19000",
+        "ingredients.ko": [
+          "왕새우",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Jumbo Shrimp",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "大正海老",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "大虾",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "明蝦",
+          "義大利麵"
+        ],
+        "allergy": [
+          "새우",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_51",
+      "ocr": {
+        "x": 9.864620533139698,
+        "y": 70.84026608215068,
+        "text": "새우크림파스타",
+        "width": 5.63491072046468,
+        "height": 1.6672362142132633,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "미트볼파스타",
+        "en.ROMAN": "meatball pasta",
+        "en": "Meatball Pasta",
+        "ja": "ミートボールパスタ",
+        "zh_CN": "肉丸意大利面",
+        "zh_TW": "肉丸義大利麵",
+        "price": "17000",
+        "ingredients.ko": [
+          "쇠고기",
+          "밀가루",
+          "채소",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Wheat Flour",
+          "Vegetables",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "小麦粉",
+          "野菜",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "面粉",
+          "蔬菜",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "麵粉",
+          "蔬菜",
+          "番茄"
+        ],
+        "allergy": [
+          "쇠고기",
+          "밀",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_52",
+      "ocr": {
+        "x": 20.199512328214762,
+        "y": 70.87795346438996,
+        "text": "미트볼파스타",
+        "width": 4.642474285621898,
+        "height": 1.6923611357061317,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "봉골레파스타",
+        "en.ROMAN": "vongole pasta",
+        "en": "Clam Pasta",
+        "ja": "ボンゴレパスタ",
+        "zh_CN": "蛤蜊意大利面",
+        "zh_TW": "蛤蜊義大利麵",
+        "price": "20500",
+        "ingredients.ko": [
+          "조개",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Clam",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "貝",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "蛤蜊",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "蛤蜊",
+          "義大利麵"
+        ],
+        "allergy": [
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_53",
+      "ocr": {
+        "x": 31.496649751090963,
+        "y": 70.90765762940427,
+        "text": "봉골레파스타",
+        "width": 4.6990625072088035,
+        "height": 1.713387448878776,
+        "rotation": 359.4877970197614
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "트러플감자튀김",
+        "en.ROMAN": "truffle gamjatwigim",
+        "en": "French Fries with Truffles",
+        "ja": "トリュフ味フライドポテト",
+        "zh_CN": "松露油炸薯条",
+        "zh_TW": "松露炸薯條",
+        "price": "12000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_61",
+      "ocr": {
+        "x": 76.21491620172512,
+        "y": 78.9132789533316,
+        "text": "트러플감자튀김",
+        "width": 5.140102688766863,
+        "height": 1.6341374555280348,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "하몽플래터",
+        "en.ROMAN": "jamon platter",
+        "en": "Jamón Platter",
+        "ja": "ハモンプラッター",
+        "zh_CN": "香肠拼盘",
+        "zh_TW": "西班牙火腿拼盤",
+        "price": "30000",
+        "ingredients.ko": [
+          "하몽"
+        ],
+        "ingredients.en": [
+          "Jamón"
+        ],
+        "ingredients.ja": [
+          "生ハム"
+        ],
+        "ingredients.zh_CN": [
+          "熏火腿"
+        ],
+        "ingredients.zh_TW": [
+          "西班牙伊比利火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_64",
+      "ocr": {
+        "x": 64.51152861375591,
+        "y": 82.16502962469335,
+        "text": "하몽플래터",
+        "width": 3.7765811171001222,
+        "height": 1.6257036387477373,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "밥",
+        "ko": "이베리코샤프란빠에야",
+        "en.ROMAN": "Iberico saffron paella",
+        "en": "Ibérico Saffron Paella",
+        "ja": "イベリコサフランパエリア",
+        "zh_CN": "伊比利亚火腿舒福蓝盖饭",
+        "zh_TW": "西班牙伊貝利海鮮飯",
+        "price": "21000",
+        "ingredients.ko": [
+          "돼지고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_68",
+      "ocr": {
+        "x": 31.66766723770835,
+        "y": 91.63831556348838,
+        "text": "이베리코샤프란빠에야",
+        "width": 7.66061830980187,
+        "height": 1.8094125456997348,
+        "rotation": 359.46952164777315
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "오징어먹물빠에야",
+        "en.ROMAN": "ojingeomeongmul paella",
+        "en": "Squid Ink Paella",
+        "ja": "イカ墨パエリア",
+        "zh_CN": "西班牙鱿鱼墨汁杂烩菜饭",
+        "zh_TW": "魷魚墨魚西班牙烤飯",
+        "price": "19000",
+        "ingredients.ko": [
+          "오징어",
+          "먹물"
+        ],
+        "ingredients.en": [
+          "Squid",
+          "Squid Ink"
+        ],
+        "ingredients.ja": [
+          "イカ",
+          "墨"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼",
+          "墨汁"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚",
+          "墨汁"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_67",
+      "ocr": {
+        "x": 10.07921266141967,
+        "y": 91.68581123411425,
+        "text": "오징어먹물빠에야",
+        "width": 6.310305536919375,
+        "height": 1.6873889875666002,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "밥",
+        "ko": "해산물샤프란빠에야",
+        "en.ROMAN": "haesanmul saffron paella",
+        "en": "Seafood Saffron Paella",
+        "ja": "シーフードサフランパエリア",
+        "zh_CN": "海鲜舒福蓝盖饭",
+        "zh_TW": "西班牙海鮮飯",
+        "price": "20500",
+        "ingredients.ko": [
+          "해산물",
+          "샤프란",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Saffron",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "サフラン",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "藏红花",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "番紅花",
+          "米"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_69",
+      "ocr": {
+        "x": 20.85626914024137,
+        "y": 91.70150956651601,
+        "text": "해산물샤프란빠에야",
+        "width": 6.9756854929405465,
+        "height": 1.6605781100176624,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "치즈플래터",
+        "en.ROMAN": "cheese platter",
+        "en": "Cheese Platter",
+        "ja": "チーズプラッタ",
+        "zh_CN": "奶酪拼盘",
+        "zh_TW": "起司盤",
+        "price": "19000",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_74",
+      "ocr": {
+        "x": 64.43830430847598,
+        "y": 92.91451891682748,
+        "text": "치즈플래터",
+        "width": 3.8026306118582345,
+        "height": 1.67013192256007,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "모둠플래터",
+        "en.ROMAN": "modum platter",
+        "en": "Assorted Platter",
+        "ja": "詰め合わせプラッター",
+        "zh_CN": "拼盘",
+        "zh_TW": "綜合拼盤",
+        "price": "36000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0002_227258_1-tf_73",
+      "ocr": {
+        "x": 50.03433844846139,
+        "y": 93.01926328762106,
+        "text": "모둠플래터",
+        "width": 3.8348154802266943,
+        "height": 1.708620002496896,
+        "rotation": 0
+      }
+    }
+  ]
+}

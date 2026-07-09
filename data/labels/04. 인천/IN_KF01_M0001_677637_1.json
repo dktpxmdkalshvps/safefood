@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0001_677637_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:28 20:11:36",
+    "store_id": "677637",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          97.77777777777777,
+          96.94444444444444
+        ],
+        [
+          3.703703703703703,
+          98.33333333333333
+        ],
+        [
+          5.185185185185185,
+          0
+        ],
+        [
+          98.14814844118393,
+          0.8333333333333334
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "화덕불족",
+        "en.ROMAN": "hwadeokbuljok",
+        "en": "Oven-baked Spicy Braised Pigs' Feet",
+        "ja": "火炉激辛豚足",
+        "zh_CN": "火炉劲辣猪蹄",
+        "zh_TW": "窯烤勁辣豬腳",
+        "price": "35000",
+        "ingredients.ko": [
+          "돼지족발"
+        ],
+        "ingredients.en": [
+          "Pigs' Feet"
+        ],
+        "ingredients.ja": [
+          "豚足"
+        ],
+        "ingredients.zh_CN": [
+          "猪蹄"
+        ],
+        "ingredients.zh_TW": [
+          "豬腳"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0001_677637_1-tf_1",
+      "ocr": {
+        "x": 38.98602909950504,
+        "y": 11.733710099826428,
+        "text": "화덕불족",
+        "width": 13.792251032263481,
+        "height": 5.241289900173558,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "화덕치즈불족",
+        "en.ROMAN": "hwadeok cheese buljok",
+        "en": "Oven-baked Spicy Braised Pigs' Feet with Cheese",
+        "ja": "チーズ入り火炉激辛豚足",
+        "zh_CN": "火炉奶酪劲辣猪蹄",
+        "zh_TW": "窯烤勁辣起司豬腳",
+        "price": "37000",
+        "ingredients.ko": [
+          "치즈",
+          "돼지족발"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Pigs' Feet"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "豚足"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "猪蹄"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "豬腳"
+        ],
+        "allergy": [
+          "우유",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0001_677637_1-tf_9",
+      "ocr": {
+        "x": 18.433430063451183,
+        "y": 28.550362728850445,
+        "text": "화덕치즈불족",
+        "width": 19.116231381136323,
+        "height": 5.29949217960927,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "마늘족발or마늘보쌈",
+        "en.ROMAN": "maneuljokbal or maneulbossam",
+        "en": "Braised Pigs' Feet with Garlic or Napa Wraps with Pork and Garlic",
+        "ja": "にんにく豚足orにんにくポサム",
+        "zh_CN": "蒜香酱猪蹄or蒜香菜包肉",
+        "zh_TW": "蒜香豬腳or蒜蓉菜包肉",
+        "price": "36000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0001_677637_1-tf_17",
+      "ocr": {
+        "x": 50.24655356456984,
+        "y": 43.35516492845163,
+        "text": "마늘족발or마늘보쌈",
+        "width": 34.66666666666674,
+        "height": 4.899784285655038,
+        "rotation": 3.366727310094575e-05
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "냉채족발",
+        "en.ROMAN": "naengchaejokbal",
+        "en": "Chilled Braised Pigs' Feet Salad",
+        "ja": "豚足冷菜",
+        "zh_CN": "酱猪蹄冷盘",
+        "zh_TW": "豬腳冷盤",
+        "price": "35000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0001_677637_1-tf_24",
+      "ocr": {
+        "x": 18.40170074684188,
+        "y": 61.79234664666311,
+        "text": "냉채족발",
+        "width": 15.399999999999956,
+        "height": 4.984566691671141,
+        "rotation": 0
+      }
+    }
+  ]
+}

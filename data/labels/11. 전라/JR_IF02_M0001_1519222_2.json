@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "file_name": "JR_IF02_M0001_1519222_2.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:08 13:40:25",
+    "store_id": "1519222",
+    "store_region": "JR",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.15267175572519068,
+          0
+        ],
+        [
+          99.84732824427472,
+          0
+        ],
+        [
+          99.84732824427472,
+          99.76525821596242
+        ],
+        [
+          0,
+          99.99999999999997
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "경장육슬",
+        "en.ROMAN": "gyeongjangnyukseul",
+        "en": "Stir-fried Shredded Pork with Black Bean Sauce",
+        "ja": "ジンジャンロースー",
+        "zh_CN": "京酱肉丝",
+        "zh_TW": "京醬肉絲",
+        "price": "30000",
+        "ingredients.ko": [
+          "돼지고기",
+          "건두부"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Dried Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "干し豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "干豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "豆乾"
+        ],
+        "allergy": [
+          "돼지고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_5",
+      "ocr": {
+        "x": 13.738756104998156,
+        "y": 26.77124164203341,
+        "text": "경장육슬",
+        "width": 17.266701491030883,
+        "height": 4.097459862763467,
+        "rotation": 359.68123162665245
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "해파리냉채",
+        "en.ROMAN": "haeparinaengchae",
+        "en": "Chilled Jellyfish Salad",
+        "ja": "クラゲの冷菜",
+        "zh_CN": "凉拌海蜇",
+        "zh_TW": "海蜇皮冷盤",
+        "price": "30000",
+        "ingredients.ko": [
+          "야채",
+          "해파리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Jellyfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "クラゲ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海蜇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海蜇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_7",
+      "ocr": {
+        "x": 13.967939169503666,
+        "y": 34.38973964542014,
+        "text": "해파리냉채",
+        "width": 21.17387540111627,
+        "height": 4.4045808280301095,
+        "rotation": 359.681231626641
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "오향장육",
+        "en.ROMAN": "ohyangjangyuk",
+        "en": "Five-spice Pork",
+        "ja": "五香醤肉",
+        "zh_CN": "五香酱肉",
+        "zh_TW": "五香醬肉",
+        "price": "30000",
+        "ingredients.ko": [
+          "돼지고기",
+          "오향"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Five-spice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "五香"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "五香"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "五香"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_11",
+      "ocr": {
+        "x": 14.369868487571082,
+        "y": 42.18038735927647,
+        "text": "오향장육",
+        "width": 17.31343422941575,
+        "height": 4.188617472331216,
+        "rotation": 359.68123162664676
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "왕새우튀김",
+        "en.ROMAN": "wangsaeutwigim",
+        "en": "Deep-fried Jumbo Shrimp",
+        "ja": "特大海老天ぷら",
+        "zh_CN": "炸大虾",
+        "zh_TW": "炸明蝦",
+        "price": "40000",
+        "ingredients.ko": [
+          "왕새우",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Jumbo Shrimp",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "大正海老",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "大虾",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "明蝦",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_13",
+      "ocr": {
+        "x": 15.35171574513071,
+        "y": 49.90506334325113,
+        "text": "왕새우튀김",
+        "width": 19.94284521913783,
+        "height": 3.8826613208864504,
+        "rotation": 359.6812316266502
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "누룽지탕",
+        "en.ROMAN": "nurungjitang",
+        "en": "Scorched Rice Soup",
+        "ja": "おこげのあんかけ",
+        "zh_CN": "锅巴汤",
+        "zh_TW": "鍋粑湯",
+        "price": "40000",
+        "ingredients.ko": [
+          "누룽지"
+        ],
+        "ingredients.en": [
+          "Scorched Rice"
+        ],
+        "ingredients.ja": [
+          "おこげ"
+        ],
+        "ingredients.zh_CN": [
+          "锅巴"
+        ],
+        "ingredients.zh_TW": [
+          "鍋粑"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_16",
+      "ocr": {
+        "x": 15.553401067956935,
+        "y": 57.45720706137139,
+        "text": "누룽지탕",
+        "width": 16.753555064084267,
+        "height": 3.8281180737034437,
+        "rotation": 359.68123162665586
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "삼품냉채",
+        "en.ROMAN": "sampumnaengchae",
+        "en": "Chilled Three-ingredient Salad",
+        "ja": "三品冷菜",
+        "zh_CN": "三色冷盘",
+        "zh_TW": "三色冷盤",
+        "price": "50000",
+        "ingredients.ko": [
+          "야채"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_18",
+      "ocr": {
+        "x": 15.76962121603218,
+        "y": 64.87889647348375,
+        "text": "삼품냉채",
+        "width": 16.681373648601763,
+        "height": 4.058146980099407,
+        "rotation": 359.6812316266421
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "해삼송이",
+        "en.ROMAN": "haesamsongi",
+        "en": "Sea Cucumber and Pine Mushrooms",
+        "ja": "ナマコと松茸",
+        "zh_CN": "海参松茸",
+        "zh_TW": "海參松茸",
+        "price": "60000",
+        "ingredients.ko": [
+          "송이버섯",
+          "해삼"
+        ],
+        "ingredients.en": [
+          "Pine Mushrooms",
+          "Sea Cucumber"
+        ],
+        "ingredients.ja": [
+          "松茸",
+          "ナマコ"
+        ],
+        "ingredients.zh_CN": [
+          "松茸",
+          "海参"
+        ],
+        "ingredients.zh_TW": [
+          "松茸",
+          "海參"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_21",
+      "ocr": {
+        "x": 16.1139661425062,
+        "y": 72.2384995979867,
+        "text": "해삼송이",
+        "width": 16.351353319528943,
+        "height": 4.206824190656935,
+        "rotation": 359.68123162664216
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "전가복",
+        "en.ROMAN": "jeongabok",
+        "en": "Stir-fried Assorted Seafood",
+        "ja": "全家福",
+        "zh_CN": "全家福",
+        "zh_TW": "全家福",
+        "price": "60000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "돼지고기",
+          "닭고기",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Pork",
+          "Chicken",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "豚肉",
+          "鶏肉",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "猪肉",
+          "鸡肉",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "豬肉",
+          "雞肉",
+          "蘑菇"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "돼지고기",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_24",
+      "ocr": {
+        "x": 16.54627420323825,
+        "y": 79.60318807231445,
+        "text": "전가복",
+        "width": 12.919525132574789,
+        "height": 4.094880773938484,
+        "rotation": 359.68123162664216
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "송이관자",
+        "en.ROMAN": "songigwanja",
+        "en": "Pine Mushrooms and Scallops",
+        "ja": "松茸と貝柱",
+        "zh_CN": "松茸鲜贝",
+        "zh_TW": "松茸干貝",
+        "price": "60000",
+        "ingredients.ko": [
+          "관자",
+          "송이버섯"
+        ],
+        "ingredients.en": [
+          "Scallops",
+          "Pine Mushrooms"
+        ],
+        "ingredients.ja": [
+          "貝柱",
+          "松茸"
+        ],
+        "ingredients.zh_CN": [
+          "仙贝",
+          "松茸"
+        ],
+        "ingredients.zh_TW": [
+          "干貝",
+          "松茸"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_26",
+      "ocr": {
+        "x": 16.929132028532912,
+        "y": 86.82146596765686,
+        "text": "송이관자",
+        "width": 16.917758521153676,
+        "height": 4.223595955878825,
+        "rotation": 359.68123162665705
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "게살샥스핀",
+        "en.ROMAN": "gesal shark's fin",
+        "en": "Crab and Shark Fin",
+        "ja": "カニ肉入りフカヒレスープ",
+        "zh_CN": "蟹肉鱼翅",
+        "zh_TW": "蟹肉魚翅",
+        "price": "60000",
+        "ingredients.ko": [
+          "게",
+          "상어"
+        ],
+        "ingredients.en": [
+          "Crab",
+          "Shark"
+        ],
+        "ingredients.ja": [
+          "ガニ",
+          "サメ"
+        ],
+        "ingredients.zh_CN": [
+          "螃蟹",
+          "鲨鱼"
+        ],
+        "ingredients.zh_TW": [
+          "螃蟹",
+          "鯊魚"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1519222_2-tf_30",
+      "ocr": {
+        "x": 17.45922159813205,
+        "y": 93.93121210262848,
+        "text": "게살샥스핀",
+        "width": 20.443844207792104,
+        "height": 4.261373758087289,
+        "rotation": 359.68123162664904
+      }
+    }
+  ]
+}

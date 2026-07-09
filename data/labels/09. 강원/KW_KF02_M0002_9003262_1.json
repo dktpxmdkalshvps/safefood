@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "file_name": "KW_KF02_M0002_9003262_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:11:12 19:52:22",
+    "store_id": "9003262",
+    "store_region": "KW",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          14.751552795031056
+        ],
+        [
+          3.841676367869617,
+          89.75155279503106
+        ],
+        [
+          99.88358556461002,
+          89.90683229813662
+        ],
+        [
+          99.88358556461002,
+          13.509316770186336
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "찹쌀꽈배기",
+        "en.ROMAN": "chapssalkkwabaegi",
+        "en": "Sweet Rice Twisted Donut",
+        "ja": "もち米ツイストドーナツ",
+        "zh_CN": "糯米麻花",
+        "zh_TW": "糯米麻花多拿滋",
+        "price": "2500",
+        "ingredients.ko": [
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "糯米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9003262_1-tf_1",
+      "ocr": {
+        "x": 53.79722695174309,
+        "y": 25.009227112056887,
+        "text": "찹쌀꽈배기",
+        "width": 37.63925282009421,
+        "height": 8.32459516922564,
+        "rotation": 359.4579114591307
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "인절미꽈배기",
+        "en.ROMAN": "injeolmikkwabaegi",
+        "en": "Bean-powder-coated Rice Cake Twisted Donut",
+        "ja": "きな粉まぶしツイストドーナツ",
+        "zh_CN": "打糕麻花甜甜圈",
+        "zh_TW": "黃豆粉年糕麻花多拿滋",
+        "price": "2500",
+        "ingredients.ko": [
+          "밀가루",
+          "콩가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Bean Powder"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "きな粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "黄豆粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "黃豆粉"
+        ],
+        "allergy": [
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9003262_1-tf_2",
+      "ocr": {
+        "x": 53.13265232833708,
+        "y": 33.33501365070497,
+        "text": "인절미꽈배기",
+        "width": 37.53410665088037,
+        "height": 7.795110541329108,
+        "rotation": 359.46546604197783
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "깨찰빵",
+        "en.ROMAN": "kkaechalppang",
+        "en": "Sesame Seed and Sweet Riceballs",
+        "ja": "もち粉入りセサミパン",
+        "zh_CN": "芝麻糯米面包",
+        "zh_TW": "芝麻麵包",
+        "price": "2000",
+        "ingredients.ko": [
+          "버터",
+          "빵",
+          "찹쌀",
+          "설탕",
+          "깨"
+        ],
+        "ingredients.en": [
+          "Butter",
+          "Bread",
+          "Sweet Rice",
+          "Sugar",
+          "Sesame"
+        ],
+        "ingredients.ja": [
+          "バター",
+          "パン",
+          "もち米",
+          "ソルロンタン",
+          "ゴマ"
+        ],
+        "ingredients.zh_CN": [
+          "黄油",
+          "面包",
+          "糯米",
+          "白糖",
+          "芝麻"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "麵包",
+          "糯米",
+          "糖",
+          "芝麻"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9003262_1-tf_10",
+      "ocr": {
+        "x": 46.676304937001625,
+        "y": 66.22190237431913,
+        "text": "깨찰빵",
+        "width": 14.639532229375726,
+        "height": 7.383813105187829,
+        "rotation": 0
+      }
+    }
+  ]
+}

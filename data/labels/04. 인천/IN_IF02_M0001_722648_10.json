@@ -1,0 +1,655 @@
+{
+  "meta": {
+    "file_name": "IN_IF02_M0001_722648_10.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:21 19:13:04",
+    "store_id": "722648",
+    "store_region": "IN",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.852216748768473,
+          20.83333333333334
+        ],
+        [
+          92.61083743842364,
+          20
+        ],
+        [
+          90.64039408866995,
+          86.1111111111111
+        ],
+        [
+          11.330049261083744,
+          85.55555555555556
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_4",
+      "ocr": {
+        "x": 63.107405185447526,
+        "y": 42.06411936003071,
+        "text": "쏸모두",
+        "width": 5.79720639694999,
+        "height": 1.147840853292629,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "쏸모두",
+        "en.ROMAN": "sswanmodu",
+        "en": "Beef Tripe Skewers Shabu-shabu",
+        "ja": "牛ミノしゃぶしゃぶ",
+        "zh_CN": "涮毛肚",
+        "zh_TW": "涮毛肚",
+        "price": "18000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_12",
+      "ocr": {
+        "x": 33.478761502127675,
+        "y": 58.404771899729674,
+        "text": "양고기",
+        "width": 5.370261792599791,
+        "height": 1.1092335056170122,
+        "rotation": 358.7895647230981
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양고기",
+        "en.ROMAN": "yanggogi",
+        "en": "Lamb",
+        "ja": "ラム",
+        "zh_CN": "羊肉",
+        "zh_TW": "羊肉",
+        "price": "7000",
+        "ingredients.ko": [
+          "양고기"
+        ],
+        "ingredients.en": [
+          "Lamb"
+        ],
+        "ingredients.ja": [
+          "ラム"
+        ],
+        "ingredients.zh_CN": [
+          "羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_13",
+      "ocr": {
+        "x": 51.07655502892761,
+        "y": 58.40825915382047,
+        "text": "소고기",
+        "width": 5.303528992801123,
+        "height": 1.0868437653444945,
+        "rotation": 0.634441810827127
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "소고기",
+        "en.ROMAN": "sogogi",
+        "en": "Beef",
+        "ja": "牛肉",
+        "zh_CN": "牛肉",
+        "zh_TW": "牛肉",
+        "price": "7000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_14",
+      "ocr": {
+        "x": 68.79362215033427,
+        "y": 58.58779634571,
+        "text": "마라소고기",
+        "width": 9.312495140261285,
+        "height": 1.1792515003424755,
+        "rotation": 1.153329649799275
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마라소고기",
+        "en.ROMAN": "mala sogogi",
+        "en": "Mala Beef",
+        "ja": "牛肉の麻辣炒め",
+        "zh_CN": "麻辣牛肉",
+        "zh_TW": "麻辣牛肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_15",
+      "ocr": {
+        "x": 15.69449936168137,
+        "y": 58.62045065602689,
+        "text": "모두추가",
+        "width": 7.286908562405342,
+        "height": 1.0994269124452105,
+        "rotation": 358.75199497279897
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "모두추가",
+        "en.ROMAN": "moduchuga",
+        "en": "Extra Serving of Beef Tripe",
+        "ja": "牛ミノ追加",
+        "zh_CN": "加毛肚",
+        "zh_TW": "加點毛肚",
+        "price": "7000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_24",
+      "ocr": {
+        "x": 33.61670901847352,
+        "y": 68.41543637302425,
+        "text": "물고기완자",
+        "width": 8.747779751332162,
+        "height": 1.098791345273416,
+        "rotation": 359.4650015234444
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "물고기완자",
+        "en.ROMAN": "mulgogiwanja",
+        "en": "Fish Balls",
+        "ja": "魚団子",
+        "zh_CN": "鱼丸",
+        "zh_TW": "魚丸",
+        "price": "6000",
+        "ingredients.ko": [
+          "생선",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_25",
+      "ocr": {
+        "x": 50.99139900466593,
+        "y": 68.41630604178798,
+        "text": "문어완자",
+        "width": 7.117476399366164,
+        "height": 1.0993486995265036,
+        "rotation": 2.1402357059193378
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "문어완자",
+        "en.ROMAN": "muneowanja",
+        "en": "Octopus Balls",
+        "ja": "タコ団子",
+        "zh_CN": "章鱼丸",
+        "zh_TW": "大章魚丸",
+        "price": "6000",
+        "ingredients.ko": [
+          "문어"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "タコ"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_26",
+      "ocr": {
+        "x": 15.875111791535453,
+        "y": 68.82907088181024,
+        "text": "새우완자",
+        "width": 7.231956019734202,
+        "height": 1.0496374601947565,
+        "rotation": 358.2531829259844
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "새우완자",
+        "en.ROMAN": "saeuwanja",
+        "en": "Shrimp Balls",
+        "ja": "海老団子",
+        "zh_CN": "虾丸",
+        "zh_TW": "蝦丸",
+        "price": "6000",
+        "ingredients.ko": [
+          "새우",
+          "완자"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Meatballs"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "団子"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "丸子"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "丸"
+        ],
+        "allergy": [
+          "새우",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_27",
+      "ocr": {
+        "x": 68.66279568748936,
+        "y": 68.90042970266109,
+        "text": "새우",
+        "width": 3.92427601808415,
+        "height": 1.143726308115261,
+        "rotation": 3.1483865252499186
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "새우",
+        "en.ROMAN": "saeu",
+        "en": "Shrimp",
+        "ja": "海老",
+        "zh_CN": "虾",
+        "zh_TW": "蝦",
+        "price": "10000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_36",
+      "ocr": {
+        "x": 43.28488682114462,
+        "y": 77.86771028626767,
+        "text": "게맛살",
+        "width": 5.1065719360568265,
+        "height": 1.0929761413160182,
+        "rotation": 0.8839773338453938
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "게맛살",
+        "en.ROMAN": "gematsal",
+        "en": "Crab meat",
+        "ja": "かにかま",
+        "zh_CN": "蟹肉棒",
+        "zh_TW": "蟹味棒",
+        "price": "5000",
+        "ingredients.ko": [
+          "쌀",
+          "게맛살"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Crab Meat"
+        ],
+        "ingredients.ja": [
+          "米",
+          "カニカマ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "蟹棒"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "蟹味棒"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_37",
+      "ocr": {
+        "x": 29.59223968972536,
+        "y": 78.00429435833627,
+        "text": "천엽",
+        "width": 3.4635879218472465,
+        "height": 1.0999999999999996,
+        "rotation": 358.1382954309747
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "천엽",
+        "en.ROMAN": "cheonyeop",
+        "en": "Omasum",
+        "ja": "センマイ",
+        "zh_CN": "牛百叶",
+        "zh_TW": "牛百葉",
+        "price": "6000",
+        "ingredients.ko": [
+          "천엽"
+        ],
+        "ingredients.en": [
+          "Omasum"
+        ],
+        "ingredients.ja": [
+          "センマイ"
+        ],
+        "ingredients.zh_CN": [
+          "百叶"
+        ],
+        "ingredients.zh_TW": [
+          "牛百葉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_38",
+      "ocr": {
+        "x": 56.5398735916625,
+        "y": 78.1288752977078,
+        "text": "어묵",
+        "width": 3.6412078152753096,
+        "height": 1.089019268677172,
+        "rotation": 2.7625439254348407
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "어묵",
+        "en.ROMAN": "eomuk",
+        "en": "Fishcake",
+        "ja": "練り物",
+        "zh_CN": "鱼糕",
+        "zh_TW": "魚板",
+        "price": "6000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_39",
+      "ocr": {
+        "x": 16.14554005207,
+        "y": 78.4765002489286,
+        "text": "새우",
+        "width": 3.705006312259122,
+        "height": 1.0250000000000017,
+        "rotation": 356.7164331399332
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "새우",
+        "en.ROMAN": "saeu",
+        "en": "Shrimp",
+        "ja": "海老",
+        "zh_CN": "虾",
+        "zh_TW": "蝦",
+        "price": "6000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "IN_IF02_M0001_722648_10-tf_40",
+      "ocr": {
+        "x": 70.92730925487389,
+        "y": 78.69330858525683,
+        "text": "선지",
+        "width": 3.6330223386367195,
+        "height": 1.15,
+        "rotation": 4.379996246138887
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "선지",
+        "en.ROMAN": "seonji",
+        "en": "Seonji",
+        "ja": "ソンジ",
+        "zh_CN": "牛血",
+        "zh_TW": "牛血",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "파",
+          "콩나물",
+          "사골육수",
+          "시래기",
+          "소선지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Green Onions",
+          "Bean Sprout",
+          "Ox Bone Broth",
+          "Dried Radish Leaf",
+          "Beef Seonji"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "ネギ",
+          "豆もやし",
+          "牛骨のだし汁",
+          "干し菜っ葉",
+          "ソンジ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "葱",
+          "黄豆芽",
+          "牛骨肉汤",
+          "干萝卜缨",
+          "牛血"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "蔥",
+          "黃豆芽",
+          "牛骨高湯",
+          "乾蘿蔔纓",
+          "牛血"
+        ],
+        "allergy": [
+          "콩",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

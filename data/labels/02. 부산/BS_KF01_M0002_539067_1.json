@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0002_539067_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:06 18:51:59",
+    "store_id": "539067",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          28.264462809917344
+        ],
+        [
+          90.30837004405284,
+          39.0082644628099
+        ],
+        [
+          84.12588994323748,
+          93.8842975206611
+        ],
+        [
+          1.9872257466906496,
+          74.38016528925617
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "고래고기",
+        "en.ROMAN": "goraegogi",
+        "en": "Whale Meat",
+        "ja": "鯨肉",
+        "zh_CN": "鲸鱼肉",
+        "zh_TW": "鯨魚肉",
+        "price": "30000",
+        "ingredients.ko": [
+          "생선",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_539067_1-tf_1",
+      "ocr": {
+        "x": 16.680724980147296,
+        "y": 55.18427151742687,
+        "text": "고래고기",
+        "width": 13.168856684550855,
+        "height": 2.7145883713343864,
+        "rotation": 12.493213330804906
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "양념장어구이",
+        "en.ROMAN": "yangnyeomjangeogui",
+        "en": "Grilled Marinated Eel",
+        "ja": "味付けウナギ焼き",
+        "zh_CN": "烤调味鳗鱼",
+        "zh_TW": "調味烤鰻魚",
+        "price": "20000",
+        "ingredients.ko": [
+          "장어"
+        ],
+        "ingredients.en": [
+          "Eel"
+        ],
+        "ingredients.ja": [
+          "ウナギ"
+        ],
+        "ingredients.zh_CN": [
+          "鳗鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鰻魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_539067_1-tf_5",
+      "ocr": {
+        "x": 48.59203476011689,
+        "y": 60.81959646535831,
+        "text": "양념장어구이",
+        "width": 22.115237003179267,
+        "height": 3.0440449063244355,
+        "rotation": 13.61978923535105
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "메추리",
+        "en.ROMAN": "mechuri",
+        "en": "Quail",
+        "ja": "うずら",
+        "zh_CN": "鹌鹑蛋",
+        "zh_TW": "鵪鶉蛋",
+        "price": "10000",
+        "ingredients.ko": [
+          "메추리"
+        ],
+        "ingredients.en": [
+          "Quail"
+        ],
+        "ingredients.ja": [
+          "うずら"
+        ],
+        "ingredients.zh_CN": [
+          "鹌鹑蛋"
+        ],
+        "ingredients.zh_TW": [
+          "鵪鶉蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_539067_1-tf_7",
+      "ocr": {
+        "x": 15.33802967406669,
+        "y": 71.13541455254538,
+        "text": "메추리",
+        "width": 9.5749957263933,
+        "height": 2.3618785718361197,
+        "rotation": 15.734654238727614
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "해물파전",
+        "en.ROMAN": "haemulpajeon",
+        "en": "Seafood and Green Onion Pancake",
+        "ja": "海鮮入りねぎのチヂミ",
+        "zh_CN": "海鲜葱煎饼",
+        "zh_TW": "海鮮蔥煎餅",
+        "price": "7000",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루",
+          "파"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour",
+          "Green Onions"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉",
+          "ネギ"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉",
+          "葱"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉",
+          "蔥"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_539067_1-tf_10",
+      "ocr": {
+        "x": 52.43974507444962,
+        "y": 79.24317925815174,
+        "text": "해물파전",
+        "width": 14.379117350311912,
+        "height": 2.6809413800176425,
+        "rotation": 18.15127942409424
+      }
+    }
+  ]
+}

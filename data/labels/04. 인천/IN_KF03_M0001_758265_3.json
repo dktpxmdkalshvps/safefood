@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "file_name": "IN_KF03_M0001_758265_3.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:23 14:31:05",
+    "store_id": "758265",
+    "store_region": "IN",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          6.363636363636363,
+          2.046384720327422
+        ],
+        [
+          93.63636363636364,
+          1.7735334242837653
+        ],
+        [
+          93.45454545454545,
+          93.99727148703957
+        ],
+        [
+          5.2727272727272725,
+          94.27012278308322
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "새우베이컨필라프",
+        "en.ROMAN": "saeu bacon pilaf",
+        "en": "Shrimp Bacon Pilaf",
+        "ja": "海老入りベーコンピラフ",
+        "zh_CN": "虾仁培根抓饭",
+        "zh_TW": "蝦仁培根香料飯",
+        "price": "12900",
+        "ingredients.ko": [
+          "새우",
+          "돼지고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Pork",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "豚肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "猪肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "豬肉",
+          "米"
+        ],
+        "allergy": [
+          "새우",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_3-tf_2",
+      "ocr": {
+        "x": 15.247959877012535,
+        "y": 27.97030974478774,
+        "text": "새우베이컨필라프",
+        "width": 15.322787035629064,
+        "height": 1.445309744787705,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "목살필라프",
+        "en.ROMAN": "moksal pilaf",
+        "en": "Pork Shoulder Pilaf",
+        "ja": "豚肩ロースピラフ",
+        "zh_CN": "猪肩肉饭",
+        "zh_TW": "豬肩肉抓飯",
+        "price": "12900",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_3-tf_6",
+      "ocr": {
+        "x": 15.087528806897241,
+        "y": 34.100000000000016,
+        "text": "목살필라프",
+        "width": 9.570746912641601,
+        "height": 1.4046902552122698,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "통마늘필라프",
+        "en.ROMAN": "tongmaneul pilaf",
+        "en": "Whole Garlic Pilaf",
+        "ja": "丸ごとニンニク入りピラフ",
+        "zh_CN": "蒜瓣抓饭",
+        "zh_TW": "整粒蒜頭香料飯",
+        "price": "12900",
+        "ingredients.ko": [
+          "마늘",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_3-tf_10",
+      "ocr": {
+        "x": 14.947959877012519,
+        "y": 39.379690255212246,
+        "text": "통마늘필라프",
+        "width": 11.352245355644481,
+        "height": 1.3906194895754764,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "해물토마토리조또",
+        "en.ROMAN": "haemul tomato risotto",
+        "en": "Seafood Tomato Risotto",
+        "ja": "海鮮トマトリゾット",
+        "zh_CN": "海鲜番茄意式焗饭",
+        "zh_TW": "海鮮番茄義式燉飯",
+        "price": "13900",
+        "ingredients.ko": [
+          "해산물",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "番茄"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_3-tf_17",
+      "ocr": {
+        "x": 14.175057613794507,
+        "y": 58.5359292343629,
+        "text": "해물토마토리조또",
+        "width": 16.008069120246255,
+        "height": 1.459380510424722,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "해물크림리조또",
+        "en.ROMAN": "haemul cream risotto",
+        "en": "Seafood Cream Risotto",
+        "ja": "シーフードクリームリゾット",
+        "zh_CN": "意式海鲜奶油焗饭",
+        "zh_TW": "海鮮奶油義大利燉飯",
+        "price": "13900",
+        "ingredients.ko": [
+          "김치",
+          "해산물",
+          "쌀",
+          "양파",
+          "베이컨",
+          "양송이버섯",
+          "파프리카",
+          "애호박"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Seafood",
+          "Rice",
+          "Onion",
+          "Bacon",
+          "Button Mushroom",
+          "Sweet Pepper",
+          "Zucchini"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "海鮮",
+          "米",
+          "玉ねぎ",
+          "ベーコン",
+          "マッシュルーム",
+          "パプリカ",
+          "ズッキーニ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "海鲜",
+          "大米",
+          "洋葱",
+          "培根",
+          "双孢菇",
+          "彩椒",
+          "西葫芦"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "海鮮",
+          "米",
+          "洋蔥",
+          "培根",
+          "洋菇",
+          "甜椒",
+          "櫛瓜"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_3-tf_23",
+      "ocr": {
+        "x": 13.999999999999972,
+        "y": 64.74061948957542,
+        "text": "해물크림리조또",
+        "width": 14.104515813940214,
+        "height": 1.534960530935441,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "오징어먹물리조또",
+        "en.ROMAN": "ojingeomeongmul risotto",
+        "en": "Squid Ink Risotto",
+        "ja": "イカ墨リゾット",
+        "zh_CN": "意式鱿鱼墨汁焗饭",
+        "zh_TW": "魷魚墨汁義大利燉飯",
+        "price": "14900",
+        "ingredients.ko": [
+          "야채",
+          "오징어",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚",
+          "米"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_3-tf_28",
+      "ocr": {
+        "x": 13.781293210345863,
+        "y": 70.94530974478766,
+        "text": "오징어먹물리조또",
+        "width": 15.823115288010571,
+        "height": 1.5105405514463726,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "버섯크림리조또",
+        "en.ROMAN": "beoseot cream risotto",
+        "en": "Mushroom Cream Risotto",
+        "ja": "きのこクリームリゾット",
+        "zh_CN": "蘑菇奶油意式焗饭",
+        "zh_TW": "蘑菇奶油義大利燉飯",
+        "price": "13900",
+        "ingredients.ko": [
+          "야채",
+          "크림",
+          "쌀",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cream",
+          "Rice",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "クリーム",
+          "米",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶油",
+          "大米",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "奶油",
+          "米",
+          "蘑菇"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_3-tf_34",
+      "ocr": {
+        "x": 13.539568929884716,
+        "y": 77.30938051042443,
+        "text": "버섯크림리조또",
+        "width": 14.112471193102754,
+        "height": 1.5656194895754174,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,879 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_285266_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:14 19:24:10",
+    "store_id": "285266",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          11.544011544011545,
+          13.26471309359453
+        ],
+        [
+          95.23809523809521,
+          11.641336470217915
+        ],
+        [
+          96.28755083300537,
+          68.31193859536549
+        ],
+        [
+          12.855831037649217,
+          68.75467767446821
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "산낙지초무침",
+        "en.ROMAN": "sannakjichomuchim",
+        "en": "Sweet and Sour Live Octopus Salad",
+        "ja": "生テナガダコの酢の物",
+        "zh_CN": "醋拌活长爪章鱼",
+        "zh_TW": "醋拌活章魚",
+        "price": "30000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_2",
+      "ocr": {
+        "x": 58.59185819657198,
+        "y": 24.463736180062757,
+        "text": "산낙지초무침",
+        "width": 16.44297262181441,
+        "height": 2.080101533227016,
+        "rotation": 357.9319826237502
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "아구찜/탕",
+        "en.ROMAN": "agujjim/tang",
+        "en": "Spicy Braised Monkfish/ Monkfish Soup",
+        "ja": "アンコウの蒸し物/スープ",
+        "zh_CN": "炖安康鱼/汤",
+        "zh_TW": "燉鮟鱇魚/鮟鱇魚湯",
+        "price": "50000",
+        "ingredients.ko": [
+          "아귀"
+        ],
+        "ingredients.en": [
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮟鱇魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_6",
+      "ocr": {
+        "x": 17.38004958120315,
+        "y": 25.804797399046194,
+        "text": "아구찜/탕",
+        "width": 16.101331991505187,
+        "height": 2.4504220853203833,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "산낙지숙회",
+        "en.ROMAN": "sannakjisukhoe",
+        "en": "Parboiled Octopus",
+        "ja": "ゆで生テナガダコ",
+        "zh_CN": "辛奇日式炸鸡块盖饭",
+        "zh_TW": "燙活章魚",
+        "price": "30000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_10",
+      "ocr": {
+        "x": 58.658761986118286,
+        "y": 27.628736740590647,
+        "text": "산낙지숙회",
+        "width": 13.795584532642563,
+        "height": 2.070811856324413,
+        "rotation": 358.18979337464293
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "홍어무침",
+        "en.ROMAN": "hongsomuchim",
+        "en": "Skate Salad",
+        "ja": "ガンギエイの和え物",
+        "zh_CN": "凉拌斑鳐",
+        "zh_TW": "涼拌斑甕鰩",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_14",
+      "ocr": {
+        "x": 58.70337477797522,
+        "y": 30.650000000000038,
+        "text": "홍어무침",
+        "width": 11.012433392539968,
+        "height": 2.20935214464749,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "연포탕",
+        "en.ROMAN": "yeonpotang",
+        "en": "Octopus Soup",
+        "ja": "テナガダコスープ",
+        "zh_CN": "长爪章鱼鲜蔬汤",
+        "zh_TW": "小章魚鮮蔬湯",
+        "price": "65000",
+        "ingredients.ko": [
+          "야채",
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_15",
+      "ocr": {
+        "x": 17.75305768970573,
+        "y": 31.43493246634874,
+        "text": "연포탕",
+        "width": 8.756679742914526,
+        "height": 2.280135067302515,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "산낙지회",
+        "en.ROMAN": "sannakjihoe",
+        "en": "Sliced Raw Octopus",
+        "ja": "生テナガダコの刺身",
+        "zh_CN": "活长爪章鱼刺身",
+        "zh_TW": "生活章魚",
+        "price": "20000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_19",
+      "ocr": {
+        "x": 58.79647825048114,
+        "y": 33.823093002506575,
+        "text": "산낙지회",
+        "width": 10.939385643816477,
+        "height": 2.12938871321147,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "산낙지찜/볶음",
+        "en.ROMAN": "sannakjijjim/bokkeum",
+        "en": "Braised Octopus / Stir-fried Octopus",
+        "ja": "生テナガダコの蒸し物/炒め",
+        "zh_CN": "炖长爪章鱼、辣炒长爪章鱼",
+        "zh_TW": "辣燉/炒活章魚",
+        "price": "65000",
+        "ingredients.ko": [
+          "낙지",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "テナガダコ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_22",
+      "ocr": {
+        "x": 17.850767628002114,
+        "y": 36.76986493269755,
+        "text": "산낙지찜/볶음",
+        "width": 19.39610502695192,
+        "height": 2.435354551669045,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "가오리찜",
+        "en.ROMAN": "gaorijjim",
+        "en": "Steamed Ray",
+        "ja": "アカエイの蒸し物",
+        "zh_CN": "蒸鳐鱼",
+        "zh_TW": "蒸鰩魚",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "가오리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ray"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "エイ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳐鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鰩魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_24",
+      "ocr": {
+        "x": 58.9253996447601,
+        "y": 36.99327390952449,
+        "text": "가오리찜",
+        "width": 11.000294162062366,
+        "height": 2.122589135713362,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "꼬막무침",
+        "en.ROMAN": "kkomangmuchim",
+        "en": "Cockle Salad",
+        "ja": "ハイガイの和え物",
+        "zh_CN": "凉拌泥蚶",
+        "zh_TW": "涼拌泥蚶",
+        "price": "20000",
+        "ingredients.ko": [
+          "고추",
+          "꼬막"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Cockle"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "ハイガイ"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "泥蚶"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "泥蚶"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_28",
+      "ocr": {
+        "x": 58.91332373731916,
+        "y": 40.125000000000135,
+        "text": "꼬막무침",
+        "width": 10.891294379909962,
+        "height": 2.0477579698413497,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_32",
+      "ocr": {
+        "x": 59.1918294849023,
+        "y": 48.400000000000006,
+        "text": "소주",
+        "width": 5.57939408431124,
+        "height": 1.879971850977653,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "아구탕",
+        "en.ROMAN": "agutang",
+        "en": "Monkfish Soup",
+        "ja": "アンコウスープ",
+        "zh_CN": "安康鱼汤",
+        "zh_TW": "鮟鱇魚湯",
+        "price": "11000",
+        "ingredients.ko": [
+          "아귀"
+        ],
+        "ingredients.en": [
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮟鱇魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_33",
+      "ocr": {
+        "x": 18.374727316703993,
+        "y": 49.924915582936,
+        "text": "아구탕/지리",
+        "width": 16.651959993435817,
+        "height": 2.440236367779338,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_36",
+      "ocr": {
+        "x": 59.325044404973355,
+        "y": 51.45,
+        "text": "막걸리",
+        "width": 7.992895204262878,
+        "height": 2,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "생대구탕/지리",
+        "en.ROMAN": "saengdaegutang/Ji-ri",
+        "en": "Spicy Fresh Codfish Soup / Fresh Codfish Soup",
+        "ja": "たらスープ",
+        "zh_CN": "鲜鳕鱼汤/清汤",
+        "zh_TW": "鮮辣鱈魚湯／清湯",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "대구"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_37",
+      "ocr": {
+        "x": 18.436932273225736,
+        "y": 53.329966233174204,
+        "text": "생대구탕/지리",
+        "width": 19.713357738228396,
+        "height": 2.3500844170640534,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_39",
+      "ocr": {
+        "x": 59.325044404973355,
+        "y": 54.575,
+        "text": "맥주",
+        "width": 5.639431616341031,
+        "height": 1.925,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "낙지덮밥",
+        "en.ROMAN": "nakjideopbap",
+        "en": "Spicy Stir-fried Octopus with Rice",
+        "ja": "テナガダコ丼",
+        "zh_CN": "长爪章鱼盖饭",
+        "zh_TW": "章魚蓋飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "낙지",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "テナガダコ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_43",
+      "ocr": {
+        "x": 18.570115531778487,
+        "y": 56.67500000000006,
+        "text": "낙지덮밥",
+        "width": 12.03374777975133,
+        "height": 2.3701181838896654,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_46",
+      "ocr": {
+        "x": 59.325044404973376,
+        "y": 57.575000000000045,
+        "text": "청하",
+        "width": 5.7726465364120765,
+        "height": 2.039915552932931,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "꼬막덮밥",
+        "en.ROMAN": "kkomakdeopbap",
+        "en": "Cockles with Rice",
+        "ja": "ハイガイ丼",
+        "zh_CN": "泥蚶盖饭",
+        "zh_TW": "泥蚶蓋飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "조개"
+        ],
+        "ingredients.en": [
+          "Clam"
+        ],
+        "ingredients.ja": [
+          "貝"
+        ],
+        "ingredients.zh_CN": [
+          "蛤蜊"
+        ],
+        "ingredients.zh_TW": [
+          "蛤蜊"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_48",
+      "ocr": {
+        "x": 18.51687388987567,
+        "y": 60.13989869952311,
+        "text": "꼬막덮밥",
+        "width": 12.140294386593544,
+        "height": 2.2851013004768777,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "산사춘",
+        "en.ROMAN": "sansachun",
+        "en": "Sansachun (Hawberry and Cornelian Cherry Wine)",
+        "ja": "山査春(サンザシの果実酒)",
+        "zh_CN": "山楂春",
+        "zh_TW": "山楂春酒",
+        "price": "8000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_50",
+      "ocr": {
+        "x": 59.51142420240911,
+        "y": 60.68245777646647,
+        "text": "산사춘",
+        "width": 8.270577651073898,
+        "height": 2.029971850977663,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "알탕",
+        "en.ROMAN": "altang",
+        "en": "Spicy Fish Roe Soup",
+        "ja": "魚の卵スープ",
+        "zh_CN": "鱼子汤",
+        "zh_TW": "魚卵湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "생선알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_52",
+      "ocr": {
+        "x": 18.623420496717873,
+        "y": 63.53493246634872,
+        "text": "알탕",
+        "width": 6.08348134991119,
+        "height": 2.325,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "12000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_285266_1-tf_54",
+      "ocr": {
+        "x": 59.51142420240909,
+        "y": 63.83377111176686,
+        "text": "복분자",
+        "width": 8.503855124528028,
+        "height": 2.0074577764664503,
+        "rotation": 0
+      }
+    }
+  ]
+}

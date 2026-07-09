@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0002_538147_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:15 15:58:18",
+    "store_id": "538147",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.54557549845789,
+          27.272334690596693
+        ],
+        [
+          92.14238124264632,
+          23.71987269462478
+        ],
+        [
+          100,
+          87.95896760866427
+        ],
+        [
+          0,
+          84.11849866894867
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "해장별미된장죽",
+        "en.ROMAN": "haejangbyeolmidoenjangjuk",
+        "en": "Soybean Paste Hangover Porridge Special",
+        "ja": "酔い覚ましの珍味テンジャン粥",
+        "zh_CN": "醒酒风味大酱粥",
+        "zh_TW": "內臟風味大醬粥",
+        "price": "15000",
+        "ingredients.ko": [
+          "된장",
+          "채소",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Soybean Paste",
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "テンジャン",
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大酱",
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "大醬",
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_538147_1-tf_1",
+      "ocr": {
+        "x": 74.13761890984445,
+        "y": 38.39757547336282,
+        "text": "해장별미된장죽",
+        "width": 13.126344155631019,
+        "height": 1.5190119857657132,
+        "rotation": 358.46763745889234
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "한우육회물회",
+        "en.ROMAN": "hanuyukhoemulhoe",
+        "en": "Cold Korean Beef Tartare Soup",
+        "ja": "韓牛ユッケと刺身入り冷やしスープ",
+        "zh_CN": "水拌生韩牛肉",
+        "zh_TW": "水拌生韓牛肉",
+        "price": "17000",
+        "ingredients.ko": [
+          "쇠고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_538147_1-tf_2",
+      "ocr": {
+        "x": 21.773294820286743,
+        "y": 38.96422109752299,
+        "text": "한우육회물회",
+        "width": 7.700330261989611,
+        "height": 1.1513246771413228,
+        "rotation": 358.88452956821004
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "한우양념갈비",
+        "en.ROMAN": "hanuyangnyeomgalbi",
+        "en": "Marinated Grilled Galbi",
+        "ja": "韓牛味付けカルビ",
+        "zh_CN": "调味韩牛排骨",
+        "zh_TW": "調味韓牛排骨",
+        "price": "28000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_538147_1-tf_4",
+      "ocr": {
+        "x": 43.79898078539938,
+        "y": 39.68019499478829,
+        "text": "한우양념갈비",
+        "width": 10.339965460404182,
+        "height": 1.46311345865986,
+        "rotation": 357.84218990052636
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "한우육회비빔밥",
+        "en.ROMAN": "hanuyukhoebibimbap",
+        "en": "Korean Beef Tartare Bibimbap",
+        "ja": "韓牛ユッケビビンバ",
+        "zh_CN": "生韩牛肉拌饭",
+        "zh_TW": "生韓牛肉拌飯",
+        "price": "15000",
+        "ingredients.ko": [
+          "채소",
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_538147_1-tf_14",
+      "ocr": {
+        "x": 19.233333333333334,
+        "y": 48.4,
+        "text": "한우육회비빔밥",
+        "width": 9,
+        "height": 1.3,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "프리미엄한우육회",
+        "en.ROMAN": "premium hanuyukoe",
+        "en": "Premium Korean Beef Tartare",
+        "ja": "プレミアム韓牛ユッケ",
+        "zh_CN": "优质生拌韩牛肉",
+        "zh_TW": "頂級韓牛生拌牛肉",
+        "price": "35000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_538147_1-tf_21",
+      "ocr": {
+        "x": 8.941831761886304,
+        "y": 62.66412974990308,
+        "text": "프리미엄한우육회",
+        "width": 14.499668580537033,
+        "height": 1.8122213286436837,
+        "rotation": 0.6493012297554515
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "뭉티기",
+        "en.ROMAN": "mungtigi",
+        "en": "Sliced Raw Bottom Round Steak",
+        "ja": "牛肉の刺身",
+        "zh_CN": "大邱式生肉片",
+        "zh_TW": "大邱式生肉片",
+        "price": "35000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_538147_1-tf_22",
+      "ocr": {
+        "x": 42.2398777268999,
+        "y": 63.226738493353906,
+        "text": "대구명물뭉티기",
+        "width": 13.378818689664856,
+        "height": 1.8969252838157435,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "한우모듬",
+        "en.ROMAN": "hanumodeum",
+        "en": "Assorted Grilled Korean Beef Cuts",
+        "ja": "韓牛の盛り合わせ",
+        "zh_CN": "韩牛拼盘",
+        "zh_TW": "韓牛拼盤",
+        "price": "28000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_538147_1-tf_23",
+      "ocr": {
+        "x": 77.89057803062761,
+        "y": 63.50064352369105,
+        "text": "한우모듬",
+        "width": 8.37623474835213,
+        "height": 2.035671357594762,
+        "rotation": 0.42516106208478277
+      }
+    }
+  ]
+}

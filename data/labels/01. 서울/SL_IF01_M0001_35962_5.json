@@ -1,0 +1,524 @@
+{
+  "meta": {
+    "file_name": "SL_IF01_M0001_35962_5.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:08:26 12:44:57",
+    "store_id": "35962",
+    "store_region": "SL",
+    "store_type": "IF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.38314176245210724,
+          14.254859611231106
+        ],
+        [
+          99.23371647509579,
+          12.09503239740821
+        ],
+        [
+          99.6168582375479,
+          32.181425485961114
+        ],
+        [
+          99.6168582375479,
+          99.78401727861771
+        ],
+        [
+          84.2911877394636,
+          99.78401727861771
+        ],
+        [
+          22.9906850106171,
+          97.80761797854606
+        ],
+        [
+          3.065134099616858,
+          98.0561555075594
+        ],
+        [
+          0,
+          98.70410367170626
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-0",
+      "ocr": {
+        "x": 39.521686974344156,
+        "y": 27.54461165086027,
+        "text": "구르카프라이드치킨",
+        "width": 20.23890452977037,
+        "height": 1.802476333217416,
+        "rotation": 356.55599811962514
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "구르카프라이드치킨",
+        "en.ROMAN": "gurkha fried chicken",
+        "en": "Gurkha Fried Chicken",
+        "ja": "グルカフライドチキン",
+        "zh_CN": "古尔卡油炸鸡",
+        "zh_TW": "古爾卡油炸雞",
+        "price": "17000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-1",
+      "ocr": {
+        "x": 45.80680866255198,
+        "y": 37.0179273271984,
+        "text": "빠니르파코라",
+        "width": 13.22244798930402,
+        "height": 1.6420024420622996,
+        "rotation": 357.1763820767644
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "빠니르파코라",
+        "en.ROMAN": "ppanireu pakora",
+        "en": "Panirpakora (Chinese version only)",
+        "ja": "パニルパコラ",
+        "zh_CN": "潘尼尔·帕科拉",
+        "zh_TW": "潘尼爾·帕科拉",
+        "price": "12000",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-2",
+      "ocr": {
+        "x": 46.3927928947352,
+        "y": 42.54682527499525,
+        "text": "야채파코라",
+        "width": 10.920412678682098,
+        "height": 1.5991982935190443,
+        "rotation": 357.1292628680455
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "야채파코라",
+        "en.ROMAN": "yachae pakora",
+        "en": "It's a vegetable pancake.",
+        "ja": "野菜パコラ",
+        "zh_CN": "蔬菜pacora",
+        "zh_TW": "蔬菜pacora",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-3",
+      "ocr": {
+        "x": 47.39899225671542,
+        "y": 54.350673443986146,
+        "text": "사모사차트",
+        "width": 10.986266412696084,
+        "height": 1.5488075146263418,
+        "rotation": 358.39454027245876
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "사모사차트",
+        "en.ROMAN": "samosachateu",
+        "en": "Samosa Chaat",
+        "ja": "サモサチャート",
+        "zh_CN": "蔬菜咖喱角沙拉",
+        "zh_TW": "Samosacharts",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "감자",
+          "요거트"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Potato",
+          "Yogurt"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "じゃがいも",
+          "ヨーグルト"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "土豆",
+          "酸奶"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "馬鈴薯",
+          "優格"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-4",
+      "ocr": {
+        "x": 65.90901780543345,
+        "y": 72.6046504255195,
+        "text": "마살라파파드",
+        "width": 12.803302736368078,
+        "height": 1.463986062402126,
+        "rotation": 0.6643970921293771
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "마살라파파드",
+        "en.ROMAN": "masala papad",
+        "en": "Masala Papad",
+        "ja": "マサラパーパド",
+        "zh_CN": "马萨拉印度薄饼",
+        "zh_TW": "瑪撒拉脆餅",
+        "price": "7000",
+        "ingredients.ko": [
+          "치즈",
+          "꿀",
+          "밀가루",
+          "요거트"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Honey",
+          "Wheat Flour",
+          "Yogurt"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "蜂蜜",
+          "小麦粉",
+          "ヨーグルト"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "蜂蜜",
+          "面粉",
+          "酸奶"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "蜂蜜",
+          "麵粉",
+          "優格"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": 1
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-5",
+      "ocr": {
+        "x": 34.90448939842,
+        "y": 72.70285854113875,
+        "text": "후렌치프라이",
+        "width": 12.422273735216175,
+        "height": 1.47136735583245,
+        "rotation": 359.10266959379913
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "후렌치프라이",
+        "en.ROMAN": "French fry",
+        "en": "French fries.",
+        "ja": "フレンチフライ",
+        "zh_CN": "炸薯条",
+        "zh_TW": "炸薯條",
+        "price": "8000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-6",
+      "ocr": {
+        "x": 6.05759124773752,
+        "y": 73.34290064704308,
+        "text": "사모사",
+        "width": 6.130696468311052,
+        "height": 1.3976143433951294,
+        "rotation": 356.991843476501
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "사모사",
+        "en.ROMAN": "samosa",
+        "en": "Samosa",
+        "ja": "サモサ",
+        "zh_CN": "咖喱角",
+        "zh_TW": "薩莫薩三角餃",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "감자",
+          "밀가루",
+          "완두콩"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Potato",
+          "Wheat Flour",
+          "Pea"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "じゃがいも",
+          "小麦粉",
+          "エンドウ豆"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "土豆",
+          "面粉",
+          "豌豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "馬鈴薯",
+          "麵粉",
+          "豌豆"
+        ],
+        "allergy": [
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-7",
+      "ocr": {
+        "x": 36.66172885393232,
+        "y": 88.7341443762543,
+        "text": "만츄리안",
+        "width": 7.7693641748624405,
+        "height": 1.4975668712369552,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "만츄리안",
+        "en.ROMAN": "manchyurian",
+        "en": "The Manchu-lian.",
+        "ja": "マンチュリアン",
+        "zh_CN": "曼丘里安",
+        "zh_TW": "曼丘裏安",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "완자"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Meatballs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "団子"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "丸子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "丸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": 1
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-8",
+      "ocr": {
+        "x": 8.708115936694684,
+        "y": 89.0056550921792,
+        "text": "알루찹",
+        "width": 6.443129187121113,
+        "height": 1.4636235550381522,
+        "rotation": 357.35326685310616
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "알루찹",
+        "en.ROMAN": "alluchap",
+        "en": "Aluchap (Aluchap.",
+        "ja": "アルチョップ",
+        "zh_CN": "阿鲁恰布",
+        "zh_TW": "阿魯恰布",
+        "price": "8000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_35962_5-tf-9",
+      "ocr": {
+        "x": 66.85198567362364,
+        "y": 89.12315975475029,
+        "text": "미트볼",
+        "width": 6.188495228518824,
+        "height": 1.482897536493986,
+        "rotation": 2.7504799994601967
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "미트볼",
+        "en.ROMAN": "meatball",
+        "en": "Meatballs",
+        "ja": "ミートボール",
+        "zh_CN": "肉丸",
+        "zh_TW": "肉丸",
+        "price": "12000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": 1
+      }
+    }
+  ]
+}

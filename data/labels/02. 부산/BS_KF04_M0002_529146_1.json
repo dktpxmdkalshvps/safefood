@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "file_name": "BS_KF04_M0002_529146_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:24 13:49:59",
+    "store_id": "529146",
+    "store_region": "BS",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          28.399311531841647,
+          10.853869205006172
+        ],
+        [
+          34.079173838209975,
+          98.05922792173453
+        ],
+        [
+          87.60757314974181,
+          99.99999999999999
+        ],
+        [
+          90.87779690189326,
+          5.290322580645163
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "족발",
+        "en.ROMAN": "jokbal",
+        "en": "Braised Pigs' Feet",
+        "ja": "豚足",
+        "zh_CN": "酱猪蹄",
+        "zh_TW": "豬腳",
+        "price": "14000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_529146_1-tf_7",
+      "ocr": {
+        "x": 37.54129817308501,
+        "y": 36.311053171179275,
+        "text": "족발",
+        "width": 9.844348475704663,
+        "height": 4.349999999999987,
+        "rotation": 357.5385844670501
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "불족",
+        "en.ROMAN": "buljok",
+        "en": "Spicy Braised Pigs' Feet",
+        "ja": "激辛豚足",
+        "zh_CN": "劲辣猪蹄",
+        "zh_TW": "勁辣豬腳",
+        "price": "23000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "치즈",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Cheese",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "チーズ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "奶酪",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "起司",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_529146_1-tf_14",
+      "ocr": {
+        "x": 38.42297115452091,
+        "y": 49.67712052031531,
+        "text": "불족",
+        "width": 9.51572815597916,
+        "height": 4.224999999999997,
+        "rotation": 358.7403151972548
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔막국수",
+        "en.ROMAN": "bibimmakguksu",
+        "en": "Spicy Buckwheat Noodles",
+        "ja": "混ぜそば",
+        "zh_CN": "拌荞麦凉面",
+        "zh_TW": "拌蕎麥麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "오이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Cucumber"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "キュウリ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "黄瓜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "小黃瓜"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_529146_1-tf_25",
+      "ocr": {
+        "x": 52.59568148686758,
+        "y": 71.7222757557236,
+        "text": "비빔막국수",
+        "width": 13.903172260684332,
+        "height": 2.4780724245582726,
+        "rotation": 2.237578762253861
+      }
+    }
+  ]
+}

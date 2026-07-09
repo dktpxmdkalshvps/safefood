@@ -1,0 +1,604 @@
+{
+  "meta": {
+    "file_name": "GK_KF04_M0001_1210237_6.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:09 17:39:21",
+    "store_id": "1210237",
+    "store_region": "GK",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.23809523809523808,
+          0.17857142857142858
+        ],
+        [
+          93.0952380952381,
+          1.9642857142857142
+        ],
+        [
+          99.76190476190476,
+          65.17857142857143
+        ],
+        [
+          99.76190476190476,
+          99.82142857142857
+        ],
+        [
+          0.23809523809523808,
+          99.82142857142857
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "크림메론소다",
+        "en.ROMAN": "cream melon soda",
+        "en": "Cream Melon Soda",
+        "ja": "クリームメロンソーダ",
+        "zh_CN": "奶油哈密瓜汽水",
+        "zh_TW": "奶油哈密瓜蘇打",
+        "price": "4000",
+        "ingredients.ko": [
+          "메론",
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Melon",
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "メロン",
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "哈密瓜",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "哈密瓜",
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_17",
+      "ocr": {
+        "x": 49.14794788385923,
+        "y": 38.08354654951873,
+        "text": "크림메론소다",
+        "width": 16.008914009441487,
+        "height": 2.4976190054127914,
+        "rotation": 0.9995846304205429
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "메론소다",
+        "en.ROMAN": "melon soda",
+        "en": "Melon Flavored Soda",
+        "ja": "メロンソーダ",
+        "zh_CN": "柚子苏打",
+        "zh_TW": "哈密瓜汽水",
+        "price": "3000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_19",
+      "ocr": {
+        "x": 49.23986033683398,
+        "y": 40.7971354914237,
+        "text": "메론소다",
+        "width": 10.133333333333331,
+        "height": 2.522619005412725,
+        "rotation": 0.9995846304209408
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "히츠지야푸딩",
+        "en.ROMAN": "Hitsujiya pudding",
+        "en": "Hitsujiya Pudding",
+        "ja": "ひつじ屋プリン",
+        "zh_CN": "布丁",
+        "zh_TW": "日式布丁",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "雞蛋"
+        ],
+        "allergy": [
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_23",
+      "ocr": {
+        "x": 39.25065101833572,
+        "y": 50.95692998721211,
+        "text": "히츠지야푸딩",
+        "width": 15.53333333333334,
+        "height": 2.4519974607181223,
+        "rotation": 1.6461061338037553
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "딸기에이드",
+        "en.ROMAN": "ttalgi ade",
+        "en": "Strawberry Ade",
+        "ja": "ストロベリーエード",
+        "zh_CN": "草莓汽水",
+        "zh_TW": "草莓氣泡飲",
+        "price": "4000",
+        "ingredients.ko": [
+          "딸기",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "Strawberry",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "いちご",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "草莓",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "草莓",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_43",
+      "ocr": {
+        "x": 8.999999999999996,
+        "y": 85.39999999999985,
+        "text": "딸기에이드",
+        "width": 9.794021252910616,
+        "height": 1.9182739095245418,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "깔라만시에이드",
+        "en.ROMAN": "calamansi ade",
+        "en": "Calamansi Ade",
+        "ja": "カラマンシーエード",
+        "zh_CN": "卡曼橘汽水",
+        "zh_TW": "四季橘蘇打",
+        "price": "4000",
+        "ingredients.ko": [
+          "깔라만시",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "Calamansi",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "カラマンシー",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "卡曼橘",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "四季橘",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_45",
+      "ocr": {
+        "x": 48.96265886839308,
+        "y": 86.53192210489216,
+        "text": "깔라만시에이드",
+        "width": 14.037293530023451,
+        "height": 1.8388066887585093,
+        "rotation": 2.7218071718050965
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "레몬에이드",
+        "en.ROMAN": "lemonade",
+        "en": "Lemonade",
+        "ja": "レモネード",
+        "zh_CN": "柠檬汽水",
+        "zh_TW": "檸檬氣泡飲",
+        "price": "4000",
+        "ingredients.ko": [
+          "레몬",
+          "얼음",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "Lemon",
+          "Ice",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "レモン",
+          "氷",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "柠檬",
+          "冰块",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "檸檬",
+          "冰",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_46",
+      "ocr": {
+        "x": 8.800000000000002,
+        "y": 87.47499999999998,
+        "text": "레몬에이드",
+        "width": 9.866666666666667,
+        "height": 1.8432739095244919,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "우롱차",
+        "en.ROMAN": "oolong cha",
+        "en": "Oolong Tea",
+        "ja": "ウーロン茶",
+        "zh_CN": "乌龙茶",
+        "zh_TW": "烏龍茶",
+        "price": "4000",
+        "ingredients.ko": [
+          "우롱"
+        ],
+        "ingredients.en": [
+          "Oolong"
+        ],
+        "ingredients.ja": [
+          "烏龍"
+        ],
+        "ingredients.zh_CN": [
+          "乌龙"
+        ],
+        "ingredients.zh_TW": [
+          "烏龍"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_49",
+      "ocr": {
+        "x": 48.949933758512834,
+        "y": 88.57651157271394,
+        "text": "우롱차",
+        "width": 5.993772087279288,
+        "height": 1.9352728496745133,
+        "rotation": 2.7218071718057217
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "자몽에이드",
+        "en.ROMAN": "jamong ade",
+        "en": "Grapefruit Ade",
+        "ja": "グレープフルーツエード",
+        "zh_CN": "西柚汽水",
+        "zh_TW": "葡萄柚氣泡飲",
+        "price": "4000",
+        "ingredients.ko": [
+          "자몽",
+          "얼음",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "Grapefruit",
+          "Ice",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "グレープフルーツ",
+          "氷",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "西柚",
+          "冰块",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "葡萄柚",
+          "冰",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_51",
+      "ocr": {
+        "x": 8.57287052592691,
+        "y": 89.5,
+        "text": "자몽에이드",
+        "width": 10.193796140739762,
+        "height": 1.8363789849207401,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "모모우롱차",
+        "en.ROMAN": "momo oolong cha",
+        "en": "Peach Oorong Tea",
+        "ja": "桃ウーロン茶",
+        "zh_CN": "蜜桃（乌龙茶）",
+        "zh_TW": "蜜桃烏龍茶",
+        "price": "5000",
+        "ingredients.ko": [
+          "우롱차"
+        ],
+        "ingredients.en": [
+          "Oolong Tea"
+        ],
+        "ingredients.ja": [
+          "ウーロン茶"
+        ],
+        "ingredients.zh_CN": [
+          "乌龙茶"
+        ],
+        "ingredients.zh_TW": [
+          "烏龍茶"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_53",
+      "ocr": {
+        "x": 48.88949374298819,
+        "y": 90.71694381175644,
+        "text": "모모우롱차",
+        "width": 9.933333333333325,
+        "height": 1.869545426612666,
+        "rotation": 2.7218071718033343
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "청포도에이드",
+        "en.ROMAN": "cheongpodo ade",
+        "en": "White Grape Ade",
+        "ja": "マスカットエード",
+        "zh_CN": "青葡萄汽水",
+        "zh_TW": "青葡萄氣泡飲",
+        "price": "4000",
+        "ingredients.ko": [
+          "청포도",
+          "얼음",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "White Grape",
+          "Ice",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "マスカット",
+          "氷",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "青葡萄",
+          "冰块",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "青葡萄",
+          "冰",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_54",
+      "ocr": {
+        "x": 8.512099049355175,
+        "y": 91.59999999999998,
+        "text": "청포도에이드",
+        "width": 11.72123428397815,
+        "height": 1.774999999999998,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_57",
+      "ocr": {
+        "x": 48.756392376495185,
+        "y": 92.78160508366203,
+        "text": "콜라",
+        "width": 4.086481569239426,
+        "height": 1.8486682635708327,
+        "rotation": 2.721807171804244
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "체리에이드",
+        "en.ROMAN": "cherry ade",
+        "en": "Cherry Ade",
+        "ja": "チェリーエード",
+        "zh_CN": "樱桃汽水",
+        "zh_TW": "櫻桃氣泡飲",
+        "price": "4000",
+        "ingredients.ko": [
+          "체리",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "Cherry",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "さくらんぼ",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "车厘子",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "櫻桃",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_58",
+      "ocr": {
+        "x": 8.499999999999998,
+        "y": 93.57555571526228,
+        "text": "체리에이드",
+        "width": 9.63333333333333,
+        "height": 1.8244442847377123,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1210237_6-tf_61",
+      "ocr": {
+        "x": 48.5552559748445,
+        "y": 94.84022642833744,
+        "text": "사이다",
+        "width": 6.008845190817111,
+        "height": 1.8550313073592792,
+        "rotation": 2.7218071718050965
+      }
+    }
+  ]
+}

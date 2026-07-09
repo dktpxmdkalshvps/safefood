@@ -1,0 +1,704 @@
+{
+  "meta": {
+    "file_name": "GJ_KF04_M0002_802135_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:21 20:34:15",
+    "store_id": "802135",
+    "store_region": "GJ",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          98.94260208694975,
+          3.2842706497571568
+        ],
+        [
+          2.1148036253776437,
+          2.151755379388448
+        ],
+        [
+          0.1510574018126888,
+          99.43374858437146
+        ],
+        [
+          99.69788519637463,
+          99.88674971687429
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "보쌈",
+        "en.ROMAN": "bossam",
+        "en": "Napa Wraps with Pork",
+        "ja": "ポサム",
+        "zh_CN": "菜包肉",
+        "zh_TW": "菜包肉",
+        "price": "26000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_7",
+      "ocr": {
+        "x": 61.98274827824589,
+        "y": 29.62500000000002,
+        "text": "보쌈",
+        "width": 8.744620454525682,
+        "height": 3.384876833286247,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "싱글",
+        "en.ROMAN": "single",
+        "en": "Single Fried Chicken",
+        "ja": "シングル",
+        "zh_CN": "单人份",
+        "zh_TW": "Single",
+        "price": "24000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_12",
+      "ocr": {
+        "x": 26.832013854217553,
+        "y": 35.578222390645465,
+        "text": "싱글",
+        "width": 9.18471933042594,
+        "height": 2.705353525548926,
+        "rotation": 0.726676843756195
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "온가족",
+        "en.ROMAN": "ongajok",
+        "en": "the whole family",
+        "ja": "家族全員",
+        "zh_CN": "全家",
+        "zh_TW": "全家",
+        "price": "34000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_16",
+      "ocr": {
+        "x": 26.764463386281975,
+        "y": 38.53852982908553,
+        "text": "온가족",
+        "width": 9.249472390702854,
+        "height": 2.6839380314243115,
+        "rotation": 0.7568788510608329
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "대가족족발",
+        "en.ROMAN": "daegajokjokbal",
+        "en": "Large Family Braised Pig’s Feet",
+        "ja": "大家族豚足",
+        "zh_CN": "大家庭猪蹄",
+        "zh_TW": "家庭號豬腳",
+        "price": "43000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_21",
+      "ocr": {
+        "x": 26.72780159122247,
+        "y": 41.58240916854967,
+        "text": "대가족",
+        "width": 9.292004423612626,
+        "height": 2.635809417102786,
+        "rotation": 0.7621582833770617
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "족/보",
+        "en.ROMAN": "jok/bo",
+        "en": "a genealogy / a genealogy",
+        "ja": "族/歩",
+        "zh_CN": "族/谱",
+        "zh_TW": "族/譜",
+        "price": "38000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_20",
+      "ocr": {
+        "x": 60.1464326446313,
+        "y": 41.64999999999977,
+        "text": "족/보",
+        "width": 10.726100005039537,
+        "height": 3.4827121790998348,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "따뜻한커플족",
+        "en.ROMAN": "ttatteutan couple jok",
+        "en": "a warm couple",
+        "ja": "暖かいカップル族",
+        "zh_CN": "温暖的情侣族",
+        "zh_TW": "溫暖的情侶族",
+        "price": "29000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_25",
+      "ocr": {
+        "x": 26.592240950896052,
+        "y": 48.15000000000012,
+        "text": "따뜻한커플족",
+        "width": 14.95557504440447,
+        "height": 2.675000000000011,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "화끈한커플족",
+        "en.ROMAN": "hwakkeunhan couple jok",
+        "en": "a hot couple",
+        "ja": "熱いカップル族",
+        "zh_CN": "火辣的情侣族",
+        "zh_TW": "火辣的情侶族",
+        "price": "29000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_28",
+      "ocr": {
+        "x": 26.497954601099558,
+        "y": 51.200000000000166,
+        "text": "화끈한커플족",
+        "width": 15.049861394200995,
+        "height": 2.600000000000013,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "바베큐",
+        "en.ROMAN": "barbecue",
+        "en": "Barbeque",
+        "ja": "バーベキュー",
+        "zh_CN": "BBQ",
+        "zh_TW": "BBQ烤肉",
+        "price": "26000",
+        "ingredients.ko": [
+          "고기"
+        ],
+        "ingredients.en": [
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_30",
+      "ocr": {
+        "x": 59.3827482782459,
+        "y": 52.56743841664313,
+        "text": "바베큐",
+        "width": 12.695205509613057,
+        "height": 3.440123166713737,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "불향가득커플족",
+        "en.ROMAN": "bulhyanggadeuk couple jok",
+        "en": "an inscented couple",
+        "ja": "不香たっぷりカップル族",
+        "zh_CN": "充满佛香的情侣族",
+        "zh_TW": "充滿佛香的情侶族",
+        "price": "29000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_32",
+      "ocr": {
+        "x": 26.366666666666745,
+        "y": 54.15000000000012,
+        "text": "불향가득커플족",
+        "width": 15.113477043364995,
+        "height": 2.60000000000001,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "미니족",
+        "en.ROMAN": "mini jok",
+        "en": "Braised Mini Pigs' Feet",
+        "ja": "ミニ豚足",
+        "zh_CN": "迷你酱猪蹄",
+        "zh_TW": "迷你豬腳",
+        "price": "24000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_36",
+      "ocr": {
+        "x": 67.02619862259671,
+        "y": 62.059876833286246,
+        "text": "미니족",
+        "width": 12.93748574378906,
+        "height": 3.6779310834981227,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "미니불족",
+        "en.ROMAN": "mini buljok",
+        "en": "Mini Spicy Braised Pigs' Feet",
+        "ja": "ミニ激辛豚足",
+        "zh_CN": "迷你劲辣猪蹄",
+        "zh_TW": "迷你辣豬腳",
+        "price": "26000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_41",
+      "ocr": {
+        "x": 62.85953195593008,
+        "y": 66.46513450259157,
+        "text": "미니불족",
+        "width": 17.147602754806535,
+        "height": 3.5825502474791087,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "주먹밥",
+        "en.ROMAN": "jumeokbap",
+        "en": "Riceball",
+        "ja": "おにぎり",
+        "zh_CN": "饭团",
+        "zh_TW": "飯糰",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_46",
+      "ocr": {
+        "x": 28.675608583339958,
+        "y": 77.06060048413819,
+        "text": "주먹밥",
+        "width": 13.020599333315838,
+        "height": 4.010600484138134,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "막국수",
+        "en.ROMAN": "makguksu",
+        "en": "Buckwheat Noodles",
+        "ja": "混ぜそば",
+        "zh_CN": "荞麦凉面",
+        "zh_TW": "蕎麥麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "오이",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Cucumber",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "キュウリ",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "黄瓜",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "小黃瓜",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_47",
+      "ocr": {
+        "x": 59.408941916673214,
+        "y": 77.10000000000002,
+        "text": "막국수",
+        "width": 12.810299666657958,
+        "height": 4.125000000000053,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_50",
+      "ocr": {
+        "x": 28.542275250006746,
+        "y": 82.20379903172368,
+        "text": "소주",
+        "width": 8.676074750428986,
+        "height": 4.217401936552695,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "p15S-daB9t",
+      "ocr": {
+        "x": 39.035698531500415,
+        "y": 82.20656609252852,
+        "text": "맥주",
+        "width": 8.727436166305068,
+        "height": 4.176348681352991,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF04_M0002_802135_1-tf_51",
+      "ocr": {
+        "x": 59.98970033334224,
+        "y": 82.28939951586196,
+        "text": "음료수",
+        "width": 12.868024416651288,
+        "height": 4.1143995158620035,
+        "rotation": 0
+      }
+    }
+  ]
+}

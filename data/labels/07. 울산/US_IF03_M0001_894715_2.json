@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "file_name": "US_IF03_M0001_894715_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:29 16:54:12",
+    "store_id": "894715",
+    "store_region": "US",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.322766570605188,
+          0.21645021645021645
+        ],
+        [
+          92.79538904899135,
+          0.8658008658008658
+        ],
+        [
+          96.82997118155619,
+          100
+        ],
+        [
+          2.881844380403458,
+          99.35064935064936
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "오마카세",
+        "en.ROMAN": "omakase",
+        "en": "Omakase",
+        "ja": "おまかせ",
+        "zh_CN": "厨师精选料理",
+        "zh_TW": "主廚特選套餐",
+        "price": "38000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_894715_2-tf_2",
+      "ocr": {
+        "x": 46.64403149221287,
+        "y": 13.512772803986692,
+        "text": "규화오마카세",
+        "width": 15.36239225110871,
+        "height": 2.0182002965212034,
+        "rotation": 0.4303859687731233
+      }
+    }
+  ]
+}

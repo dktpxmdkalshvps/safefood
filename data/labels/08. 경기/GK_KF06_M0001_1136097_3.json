@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "file_name": "GK_KF06_M0001_1136097_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:07:28 20:33:30",
+    "store_id": "1136097",
+    "store_region": "GK",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          98.6413043478261,
+          1.2219959266802443
+        ],
+        [
+          0.463279693154063,
+          0.29891900360332124
+        ],
+        [
+          0.8018387166423755,
+          99.50180166066114
+        ],
+        [
+          98.85514270164866,
+          99.85931380228733
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_KF06_M0001_1136097_3-tf-0",
+      "ocr": {
+        "x": 34.58492618900415,
+        "y": 2.999128564327078,
+        "text": "하몽&멜론",
+        "width": 17.264637553911523,
+        "height": 3.526325184419212,
+        "rotation": 359.0653278353651
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "하몽&멜론",
+        "en.ROMAN": "jamon & melon",
+        "en": "Jamon & Melon",
+        "ja": "生ハム&メロン",
+        "zh_CN": "熏火腿&哈密瓜",
+        "zh_TW": "西班牙伊比利火腿&哈密瓜",
+        "price": "10900",
+        "ingredients.ko": [
+          "멜론",
+          "하몽"
+        ],
+        "ingredients.en": [
+          "Melon",
+          "Jamón"
+        ],
+        "ingredients.ja": [
+          "メロン",
+          "生ハム"
+        ],
+        "ingredients.zh_CN": [
+          "哈密瓜",
+          "熏火腿"
+        ],
+        "ingredients.zh_TW": [
+          "哈密瓜",
+          "西班牙伊比利火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF06_M0001_1136097_3-tf-1",
+      "ocr": {
+        "x": 36.4411678771874,
+        "y": 29.038022142725744,
+        "text": "에그인헬",
+        "width": 13.146141058787306,
+        "height": 3.4196290053414167,
+        "rotation": 358.0810196602817
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "에그인헬",
+        "en.ROMAN": "egg in hell",
+        "en": "Egg in Hell",
+        "ja": "エッグインヘル",
+        "zh_CN": "地狱之蛋",
+        "zh_TW": "地獄烤蛋",
+        "price": "11900",
+        "ingredients.ko": [
+          "야채",
+          "계란",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Eggs",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "卵",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡蛋",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞蛋",
+          "番茄"
+        ],
+        "allergy": [
+          "토마토"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "Bfb6yICoNf",
+      "ocr": {
+        "x": 35.53943047562642,
+        "y": 16.452394571783184,
+        "text": "맛집떡볶이",
+        "width": 17.465132981056218,
+        "height": 3.3525649696108415,
+        "rotation": 357.6680973814084
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "맛집떡볶이",
+        "en.ROMAN": "matjiptteokbokki",
+        "en": "Tteokbokki",
+        "ja": "美味しいトッポッキ",
+        "zh_CN": "美食店辣炒年糕",
+        "zh_TW": "辣炒年糕餐廳",
+        "price": "10900",
+        "ingredients.ko": [
+          "야채",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "skeOyuHilm",
+      "ocr": {
+        "x": 37.38516940719218,
+        "y": 42.25932425122402,
+        "text": "파인애플치즈구이",
+        "width": 26.435902995463334,
+        "height": 3.2996452079322625,
+        "rotation": 357.53347476450017
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "파인애플치즈구이",
+        "en.ROMAN": "pineapple cheese gui",
+        "en": "Grilled Pineapple & Cheese",
+        "ja": "パイナップルチーズ焼き",
+        "zh_CN": "烤菠萝奶酪",
+        "zh_TW": "鳳梨烤起司",
+        "price": "11900",
+        "ingredients.ko": [
+          "치즈",
+          "파인애플"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Pineapple"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "パインアップル"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "菠萝"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "鳳梨"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "aFtczaDfuF",
+      "ocr": {
+        "x": 39.179403795886685,
+        "y": 65.39469379116257,
+        "text": "들깨파스타",
+        "width": 17.210152508429157,
+        "height": 3.1064569229974484,
+        "rotation": 357.90981028302787
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "들깨파스타",
+        "en.ROMAN": "deulkkae pasta",
+        "en": "Perilla Seed Pasta",
+        "ja": "エゴマパスタ",
+        "zh_CN": "紫苏意大利面",
+        "zh_TW": "紫蘇義大利麵",
+        "price": "11900",
+        "ingredients.ko": [
+          "들깨",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Perilla Seeds",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "エゴマ",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "紫苏",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "紫蘇",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "c7bJoGLQgj",
+      "ocr": {
+        "x": 40.13431815890025,
+        "y": 77.4801318107748,
+        "text": "쉬림프로제파스타",
+        "width": 26.795559955955746,
+        "height": 2.9884181754865367,
+        "rotation": 358.3555771340125
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "쉬림프로제파스타",
+        "en.ROMAN": "shrimp rosé pasta",
+        "en": "Shrimp rosé pasta",
+        "ja": "シュリンプ入りロゼパスタ",
+        "zh_CN": "虾仁番茄奶油意大利面",
+        "zh_TW": "番茄奶油鮮蝦義大利麵",
+        "price": "12900",
+        "ingredients.ko": [
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "gsq7fcGZLD",
+      "ocr": {
+        "x": 40.96806159843826,
+        "y": 88.86824320462861,
+        "text": "트러플크림파스타",
+        "width": 26.564041361471716,
+        "height": 3.1234740930311036,
+        "rotation": 359.30128986470777
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "트러플크림파스타",
+        "en.ROMAN": "truffle cream pasta",
+        "en": "Truffle Cream Pasta",
+        "ja": "トリュフクリームパスタ",
+        "zh_CN": "松露奶油意大利面",
+        "zh_TW": "奶油松露義大利麵",
+        "price": "12900",
+        "ingredients.ko": [
+          "크림",
+          "트러플",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Cream",
+          "Truffle",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "クリーム",
+          "トリュフ",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "奶油",
+          "松露",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "松露",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

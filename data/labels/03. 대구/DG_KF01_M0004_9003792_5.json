@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "file_name": "DG_KF01_M0004_9003792_5.jpg",
+    "image_original_width": 3744,
+    "image_original_height": 3000,
+    "captured_date": "2022:11:14 21:32:54",
+    "store_id": "9003792",
+    "store_region": "DG",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.511816797794472e-17,
+          11.86440677966102
+        ],
+        [
+          81.78733031674209,
+          13.135593220338986
+        ],
+        [
+          81.6742081447964,
+          77.96610169491525
+        ],
+        [
+          0,
+          76.8361581920904
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "계란말이",
+        "en.ROMAN": "gyeranmari",
+        "en": "Rolled Omelet",
+        "ja": "卵焼き",
+        "zh_CN": "鸡蛋卷",
+        "zh_TW": "雞蛋捲",
+        "price": "9900",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_9003792_5-tf_8",
+      "ocr": {
+        "x": 20.06164638410509,
+        "y": 44.58958374229371,
+        "text": "계란말이",
+        "width": 5.579379256920478,
+        "height": 2.401487102048307,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "모듬소시지",
+        "en.ROMAN": "modeum sausage",
+        "en": "Assorted Sausages",
+        "ja": "ソーセージの盛り合わせ",
+        "zh_CN": "香肠拼盘",
+        "zh_TW": "香腸拼盤",
+        "price": "12900",
+        "ingredients.ko": [
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_9003792_5-tf_9",
+      "ocr": {
+        "x": 42.44356912288872,
+        "y": 44.93016793504937,
+        "text": "모듬소시지",
+        "width": 6.861416424504703,
+        "height": 2.3437741480430927,
+        "rotation": 1.354228649860147
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "훈제치킨",
+        "en.ROMAN": "hunje chicken",
+        "en": "Smoked Chicken",
+        "ja": "燻製チキン",
+        "zh_CN": "熏炸鸡",
+        "zh_TW": "燻雞肉",
+        "price": "14900",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0004_9003792_5-tf_10",
+      "ocr": {
+        "x": 66.06806222245417,
+        "y": 45.32371014444548,
+        "text": "훈제치킨",
+        "width": 5.620384123550859,
+        "height": 2.488284755911889,
+        "rotation": 1.420705220152911
+      }
+    }
+  ]
+}

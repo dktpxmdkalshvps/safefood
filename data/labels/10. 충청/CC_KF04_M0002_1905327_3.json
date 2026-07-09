@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "file_name": "CC_KF04_M0002_1905327_3.jpg",
+    "image_original_width": 2604,
+    "image_original_height": 4624,
+    "captured_date": "2022:10:21 22:13:06",
+    "store_id": "1905327",
+    "store_region": "CC",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          22.480627755671378,
+          0
+        ],
+        [
+          79.84499164284055,
+          0
+        ],
+        [
+          84.49614683290562,
+          99.27235273521903
+        ],
+        [
+          19.379791756811976,
+          99.7090944161549
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "보쌈",
+        "en.ROMAN": "bossam",
+        "en": "Napa Wraps with Pork",
+        "ja": "ポサム",
+        "zh_CN": "菜包肉",
+        "zh_TW": "菜包肉",
+        "price": "42000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF04_M0002_1905327_3-tf_4",
+      "ocr": {
+        "x": 29.07186601955136,
+        "y": 35.83520989862293,
+        "text": "보쌈",
+        "width": 11.492885427099006,
+        "height": 4.303198405875677,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "회보쌈",
+        "en.ROMAN": "hoebossam",
+        "en": "Napa Wraps with Sliced Raw Fish",
+        "ja": "刺身ポサム",
+        "zh_CN": "半干明太鱼菜包肉",
+        "zh_TW": "生魚片菜包肉",
+        "price": "50000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF04_M0002_1905327_3-tf_18",
+      "ocr": {
+        "x": 27.347509443074667,
+        "y": 79.76969508622624,
+        "text": "회보쌈",
+        "width": 17.036524194739158,
+        "height": 4.800748483244218,
+        "rotation": 358.3439363350006
+      }
+    }
+  ]
+}

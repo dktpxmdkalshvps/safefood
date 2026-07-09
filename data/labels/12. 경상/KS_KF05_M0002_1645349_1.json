@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "file_name": "KS_KF05_M0002_1645349_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:12:05 15:25:01",
+    "store_id": "1645349",
+    "store_region": "KS",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          8.032786868843013,
+          0
+        ],
+        [
+          90.98360655737704,
+          0
+        ],
+        [
+          91.13317093830113,
+          46.57544487552089
+        ],
+        [
+          91.80327868852459,
+          99.85443959243086
+        ],
+        [
+          9.016393426220063,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "오징어",
+        "en.ROMAN": "ojingeo",
+        "en": "Squid",
+        "ja": "イカ",
+        "zh_CN": "鱿鱼",
+        "zh_TW": "魷魚",
+        "price": "8000",
+        "ingredients.ko": [
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "wz8DerpEQx",
+      "ocr": {
+        "x": 45.55082135869071,
+        "y": 29.30314348237172,
+        "text": "오징어",
+        "width": 6.071666085963682,
+        "height": 3.962205435785538,
+        "rotation": 358.4462420697366
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "멸치",
+        "en.ROMAN": "myeolchi",
+        "en": "Dried Anchovy Gimbap",
+        "ja": "カタクチイワシ",
+        "zh_CN": "鳀鱼",
+        "zh_TW": "鯷魚",
+        "price": "8000",
+        "ingredients.ko": [
+          "멸치"
+        ],
+        "ingredients.en": [
+          "Anchovies"
+        ],
+        "ingredients.ja": [
+          "カタクチイワシ"
+        ],
+        "ingredients.zh_CN": [
+          "鳀鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯷魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "UtQdP_OXj-",
+      "ocr": {
+        "x": 40.4749093244444,
+        "y": 29.330243808055847,
+        "text": "멸치",
+        "width": 3.9371298210509074,
+        "height": 3.9414012205118687,
+        "rotation": 359.4599979217503
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "미주구리물회",
+        "en.ROMAN": "mijugurimulhoe",
+        "en": "Cold Raw Flathead Soup",
+        "ja": "ムシガレイ入り冷やしスープ",
+        "zh_CN": "韩国野生水拌鲽鱼",
+        "zh_TW": "蟲鰈水拌生魚片",
+        "price": "8000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IKB9tmr2PJ",
+      "ocr": {
+        "x": 31.241688817477648,
+        "y": 29.544795287224847,
+        "text": "미주구리",
+        "width": 7.949571865618685,
+        "height": 4.0059394949350215,
+        "rotation": 359.4247590680893
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "전어",
+        "en.ROMAN": "jeoneo",
+        "en": "Gizzard Shad",
+        "ja": "コノシロ",
+        "zh_CN": "斑鰶",
+        "zh_TW": "窩斑鰶",
+        "price": "8000",
+        "ingredients.ko": [
+          "전어"
+        ],
+        "ingredients.en": [
+          "Gizzard Shad"
+        ],
+        "ingredients.ja": [
+          "コノシロ"
+        ],
+        "ingredients.zh_CN": [
+          "斑鰶"
+        ],
+        "ingredients.zh_TW": [
+          "窩斑鰶"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "5vqqtr39RZ",
+      "ocr": {
+        "x": 25.914457290891672,
+        "y": 29.654881124387668,
+        "text": "전어",
+        "width": 4.02437227775471,
+        "height": 3.9966659526490442,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "청어구이",
+        "en.ROMAN": "cheongeogui",
+        "en": "Grilled Herring",
+        "ja": "にしん焼き",
+        "zh_CN": "烤青鱼",
+        "zh_TW": "烤鯡魚",
+        "price": "8000",
+        "ingredients.ko": [
+          "청어"
+        ],
+        "ingredients.en": [
+          "Herring"
+        ],
+        "ingredients.ja": [
+          "にしん"
+        ],
+        "ingredients.zh_CN": [
+          "青鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯡魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BlKzc9d2qQ",
+      "ocr": {
+        "x": 20.634258635051516,
+        "y": 29.82826021542088,
+        "text": "청어",
+        "width": 4.032277496638589,
+        "height": 4.024425622990872,
+        "rotation": 359.41744821842053
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "청어물회",
+        "en.ROMAN": "cheongeomulhoe",
+        "en": "Cold Sliced Raw Herring Soup",
+        "ja": "にしんの刺身入り冷製スープ",
+        "zh_CN": "水拌青鱼生鱼片",
+        "zh_TW": "水拌鯡魚生魚片",
+        "price": "10000",
+        "ingredients.ko": [
+          "장어",
+          "채소",
+          "양념육수"
+        ],
+        "ingredients.en": [
+          "Eel",
+          "Vegetables",
+          "Seasoned Broth"
+        ],
+        "ingredients.ja": [
+          "ウナギ",
+          "野菜",
+          "味付けスープ"
+        ],
+        "ingredients.zh_CN": [
+          "鳗鱼",
+          "蔬菜",
+          "调味肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "鰻魚",
+          "蔬菜",
+          "調味高湯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "x0ofmw1EOr",
+      "ocr": {
+        "x": 20.05618683453245,
+        "y": 36.658587441318296,
+        "text": "청어물회",
+        "width": 14.159797637817103,
+        "height": 6.803855513075661,
+        "rotation": 359.14873344912326
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "정식",
+        "en.ROMAN": "jeongsik",
+        "en": "Set Menu",
+        "ja": "定食",
+        "zh_CN": "套餐",
+        "zh_TW": "套餐",
+        "price": "7000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "yl39MKVOXH",
+      "ocr": {
+        "x": 20.059526280462027,
+        "y": 46.443234610285046,
+        "text": "정식",
+        "width": 10.724183842984182,
+        "height": 6.775941344584338,
+        "rotation": 359.2438241224681
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "mX6EXAdUYH",
+      "ocr": {
+        "x": 20.20290963726282,
+        "y": 71.74803971368543,
+        "text": "소주",
+        "width": 11.02430327164011,
+        "height": 5.97080610301345,
+        "rotation": 359.3797201894246
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "niMxBVIQ5o",
+      "ocr": {
+        "x": 20.412687549673347,
+        "y": 80.59502901172591,
+        "text": "맥주",
+        "width": 10.872000809016724,
+        "height": 6.051510151429706,
+        "rotation": 359.3797201894281
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "XLYASEEtGV",
+      "ocr": {
+        "x": 20.240018226332655,
+        "y": 89.52852104426717,
+        "text": "음료수",
+        "width": 11.27560778528233,
+        "height": 6.106941168459095,
+        "rotation": 359.37972018943225
+      }
+    }
+  ]
+}

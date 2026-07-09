@@ -1,0 +1,930 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0002_756838_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:12:05 13:09:37",
+    "store_id": "756838",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          5.84045584045584,
+          25.31645569620253
+        ],
+        [
+          98.86039886039886,
+          22.78481012658228
+        ],
+        [
+          99.71509971509974,
+          78.73417721518987
+        ],
+        [
+          3.2763532763532766,
+          74.68354430379745
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "뼈해장국",
+        "en.ROMAN": "ppyeohaejangguk",
+        "en": "Pork Backbone Hangover Soup",
+        "ja": "豚の背骨酔い覚ましスープ",
+        "zh_CN": "腔骨醒酒汤",
+        "zh_TW": "豬骨醒酒湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_1",
+      "ocr": {
+        "x": 46.52500000000007,
+        "y": 32.792252358252455,
+        "text": "뼈해장국",
+        "width": 8.499999999999945,
+        "height": 3.7209676834097323,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "우거지감자탕",
+        "en.ROMAN": "ugeojigamjatang",
+        "en": "Napa Cabbage and Pork Backbone Stew",
+        "ja": "白菜入りカムジャタン",
+        "zh_CN": "干白菜脊骨土豆汤",
+        "zh_TW": "乾白菜馬鈴薯排骨湯",
+        "price": "40000",
+        "ingredients.ko": [
+          "채소",
+          "우거지",
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Napa Cabbage",
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "白菜",
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "干白菜",
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "乾白菜",
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_0",
+      "ocr": {
+        "x": 19.269990972789,
+        "y": 32.957540309485466,
+        "text": "우거지감자탕",
+        "width": 12.700970526930663,
+        "height": 3.6337986685033914,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뼈추가",
+        "en.ROMAN": "ppyeo chuga",
+        "en": "Extra Serving of Pork Backbone",
+        "ja": "豚の背骨追加",
+        "zh_CN": "另加腔骨",
+        "zh_TW": "加點豬骨",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_10",
+      "ocr": {
+        "x": 74.425,
+        "y": 39.60923623445826,
+        "text": "뼈추가",
+        "width": 6.75,
+        "height": 3.996447602131439,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "묵은지뼈찌개",
+        "en.ROMAN": "mugeunjippyeojjigae",
+        "en": "Aged Kimchi and Bone Jjigae",
+        "ja": "熟成キムチ入り豚の背骨チゲ",
+        "zh_CN": "酸辛奇脊骨锅",
+        "zh_TW": "酸辛奇排骨湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기",
+          "김치",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Kimchi",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "キムチ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "辛奇",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "辛奇",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_11",
+      "ocr": {
+        "x": 46.40099277823122,
+        "y": 40.48500375940353,
+        "text": "묵은지뼈찌개",
+        "width": 13.518005416326591,
+        "height": 3.808136698316055,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "묵은지",
+        "en.ROMAN": "mugeunji",
+        "en": "Extra Serving of Aged Kimchi",
+        "ja": "熟成キムチ",
+        "zh_CN": "另加酸辛奇",
+        "zh_TW": "加點酸辛奇",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "우거지",
+          "돼지등뼈",
+          "감자",
+          "묵은지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Napa Cabbage",
+          "Pork Backbone",
+          "Potato",
+          "Aged Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "白菜",
+          "豚の背骨",
+          "じゃがいも",
+          "熟成キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "干白菜",
+          "猪脊骨",
+          "土豆",
+          "酸辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "乾白菜",
+          "豬脊骨",
+          "馬鈴薯",
+          "酸辛奇"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_16",
+      "ocr": {
+        "x": 74.475,
+        "y": 44.33590449926889,
+        "text": "묵은지",
+        "width": 6.649999999999995,
+        "height": 3.7670135885744824,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "간장뼈찜",
+        "en.ROMAN": "ganjangppyeojjim",
+        "en": "Soy Sauce Braised Pork Backbone",
+        "ja": "豚の背骨のカンジャン蒸し物",
+        "zh_CN": "酱香炖脊骨",
+        "zh_TW": "醬油風味燉豬骨",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "醬油"
+        ],
+        "allergy": [
+          "돼지고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_17",
+      "ocr": {
+        "x": 46.312996389115625,
+        "y": 44.40333242520824,
+        "text": "1인간장뼈찜",
+        "width": 12.61200361088438,
+        "height": 3.74399063599213,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "묵은지감자탕",
+        "en.ROMAN": "mugeunjigamjatang",
+        "en": "Pork Backbone and Aged Kimchi Stew",
+        "ja": "熟成キムチ入りカムジャタン",
+        "zh_CN": "酸辛奇脊骨土豆汤",
+        "zh_TW": "酸辛奇馬鈴薯排骨湯",
+        "price": "44000",
+        "ingredients.ko": [
+          "야채",
+          "돼지등뼈",
+          "감자",
+          "묵은지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork Backbone",
+          "Potato",
+          "Aged Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚の背骨",
+          "じゃがいも",
+          "熟成キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪脊骨",
+          "土豆",
+          "酸辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬脊骨",
+          "馬鈴薯",
+          "酸辛奇"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_19",
+      "ocr": {
+        "x": 18.918998194557823,
+        "y": 47.67860944324019,
+        "text": "묵은지감자탕",
+        "width": 12.806001805442188,
+        "height": 3.720967683409688,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "돈가스",
+        "en.ROMAN": "dongaseu",
+        "en": "Pork Cutlet",
+        "ja": "豚カツ",
+        "zh_CN": "炸猪排",
+        "zh_TW": "炸豬排",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_24",
+      "ocr": {
+        "x": 46.35699458367338,
+        "y": 48.2238010657194,
+        "text": "돈가스",
+        "width": 6.318005416326628,
+        "height": 3.818827708703337,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "우거지",
+        "en.ROMAN": "ugeoji",
+        "en": "Napa Cabbage",
+        "ja": "白菜",
+        "zh_CN": "干白菜",
+        "zh_TW": "乾白菜",
+        "price": "3000",
+        "ingredients.ko": [
+          "우거지"
+        ],
+        "ingredients.en": [
+          "Napa Cabbage"
+        ],
+        "ingredients.ja": [
+          "白菜"
+        ],
+        "ingredients.zh_CN": [
+          "干白菜"
+        ],
+        "ingredients.zh_TW": [
+          "乾白菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_25",
+      "ocr": {
+        "x": 74.5,
+        "y": 48.898925744654214,
+        "text": "우거지",
+        "width": 6.674999999999999,
+        "height": 3.5877527633387025,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_29",
+      "ocr": {
+        "x": 74.57500000000002,
+        "y": 53.229231112867126,
+        "text": "볶음밥",
+        "width": 6.849999999999997,
+        "height": 3.964374570969463,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_31",
+      "ocr": {
+        "x": 52.1319945836734,
+        "y": 54.861524116689395,
+        "text": "막걸리",
+        "width": 6.374999999999999,
+        "height": 3.763731724959034,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "당면사리",
+        "en.ROMAN": "dangmyeonsari",
+        "en": "Extra Glass Noodles",
+        "ja": "春雨追加",
+        "zh_CN": "另加粉条",
+        "zh_TW": "加點粉條",
+        "price": "3000",
+        "ingredients.ko": [
+          "당면"
+        ],
+        "ingredients.en": [
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "粉條"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_34",
+      "ocr": {
+        "x": 74.66299638911559,
+        "y": 57.95754030948548,
+        "text": "당면사리",
+        "width": 9.112003610884406,
+        "height": 3.8097776301237767,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_36",
+      "ocr": {
+        "x": 52.08501805442188,
+        "y": 58.77821185068625,
+        "text": "소주",
+        "width": 6.504963891156076,
+        "height": 3.694200948490797,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "매콤간장뼈찜",
+        "en.ROMAN": "maekomganjangppyeojjim",
+        "en": "Spicy Soy Sauce Braised Pork Backbone",
+        "ja": "辛味豚の背骨のカンジャン蒸し物",
+        "zh_CN": "香辣酱油炖腔骨",
+        "zh_TW": "辣味醬油燉豬骨",
+        "price": "45000",
+        "ingredients.ko": [
+          "돼지고기",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "醬油"
+        ],
+        "allergy": [
+          "돼지고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_39",
+      "ocr": {
+        "x": 18.351026319067525,
+        "y": 62.06205623958911,
+        "text": "매콤간장뼈찜",
+        "width": 12.839328788676351,
+        "height": 3.792318330209611,
+        "rotation": 0.6166683463974891
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "수제비사리",
+        "en.ROMAN": "sujebisari",
+        "en": "Extra Hand-pulled Dough",
+        "ja": "すいとん追加",
+        "zh_CN": "另加面片儿",
+        "zh_TW": "加點麵疙瘩",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_40",
+      "ocr": {
+        "x": 74.7,
+        "y": 62.38734663479975,
+        "text": "수제비사리",
+        "width": 11.649999999999997,
+        "height": 3.955324492389838,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "LPrYHZfEhV",
+      "ocr": {
+        "x": 52.08730741062854,
+        "y": 62.78481012658221,
+        "text": "맥주",
+        "width": 6.4471422516191685,
+        "height": 3.676811126716781,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "rpY3gK7xdV",
+      "ocr": {
+        "x": 52.00686087906289,
+        "y": 66.52718249726829,
+        "text": "청하",
+        "width": 6.738717385359682,
+        "height": 4.02970239094246,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동사리",
+        "en.ROMAN": "udon sari",
+        "en": "Extra Udon Noodles",
+        "ja": "うどん追加",
+        "zh_CN": "另加乌冬面",
+        "zh_TW": "加點烏龍麵條",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_47",
+      "ocr": {
+        "x": 74.77500000000002,
+        "y": 67.06055984767377,
+        "text": "우동사리",
+        "width": 9.249999999999995,
+        "height": 4.040736745295546,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_52",
+      "ocr": {
+        "x": 52.03865294241189,
+        "y": 70.68225232414446,
+        "text": "음료수",
+        "width": 6.535690504291854,
+        "height": 3.9701427859336698,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "감자사리",
+        "en.ROMAN": "gamjasari",
+        "en": "Extra Potatoes",
+        "ja": "じゃがいも追加",
+        "zh_CN": "另加土豆",
+        "zh_TW": "加點馬鈴薯",
+        "price": "3000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756838_1-tf_54",
+      "ocr": {
+        "x": 74.87499999999999,
+        "y": 71.67867707680342,
+        "text": "감자사리",
+        "width": 9.231001805442204,
+        "height": 4.097589491040651,
+        "rotation": 0
+      }
+    }
+  ]
+}

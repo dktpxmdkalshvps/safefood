@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "file_name": "JR_KF01_M0002_1557886_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:12:12 10:58:11",
+    "store_id": "1557886",
+    "store_region": "JR",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          8.695652173913043,
+          0
+        ],
+        [
+          99.82608695652176,
+          0.23201856148491878
+        ],
+        [
+          99.82608695652176,
+          100
+        ],
+        [
+          1.7391304347826086,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "머리고기",
+        "en.ROMAN": "meorigogi",
+        "en": "Ox/Pork Head Meat",
+        "ja": "牛頭肉",
+        "zh_CN": "白切牛/猪头肉",
+        "zh_TW": "牛/豬頭肉",
+        "price": "30000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_0",
+      "ocr": {
+        "x": 13.166409727682966,
+        "y": 4.445913588056005,
+        "text": "머리고기",
+        "width": 17.950684057224304,
+        "height": 5.833333333333338,
+        "rotation": 1.0632479423982772
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "곱창전골",
+        "en.ROMAN": "gopchangjeongol",
+        "en": "Small Intestine Hot Pot (Beef/Pork)",
+        "ja": "コプチャンの寄せ鍋(豚肉/牛肉)",
+        "zh_CN": "小肠火锅（猪/牛）",
+        "zh_TW": "小腸火鍋",
+        "price": "30000",
+        "ingredients.ko": [
+          "야채",
+          "곱창"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Small Intestine"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "コプチャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "小肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "小腸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_2",
+      "ocr": {
+        "x": 57.711255310729406,
+        "y": 5.6333333333333355,
+        "text": "곱창전골",
+        "width": 15.123106412447216,
+        "height": 4.81952266686473,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "국밥",
+        "en.ROMAN": "gukbap",
+        "en": "Rice Soup",
+        "ja": "クッパ",
+        "zh_CN": "汤饭",
+        "zh_TW": "湯飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_7",
+      "ocr": {
+        "x": 57.532819138412435,
+        "y": 12.933333333333382,
+        "text": "국밥",
+        "width": 15.28263906826373,
+        "height": 4.65396444510465,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "순대",
+        "en.ROMAN": "sundae",
+        "en": "Sundae",
+        "ja": "スンデ",
+        "zh_CN": "血肠",
+        "zh_TW": "血腸",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "순대",
+          "내장"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Sundae",
+          "Offal"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "スンデ",
+          "内臓"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "血肠",
+          "内脏"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "血腸",
+          "內臟"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_10",
+      "ocr": {
+        "x": 57.390638276823715,
+        "y": 19.965558221760077,
+        "text": "순대",
+        "width": 15.147575339511848,
+        "height": 4.9953964445104555,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "족발",
+        "en.ROMAN": "jokbal",
+        "en": "Braised Pigs' Feet",
+        "ja": "豚足",
+        "zh_CN": "酱猪蹄",
+        "zh_TW": "豬腳",
+        "price": "35000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_15",
+      "ocr": {
+        "x": 10.70385101291754,
+        "y": 36.503467128976126,
+        "text": "족발",
+        "width": 19.318960864150252,
+        "height": 6.136182142367011,
+        "rotation": 1.043928317982136
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_26",
+      "ocr": {
+        "x": 55.56017976584507,
+        "y": 64.12004260810265,
+        "text": "삼겹살",
+        "width": 6.667853677754547,
+        "height": 3.8350224534537385,
+        "rotation": 1.7252436786633893
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "미니족",
+        "en.ROMAN": "mini jok",
+        "en": "Braised Mini Pigs' Feet",
+        "ja": "ミニ豚足",
+        "zh_CN": "迷你酱猪蹄",
+        "zh_TW": "迷你豬腳",
+        "price": "20000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_29",
+      "ocr": {
+        "x": 9.009258613107054,
+        "y": 74.2039710436707,
+        "text": "미니족",
+        "width": 19.046153772436906,
+        "height": 6.559795261621456,
+        "rotation": 1.941923366446531
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_32",
+      "ocr": {
+        "x": 56.0052414192977,
+        "y": 76.62639009110211,
+        "text": "소주",
+        "width": 7.760463423469052,
+        "height": 5.237738888250515,
+        "rotation": 1.197682392196839
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_33",
+      "ocr": {
+        "x": 65.24890975703627,
+        "y": 76.93957164576324,
+        "text": "맥주",
+        "width": 7.654749153840654,
+        "height": 5.386744209647303,
+        "rotation": 1.449789772998372
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_34",
+      "ocr": {
+        "x": 55.98011439547624,
+        "y": 83.12748552013888,
+        "text": "막걸리",
+        "width": 16.74181231392594,
+        "height": 5.548679664811511,
+        "rotation": 1.6853456076723887
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1557886_1-tf_35",
+      "ocr": {
+        "x": 55.74368359917935,
+        "y": 89.5872085098642,
+        "text": "음료수",
+        "width": 17.229481459475465,
+        "height": 5.570483288248838,
+        "rotation": 2.138272641756373
+      }
+    }
+  ]
+}

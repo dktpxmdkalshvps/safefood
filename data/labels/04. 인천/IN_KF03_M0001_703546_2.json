@@ -1,0 +1,788 @@
+{
+  "meta": {
+    "file_name": "IN_KF03_M0001_703546_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "703546",
+    "store_region": "IN",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0.39421813403416556,
+        "y": 0.2958579881656805,
+        "width": 99.47437582128778,
+        "height": 99.11242603550295,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "청양마요쌀통닭",
+        "en.ROMAN": "Cheongyang mayo ssaltongdak",
+        "en": "Rice-flour Fried Whole Chicken with Extra Spicy Chili Pepper Mayo",
+        "ja": "激辛唐辛子マヨ米粉チキン",
+        "zh_CN": "青阳辣椒蛋黄酱米粉炸鸡",
+        "zh_TW": "青陽美乃滋炸雞",
+        "price": "17900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-1",
+      "ocr": {
+        "x": 52.19802921787716,
+        "y": 3.5159265226596683,
+        "text": "청양마요쌀통닭",
+        "width": 17.742166646151954,
+        "height": 2.4102465263521338,
+        "rotation": 2.9287732325265665
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "크라운쌀통닭",
+        "en.ROMAN": "crown ssaltongdak",
+        "en": "Rice-flour Fried Whole Chicken",
+        "ja": "丸鶏の米粉フライ",
+        "zh_CN": "CROWN米炸鸡",
+        "zh_TW": "CROWN米全雞",
+        "price": "16900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "쌀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Rice Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "米粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "米粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "米粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-2",
+      "ocr": {
+        "x": 52.31331716302117,
+        "y": 8.322583562334685,
+        "text": "크라운쌀통닭",
+        "width": 15.370105224198854,
+        "height": 2.4371772467611215,
+        "rotation": 2.0246166417392715
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "크라운파닭",
+        "en.ROMAN": "crown padak",
+        "en": "Fried Chicken with Green Onions",
+        "ja": "クラウンねぎチキン",
+        "zh_CN": "CROWN葱丝炸鸡",
+        "zh_TW": "Crown蔥雞",
+        "price": "16900",
+        "ingredients.ko": [
+          "채소",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-3",
+      "ocr": {
+        "x": 52.35311698361277,
+        "y": 13.100815938056964,
+        "text": "크라운파닭",
+        "width": 13.020162407567637,
+        "height": 2.3824824257764114,
+        "rotation": 1.762668263368596
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "수원왕갈비쌀통닭",
+        "en.ROMAN": "suwonwanggalbissaltongdak",
+        "en": "Rice-flour Fried Whole Chicken Glazed in Galbi Sauce",
+        "ja": "スウォン王カルビ味米粉チキン",
+        "zh_CN": "水原大牛排骨米炸鸡",
+        "zh_TW": "水原大排骨米全雞",
+        "price": "17900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "쌀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Rice Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "米粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "米粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "米粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-4",
+      "ocr": {
+        "x": 52.420118439570885,
+        "y": 17.766867670731198,
+        "text": "수원왕갈비쌀통닭",
+        "width": 20.065925457589156,
+        "height": 2.396230051731506,
+        "rotation": 1.6577854602821276
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매콤꽈리간장쌀통닭",
+        "en.ROMAN": "maekomkkwariganjangssaltongdak",
+        "en": "Soy Sauce Seasoned Rice-battered Fried Whole Chicken and Shishito Peppers",
+        "ja": "獅子唐辛子入りピリ辛カンジャンチキン",
+        "zh_CN": "香辣青龙椒酱味米炸鸡",
+        "zh_TW": "辣糯米椒醬油米炸雞",
+        "price": "17900",
+        "ingredients.ko": [
+          "닭고기",
+          "고추",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Chili Pepper",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "唐辛子",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "辣椒",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "辣椒",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-5",
+      "ocr": {
+        "x": 52.58359665570655,
+        "y": 22.489183627622463,
+        "text": "매콤꽈리간장쌀통닭",
+        "width": 22.232106742175922,
+        "height": 2.363759162333193,
+        "rotation": 1.692610210504597
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "청양마요순살치킨",
+        "en.ROMAN": "Cheongyang mayo sunsal chicken",
+        "en": "Boneless Chicken with Extra Spicy Chili Pepper Mayo",
+        "ja": "骨なし激辛唐辛子マヨチキン",
+        "zh_CN": "青阳辣椒蛋黄酱无骨炸鸡",
+        "zh_TW": "青陽美乃滋無骨炸雞",
+        "price": "11900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "고추",
+          "마요네즈"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Chili Pepper",
+          "Mayonnaise"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "唐辛子",
+          "マヨネーズ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "辣椒",
+          "蛋黄酱"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "辣椒",
+          "美乃滋"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-6",
+      "ocr": {
+        "x": 52.71448998562545,
+        "y": 29.276232627292952,
+        "text": "청양마요순살치킨",
+        "width": 19.808201058201085,
+        "height": 2.3894363775791247,
+        "rotation": 1.2264468686352075
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "크라운순살치킨",
+        "en.ROMAN": "crown sunsal chicken",
+        "en": "Fried Boneless Chicken",
+        "ja": "クラウン骨なしチキン",
+        "zh_CN": "CROWN无骨炸鸡",
+        "zh_TW": "Crown無骨炸雞",
+        "price": "10900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-7",
+      "ocr": {
+        "x": 52.76024685960235,
+        "y": 32.46210268331994,
+        "text": "크라운순살치킨",
+        "width": 17.507977692436754,
+        "height": 2.2684579762662342,
+        "rotation": 0.44821899879144667
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "크라운순살파닭",
+        "en.ROMAN": "crown sunsalpadak",
+        "en": "Fried Boneless Chicken with Green Onions",
+        "ja": "クラウン骨なしねぎチキン",
+        "zh_CN": "CROWN葱丝无骨炸鸡",
+        "zh_TW": "Crown無骨蔥雞",
+        "price": "10900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-8",
+      "ocr": {
+        "x": 52.82472749047015,
+        "y": 35.495999180624615,
+        "text": "크라운순살파닭",
+        "width": 17.640762139788798,
+        "height": 2.283691735550806,
+        "rotation": 0.45534308641759935
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "수원왕갈비순살치킨",
+        "en.ROMAN": "suwonwanggalbisunsal chicken",
+        "en": "Boneless Chicken Glazed in Galbi Sauce",
+        "ja": "スウォン特大カルビ風チキン(骨なし)",
+        "zh_CN": "水原大牛排骨无骨炸鸡",
+        "zh_TW": "水原大排骨無骨炸雞",
+        "price": "11900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-9",
+      "ocr": {
+        "x": 52.80430226550078,
+        "y": 38.5664682539685,
+        "text": "수원왕갈비순살치킨",
+        "width": 22.332837674992316,
+        "height": 2.34870201237036,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매콤꽈리간장순살치킨",
+        "en.ROMAN": "maekomkkwariganjangsunsal chicken",
+        "en": "Soy Sauce Seasoned Fried Boneless Chicken and Shishito Peppers",
+        "ja": "獅子唐辛子入りピリ辛カンジャン骨なしチキン",
+        "zh_CN": "香辣青龙椒酱味无骨炸鸡",
+        "zh_TW": "辣糯米椒醬油無骨炸雞",
+        "price": "11900",
+        "ingredients.ko": [
+          "닭고기",
+          "고추",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Chili Pepper",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "唐辛子",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "辣椒",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "辣椒",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-10",
+      "ocr": {
+        "x": 52.92027493689341,
+        "y": 41.71634237181667,
+        "text": "매콤꽈리간장순살치킨",
+        "width": 24.54526222071936,
+        "height": 2.332838842312871,
+        "rotation": 359.53730270985386
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "마약옥수수피자",
+        "en.ROMAN": "mayagoksusu pizza",
+        "en": "Parmesan Cheese Corn Pizza",
+        "ja": "やみつきとうもろこしピザ",
+        "zh_CN": "香甜玉米披萨",
+        "zh_TW": "香甜玉米披薩",
+        "price": "12900",
+        "ingredients.ko": [],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉",
+          "番茄"
+        ],
+        "allergy": [
+          "우유",
+          "밀",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-11",
+      "ocr": {
+        "x": 9.452173070768985,
+        "y": 70.60725106890463,
+        "text": "마약옥수수피자",
+        "width": 20.833593410095975,
+        "height": 2.6299123363181853,
+        "rotation": 357.3982875437746
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "허니버터스틱",
+        "en.ROMAN": "honey butter stick",
+        "en": "Honey Butter Sticks",
+        "ja": "ハニーバタースティック",
+        "zh_CN": "蜂蜜黄油条",
+        "zh_TW": "蜂蜜奶油薯條",
+        "price": "10900",
+        "ingredients.ko": [
+          "버터",
+          "밀가루",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Butter",
+          "Wheat Flour",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "バター",
+          "小麦粉",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "黄油",
+          "面粉",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "麵粉",
+          "起司"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-12",
+      "ocr": {
+        "x": 9.453955760637532,
+        "y": 76.20585975886586,
+        "text": "허니버터스틱",
+        "width": 16.496333677094434,
+        "height": 2.5504516380079205,
+        "rotation": 357.1817292736622
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "고르곤졸라피자",
+        "en.ROMAN": "gorgonzola pizza",
+        "en": "Gorgonzola Cheese Pizza",
+        "ja": "ゴルゴンゾーラピザ",
+        "zh_CN": "戈贡佐拉披萨",
+        "zh_TW": "戈貢佐拉起司披薩",
+        "price": "12900",
+        "ingredients.ko": [
+          "밀가루",
+          "고르곤졸라치즈"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Gorgonzola Cheese"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "ゴルゴンゾーラ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "戈贡佐拉奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "戈貢佐拉起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-13",
+      "ocr": {
+        "x": 9.279751682829017,
+        "y": 82.05497985784942,
+        "text": "고르곤졸라피자",
+        "width": 20.42173329277764,
+        "height": 2.569304286040627,
+        "rotation": 356.0541168868362
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "불고기피자",
+        "en.ROMAN": "bulgogi pizza",
+        "en": "Bulgogi Pizza",
+        "ja": "プルゴギピザ",
+        "zh_CN": "烤牛肉披萨",
+        "zh_TW": "烤牛肉披薩",
+        "price": "12900",
+        "ingredients.ko": [
+          "야채",
+          "모짜렐라치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mozzarella",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "モッツァレラチーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "马苏里拉奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "莫札瑞拉起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-14",
+      "ocr": {
+        "x": 9.301916273356461,
+        "y": 87.68149777343174,
+        "text": "불고기피자",
+        "width": 15.015678359468021,
+        "height": 2.7521938072814702,
+        "rotation": 355.40688059771884
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "페페로니피자",
+        "en.ROMAN": "pepperoni pizza",
+        "en": "Pepperoni pizza",
+        "ja": "ペペロニピザ",
+        "zh_CN": "意大利辣香肠披萨",
+        "zh_TW": "義大利辣香腸披薩",
+        "price": "12900",
+        "ingredients.ko": [
+          "야채",
+          "모짜렐라치즈",
+          "밀가루",
+          "페페로니"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mozzarella",
+          "Wheat Flour",
+          "Pepperoni"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "モッツァレラチーズ",
+          "小麦粉",
+          "ペパロニ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "马苏里拉奶酪",
+          "面粉",
+          "意大利辣香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "莫札瑞拉起司",
+          "麵粉",
+          "義大利辣味香腸"
+        ],
+        "allergy": [
+          "우유",
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_703546_2-tf-15",
+      "ocr": {
+        "x": 9.386398685659177,
+        "y": 93.3304062083467,
+        "text": "페페로니피자",
+        "width": 17.631566923664902,
+        "height": 2.5915021382444405,
+        "rotation": 356.08479386437034
+      }
+    }
+  ]
+}

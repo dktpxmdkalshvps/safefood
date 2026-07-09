@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "file_name": "DJ_KF01_M0001_853125_1.jpg",
+    "image_original_width": 2604,
+    "image_original_height": 4624,
+    "captured_date": "2022:11:19 20:33:27",
+    "store_id": "853125",
+    "store_region": "DJ",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          97.83783783783784,
+          4.365482233502538
+        ],
+        [
+          10.81081081081081,
+          2.8426395939086295
+        ],
+        [
+          12.79279257482776,
+          86.80203046314362
+        ],
+        [
+          93.87387387387388,
+          85.27918781725889
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "특제햄부대전골",
+        "en.ROMAN": "teukje ham budaejeongol",
+        "en": "Special Ham and Sausage Hot Pot",
+        "ja": "特製ハム入りプデチゲの寄せ鍋",
+        "zh_CN": "特制火腿部队火锅",
+        "zh_TW": "特製火腿部隊鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "햄",
+          "소세지",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Ham",
+          "Sausages",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "ハム",
+          "ソーセージ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "午餐肉",
+          "香肠",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "火腿",
+          "香腸",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0001_853125_1-tf_1",
+      "ocr": {
+        "x": 32.304962206005776,
+        "y": 9.069492190325471,
+        "text": "특제햄부대전골",
+        "width": 47.00419603225126,
+        "height": 4.974641004854439,
+        "rotation": 1.8082898187870455
+      }
+    }
+  ]
+}

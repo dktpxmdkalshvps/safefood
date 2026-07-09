@@ -1,0 +1,892 @@
+{
+  "meta": {
+    "file_name": "GJ_KF07_M0002_782260_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:10:31 11:26:54",
+    "store_id": "782260",
+    "store_region": "GJ",
+    "store_type": "KF07",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          23.983146977799393,
+          30.62712688381138
+        ],
+        [
+          97.55307081510291,
+          28.439474963539134
+        ],
+        [
+          99.82174688057039,
+          63.6849781234808
+        ],
+        [
+          22.524712364284557,
+          62.71268838113758
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고추추가",
+        "en.ROMAN": "gochu chuga",
+        "en": "Extra Chili Pepper",
+        "ja": "唐辛子追加",
+        "zh_CN": "另加辣椒",
+        "zh_TW": "加點辣椒",
+        "price": "300",
+        "ingredients.ko": [
+          "고추"
+        ],
+        "ingredients.en": [
+          "Chili Pepper"
+        ],
+        "ingredients.ja": [
+          "唐辛子"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_2",
+      "ocr": {
+        "x": 51.00143300008676,
+        "y": 35.29344189285264,
+        "text": "고추추가",
+        "width": 8.948031496139544,
+        "height": 1.6539002888957466,
+        "rotation": 356.69744302651685
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "새우김밥",
+        "en.ROMAN": "saeugimbap",
+        "en": "Shrimp Gimbap",
+        "ja": "海老キンパプ",
+        "zh_CN": "鲜虾紫菜卷饭",
+        "zh_TW": "鮮蝦海苔飯捲",
+        "price": "4200",
+        "ingredients.ko": [
+          "새우",
+          "쌀",
+          "김",
+          "채소",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Rice",
+          "Laver",
+          "Vegetables",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "米",
+          "海苔",
+          "野菜",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "大米",
+          "紫菜",
+          "蔬菜",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "米",
+          "海苔",
+          "蔬菜",
+          "雞蛋"
+        ],
+        "allergy": [
+          "새우",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_3",
+      "ocr": {
+        "x": 61.57038397069126,
+        "y": 38.83887016491149,
+        "text": "새우김밥",
+        "width": 10.60498749614415,
+        "height": 2.0453864594046514,
+        "rotation": 359.599150139056
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "고봉민김밥",
+        "en.ROMAN": "gobongmingimbap",
+        "en": "Ko Bongmin Gimbap",
+        "ja": "コボンミン・キンパプ",
+        "zh_CN": "招牌紫菜卷饭",
+        "zh_TW": "Gobongmin海苔飯捲",
+        "price": "3500",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "XdJ48ABNc0",
+      "ocr": {
+        "x": 31.177199764259754,
+        "y": 39.455529403218144,
+        "text": "고봉민김밥",
+        "width": 12.000096717921554,
+        "height": 2.0471071163385988,
+        "rotation": 357.34931031657925
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소불고기김밥",
+        "en.ROMAN": "sobulgogigimbap",
+        "en": "Beef Bulgogi Gimbap",
+        "ja": "牛肉プルゴギ入りキンパプ",
+        "zh_CN": "烤牛肉紫菜卷饭",
+        "zh_TW": "烤牛肉海苔飯捲",
+        "price": "4500",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米",
+          "海苔"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_7",
+      "ocr": {
+        "x": 61.46200808833842,
+        "y": 41.59464206974013,
+        "text": "소불고기김밥",
+        "width": 15.739066907554983,
+        "height": 2.0860176328945284,
+        "rotation": 359.5991501390551
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "돈까스김밥",
+        "en.ROMAN": "dongaseugimbap",
+        "en": "Pork Cutlet Gimbap",
+        "ja": "豚カツキンパプ",
+        "zh_CN": "炸猪排紫菜卷饭",
+        "zh_TW": "炸豬排海苔飯捲",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "쌀",
+          "계란",
+          "밀가루",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Rice",
+          "Eggs",
+          "Wheat Flour",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "米",
+          "卵",
+          "小麦粉",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "大米",
+          "鸡蛋",
+          "面粉",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "米",
+          "雞蛋",
+          "麵粉",
+          "海苔"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_9",
+      "ocr": {
+        "x": 30.888533636962784,
+        "y": 42.130612373370724,
+        "text": "돈까스김밥",
+        "width": 12.041129133828624,
+        "height": 2.0795207046033104,
+        "rotation": 357.7046237137683
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "불닭김밥",
+        "en.ROMAN": "buldakgimbap",
+        "en": "Spicy Stir-fried Chicken Gimbap",
+        "ja": "辛味鶏肉炒めキンパプ",
+        "zh_CN": "劲辣烤鸡紫菜卷饭",
+        "zh_TW": "勁辣雞肉海苔飯捲",
+        "price": "4200",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "김",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_11",
+      "ocr": {
+        "x": 61.288291794748595,
+        "y": 44.42771220995303,
+        "text": "불닭김밥",
+        "width": 10.798709881733787,
+        "height": 2.1017852979312814,
+        "rotation": 359.5991501390569
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "매운김밥",
+        "en.ROMAN": "maeungimbap",
+        "en": "Spicy Gimbap",
+        "ja": "辛味キンパプ",
+        "zh_CN": "辣味紫菜卷饭",
+        "zh_TW": "辣味海苔飯捲",
+        "price": "4200",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_14",
+      "ocr": {
+        "x": 30.60206037901306,
+        "y": 44.83888069696097,
+        "text": "매운김밥",
+        "width": 9.915610303936184,
+        "height": 2.0181249118345255,
+        "rotation": 359.0332204011391
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "매콤어묵김밥",
+        "en.ROMAN": "maekomeomukgimbap",
+        "en": "Spicy fish cake Gimbap",
+        "ja": "辛味練り物キンパプ",
+        "zh_CN": "香辣鱼糕紫菜卷饭",
+        "zh_TW": "辣魚板海苔飯捲",
+        "price": "3800",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "김",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔",
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_15",
+      "ocr": {
+        "x": 61.1792957554907,
+        "y": 47.22947480599235,
+        "text": "매콤어묵김밥",
+        "width": 16.14083130501764,
+        "height": 2.183270826791904,
+        "rotation": 0.09128315827820188
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "참치김밥",
+        "en.ROMAN": "chamchigimbap",
+        "en": "Tuna Gimbap",
+        "ja": "ツナキンパプ",
+        "zh_CN": "金枪鱼紫菜卷饭",
+        "zh_TW": "鮪魚海苔飯捲",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "참치",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Tuna",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ツナ",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "金枪鱼",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮪魚",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_16",
+      "ocr": {
+        "x": 30.238727359474975,
+        "y": 47.58899998319317,
+        "text": "참치김밥",
+        "width": 9.922599284378268,
+        "height": 2.046137446913285,
+        "rotation": 359.23586277778173
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소시지김밥",
+        "en.ROMAN": "sausage gimbap",
+        "en": "Sausage Gimbap",
+        "ja": "ソーセージキンパプ",
+        "zh_CN": "香肠紫菜卷饭",
+        "zh_TW": "香腸海苔飯捲",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_19",
+      "ocr": {
+        "x": 60.97028069785461,
+        "y": 50.19440319916959,
+        "text": "소시지김밥",
+        "width": 13.682258234778088,
+        "height": 2.177889693683342,
+        "rotation": 359.988172127589
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "치즈김밥",
+        "en.ROMAN": "cheese gimbap",
+        "en": "Cheese Gimbap",
+        "ja": "チーズキンパプ",
+        "zh_CN": "奶酪紫菜卷饭",
+        "zh_TW": "起司海苔飯捲",
+        "price": "3800",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "米",
+          "海苔"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_21",
+      "ocr": {
+        "x": 29.77315011543962,
+        "y": 50.40283771279161,
+        "text": "치즈김밥",
+        "width": 10.110928534977992,
+        "height": 2.0925194286093065,
+        "rotation": 359.2295903716879
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김치김밥",
+        "en.ROMAN": "kimchigimbap",
+        "en": "Kimchi Gimbap",
+        "ja": "キムチキンパプ",
+        "zh_CN": "辛奇紫菜卷饭",
+        "zh_TW": "辛奇海苔飯捲",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_26",
+      "ocr": {
+        "x": 61.200000000000024,
+        "y": 53.24286470454198,
+        "text": "김치김밥",
+        "width": 9.269527842422367,
+        "height": 1.755687063648954,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "떡갈비김밥",
+        "en.ROMAN": "tteokgalbigimbap",
+        "en": "Grilled Galbi Patty Gimbap",
+        "ja": "粗挽きカルビ焼き入りキンパプ",
+        "zh_CN": "牛肉饼紫菜卷饭",
+        "zh_TW": "烤牛肉餅海苔飯捲",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "돼지고기",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Pork",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "豚肉",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "猪肉",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "豬肉",
+          "米",
+          "海苔"
+        ],
+        "allergy": [
+          "쇠고기",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_25",
+      "ocr": {
+        "x": 29.388969288848244,
+        "y": 53.243571259578744,
+        "text": "떡갈비김밥",
+        "width": 12.58515982029258,
+        "height": 2.1763504145426102,
+        "rotation": 359.6970850456011
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "스팸김밥",
+        "en.ROMAN": "spam gimbap",
+        "en": "Spam Gimbap",
+        "ja": "スパム・キンパプ",
+        "zh_CN": "午餐肉紫菜卷饭",
+        "zh_TW": "午餐肉海苔飯捲",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "스팸",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Spam",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "スパム",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "午餐肉",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "午餐肉",
+          "海苔"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_29",
+      "ocr": {
+        "x": 61.04570823636652,
+        "y": 55.377145881816844,
+        "text": "스팸김밥",
+        "width": 9.38762509696694,
+        "height": 1.7756976500076715,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "매콤멸치덮밥",
+        "en.ROMAN": "maekommyeolchideopbap",
+        "en": "Spicy Anchovy with Rice",
+        "ja": "辛味ざこ丼",
+        "zh_CN": "香辣鳀鱼盖饭",
+        "zh_TW": "辣味鯷魚蓋飯",
+        "price": "4000",
+        "ingredients.ko": [
+          "멸치"
+        ],
+        "ingredients.en": [
+          "Anchovies"
+        ],
+        "ingredients.ja": [
+          "カタクチイワシ"
+        ],
+        "ingredients.zh_CN": [
+          "鳀鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯷魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_34",
+      "ocr": {
+        "x": 61.09663107013218,
+        "y": 57.46457661148303,
+        "text": "매콤멸치",
+        "width": 9.191416472732856,
+        "height": 1.817123635169099,
+        "rotation": 0.9593264683269922
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "달콤멸치김밥",
+        "en.ROMAN": "dalkommyeolchigimbap",
+        "en": "Sweet Anchovy Gimbap",
+        "ja": "甘いカタクチイワシキンパプ",
+        "zh_CN": "香辣鳀鱼紫菜卷饭",
+        "zh_TW": "香甜鯷魚海苔飯捲",
+        "price": "4000",
+        "ingredients.ko": [
+          "멸치",
+          "채소",
+          "김",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Anchovies",
+          "Vegetables",
+          "Laver",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "カタクチイワシ",
+          "野菜",
+          "海苔",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鳀鱼",
+          "蔬菜",
+          "紫菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鯷魚",
+          "蔬菜",
+          "海苔",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF07_M0002_782260_1-tf_37",
+      "ocr": {
+        "x": 60.98537553796422,
+        "y": 59.648034089577116,
+        "text": "달콤멸치",
+        "width": 9.269523279352809,
+        "height": 1.8984624384257531,
+        "rotation": 0.9098072475140953
+      }
+    }
+  ]
+}

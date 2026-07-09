@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "file_name": "US_KF04_M0001_907200_3.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:19 10:02:56",
+    "store_id": "907200",
+    "store_region": "US",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "points": [
+        [
+          97.79411764705883,
+          95.8592132505176
+        ],
+        [
+          91.54411764705883,
+          2.898550724637681
+        ],
+        [
+          15.073529411764707,
+          3.5196687370600426
+        ],
+        [
+          10.294117647058824,
+          96.27329192546584
+        ]
+      ],
+      "box_type": "polygon"
+    }
+  },
+  "annotations": [
+    {
+      "sn": "s_eFsxkebP",
+      "ocr": {
+        "x": 27.697329561847287,
+        "y": 8.294430899291772,
+        "text": "소양념갈비살",
+        "width": 30.70030185939041,
+        "height": 3.514225188287695,
+        "rotation": 358.3267606956181
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소양념갈비살",
+        "en.ROMAN": "soyangnyeomgalbisal",
+        "en": "Marinated Grilled Beef Galbi",
+        "ja": "味付け牛カルビ",
+        "zh_CN": "调味牛肋条肉",
+        "zh_TW": "調味牛肋條",
+        "price": "23000",
+        "ingredients.ko": [
+          "갈비살"
+        ],
+        "ingredients.en": [
+          "Galbi"
+        ],
+        "ingredients.ja": [
+          "カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "肋条肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肋條"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "US_KF04_M0001_907200_3-tf_12",
+      "ocr": {
+        "x": 29.436878407776852,
+        "y": 52.07047981321442,
+        "text": "소양념갈비",
+        "width": 27.116832013427075,
+        "height": 3.590959626428943,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소양념갈비",
+        "en.ROMAN": "soyangnyeomgalbi",
+        "en": "Marinated Grilled Beef Galbi",
+        "ja": "味付け牛カルビ",
+        "zh_CN": "调味牛排骨",
+        "zh_TW": "調味牛排骨",
+        "price": "23000",
+        "ingredients.ko": [
+          "소고기",
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

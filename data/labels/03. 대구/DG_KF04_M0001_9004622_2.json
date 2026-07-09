@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "file_name": "DG_KF04_M0001_9004622_2.jpg",
+    "image_original_width": 3744,
+    "image_original_height": 3000,
+    "captured_date": "2022:11:18 22:02:56",
+    "store_id": "9004622",
+    "store_region": "DG",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 3.299202914729469,
+        "width": 86.8085106382979,
+        "height": 92.60523380314692,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "양꼬치세트",
+        "en.ROMAN": "yangkkochi set",
+        "en": "Lamb Skewer Set Menu",
+        "ja": "ラムの串焼きセット",
+        "zh_CN": "羊肉串套餐",
+        "zh_TW": "羊肉串套餐",
+        "price": "31000",
+        "ingredients.ko": [
+          "양고기"
+        ],
+        "ingredients.en": [
+          "Lamb"
+        ],
+        "ingredients.ja": [
+          "ラム"
+        ],
+        "ingredients.zh_CN": [
+          "羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_9004622_2-tf_1",
+      "ocr": {
+        "x": 51.1666666666667,
+        "y": 9.02777777777776,
+        "text": "양꼬치세트",
+        "width": 25.81115773669258,
+        "height": 3.9204299939773275,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "대양갈비",
+        "en.ROMAN": "daeyanggalbi",
+        "en": "Grilled Lamb Chops",
+        "ja": "大ラムリブ",
+        "zh_CN": "大羊排串",
+        "zh_TW": "大羊排骨",
+        "price": "21000",
+        "ingredients.ko": [
+          "양고기"
+        ],
+        "ingredients.en": [
+          "Lamb"
+        ],
+        "ingredients.ja": [
+          "ラム"
+        ],
+        "ingredients.zh_CN": [
+          "羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_9004622_2-tf_10",
+      "ocr": {
+        "x": 58.918549602239494,
+        "y": 50.68647800172813,
+        "text": "대양갈비",
+        "width": 10.799999999999995,
+        "height": 2.304974989724871,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "고급양갈비",
+        "en.ROMAN": "gogeup yanggalbi",
+        "en": "High-quality Lamb Chops",
+        "ja": "高級ラムリブ",
+        "zh_CN": "高级羊排骨",
+        "zh_TW": "高級羊排骨",
+        "price": "24000",
+        "ingredients.ko": [
+          "양갈비"
+        ],
+        "ingredients.en": [
+          "Lamb Chop"
+        ],
+        "ingredients.ja": [
+          "ラムカルビ"
+        ],
+        "ingredients.zh_CN": [
+          "羊排骨"
+        ],
+        "ingredients.zh_TW": [
+          "羊排骨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_9004622_2-tf_11",
+      "ocr": {
+        "x": 23.494177609136393,
+        "y": 50.79651011969217,
+        "text": "고급양갈비",
+        "width": 13.681222643825729,
+        "height": 2.139138102547085,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소갈비꼬치",
+        "en.ROMAN": "sogalbikkochi",
+        "en": "Beef Galbi Skewers",
+        "ja": "牛カルビ串",
+        "zh_CN": "牛排骨串",
+        "zh_TW": "牛排骨串",
+        "price": "16000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_9004622_2-tf_16",
+      "ocr": {
+        "x": 57.56253195357479,
+        "y": 67.74581925131962,
+        "text": "소갈비꼬치",
+        "width": 14.008269426183793,
+        "height": 2.319952913456834,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "구이/적",
+        "ko": "양갈비꼬치",
+        "en.ROMAN": "yanggalbikkochi",
+        "en": "Lamb Galbi Skewer",
+        "ja": "ラムリブの串焼き",
+        "zh_CN": "羊排骨串",
+        "zh_TW": "洋排骨串",
+        "price": "16000",
+        "ingredients.ko": [
+          "양고기"
+        ],
+        "ingredients.en": [
+          "Lamb"
+        ],
+        "ingredients.ja": [
+          "ラム"
+        ],
+        "ingredients.zh_CN": [
+          "羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_9004622_2-tf_15",
+      "ocr": {
+        "x": 23.373070714060493,
+        "y": 67.81278497437619,
+        "text": "양갈비꼬치",
+        "width": 13.58428070978074,
+        "height": 2.28169812033865,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "새우꼬치",
+        "en.ROMAN": "saeukkochi",
+        "en": "Shrimp Skewers",
+        "ja": "エビの串焼き",
+        "zh_CN": "烤虾串",
+        "zh_TW": "鮮蝦串",
+        "price": "13000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_9004622_2-tf_18",
+      "ocr": {
+        "x": 59.2037263884083,
+        "y": 85.51553783078786,
+        "text": "새우꼬치",
+        "width": 11.182678241541643,
+        "height": 2.3663602358600406,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "오리지널양꼬치",
+        "en.ROMAN": "original yangkkochi",
+        "en": "Original Lamb Skewers",
+        "ja": "オリジナルラム肉串",
+        "zh_CN": "原味羊肉串",
+        "zh_TW": "原味羊肉串",
+        "price": "13000",
+        "ingredients.ko": [
+          "양고기"
+        ],
+        "ingredients.en": [
+          "Lamb"
+        ],
+        "ingredients.ja": [
+          "ラム"
+        ],
+        "ingredients.zh_CN": [
+          "羊肉"
+        ],
+        "ingredients.zh_TW": [
+          "羊肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_9004622_2-tf_19",
+      "ocr": {
+        "x": 20.20076877067961,
+        "y": 85.70265351727893,
+        "text": "오리지널양꼬치",
+        "width": 19.70943488002062,
+        "height": 2.243589743589746,
+        "rotation": 359.3022615093207
+      }
+    }
+  ]
+}

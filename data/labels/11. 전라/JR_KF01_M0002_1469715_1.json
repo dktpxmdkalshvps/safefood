@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "file_name": "JR_KF01_M0002_1469715_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 2272,
+    "captured_date": "2022:11:15 14:54:53",
+    "store_id": "1469715",
+    "store_region": "JR",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          6.735159817351597,
+          11.740890688259109
+        ],
+        [
+          91.0958904109589,
+          14.37246963562753
+        ],
+        [
+          92.69406392694064,
+          95.34412955465586
+        ],
+        [
+          4.5662100456621,
+          97.36842105263158
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1469715_1-tf_0",
+      "ocr": {
+        "x": 8.452732022648286,
+        "y": 15.087412795300528,
+        "text": "김치찌개",
+        "width": 19.329513029369693,
+        "height": 8.950909307628526,
+        "rotation": 1.9478414638959407
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "부대찌개",
+        "en.ROMAN": "budaejjigae",
+        "en": "Sausage Jjigae",
+        "ja": "プデチゲ",
+        "zh_CN": "部队锅",
+        "zh_TW": "部隊鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1469715_1-tf_5",
+      "ocr": {
+        "x": 10.578775667093886,
+        "y": 39.11662745759184,
+        "text": "부대찌개",
+        "width": 9.774041976261703,
+        "height": 4.4850680991073455,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "모듬추가",
+        "en.ROMAN": "modeumchuga",
+        "en": "Extra Serving of Assorted Vegetables",
+        "ja": "盛り合わせ追加",
+        "zh_CN": "另加拼盘",
+        "zh_TW": "加點拼盤",
+        "price": "5000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1469715_1-tf_7",
+      "ocr": {
+        "x": 52.20734126984089,
+        "y": 39.86090233782201,
+        "text": "모듬추가",
+        "width": 9.458534347795094,
+        "height": 4.577060824510862,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "햄,소세지,만두",
+        "en.ROMAN": "ham , sausage ,Mandu",
+        "en": "Ham, sausage, dumplings.",
+        "ja": "ハム、ソーセージ、餃子",
+        "zh_CN": "火腿、香肠、饺子",
+        "zh_TW": "火腿、香腸、餃子",
+        "price": "2000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1469715_1-tf_13",
+      "ocr": {
+        "x": 52.14778046861956,
+        "y": 47.66745382369509,
+        "text": "햄,소세지,만두각각",
+        "width": 22.87567083670466,
+        "height": 5.02044556938726,
+        "rotation": 0.6170582292219251
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면,당면,떡",
+        "en.ROMAN": "ramyeon,dangmyeon,Tteok",
+        "en": "Ramen, noodles, rice cake.",
+        "ja": "ラーメン、春雨、餅",
+        "zh_CN": "拉面，粉条，年糕",
+        "zh_TW": "拉麪，粉條，年糕",
+        "price": "1000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1469715_1-tf_20",
+      "ocr": {
+        "x": 52.07367380585452,
+        "y": 55.553098066503004,
+        "text": "라면,당면,떡각각",
+        "width": 20.5347503159858,
+        "height": 5.134871851700913,
+        "rotation": 0.6174828331184017
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "두루치기",
+        "en.ROMAN": "duruchigi",
+        "en": "Stir-fried Pork",
+        "ja": "豚肉と野菜炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1469715_1-tf_18",
+      "ocr": {
+        "x": 10.227120285999094,
+        "y": 55.66195867585022,
+        "text": "두루치기",
+        "width": 9.738157491778761,
+        "height": 4.709103078032131,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1469715_1-tf_29",
+      "ocr": {
+        "x": 52.13293650793642,
+        "y": 63.82042253521127,
+        "text": "공기밥",
+        "width": 7.208984343728857,
+        "height": 4.900332605569339,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "부대전골",
+        "en.ROMAN": "budaejeongol",
+        "en": "Sausage Hot Pot",
+        "ja": "ソーセージの寄せ鍋",
+        "zh_CN": "部队火锅",
+        "zh_TW": "部隊火鍋",
+        "price": "30000",
+        "ingredients.ko": [
+          "야채",
+          "햄"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1469715_1-tf_28",
+      "ocr": {
+        "x": 10.078310762189561,
+        "y": 63.94057111956377,
+        "text": "부대전골",
+        "width": 9.96137177749303,
+        "height": 4.881194859670625,
+        "rotation": 0
+      }
+    }
+  ]
+}

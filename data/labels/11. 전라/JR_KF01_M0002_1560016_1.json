@@ -1,0 +1,428 @@
+{
+  "meta": {
+    "file_name": "JR_KF01_M0002_1560016_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "",
+    "store_id": "1560016",
+    "store_region": "JR",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 5.019815059445177,
+        "y": 21.30281690140845,
+        "width": 93.79128137384411,
+        "height": 61.79577464788732,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "해물삼합",
+        "en.ROMAN": "haemulsamhap",
+        "en": "Seafood Combo",
+        "ja": "海鮮のサムハプ",
+        "zh_CN": "海鲜三合",
+        "zh_TW": "海鮮三合",
+        "price": "40000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_0",
+      "ocr": {
+        "x": 7.850157954107588,
+        "y": 35.50717101173705,
+        "text": "해물삼합",
+        "width": 17.237519275014478,
+        "height": 4.873293916901516,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "생선조림",
+        "en.ROMAN": "saengseonjorim",
+        "en": "Braised Fish",
+        "ja": "魚の煮付け",
+        "zh_CN": "炖鱼",
+        "zh_TW": "醬燒魚",
+        "price": "25000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_4",
+      "ocr": {
+        "x": 54.89640486228832,
+        "y": 36.24338624338623,
+        "text": "생선조림",
+        "width": 16.363087125915985,
+        "height": 4.695767195767194,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_14",
+      "ocr": {
+        "x": 7.856794187716253,
+        "y": 45.23287403561372,
+        "text": "삼겹살",
+        "width": 17.23088304140581,
+        "height": 4.700988398248737,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "백반",
+        "en.ROMAN": "baekban",
+        "en": "Set Menu",
+        "ja": "定食",
+        "zh_CN": "家常套餐",
+        "zh_TW": "家常套餐",
+        "price": "7000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_16",
+      "ocr": {
+        "x": 54.74759533847861,
+        "y": 45.68512099881182,
+        "text": "백반",
+        "width": 16.65131742577253,
+        "height": 4.641423888565852,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "닭볶음탕",
+        "en.ROMAN": "dakbokkeumtang",
+        "en": "Spicy Braised Chicken",
+        "ja": "鶏肉の炒め煮",
+        "zh_CN": "辣炖鸡块",
+        "zh_TW": "辣燒雞",
+        "price": "30000",
+        "ingredients.ko": [
+          "닭고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_25",
+      "ocr": {
+        "x": 7.651745255694909,
+        "y": 54.65399640856241,
+        "text": "닭볶음탕",
+        "width": 17.212717687712875,
+        "height": 5.23705053065813,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "해물된장찌개",
+        "en.ROMAN": "haemuldoenjangjjigae",
+        "en": "Seafood Soybean Paste Jjigae",
+        "ja": "海鮮テンジャンチゲ",
+        "zh_CN": "海鲜大酱汤",
+        "zh_TW": "海鮮大醬鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "해물",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "大醬"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_26",
+      "ocr": {
+        "x": 54.79946434845403,
+        "y": 54.980397605873954,
+        "text": "해물된장찌개",
+        "width": 16.864364953885513,
+        "height": 4.728835978835975,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "동태탕",
+        "en.ROMAN": "dongtaetang",
+        "en": "Pollack Soup",
+        "ja": "スケトウダラスープ",
+        "zh_CN": "冻明太鱼汤",
+        "zh_TW": "凍明太魚湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "동태"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "冻明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "凍明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_38",
+      "ocr": {
+        "x": 55.037702468788,
+        "y": 64.56030462304291,
+        "text": "동태탕",
+        "width": 16.429979970510846,
+        "height": 4.946134444228958,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매운탕",
+        "en.ROMAN": "maeuntang",
+        "en": "Spicy Fish Stew",
+        "ja": "魚の辛味スープ",
+        "zh_CN": "鲜辣鱼汤",
+        "zh_TW": "鮮辣魚湯",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "생선"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_42",
+      "ocr": {
+        "x": 7.602142081091732,
+        "y": 64.77304402761028,
+        "text": "매운탕",
+        "width": 17.143306130743614,
+        "height": 4.838484733005296,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "골뱅이무침",
+        "en.ROMAN": "golbaengimuchim",
+        "en": "Sea Snail Salad",
+        "ja": "つぶ貝の和え物",
+        "zh_CN": "凉拌海螺",
+        "zh_TW": "涼拌海螺",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "골뱅이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Sea Snail"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "つぶ貝"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海螺"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海螺"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_48",
+      "ocr": {
+        "x": 55.41950403099367,
+        "y": 74.29256691804308,
+        "text": "골뱅이무침",
+        "width": 16.164674427503265,
+        "height": 4.996334808120422,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생선구이",
+        "en.ROMAN": "saengseongui",
+        "en": "Grilled Fish",
+        "ja": "魚焼き",
+        "zh_CN": "烤鱼",
+        "zh_TW": "烤魚",
+        "price": "25000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1560016_1-tf_50",
+      "ocr": {
+        "x": 7.75360609834472,
+        "y": 74.93560283468966,
+        "text": "생선구이",
+        "width": 17.01032324913498,
+        "height": 4.927248677248675,
+        "rotation": 0
+      }
+    }
+  ]
+}

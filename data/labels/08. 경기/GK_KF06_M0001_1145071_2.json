@@ -1,0 +1,461 @@
+{
+  "meta": {
+    "file_name": "GK_KF06_M0001_1145071_2.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:11 18:23:38",
+    "store_id": "1145071",
+    "store_region": "GK",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.5337423312883436,
+          1.1520737327188943
+        ],
+        [
+          15.950920245398773,
+          0.4608294930875576
+        ],
+        [
+          87.73006134969327,
+          0
+        ],
+        [
+          93.86503067484662,
+          92.16589861751152
+        ],
+        [
+          3.374233128834356,
+          92.62672811059907
+        ],
+        [
+          0.793557085530567,
+          26.9599635651064
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "김말이튀김",
+        "en.ROMAN": "gimmaritwigim",
+        "en": "Deep-fried Laver Rolls",
+        "ja": "春雨のり巻き天ぷら",
+        "zh_CN": "炸紫菜卷",
+        "zh_TW": "炸海苔捲",
+        "price": "5500",
+        "ingredients.ko": [
+          "밀가루",
+          "김",
+          "당면"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Laver",
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "海苔",
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "紫菜",
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "海苔",
+          "粉條"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1145071_2-tf-0",
+      "ocr": {
+        "x": 59.772014927347186,
+        "y": 23.982121284537484,
+        "text": "김말이튀김",
+        "width": 11.73879033623917,
+        "height": 2.1212505180717356,
+        "rotation": 357.5689165824715
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "고구마치즈스틱",
+        "en.ROMAN": "goguma cheese stick",
+        "en": "Sweet Potato and Cheese Sticks",
+        "ja": "さつまいもチーズスティック",
+        "zh_CN": "红薯奶酪条",
+        "zh_TW": "地瓜起司條",
+        "price": "6000",
+        "ingredients.ko": [
+          "고구마",
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Sweet Potato",
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "サツマイモ",
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "红薯",
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜",
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1145071_2-tf-1",
+      "ocr": {
+        "x": 32.47388324261602,
+        "y": 24.879253165484997,
+        "text": "고구마치즈스틱",
+        "width": 15.921429481070415,
+        "height": 2.1440040538633154,
+        "rotation": 357.57532813358927
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념순살치킨",
+        "en.ROMAN": "yangnyeomsunsal chicken",
+        "en": "Seasoned Fried Boneless Chicken",
+        "ja": "骨なしヤンニョムチキン",
+        "zh_CN": "无骨调味炸鸡",
+        "zh_TW": "無骨調味炸雞",
+        "price": "9000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1145071_2-tf-2",
+      "ocr": {
+        "x": 60.76222016675593,
+        "y": 42.47108568583226,
+        "text": "양념순살치킨",
+        "width": 13.999999999999977,
+        "height": 2.119170124916117,
+        "rotation": 358.34157089546926
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살치킨",
+        "en.ROMAN": "sunsal chicken",
+        "en": "Fried Boneless Chicken",
+        "ja": "骨なしチキン",
+        "zh_CN": "无骨炸鸡",
+        "zh_TW": "無骨炸雞",
+        "price": "8000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1145071_2-tf-3",
+      "ocr": {
+        "x": 33.26090574084683,
+        "y": 43.30167555798891,
+        "text": "순살치킨",
+        "width": 9.302453840992436,
+        "height": 2.124608516661717,
+        "rotation": 358.35674953153205
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "불꽃오징어",
+        "en.ROMAN": "bulkkodojingeo",
+        "en": "Extra Spicy Deep-fried Squid",
+        "ja": "ピリ辛イカゲソ",
+        "zh_CN": "火花鱿鱼",
+        "zh_TW": "火烤勁辣魷魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1145071_2-tf-4",
+      "ocr": {
+        "x": 5.670365743898328,
+        "y": 44.04227201850209,
+        "text": "불꽃오징어",
+        "width": 11.572252199502639,
+        "height": 2.0967523931372583,
+        "rotation": 357.5097883331707
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "통통군만두",
+        "en.ROMAN": "tongtonggunmandu",
+        "en": "Pan-fried Mandu",
+        "ja": "焼き餃子",
+        "zh_CN": "大煎饺",
+        "zh_TW": "大煎餃",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1145071_2-tf-5",
+      "ocr": {
+        "x": 61.721943177442476,
+        "y": 61.160884302812924,
+        "text": "통통군만두",
+        "width": 12.038119865620338,
+        "height": 2.2499999999999964,
+        "rotation": 358.27462603627373
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "왕새우튀김&볼",
+        "en.ROMAN": "wangsaeutwigim&bol",
+        "en": "Deep-fried Jumbo Shrimp & Ball",
+        "ja": "特大海老天ぷら＆ボール",
+        "zh_CN": "炸大虾&虾球",
+        "zh_TW": "大份炸蝦&蝦球",
+        "price": "6000",
+        "ingredients.ko": [
+          "왕새우",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Jumbo Shrimp",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "大正海老",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "大虾",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "明蝦",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1145071_2-tf-6",
+      "ocr": {
+        "x": 34.03393929067642,
+        "y": 61.78596188785239,
+        "text": "왕새우튀김&볼",
+        "width": 16.07318731808326,
+        "height": 2.150347772941958,
+        "rotation": 358.3962804919967
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "양념감자튀김",
+        "en.ROMAN": "yangnyeomgamjatwigim",
+        "en": "Seasoned French Fries",
+        "ja": "味付けフライドポテト",
+        "zh_CN": "调味炸土豆",
+        "zh_TW": "調味炸馬鈴薯",
+        "price": "7000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1145071_2-tf-7",
+      "ocr": {
+        "x": 6.725816855974745,
+        "y": 62.5096769916981,
+        "text": "양념감자튀김",
+        "width": 13.633333333333299,
+        "height": 2.074340258489489,
+        "rotation": 358.19036246696334
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "할멘보샤",
+        "en.ROMAN": "halmenbosya",
+        "en": "Halmenbosha",
+        "ja": "ハトシ",
+        "zh_CN": "面包虾",
+        "zh_TW": "麵包蝦",
+        "price": "10000",
+        "ingredients.ko": [
+          "밀가루",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蝦"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1145071_2-tf-8",
+      "ocr": {
+        "x": 7.030449243540102,
+        "y": 81.25879298527879,
+        "text": "할멘보샤",
+        "width": 9.975868176345388,
+        "height": 2.1249999999999987,
+        "rotation": 358.3460025592919
+      }
+    }
+  ]
+}

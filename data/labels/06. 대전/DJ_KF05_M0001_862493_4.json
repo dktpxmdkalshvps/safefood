@@ -1,0 +1,394 @@
+{
+  "meta": {
+    "file_name": "DJ_KF05_M0001_862493_4.jpg",
+    "image_original_width": 2268,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:06 18:37:19",
+    "store_id": "862493",
+    "store_region": "DJ",
+    "store_type": "KF05",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 6.686933404006858,
+        "width": 100,
+        "height": 90.10473923012955,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "머스마코스",
+        "en.ROMAN": "meoseuma course",
+        "en": "Meoseuma Couse Menu",
+        "ja": "男の子コース(丸ごとゆでタコ+活アワビの蒸し物+活アワビのバター焼き+特選料理)",
+        "zh_CN": "男孩套餐",
+        "zh_TW": "少男套餐",
+        "price": "45000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_2",
+      "ocr": {
+        "x": 44.53262786596119,
+        "y": 22.147817460317462,
+        "text": "머스마코스",
+        "width": 13.08951751756,
+        "height": 1.6865079365079365,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "가스나코스",
+        "en.ROMAN": "gaseuna course",
+        "en": "Gaseuna Couse Menu",
+        "ja": "女の子コース(特大活アワビの刺身+男の子コース)",
+        "zh_CN": "女孩套餐",
+        "zh_TW": "少女套餐",
+        "price": "55000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_15",
+      "ocr": {
+        "x": 44.53262786596105,
+        "y": 38.93849206349207,
+        "text": "가스나코스",
+        "width": 13.324871204633466,
+        "height": 1.7277522667251992,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "우리두리코스",
+        "en.ROMAN": "uriduri course",
+        "en": "Uriduri Course Menu",
+        "ja": "おふたりコース(特大活アワビの刺身+アワビの蒸し物+活アワビの直火焼き+活アワビのバター焼き+特大海老の塩焼き+特選料理)",
+        "zh_CN": "我们俩套餐",
+        "zh_TW": "雙人套餐",
+        "price": "100000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_29",
+      "ocr": {
+        "x": 43.38624338624339,
+        "y": 58.08531746031746,
+        "text": "우리두리코스",
+        "width": 16.08489356029061,
+        "height": 1.8253418362256157,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_43",
+      "ocr": {
+        "x": 5.4269789969329665,
+        "y": 80.91069554555185,
+        "text": "소주",
+        "width": 4.989046976368931,
+        "height": 1.5376984126984128,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_46",
+      "ocr": {
+        "x": 5.405501041650506,
+        "y": 83.71327491063123,
+        "text": "맥주",
+        "width": 4.89048132052735,
+        "height": 1.6010405548898001,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_48",
+      "ocr": {
+        "x": 5.202821869488534,
+        "y": 86.43657203207934,
+        "text": "청하",
+        "width": 5.114638447971778,
+        "height": 1.8095721549278811,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "15000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_50",
+      "ocr": {
+        "x": 87.33529677802093,
+        "y": 87.51793753918584,
+        "text": "복분자",
+        "width": 7.412241781253342,
+        "height": 1.7925783338299972,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "일품진로",
+        "en.ROMAN": "ilpoom jinro",
+        "en": "Ilpoom Jinro Soju",
+        "ja": "一品眞露",
+        "zh_CN": "一品真露",
+        "zh_TW": "一品真露",
+        "price": "25000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_49",
+      "ocr": {
+        "x": 70.79535738315049,
+        "y": 87.56562881737403,
+        "text": "일품진로",
+        "width": 9.51826166333072,
+        "height": 1.7686403589635797,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "화요25도",
+        "en.ROMAN": "hwayo isibodo",
+        "en": "Hwayo ABV 25%",
+        "ja": "火堯25度(焼酎)",
+        "zh_CN": "火尧25度",
+        "zh_TW": "火堯25度",
+        "price": "25000",
+        "ingredients.ko": [
+          "레몬",
+          "토닉워터"
+        ],
+        "ingredients.en": [
+          "Lemon",
+          "Tonic Water"
+        ],
+        "ingredients.ja": [
+          "レモン",
+          "トニックウォーター"
+        ],
+        "ingredients.zh_CN": [
+          "柠檬",
+          "奎宁水"
+        ],
+        "ingredients.zh_TW": [
+          "檸檬",
+          "通寧水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_51",
+      "ocr": {
+        "x": 55.9082892416227,
+        "y": 87.70879778254263,
+        "text": "화요25",
+        "width": 8.218837582688064,
+        "height": 1.6998761556998092,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료",
+        "en.ROMAN": "eumnyo",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF05_M0001_862493_4-tf_53",
+      "ocr": {
+        "x": 4.971981081371823,
+        "y": 89.45066603199403,
+        "text": "음료",
+        "width": 5.036837260779851,
+        "height": 1.732079792333985,
+        "rotation": 0
+      }
+    }
+  ]
+}

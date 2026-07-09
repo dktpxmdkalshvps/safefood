@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "file_name": "GK_IF02_M0002_1018105_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:22 18:02:16",
+    "store_id": "1018105",
+    "store_region": "GK",
+    "store_type": "IF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          11.160578146900303,
+          0.18939393939393978
+        ],
+        [
+          86.91815390447607,
+          0.5681818181818187
+        ],
+        [
+          81.61512360144573,
+          100
+        ],
+        [
+          22.77673976306191,
+          100
+        ],
+        [
+          20.504012490334645,
+          84.469696969697
+        ],
+        [
+          18.736335722657874,
+          84.469696969697
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "냉우동",
+        "en.ROMAN": "naeng udon",
+        "en": "Cold Udon",
+        "ja": "冷やしうどん",
+        "zh_CN": "冷乌冬面",
+        "zh_TW": "冷烏龍麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF02_M0002_1018105_1-tf-0",
+      "ocr": {
+        "x": 65.90000000000013,
+        "y": 19.174999999999937,
+        "text": "냉우동",
+        "width": 7.436293761427175,
+        "height": 2.2499999999999907,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "냉짬뽕",
+        "en.ROMAN": "naengjjamppong",
+        "en": "Spicy Cold Seafood Noodle Soup",
+        "ja": "冷やしチャンポン",
+        "zh_CN": "冷炒码面",
+        "zh_TW": "冷炒碼麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF02_M0002_1018105_1-tf-1",
+      "ocr": {
+        "x": 49.43333333333329,
+        "y": 19.349999999999874,
+        "text": "냉짬뽕",
+        "width": 7.193405950523197,
+        "height": 2.224999999999988,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "콩국수",
+        "en.ROMAN": "kongguksu",
+        "en": "Noodles in Cold Soybean Soup",
+        "ja": "コングクス",
+        "zh_CN": "豆汁面",
+        "zh_TW": "豆汁麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "면",
+          "콩"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Soybeans"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "豆"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "大豆"
+        ],
+        "allergy": [
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF02_M0002_1018105_1-tf-2",
+      "ocr": {
+        "x": 57.721247780325804,
+        "y": 36.50906416475531,
+        "text": "콩국수",
+        "width": 6.60763032871505,
+        "height": 2.038743340977862,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔냉면",
+        "en.ROMAN": "bibimnaengmyeon",
+        "en": "Spicy Buckwheat Noodles",
+        "ja": "混ぜ冷麺",
+        "zh_CN": "拌冷面",
+        "zh_TW": "拌冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "비빔장",
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Sauce",
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "ビビンソース",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "拌饭酱",
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "拌飯醬",
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF02_M0002_1018105_1-tf-3",
+      "ocr": {
+        "x": 64.5333333333332,
+        "y": 42.699999999999896,
+        "text": "비빔냉면",
+        "width": 8.74174816255282,
+        "height": 1.8978075057333972,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "물냉면",
+        "en.ROMAN": "mullaengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "水冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_IF02_M0002_1018105_1-tf-4",
+      "ocr": {
+        "x": 49.49654487149851,
+        "y": 42.79220924988712,
+        "text": "물냉면",
+        "width": 6.767414064765872,
+        "height": 1.8054007320432417,
+        "rotation": 0
+      }
+    }
+  ]
+}

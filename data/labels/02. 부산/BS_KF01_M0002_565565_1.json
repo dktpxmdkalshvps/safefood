@@ -1,0 +1,614 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0002_565565_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:09 19:15:18",
+    "store_id": "565565",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          6.084243369734789
+        ],
+        [
+          96.25292740046838,
+          18.876755070202808
+        ],
+        [
+          96.01873536299766,
+          85.95943837753512
+        ],
+        [
+          0.117096018735363,
+          83.77535101404057
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오리소금구이",
+        "en.ROMAN": "orisogeumgui",
+        "en": "Salt-grilled Duck",
+        "ja": "鴨肉の塩焼き",
+        "zh_CN": "盐烤鸭肉",
+        "zh_TW": "鹽烤鴨肉",
+        "price": "40000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_4",
+      "ocr": {
+        "x": 3.5076716332757614,
+        "y": 28.027620002687453,
+        "text": "오리소금구이",
+        "width": 17.21885579706301,
+        "height": 4.7100318024503585,
+        "rotation": 3.783261269159425
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_8",
+      "ocr": {
+        "x": 43.23559308598072,
+        "y": 32.321074278307115,
+        "text": "소주",
+        "width": 4.9988637106103315,
+        "height": 4.1287842048773875,
+        "rotation": 2.5354664654101384
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "오리전복백숙",
+        "en.ROMAN": "orijeonbokbaeksuk",
+        "en": "Whole Duck Soup with Abalone",
+        "ja": "アワビ入り鴨肉の水炊き",
+        "zh_CN": "鲍鱼清炖鸭",
+        "zh_TW": "鮑魚藥膳燉鴨",
+        "price": "60000",
+        "ingredients.ko": [
+          "오리고기",
+          "전복"
+        ],
+        "ingredients.en": [
+          "Duck Meat",
+          "Abalone"
+        ],
+        "ingredients.ja": [
+          "鴨肉",
+          "アワビ"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉",
+          "鲍鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉",
+          "鮑魚"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_9",
+      "ocr": {
+        "x": 3.283602322941111,
+        "y": 33.63941405403436,
+        "text": "오리전복백숙",
+        "width": 17.663415209439908,
+        "height": 4.785526733614723,
+        "rotation": 3.601573706350507
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_12",
+      "ocr": {
+        "x": 43.154125313047224,
+        "y": 37.63378467200201,
+        "text": "맥주",
+        "width": 5.49841561071516,
+        "height": 4.3479426338638705,
+        "rotation": 2.9307430539113284
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_14",
+      "ocr": {
+        "x": 2.8237207750198934,
+        "y": 39.40860784894015,
+        "text": "삼겹살",
+        "width": 9.714376835352393,
+        "height": 4.899257829912388,
+        "rotation": 2.0816432437533194
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매실마을",
+        "en.ROMAN": "maesilmaeul",
+        "en": "Maesilmaeul",
+        "ja": "メシルマウル(梅酒)",
+        "zh_CN": "梅村",
+        "zh_TW": "梅村青梅酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "매실"
+        ],
+        "ingredients.en": [
+          "Green Plum"
+        ],
+        "ingredients.ja": [
+          "梅"
+        ],
+        "ingredients.zh_CN": [
+          "青梅"
+        ],
+        "ingredients.zh_TW": [
+          "梅子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_17",
+      "ocr": {
+        "x": 43.02411461902599,
+        "y": 43.01293870528055,
+        "text": "매실마을",
+        "width": 10.889442006198836,
+        "height": 4.398544996349768,
+        "rotation": 2.6770839046856736
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "생선모듬",
+        "en.ROMAN": "saengseonmodeum",
+        "en": "Assorted Fish",
+        "ja": "魚の盛り合わせ",
+        "zh_CN": "鱼拼盘",
+        "zh_TW": "炸魚拼盤",
+        "price": "12000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_19",
+      "ocr": {
+        "x": 2.636709438774902,
+        "y": 45.16998837947246,
+        "text": "생선모듬",
+        "width": 12.058535708663237,
+        "height": 4.8066273873260155,
+        "rotation": 2.380701049550396
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_21",
+      "ocr": {
+        "x": 42.89454699454649,
+        "y": 48.402563957952566,
+        "text": "막걸리",
+        "width": 8.22151773269474,
+        "height": 4.293174099974884,
+        "rotation": 2.478382997589449
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "갈치찌개",
+        "en.ROMAN": "galchijjigae",
+        "en": "Cutlassfish Jjigae",
+        "ja": "太刀魚チゲ",
+        "zh_CN": "带鱼锅",
+        "zh_TW": "白帶魚鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "갈치"
+        ],
+        "ingredients.en": [
+          "Cutlassfish"
+        ],
+        "ingredients.ja": [
+          "太刀魚"
+        ],
+        "ingredients.zh_CN": [
+          "带鱼"
+        ],
+        "ingredients.zh_TW": [
+          "白帶魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_23",
+      "ocr": {
+        "x": 2.376945083827551,
+        "y": 50.817168825430656,
+        "text": "갈치찌개",
+        "width": 12.991837924210602,
+        "height": 4.751790789920906,
+        "rotation": 2.237013232513277
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "3000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_27",
+      "ocr": {
+        "x": 42.71532449526671,
+        "y": 53.657412275493726,
+        "text": "음료수",
+        "width": 7.377308940347366,
+        "height": 4.501845229899662,
+        "rotation": 1.2482906047250708
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "갈치구이",
+        "en.ROMAN": "galchigui",
+        "en": "Grilled Cutlassfish",
+        "ja": "太刀魚焼き",
+        "zh_CN": "烤带鱼",
+        "zh_TW": "烤白帶魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "갈치"
+        ],
+        "ingredients.en": [
+          "Cutlassfish"
+        ],
+        "ingredients.ja": [
+          "太刀魚"
+        ],
+        "ingredients.zh_CN": [
+          "带鱼"
+        ],
+        "ingredients.zh_TW": [
+          "白帶魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_29",
+      "ocr": {
+        "x": 2.1434766232983473,
+        "y": 56.77660642558467,
+        "text": "갈치구이",
+        "width": 12.375992063492115,
+        "height": 4.720047179569616,
+        "rotation": 0.8617709662303241
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "두루치기",
+        "en.ROMAN": "duruchigi",
+        "en": "Stir-fried Pork",
+        "ja": "豚肉と野菜炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_32",
+      "ocr": {
+        "x": 1.797015174955601,
+        "y": 62.671835023425324,
+        "text": "두루치기",
+        "width": 11.858514891290852,
+        "height": 4.596706521473555,
+        "rotation": 0.8587726103680211
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "생선정식",
+        "en.ROMAN": "saengseonjeongsik",
+        "en": "Grilled Fish Set Menu",
+        "ja": "魚定食",
+        "zh_CN": "烤鱼套餐",
+        "zh_TW": "鮮魚套餐",
+        "price": "9000",
+        "ingredients.ko": [
+          "생선",
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_40",
+      "ocr": {
+        "x": 1.44126980210399,
+        "y": 68.57658250587006,
+        "text": "생선정식",
+        "width": 12.772817460317489,
+        "height": 4.901729181151331,
+        "rotation": 0.827972588156797
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_565565_1-tf_47",
+      "ocr": {
+        "x": 1.2257354408293444,
+        "y": 74.37446984447922,
+        "text": "김치찌개",
+        "width": 12.977603605853194,
+        "height": 4.8730983239499635,
+        "rotation": 0.4156166755287245
+      }
+    }
+  ]
+}

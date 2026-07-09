@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "file_name": "BS_KF02_M0002_501000_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:25 19:26:20",
+    "store_id": "501000",
+    "store_region": "BS",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.31506849315066,
+          17.808219178082187
+        ],
+        [
+          99.31506849315066,
+          66.26712328767125
+        ],
+        [
+          0,
+          67.97945205479452
+        ],
+        [
+          0.684931506849315,
+          19.52054794520548
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "햄토스트",
+        "en.ROMAN": "ham toast",
+        "en": "Ham Toast",
+        "ja": "ハムトースト",
+        "zh_CN": "火腿吐司",
+        "zh_TW": "火腿吐司",
+        "price": "2500",
+        "ingredients.ko": [
+          "햄",
+          "빵"
+        ],
+        "ingredients.en": [
+          "Ham",
+          "Bread"
+        ],
+        "ingredients.ja": [
+          "ハム",
+          "パン"
+        ],
+        "ingredients.zh_CN": [
+          "午餐肉",
+          "面包"
+        ],
+        "ingredients.zh_TW": [
+          "火腿",
+          "麵包"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_0",
+      "ocr": {
+        "x": 43.00411679918257,
+        "y": 26.754117601572123,
+        "text": "햄토스트",
+        "width": 15.02091502273148,
+        "height": 2.7611376519435895,
+        "rotation": 358.1993283091674
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "햄치즈토스트",
+        "en.ROMAN": "ham cheese toast",
+        "en": "Ham and Cheese Toast",
+        "ja": "ハムチーズトースト",
+        "zh_CN": "火腿奶酪吐司",
+        "zh_TW": "火腿起司吐司",
+        "price": "2800",
+        "ingredients.ko": [
+          "치즈",
+          "햄"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Ham"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "ハム"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "午餐肉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "火腿"
+        ],
+        "allergy": [
+          "우유",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_4",
+      "ocr": {
+        "x": 35.42399966658644,
+        "y": 30.315880627166468,
+        "text": "햄치즈토스트",
+        "width": 22.812270948518112,
+        "height": 2.8072107445994363,
+        "rotation": 358.1993283091656
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "토스트",
+        "en.ROMAN": "toast",
+        "en": "Toast",
+        "ja": "トースト",
+        "zh_CN": "吐司",
+        "zh_TW": "吐司",
+        "price": "3900",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_7",
+      "ocr": {
+        "x": 39.60678565927323,
+        "y": 33.714626759387954,
+        "text": "모짜토스트",
+        "width": 18.656726753850684,
+        "height": 2.723132995349418,
+        "rotation": 358.76797640643645
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "참치토스트",
+        "en.ROMAN": "chamchi toast",
+        "en": "Tuna Toast",
+        "ja": "ツナトースト",
+        "zh_CN": "金枪鱼吐司",
+        "zh_TW": "鮪魚吐司",
+        "price": "3900",
+        "ingredients.ko": [
+          "참치",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_9",
+      "ocr": {
+        "x": 39.6916790698771,
+        "y": 37.09247018517657,
+        "text": "참치토스트",
+        "width": 18.786905225890816,
+        "height": 2.8582858024285787,
+        "rotation": 358.46414189595697
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "베이컨토스트",
+        "en.ROMAN": "bacon toast",
+        "en": "Bacon Toast",
+        "ja": "ベーコントースト",
+        "zh_CN": "培根吐司",
+        "zh_TW": "培根吐司",
+        "price": "3500",
+        "ingredients.ko": [
+          "채소",
+          "밀가루",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Wheat Flour",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "小麦粉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "面粉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵粉",
+          "豬肉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_11",
+      "ocr": {
+        "x": 36.529389407523624,
+        "y": 40.58061569103729,
+        "text": "베이컨토스트",
+        "width": 22.038688902890087,
+        "height": 2.8230387953336886,
+        "rotation": 358.464141895961
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "포테이토토스트",
+        "en.ROMAN": "potato toast",
+        "en": "Potato Toast",
+        "ja": "ポテトトースト",
+        "zh_CN": "土豆吐司",
+        "zh_TW": "馬鈴薯吐司",
+        "price": "3500",
+        "ingredients.ko": [
+          "감자",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "じゃがいも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "土豆",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_13",
+      "ocr": {
+        "x": 32.94442849757902,
+        "y": 44.103586083573525,
+        "text": "포테이토토스트",
+        "width": 25.69425213653731,
+        "height": 2.844845801600117,
+        "rotation": 358.46414189595816
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "베이컨포테이토토스트",
+        "en.ROMAN": "bacon potato toast",
+        "en": "Bacon potato toast.",
+        "ja": "ベーコンポテトトースト",
+        "zh_CN": "培根土豆吐司",
+        "zh_TW": "培根土豆吐司",
+        "price": "4500",
+        "ingredients.ko": [
+          "베이컨",
+          "감자",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Bacon",
+          "Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "ベーコン",
+          "じゃがいも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "培根",
+          "土豆",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "培根",
+          "馬鈴薯",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_16",
+      "ocr": {
+        "x": 21.772178746683586,
+        "y": 47.78210852927077,
+        "text": "베이컨포테이토토스트",
+        "width": 37.127612929472676,
+        "height": 2.901330885539409,
+        "rotation": 358.50573325469065
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "돈까스토스트",
+        "en.ROMAN": "dongaseu toast",
+        "en": "Pork cutlet toast.",
+        "ja": "とんかつトースト",
+        "zh_CN": "炸猪排",
+        "zh_TW": "炸豬排",
+        "price": "3900",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "雞蛋"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_20",
+      "ocr": {
+        "x": 36.55432031948377,
+        "y": 51.0118664670879,
+        "text": "돈까스토스트",
+        "width": 22.454144664789858,
+        "height": 2.879599763790927,
+        "rotation": 358.4193133262813
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "돈까스토스트",
+        "en.ROMAN": "dongaseu toast",
+        "en": "Pork cutlet toast.",
+        "ja": "とんかつトースト",
+        "zh_CN": "炸猪排",
+        "zh_TW": "炸豬排",
+        "price": "4500",
+        "ingredients.ko": [
+          "치즈",
+          "돼지고기",
+          "밀가루",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Pork",
+          "Wheat Flour",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "豚肉",
+          "小麦粉",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "猪肉",
+          "面粉",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "豬肉",
+          "麵粉",
+          "雞蛋"
+        ],
+        "allergy": [
+          "우유",
+          "돼지고기",
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_24",
+      "ocr": {
+        "x": 28.850589650724128,
+        "y": 54.621356828530594,
+        "text": "모짜돈까스토스트",
+        "width": 30.11358038763868,
+        "height": 2.9388459102343805,
+        "rotation": 358.4193133262848
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "떡갈비토스트",
+        "en.ROMAN": "tteokgalbi toast",
+        "en": "Grilled Galbi Patties Toast Sandwich",
+        "ja": "トッカルビトースト",
+        "zh_CN": "牛肉饼吐司",
+        "zh_TW": "烤牛肉餅吐司",
+        "price": "3900",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_501000_1-tf_26",
+      "ocr": {
+        "x": 36.82632287421063,
+        "y": 58.01410408577554,
+        "text": "떡갈비토스트",
+        "width": 22.36424900886121,
+        "height": 2.8733709201815354,
+        "rotation": 358.4193133262818
+      }
+    }
+  ]
+}

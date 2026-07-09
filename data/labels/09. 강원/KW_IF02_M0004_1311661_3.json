@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "file_name": "KW_IF02_M0004_1311661_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "1311661",
+    "store_region": "KW",
+    "store_type": "IF02",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.59514170040485,
+          0.303951367781155
+        ],
+        [
+          0.8097165991902834,
+          0.60790273556231
+        ],
+        [
+          3.4412955465587043,
+          99.54407294832826
+        ],
+        [
+          91.09311740890689,
+          99.08814589665651
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "KW_IF02_M0004_1311661_3-tf_10",
+      "ocr": {
+        "x": 59.44357102501214,
+        "y": 33.19106741925444,
+        "text": "볶음밥",
+        "width": 2.9590176217484765,
+        "height": 0.916285878538217,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "KW_IF02_M0004_1311661_3-tf_8",
+      "ocr": {
+        "x": 30.440710745855053,
+        "y": 33.212965277203956,
+        "text": "고기짬뽕밥",
+        "width": 4.594768984480288,
+        "height": 0.9424603174603182,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "고기짬뽕밥",
+        "en.ROMAN": "gogijjamppongbap",
+        "en": "Spicy Seafood and Rice Soup with Pork",
+        "ja": "肉チャンポンご飯",
+        "zh_CN": "肉炒码饭",
+        "zh_TW": "豬肉炒碼飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Meat",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "肉",
+          "米"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "KW_IF02_M0004_1311661_3-tf_9",
+      "ocr": {
+        "x": 43.49570164109983,
+        "y": 33.23032907763755,
+        "text": "눈물고기장빵밥",
+        "width": 6.433034839937597,
+        "height": 0.9424603174603192,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "눈물고기장빵밥",
+        "en.ROMAN": "nunmulgogijangppangbap",
+        "en": "Teary Spicy Beef and Seafood Soup Noodles with Steamed Rice",
+        "ja": "激辛肉チャンポンご飯",
+        "zh_CN": "辣味肉炒码饭",
+        "zh_TW": "眼淚肉醬麵包飯",
+        "price": "11000",
+        "ingredients.ko": [
+          "고기",
+          "밀가루",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Meat",
+          "Wheat Flour",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "肉",
+          "小麦粉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "肉",
+          "面粉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "肉",
+          "麵粉",
+          "米"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "KW_IF02_M0004_1311661_3-tf_11",
+      "ocr": {
+        "x": 17.553233203854926,
+        "y": 33.2330726917193,
+        "text": "짬뽕밥",
+        "width": 2.81084656084656,
+        "height": 0.9092170435483747,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "짬뽕밥",
+        "en.ROMAN": "jjamppongbap",
+        "en": "Spicy Seafood and Rice Soup",
+        "ja": "チャンポンご飯",
+        "zh_CN": "炒码饭",
+        "zh_TW": "炒碼飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "米"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "KW_IF02_M0004_1311661_3-tf_19",
+      "ocr": {
+        "x": 31.825442861935926,
+        "y": 47.210086838510556,
+        "text": "공기밥",
+        "width": 2.798525312108861,
+        "height": 0.7936507936507937,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

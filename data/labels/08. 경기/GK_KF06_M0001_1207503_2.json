@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "file_name": "GK_KF06_M0001_1207503_2.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:28 19:48:38",
+    "store_id": "1207503",
+    "store_region": "GK",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.46643717728055,
+          0.9032258064516131
+        ],
+        [
+          100,
+          0
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          8.658162001339639,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "윙봉",
+        "en.ROMAN": "wing bong",
+        "en": "Wing Stick",
+        "ja": "バッファローウィング",
+        "zh_CN": "炸鸡翅",
+        "zh_TW": "雞翅",
+        "price": "3000",
+        "ingredients.ko": [
+          "닭날개",
+          "닭봉"
+        ],
+        "ingredients.en": [
+          "Chicken Wing",
+          "Chicken Drumette"
+        ],
+        "ingredients.ja": [
+          "手羽先",
+          "手羽元"
+        ],
+        "ingredients.zh_CN": [
+          "鸡翅",
+          "鸡翅根"
+        ],
+        "ingredients.zh_TW": [
+          "雞翅",
+          "雞小腿"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1207503_2-tf_2",
+      "ocr": {
+        "x": 88.03218329797602,
+        "y": 18.052661265946565,
+        "text": "윙봉",
+        "width": 2.8000000000000016,
+        "height": 1.3908270030494458,
+        "rotation": 357.6551461227691
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "순살",
+        "en.ROMAN": "sunsal",
+        "en": "Boneless Meat",
+        "ja": "骨無し",
+        "zh_CN": "无骨",
+        "zh_TW": "無骨",
+        "price": "2000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1207503_2-tf_5",
+      "ocr": {
+        "x": 47.554293618926486,
+        "y": 19.584243536434904,
+        "text": "순살",
+        "width": 2.5790397144068136,
+        "height": 1.2907564635651072,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "현미바사삭",
+        "en.ROMAN": "hyeonmibasasak",
+        "en": "Sweet Brown Rice Crispy",
+        "ja": "カリカリ玄米チキン",
+        "zh_CN": "糙米脆皮",
+        "zh_TW": "糙米酥脆",
+        "price": "17900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "현미"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Brown Rice"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "玄米"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "糙米"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "糙米"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1207503_2-tf_9",
+      "ocr": {
+        "x": 52.673228759180176,
+        "y": 27.462853339825173,
+        "text": "현미바사삭",
+        "width": 14.449699159603245,
+        "height": 2.3755478406981467,
+        "rotation": 357.5986880150949
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반반바른치킨",
+        "en.ROMAN": "banbanbareun chicken",
+        "en": "Fried Chicken (Half and Half)",
+        "ja": "ハーフ&ハーフパルンチキン",
+        "zh_CN": "Barun炸鸡双拼",
+        "zh_TW": "炸雞雙拼",
+        "price": "19900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1207503_2-tf_14",
+      "ocr": {
+        "x": 52.616835936346426,
+        "y": 42.850000000000065,
+        "text": "반반바른치킨",
+        "width": 16.499661460640525,
+        "height": 2.400000000000001,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "통곡물간장치킨",
+        "en.ROMAN": "tonggongmulganjang chicken",
+        "en": "Whole Grain Soy Sauce Chicken",
+        "ja": "全粒穀物入りカンジャンチキン",
+        "zh_CN": "全谷酱香炸鸡",
+        "zh_TW": "穀物醬油炸雞",
+        "price": "19900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1207503_2-tf_17",
+      "ocr": {
+        "x": 52.68762695225979,
+        "y": 58.33732471524655,
+        "text": "통곡물간장치킨",
+        "width": 19.279039714406835,
+        "height": 2.497269390695286,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "바른양념치킨",
+        "en.ROMAN": "bareunyangnyeom chicken",
+        "en": "Seasoned Fried Chicken",
+        "ja": "パルンヤンニョムチキン",
+        "zh_CN": "印度风味鸡肉炒饭",
+        "zh_TW": "正直調味炸雞",
+        "price": "19900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1207503_2-tf_22",
+      "ocr": {
+        "x": 52.81942688794048,
+        "y": 73.65966564226115,
+        "text": "바른양념치킨",
+        "width": 16.300000000000004,
+        "height": 2.436485098418559,
+        "rotation": 1.7285447745173315
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "랍스터새우",
+        "en.ROMAN": "lobster saeu",
+        "en": "Braised Prawn",
+        "ja": "ロブスター海老",
+        "zh_CN": "龙虾",
+        "zh_TW": "龍蝦",
+        "price": "5500",
+        "ingredients.ko": [
+          "바닷가재",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Lobster",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "ロブスター",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "龙虾",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "龍蝦",
+          "蝦"
+        ],
+        "allergy": [
+          "게",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1207503_2-tf_27",
+      "ocr": {
+        "x": 24.83333333333328,
+        "y": 91.17191882118834,
+        "text": "랍스터새우",
+        "width": 8.16835936346428,
+        "height": 1.5780811788116456,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "카사바칩",
+        "en.ROMAN": "cassava chip",
+        "en": "Cassava Chips",
+        "ja": "キャッサバチップス",
+        "zh_CN": "木薯片",
+        "zh_TW": "木薯片",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루",
+          "카사바"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Cassava"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "キャッサバ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "木薯"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "木薯"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1207503_2-tf_29",
+      "ocr": {
+        "x": 50.72393117950266,
+        "y": 91.31287676796143,
+        "text": "카사바칩",
+        "width": 6.885585075291448,
+        "height": 1.5581048470010348,
+        "rotation": 3.6092102435991933
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "떡토핑",
+        "en.ROMAN": "tteok topping",
+        "en": "Rice Cakes Topping",
+        "ja": "トクトッピング",
+        "zh_CN": "年糕配料",
+        "zh_TW": "加點年糕",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀",
+          "떡"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Rice Cake"
+        ],
+        "ingredients.ja": [
+          "米",
+          "トク"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "糕"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "年糕"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1207503_2-tf_31",
+      "ocr": {
+        "x": 78.96955632364917,
+        "y": 92.8497593969954,
+        "text": "떡토핑",
+        "width": 5.633333333333332,
+        "height": 1.5373825732747395,
+        "rotation": 5.153753676200552
+      }
+    }
+  ]
+}

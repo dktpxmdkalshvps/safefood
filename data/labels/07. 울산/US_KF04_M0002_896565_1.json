@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "file_name": "US_KF04_M0002_896565_1.jpg",
+    "image_original_width": 4624,
+    "image_original_height": 3468,
+    "captured_date": "2022:11:24 13:08:19",
+    "store_id": "896565",
+    "store_region": "US",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          22.904062229904927,
+          20.967741935483872
+        ],
+        [
+          64.99567847882454,
+          25.23041474654378
+        ],
+        [
+          60.933448573898,
+          77.76497695852535
+        ],
+        [
+          22.558340535868627,
+          75.92165898617512
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "양념뼈삼겹",
+        "en.ROMAN": "yangnyeomppyeosamgyeop",
+        "en": "Marinated pork belly.",
+        "ja": "味付け豚バラ",
+        "zh_CN": "调料骨五花肉",
+        "zh_TW": "調料骨五花肉",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_0",
+      "ocr": {
+        "x": 28.476376213485693,
+        "y": 23.746734319417435,
+        "text": "수제양념뼈삼겹",
+        "width": 11.39705882352907,
+        "height": 2.0997435418271055,
+        "rotation": 4.790438081233162
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "수제양념갈비",
+        "en.ROMAN": "sujeyangnyeomgalbi",
+        "en": "Handmade Marinated Grilled Pork Galbi",
+        "ja": "手作り味付けカルビ",
+        "zh_CN": "手工调味排骨",
+        "zh_TW": "手工調味排骨",
+        "price": "11000",
+        "ingredients.ko": [
+          "돼지갈비"
+        ],
+        "ingredients.en": [
+          "Pork Galbi"
+        ],
+        "ingredients.ja": [
+          "豚カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "猪排骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬排骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_5",
+      "ocr": {
+        "x": 28.51417655147104,
+        "y": 28.52979322165906,
+        "text": "수제양념갈비",
+        "width": 9.549093900870208,
+        "height": 2.0609351027639615,
+        "rotation": 4.440841625888538
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "양념뼈삼겹",
+        "en.ROMAN": "yangnyeomppyeosamgyeop",
+        "en": "Marinated pork belly.",
+        "ja": "味付け豚バラ",
+        "zh_CN": "调料骨五花肉",
+        "zh_TW": "調料骨五花肉",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_12",
+      "ocr": {
+        "x": 28.436808249804212,
+        "y": 33.43440621676395,
+        "text": "수제양념뼈삼겹+수제양념갈비",
+        "width": 14.527129765189352,
+        "height": 2.286710429521699,
+        "rotation": 4.253571012375403
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생삼겹살",
+        "en.ROMAN": "saengsamgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "鲜五花肉",
+        "zh_TW": "鮮五花肉",
+        "price": "11000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_18",
+      "ocr": {
+        "x": 28.40768828979934,
+        "y": 38.06431374797371,
+        "text": "생삼겹살",
+        "width": 6.3581314878891995,
+        "height": 1.9292041974178575,
+        "rotation": 4.113816653297704
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "항정살",
+        "en.ROMAN": "hangjeongsal",
+        "en": "Grilled Pork Neck",
+        "ja": "豚トロ焼き",
+        "zh_CN": "猪肩肉",
+        "zh_TW": "豬頸肉",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_25",
+      "ocr": {
+        "x": 28.389735522196087,
+        "y": 42.791648633809146,
+        "text": "수제항정살",
+        "width": 7.808819202960189,
+        "height": 1.894007306042136,
+        "rotation": 3.7895737624833714
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "한우갈비살",
+        "en.ROMAN": "hanugalbisal",
+        "en": "Korean Beef Galbi",
+        "ja": "韓牛カルビ",
+        "zh_CN": "韩牛肋条肉",
+        "zh_TW": "韓牛牛肋條",
+        "price": "29000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_28",
+      "ocr": {
+        "x": 28.397619037192584,
+        "y": 45.86660691513773,
+        "text": "한우갈비살",
+        "width": 7.742054492453255,
+        "height": 1.7610916238852594,
+        "rotation": 3.437374159358683
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "한우양념갈비살",
+        "en.ROMAN": "hanuyangnyeomgalbisal",
+        "en": "Grilled Marinated Korean Beef Galbi",
+        "ja": "韓牛の味付けカルビ",
+        "zh_CN": "韩牛调味肋条肉",
+        "zh_TW": "調味韓牛肋條",
+        "price": "29000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_32",
+      "ocr": {
+        "x": 28.319550204260896,
+        "y": 50.33319920755918,
+        "text": "한우양념갈비살",
+        "width": 10.720950344618426,
+        "height": 1.8206886412583736,
+        "rotation": 2.8622817257707425
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "육회",
+        "en.ROMAN": "yukhoe",
+        "en": "Beef Tartare",
+        "ja": "ユッケ",
+        "zh_CN": "生拌牛肉",
+        "zh_TW": "生拌牛肉",
+        "price": "29000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_36",
+      "ocr": {
+        "x": 28.2601495437097,
+        "y": 54.55268485716854,
+        "text": "육회",
+        "width": 3.047400495918286,
+        "height": 1.7301586139617358,
+        "rotation": 2.6607062829787083
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "한우불고기전골+밥",
+        "en.ROMAN": "hanubulgogijeongol+Bap",
+        "en": "Korean beef bulgogi hot pot + rice",
+        "ja": "韓牛プルゴギの寄せ鍋+ご飯",
+        "zh_CN": "韩牛烤肉火锅+米饭",
+        "zh_TW": "韓牛烤肉火鍋+米飯",
+        "price": "17000",
+        "ingredients.ko": [
+          "쇠고기",
+          "채소",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_39",
+      "ocr": {
+        "x": 28.296904591073574,
+        "y": 57.44013691222151,
+        "text": "한우불고기전골+밥",
+        "width": 12.674884615837192,
+        "height": 1.86362008394195,
+        "rotation": 2.3595377174645478
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "한우갈비살정식+된장+밥",
+        "en.ROMAN": "hanugalbisaljeongsik+doenjang+Bap",
+        "en": "Korean beef ribs set menu + doenjang + rice.",
+        "ja": "韓牛カルビ肉定食+味噌+ご飯",
+        "zh_CN": "韩牛排骨正餐+大酱+饭",
+        "zh_TW": "韓牛排骨正餐+大醬+飯",
+        "price": "19000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_42",
+      "ocr": {
+        "x": 28.239150046235252,
+        "y": 60.467344347537036,
+        "text": "한우갈비살정식+된장+밥",
+        "width": 15.306569116891483,
+        "height": 1.9515924973605443,
+        "rotation": 2.093539308540869
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "돌솥밥정식",
+        "en.ROMAN": "dolsotbapjeongsik",
+        "en": "Hot Stone Pot Rice Set Menu",
+        "ja": "釜飯定食",
+        "zh_CN": "石锅饭套餐",
+        "zh_TW": "石鍋飯套餐",
+        "price": "13000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_45",
+      "ocr": {
+        "x": 28.170594290684495,
+        "y": 63.589354561791204,
+        "text": "돌솥밥정식",
+        "width": 7.461072664359818,
+        "height": 1.8420541477249244,
+        "rotation": 2.4375495227404826
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "돼지양념정식",
+        "en.ROMAN": "dwaejiyangnyeomjeongsik",
+        "en": "Pork Seasoning Set Menu",
+        "ja": "豚肉の味付け定食",
+        "zh_CN": "猪调料正餐",
+        "zh_TW": "豬調料正餐",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_896565_1-tf_53",
+      "ocr": {
+        "x": 28.086347056429556,
+        "y": 69.2099125127159,
+        "text": "수제돼지양념정식",
+        "width": 11.69982698961936,
+        "height": 1.8311738514154678,
+        "rotation": 2.647201874616826
+      }
+    }
+  ]
+}

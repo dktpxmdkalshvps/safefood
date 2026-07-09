@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "file_name": "KW_KF02_M0002_1279233_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:12:20 11:21:43",
+    "store_id": "1279233",
+    "store_region": "KW",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.2751091703056767,
+          12.663755458515285
+        ],
+        [
+          97.0524017467249,
+          14.264919941775837
+        ],
+        [
+          96.17903930131004,
+          91.12081513828237
+        ],
+        [
+          3.2751091703056767,
+          89.66521106259097
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "잎사귀고기만두",
+        "en.ROMAN": "ipsagwigogimandu",
+        "en": "Leaf meat dumplings.",
+        "ja": "葉肉まん",
+        "zh_CN": "夹叶肉饺子",
+        "zh_TW": "夾葉肉餃子",
+        "price": "3500",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_1279233_1-tf_1",
+      "ocr": {
+        "x": 15.411101652838783,
+        "y": 55.54291139070465,
+        "text": "잎사귀고기만두",
+        "width": 67.15543904421051,
+        "height": 18.916438621679767,
+        "rotation": 0
+      }
+    }
+  ]
+}

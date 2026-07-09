@@ -1,0 +1,461 @@
+{
+  "meta": {
+    "file_name": "JR_KF01_M0002_1558713_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:13 13:41:34",
+    "store_id": "1558713",
+    "store_region": "JR",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.129793510324483,
+          9.734513274336283
+        ],
+        [
+          97.6401179941003,
+          8.4070796460177
+        ],
+        [
+          99.41002949852508,
+          87.83185840707965
+        ],
+        [
+          0.5899705014749262,
+          86.94690265486726
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "감자탕",
+        "en.ROMAN": "gamjatang",
+        "en": "Pork Backbone Stew",
+        "ja": "カムジャタン",
+        "zh_CN": "脊骨土豆汤",
+        "zh_TW": "馬鈴薯排骨湯",
+        "price": "45000",
+        "ingredients.ko": [
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1558713_1-tf_5",
+      "ocr": {
+        "x": 10.555823967003647,
+        "y": 20.20709354816921,
+        "text": "감자탕",
+        "width": 22.891692430909416,
+        "height": 4.309681707566,
+        "rotation": 359.3837503501788
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1558713_1-tf_14",
+      "ocr": {
+        "x": 10.275562922564262,
+        "y": 32.557420721901195,
+        "text": "김치찌개",
+        "width": 21.946506006936843,
+        "height": 4.323726813931059,
+        "rotation": 359.06269799933693
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "뼈다귀우거지탕",
+        "en.ROMAN": "ppyeodagwiugeojitang",
+        "en": "Pork Backbone and Napa Cabbage Soup",
+        "ja": "豚の背骨と入りカムジャタン",
+        "zh_CN": "腔骨干白菜汤",
+        "zh_TW": "幹白菜排骨湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "우거지",
+          "돼지고기",
+          "야채",
+          "고춧가루"
+        ],
+        "ingredients.en": [
+          "Napa Cabbage",
+          "Pork",
+          "Vegetables",
+          "Chili Pepper Powder"
+        ],
+        "ingredients.ja": [
+          "白菜",
+          "豚肉",
+          "野菜",
+          "唐辛子粉"
+        ],
+        "ingredients.zh_CN": [
+          "干白菜",
+          "猪肉",
+          "蔬菜",
+          "辣椒粉"
+        ],
+        "ingredients.zh_TW": [
+          "乾白菜",
+          "豬肉",
+          "蔬菜",
+          "辣椒粉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1558713_1-tf_18",
+      "ocr": {
+        "x": 10.019670331192893,
+        "y": 38.32341496687737,
+        "text": "뼈다귀우거지탕",
+        "width": 38.88752072256523,
+        "height": 4.550000000000002,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "동태탕",
+        "en.ROMAN": "dongtaetang",
+        "en": "Pollack Soup",
+        "ja": "スケトウダラスープ",
+        "zh_CN": "冻明太鱼汤",
+        "zh_TW": "凍明太魚湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "동태"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "冻明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "凍明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1558713_1-tf_23",
+      "ocr": {
+        "x": 10.063687278281904,
+        "y": 44.89477442750777,
+        "text": "동태탕",
+        "width": 23.18085623561669,
+        "height": 4.444583983589453,
+        "rotation": 359.3194217092246
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "맑은황태해장국",
+        "en.ROMAN": "malgeunhwangtaehaejangguk",
+        "en": "Dried Pollack Hangover Soup",
+        "ja": "干しスケトウダラの酔い覚ましスープ",
+        "zh_CN": "清汤干明太鱼醒酒汤",
+        "zh_TW": "明太魚乾醒酒清湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "황태",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Dried Pollack",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "スケトウダラ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "干明太鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚乾",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1558713_1-tf_27",
+      "ocr": {
+        "x": 9.545778516696348,
+        "y": 51.12182699746548,
+        "text": "맑은황태해장국",
+        "width": 38.78595864374361,
+        "height": 4.7239562799917385,
+        "rotation": 359.20704482213904
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "오겹+낙지볶음",
+        "en.ROMAN": "ogyeop+nakjibokkeum",
+        "en": "Stir-fried Pork Belly with Octopus",
+        "ja": "皮付きサムギョプサル＋イイダコ炒め",
+        "zh_CN": "厚皮五花肉+辣炒长爪章鱼",
+        "zh_TW": "帶皮五花肉+辣味章魚",
+        "price": "40000",
+        "ingredients.ko": [
+          "돼지고기",
+          "낙지",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Octopus",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "テナガダコ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "长爪章鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "章魚",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1558713_1-tf_29",
+      "ocr": {
+        "x": 9.702139591486798,
+        "y": 57.47432931573825,
+        "text": "오겹+낙지볶음",
+        "width": 36.751318268706285,
+        "height": 4.675311830871933,
+        "rotation": 359.58052120981466
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "오겹살제육볶음",
+        "en.ROMAN": "ogyeopsaljeyukbokkeum",
+        "en": "Spicy Stir-fried Pork Belly",
+        "ja": "皮付きサムギョプサル炒め",
+        "zh_CN": "厚皮五花肉辣炒猪肉",
+        "zh_TW": "辣炒帶皮五花肉",
+        "price": "30000",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1558713_1-tf_31",
+      "ocr": {
+        "x": 9.421827647320342,
+        "y": 63.5941882118834,
+        "text": "오겹살제육볶음",
+        "width": 39.054187389231885,
+        "height": 5.158453509987443,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "동태전",
+        "en.ROMAN": "dongtaejeon",
+        "en": "Pan-fried Battered Pollack Fillet",
+        "ja": "スケトウダラのチヂミ",
+        "zh_CN": "香煎冻明太鱼片",
+        "zh_TW": "香煎凍明太魚片",
+        "price": "0",
+        "ingredients.ko": [
+          "계란",
+          "밀가루",
+          "동태"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Wheat Flour",
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "小麦粉",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "面粉",
+          "冻明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "麵粉",
+          "凍明太魚"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1558713_1-tf_36",
+      "ocr": {
+        "x": 9.245812610768093,
+        "y": 70.46654649001255,
+        "text": "동태전",
+        "width": 23.384971590681648,
+        "height": 4.7419070199748425,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "낙지볶음",
+        "en.ROMAN": "nakjibokkeum",
+        "en": "Spicy Stir-fried Octopus",
+        "ja": "テナガダコ炒め",
+        "zh_CN": "辣炒长爪章鱼",
+        "zh_TW": "辣炒章魚",
+        "price": "30000",
+        "ingredients.ko": [
+          "낙지",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "テナガダコ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1558713_1-tf_41",
+      "ocr": {
+        "x": 8.75228455915043,
+        "y": 77.0713015893804,
+        "text": "낙지볶음",
+        "width": 23.057063810735134,
+        "height": 4.80422675499373,
+        "rotation": 0
+      }
+    }
+  ]
+}

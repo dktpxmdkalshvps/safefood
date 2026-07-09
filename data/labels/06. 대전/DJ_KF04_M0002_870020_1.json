@@ -1,0 +1,862 @@
+{
+  "meta": {
+    "file_name": "DJ_KF04_M0002_870020_1.jpg",
+    "image_original_width": 4624,
+    "image_original_height": 2604,
+    "captured_date": "2022:11:05 19:59:33",
+    "store_id": "870020",
+    "store_region": "DJ",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.9230769230769231,
+          0.4273504273504275
+        ],
+        [
+          91.82692307692307,
+          0
+        ],
+        [
+          93.75,
+          99.57264957264957
+        ],
+        [
+          0,
+          99.57264957264957
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "대패삼겹살",
+        "en.ROMAN": "daepaesamgyeopsal",
+        "en": "Thin-sliced Pork Belly",
+        "ja": "薄切りサムギョプサル",
+        "zh_CN": "薄切五花肉",
+        "zh_TW": "薄切五花肉",
+        "price": "4000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_0",
+      "ocr": {
+        "x": 11.26700107418166,
+        "y": 24.900670550370922,
+        "text": "대패삼겹살",
+        "width": 13.964225913911465,
+        "height": 5.517607821852957,
+        "rotation": 1.925298005550303
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉면",
+        "en.ROMAN": "naengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_2",
+      "ocr": {
+        "x": 45.309218843723784,
+        "y": 26.78235237750134,
+        "text": "냉면",
+        "width": 12.29718676650584,
+        "height": 5.385234813727225,
+        "rotation": 1.3813869410034272
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "이제우린",
+        "en.ROMAN": "ijeurin",
+        "en": "Now We Are Soju",
+        "ja": "イゼウリン",
+        "zh_CN": "现在我们烧酒",
+        "zh_TW": "現在我們燒酒",
+        "price": "4000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_4",
+      "ocr": {
+        "x": 67.56129823522829,
+        "y": 28.14917496670954,
+        "text": "이제우린",
+        "width": 7.979376516509595,
+        "height": 5.222560824381104,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "소면",
+        "en.ROMAN": "somyeon",
+        "en": "Noodles",
+        "ja": "素麺",
+        "zh_CN": "龙须面",
+        "zh_TW": "細麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "소면"
+        ],
+        "ingredients.en": [
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "素麺"
+        ],
+        "ingredients.zh_CN": [
+          "龙须面"
+        ],
+        "ingredients.zh_TW": [
+          "細麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_7",
+      "ocr": {
+        "x": 45.31195162411692,
+        "y": 32.365648898836994,
+        "text": "소면",
+        "width": 12.252316651068156,
+        "height": 5.395400172418447,
+        "rotation": 1.3898677266882942
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_12",
+      "ocr": {
+        "x": 67.62138591479476,
+        "y": 33.32581320868689,
+        "text": "맥주",
+        "width": 7.907790418691113,
+        "height": 5.107815932739079,
+        "rotation": 0.6883956860402236
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_16",
+      "ocr": {
+        "x": 45.252386571225664,
+        "y": 38.08005860899864,
+        "text": "볶음밥",
+        "width": 7.793485903417634,
+        "height": 5.323075391198501,
+        "rotation": 0.6900996485167639
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_17",
+      "ocr": {
+        "x": 67.64051816573165,
+        "y": 38.73100980406791,
+        "text": "막걸리",
+        "width": 7.911248305786578,
+        "height": 5.140398931241928,
+        "rotation": 1.3562762421521484
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뒷고기",
+        "en.ROMAN": "dwitgogi",
+        "en": "Various Pork Cuts",
+        "ja": "肉の希少部位",
+        "zh_CN": "自留猪肉",
+        "zh_TW": "零散豬肉",
+        "price": "7500",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_19",
+      "ocr": {
+        "x": 10.923324573048847,
+        "y": 42.59817586620286,
+        "text": "뒷고기",
+        "width": 13.875070175987874,
+        "height": 5.606758832565326,
+        "rotation": 0.6807891772371022
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_20",
+      "ocr": {
+        "x": 45.23772977461844,
+        "y": 43.639128665722176,
+        "text": "공기밥",
+        "width": 12.556561756084148,
+        "height": 5.373046954132643,
+        "rotation": 0.6796948390185662
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_22",
+      "ocr": {
+        "x": 67.6047065516415,
+        "y": 44.147860708268844,
+        "text": "청하",
+        "width": 8.197625879063583,
+        "height": 5.304138930001893,
+        "rotation": 0.6701050475348325
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "백세주",
+        "en.ROMAN": "baekseju",
+        "en": "Bekseju",
+        "ja": "百歳酒",
+        "zh_CN": "百岁酒",
+        "zh_TW": "百歲酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_25",
+      "ocr": {
+        "x": 67.69032873097669,
+        "y": 49.808103331621005,
+        "text": "백세주",
+        "width": 7.958477508650511,
+        "height": 5.145640288459041,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "모듬버섯",
+        "en.ROMAN": "modeumbeoseot",
+        "en": "Assorted Mushrooms",
+        "ja": "きのこの盛り合わせ",
+        "zh_CN": "蘑菇拼盘",
+        "zh_TW": "蘑菇拼盤",
+        "price": "4000",
+        "ingredients.ko": [
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "蘑菇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_28",
+      "ocr": {
+        "x": 45.242283782038164,
+        "y": 54.91545678273012,
+        "text": "모듬버섯",
+        "width": 12.326903057919388,
+        "height": 5.414862164186265,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "산사춘",
+        "en.ROMAN": "sansachun",
+        "en": "Sansachun (Hawberry and Cornelian Cherry Wine)",
+        "ja": "山査春(サンザシの果実酒)",
+        "zh_CN": "山楂春",
+        "zh_TW": "山楂春酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_29",
+      "ocr": {
+        "x": 67.64009239256866,
+        "y": 55.29977041132184,
+        "text": "산사춘",
+        "width": 8.116828022656277,
+        "height": 5.299307929691943,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생삼겹살",
+        "en.ROMAN": "saengsamgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "鲜五花肉",
+        "zh_TW": "鮮五花肉",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_31",
+      "ocr": {
+        "x": 10.578605724272526,
+        "y": 60.237968055647016,
+        "text": "생삼겹살",
+        "width": 14.230341363133054,
+        "height": 5.837491535229498,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "누룽지탕",
+        "en.ROMAN": "nurungjitang",
+        "en": "Scorched Rice Soup",
+        "ja": "おこげのあんかけ",
+        "zh_CN": "锅巴汤",
+        "zh_TW": "鍋粑湯",
+        "price": "5000",
+        "ingredients.ko": [
+          "누룽지"
+        ],
+        "ingredients.en": [
+          "Scorched Rice"
+        ],
+        "ingredients.ja": [
+          "おこげ"
+        ],
+        "ingredients.zh_CN": [
+          "锅巴"
+        ],
+        "ingredients.zh_TW": [
+          "鍋粑"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_32",
+      "ocr": {
+        "x": 45.15577859172673,
+        "y": 60.675883256528344,
+        "text": "누룽지탕",
+        "width": 12.629619287134648,
+        "height": 5.2996547909143805,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "13000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_33",
+      "ocr": {
+        "x": 67.73434324043455,
+        "y": 60.79109062980009,
+        "text": "복분자",
+        "width": 8.203888755262689,
+        "height": 5.299134499080744,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_35",
+      "ocr": {
+        "x": 67.75522493600207,
+        "y": 66.43630973032643,
+        "text": "음료수",
+        "width": 8.066539747373328,
+        "height": 5.299539170506897,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "계란찜",
+        "en.ROMAN": "gyeranjjim",
+        "en": "Steamed Eggs",
+        "ja": "茶碗蒸し",
+        "zh_CN": "鸡蛋羹",
+        "zh_TW": "蒸蛋",
+        "price": "3000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_39",
+      "ocr": {
+        "x": 45.22044973696169,
+        "y": 71.92791899982362,
+        "text": "계란찜",
+        "width": 12.43520766872418,
+        "height": 5.491609269497132,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "1000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "R1In6L-mu7",
+      "ocr": {
+        "x": 45.16809949124395,
+        "y": 77.743951850818,
+        "text": "된장찌개",
+        "width": 12.437737635335461,
+        "height": 5.546344683756417,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "돼지왕갈비",
+        "en.ROMAN": "dwaejiwanggalbi",
+        "en": "Jumbo Grilled Pork Galbi",
+        "ja": "特大豚カルビ",
+        "zh_CN": "大猪排骨",
+        "zh_TW": "大豬排骨",
+        "price": "11000",
+        "ingredients.ko": [
+          "돼지갈비"
+        ],
+        "ingredients.en": [
+          "Pork Galbi"
+        ],
+        "ingredients.ja": [
+          "豚カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "猪排骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬排骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_870020_1-tf_41",
+      "ocr": {
+        "x": 10.191260253829618,
+        "y": 78.28539562281456,
+        "text": "돼지왕갈비",
+        "width": 14.180269544968441,
+        "height": 5.898262067914008,
+        "rotation": 359.3402011167509
+      }
+    }
+  ]
+}

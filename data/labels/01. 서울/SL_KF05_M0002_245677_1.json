@@ -1,0 +1,594 @@
+{
+  "meta": {
+    "file_name": "SL_KF05_M0002_245677_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:05 16:47:01",
+    "store_id": "245677",
+    "store_region": "SL",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.5789473684210527,
+          33.8006230529595
+        ],
+        [
+          91.05263157894737,
+          36.915887850467286
+        ],
+        [
+          90.52631578947368,
+          99.22118380062305
+        ],
+        [
+          1.0526315789473684,
+          99.68847352024922
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "홍어삼합",
+        "en.ROMAN": "hongeosamhap",
+        "en": "Skate, Pork, and Kimchi Combo",
+        "ja": "ガンギエイのサムハプ",
+        "zh_CN": "斑鳐三合(辛奇、斑鳐、五花肉）",
+        "zh_TW": "斑甕鰩三合（辛奇、斑甕鰩、五花肉）",
+        "price": "45000",
+        "ingredients.ko": [
+          "돼지고기",
+          "묵은지",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Aged Kimchi",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "熟成キムチ",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "酸辛奇",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "酸辛奇",
+          "斑甕鰩"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_5",
+      "ocr": {
+        "x": 3.390495781210804,
+        "y": 44.685038330130325,
+        "text": "홍어삼합",
+        "width": 14.951013042543085,
+        "height": 6.511059948937577,
+        "rotation": 0.972651736674834
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "완도매생이",
+        "en.ROMAN": "wandomaesaengi",
+        "en": "Wando seaweed.",
+        "ja": "莞島カプサアオノリ",
+        "zh_CN": "莞岛海生",
+        "zh_TW": "莞島海生",
+        "price": "18000",
+        "ingredients.ko": [
+          "매생이"
+        ],
+        "ingredients.en": [
+          "Seaweed Fulvescens"
+        ],
+        "ingredients.ja": [
+          "カプサアオノリ"
+        ],
+        "ingredients.zh_CN": [
+          "海藻"
+        ],
+        "ingredients.zh_TW": [
+          "海藻"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_9",
+      "ocr": {
+        "x": 62.24532120051165,
+        "y": 46.49161918332197,
+        "text": "완도매생이",
+        "width": 13.91855723149902,
+        "height": 6.410618788215136,
+        "rotation": 1.160692886266986
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "홍어사시미",
+        "en.ROMAN": "hongeo sashimi",
+        "en": "Sliced Raw Skate",
+        "ja": "ガンギエイの刺身",
+        "zh_CN": "斑鳐生鱼片",
+        "zh_TW": "斑甕鰩生魚片",
+        "price": "50000",
+        "ingredients.ko": [
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_11",
+      "ocr": {
+        "x": 3.2637347884499084,
+        "y": 51.84114515072277,
+        "text": "홍어사시미",
+        "width": 14.477608649709357,
+        "height": 6.360609188454316,
+        "rotation": 0.6332853226520001
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "매국밥",
+        "en.ROMAN": "maegukbap",
+        "en": "Mae gukbap (spicy rice soup)",
+        "ja": "メクッパ",
+        "zh_CN": "卖汤饭",
+        "zh_TW": "賣湯飯",
+        "price": "20000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_18",
+      "ocr": {
+        "x": 68.31277976555955,
+        "y": 64.74616595296906,
+        "text": "매국밥",
+        "width": 7.954146941482433,
+        "height": 6.506125339580392,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "홍어찜",
+        "en.ROMAN": "hongsojjim",
+        "en": "Steamed Skate",
+        "ja": "ガンギエイの蒸し物",
+        "zh_CN": "蒸斑鳐",
+        "zh_TW": "蒸斑甕鰩",
+        "price": "33000",
+        "ingredients.ko": [
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_15",
+      "ocr": {
+        "x": 8.743815641500243,
+        "y": 65.82407394756103,
+        "text": "홍어찜",
+        "width": 8.781314259224976,
+        "height": 6.1133156093033305,
+        "rotation": 1.2598899803396648
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "홍어탕",
+        "en.ROMAN": "hongeotang",
+        "en": "Skate Soup",
+        "ja": "ガンギエイスープ",
+        "zh_CN": "斑鳐汤",
+        "zh_TW": "斑甕鰩湯",
+        "price": "35000",
+        "ingredients.ko": [
+          "야채",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_23",
+      "ocr": {
+        "x": 32.13614886650118,
+        "y": 66.54737857195397,
+        "text": "홍어탕",
+        "width": 16.382645637904087,
+        "height": 6.663624967158591,
+        "rotation": 0.6836191064749642
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "홍어무침",
+        "en.ROMAN": "hongsomuchim",
+        "en": "Skate Salad",
+        "ja": "ガンギエイの和え物",
+        "zh_CN": "凉拌斑鳐",
+        "zh_TW": "涼拌斑甕鰩",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_21",
+      "ocr": {
+        "x": 3.0690099439918157,
+        "y": 72.49539416467003,
+        "text": "홍어무침",
+        "width": 14.58952696482619,
+        "height": 6.091378048004203,
+        "rotation": 1.499713052131085
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "홍어라면",
+        "en.ROMAN": "hongeoramyeon",
+        "en": "Skate Instant Noodles",
+        "ja": "ガンギエイ入りラーメン",
+        "zh_CN": "斑鳐方便面",
+        "zh_TW": "斑甕鰩泡麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "면",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "斑甕鰩"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_19",
+      "ocr": {
+        "x": 32.00498971639034,
+        "y": 73.65032983001724,
+        "text": "홍어라면",
+        "width": 16.052906259094122,
+        "height": 6.625846213291679,
+        "rotation": 0.7018380224044449
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "홍어전",
+        "en.ROMAN": "hongsojeon",
+        "en": "Pan-fried Battered Skate Fillet",
+        "ja": "ガンギエイのチヂミ",
+        "zh_CN": "香煎斑鳐片",
+        "zh_TW": "香煎斑甕鰩片",
+        "price": "30000",
+        "ingredients.ko": [
+          "계란",
+          "밀가루",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Wheat Flour",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "小麦粉",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "面粉",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "麵粉",
+          "斑甕鰩"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_24",
+      "ocr": {
+        "x": 8.561001283407766,
+        "y": 79.56136758065038,
+        "text": "홍어전",
+        "width": 8.883769130102472,
+        "height": 6.217405300927393,
+        "rotation": 2.220768917313876
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "보리애국",
+        "en.ROMAN": "boriaeguk",
+        "en": "Skate Liver and Barley Sprout Soup",
+        "ja": "麦の芽とガンギエイの肝スープ",
+        "zh_CN": "大麦芽斑鳐肝汤",
+        "zh_TW": "大麥芽斑鰩肝湯",
+        "price": "30000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_26",
+      "ocr": {
+        "x": 65.70617607708922,
+        "y": 82.54725198513756,
+        "text": "보리애국",
+        "width": 10.040751810449994,
+        "height": 6.177599580620078,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "홍어튀김",
+        "en.ROMAN": "hongsotwigim",
+        "en": "Deep-fried Skate",
+        "ja": "ガンギエイ天ぷら",
+        "zh_CN": "炸斑鳐",
+        "zh_TW": "炸斑甕鰩",
+        "price": "25000",
+        "ingredients.ko": [
+          "밀가루",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "斑甕鰩"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_27",
+      "ocr": {
+        "x": 8.062308519562421,
+        "y": 86.41899138939709,
+        "text": "홍어튀김",
+        "width": 9.347548124819493,
+        "height": 6.191077304032173,
+        "rotation": 2.190297047597028
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "해물부추전",
+        "en.ROMAN": "haemulbuchujeon",
+        "en": "Seafood and Chive Pancake",
+        "ja": "海鮮入りニラのチヂミ",
+        "zh_CN": "海鲜韭菜煎饼",
+        "zh_TW": "海鮮韭菜煎餅",
+        "price": "15000",
+        "ingredients.ko": [
+          "해산물",
+          "계란",
+          "밀가루",
+          "부추"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Eggs",
+          "Wheat Flour",
+          "Chives"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "卵",
+          "小麦粉",
+          "ニラ"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "鸡蛋",
+          "面粉",
+          "韭菜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "雞蛋",
+          "麵粉",
+          "韭菜"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_28",
+      "ocr": {
+        "x": 31.773011917657303,
+        "y": 87.39044264931562,
+        "text": "해물부추전",
+        "width": 16.136916051844178,
+        "height": 6.661976284985466,
+        "rotation": 1.1776510058012377
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "벌교꼬막",
+        "en.ROMAN": "beolgyokkomak",
+        "en": "Honeycomb toffy",
+        "ja": "ポルギョハイガイ",
+        "zh_CN": "筏桥泥蚶",
+        "zh_TW": "筏橋泥蚶",
+        "price": "30000",
+        "ingredients.ko": [
+          "꼬막"
+        ],
+        "ingredients.en": [
+          "Cockle"
+        ],
+        "ingredients.ja": [
+          "ハイガイ"
+        ],
+        "ingredients.zh_CN": [
+          "泥蚶"
+        ],
+        "ingredients.zh_TW": [
+          "泥蚶"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_245677_1-tf_31",
+      "ocr": {
+        "x": 65.60716321958948,
+        "y": 89.44063942346483,
+        "text": "벌교꼬막",
+        "width": 10.383282281827988,
+        "height": 6.222532381306982,
+        "rotation": 0
+      }
+    }
+  ]
+}

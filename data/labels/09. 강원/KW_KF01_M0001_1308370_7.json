@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "file_name": "KW_KF01_M0001_1308370_7.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:12:18 13:43:30",
+    "store_id": "1308370",
+    "store_region": "KW",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          10.676156583629894,
+          0
+        ],
+        [
+          99.28825622775801,
+          0.267379679144385
+        ],
+        [
+          99.644128113879,
+          99.19786096256685
+        ],
+        [
+          0.7117437722419928,
+          99.46524064171123
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "소왕갈비한상차림",
+        "en.ROMAN": "sowanggalbihansangcharim",
+        "en": "Grilled Jumbo Beef Galbi Set Menu",
+        "ja": "特大牛カルビ御膳",
+        "zh_CN": "大牛排骨套餐",
+        "zh_TW": "大牛排骨襬桌套餐",
+        "price": "28000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1308370_7-tf_0",
+      "ocr": {
+        "x": 32.81862042056815,
+        "y": 15.931724342066973,
+        "text": "소왕갈비한상차림",
+        "width": 39.43087163974881,
+        "height": 4.511138933077781,
+        "rotation": 358.75000534370895
+      }
+    }
+  ]
+}

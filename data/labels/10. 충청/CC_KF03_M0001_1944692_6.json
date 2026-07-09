@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "file_name": "CC_KF03_M0001_1944692_6.jpg",
+    "image_original_width": 2604,
+    "image_original_height": 4624,
+    "captured_date": "2022:11:13 18:03:04",
+    "store_id": "1944692",
+    "store_region": "CC",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.2564102564102564,
+          2.745664739884393
+        ],
+        [
+          96.41025641025641,
+          6.6473988439306355
+        ],
+        [
+          91.7948717948718,
+          78.32369942196532
+        ],
+        [
+          1.7948717948717945,
+          79.47976878612717
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "알리올리오",
+        "en.ROMAN": "alli olio",
+        "en": "Aglio e Olio",
+        "ja": "アーリオ・オリオ",
+        "zh_CN": "蒜味虾仁意面",
+        "zh_TW": "蒜香橄欖油義大利麵",
+        "price": "10000",
+        "ingredients.ko": [
+          "마늘",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_1",
+      "ocr": {
+        "x": 6.570405420938973,
+        "y": 17.08515344262339,
+        "text": "알리올리오",
+        "width": 13.072527778424183,
+        "height": 1.6978855102235415,
+        "rotation": 2.4426318942003604
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "봉골레스파게티",
+        "en.ROMAN": "vongole spaghetti",
+        "en": "Clam Pasta",
+        "ja": "ボンゴレスパゲッティ",
+        "zh_CN": "蛤蜊意大利面",
+        "zh_TW": "蛤蜊義大利麵",
+        "price": "12000",
+        "ingredients.ko": [
+          "조개",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Clam",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "貝",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "蛤蜊",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "蛤蜊",
+          "義大利麵"
+        ],
+        "allergy": [
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_4",
+      "ocr": {
+        "x": 6.9908989302924684,
+        "y": 23.207511732122814,
+        "text": "봉골레스파게티",
+        "width": 18.373955472163455,
+        "height": 1.6845054546777813,
+        "rotation": 2.8342870251075283
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "오일소스해산물스파게티",
+        "en.ROMAN": "oil sauce haesanmul spaghetti",
+        "en": "Oil sauce seafood spaghetti",
+        "ja": "オイルソース海鮮スパゲッティ",
+        "zh_CN": "精油海鲜意大利面",
+        "zh_TW": "精油海鮮意大利麪",
+        "price": "13500",
+        "ingredients.ko": [
+          "해산물",
+          "파스타면",
+          "오일"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Pasta Noodles",
+          "Oil"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "パスタ麺",
+          "オイル"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "意大利面",
+          "橄榄油"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "義大利麵",
+          "油"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_8",
+      "ocr": {
+        "x": 7.421747334352482,
+        "y": 29.298279331019295,
+        "text": "오일소스해산물스파게티",
+        "width": 28.50476950377654,
+        "height": 1.6276277009747855,
+        "rotation": 1.927940913721386
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "로제스파게티",
+        "en.ROMAN": "rosé spaghetti",
+        "en": "Rosé Pasta",
+        "ja": "ロゼスパゲッティ",
+        "zh_CN": "番茄奶油酱意大利面",
+        "zh_TW": "番茄奶油義大利麵",
+        "price": "13000",
+        "ingredients.ko": [
+          "로제소스",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Rosé Sauce",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "ロゼソース",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "番茄奶油酱",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "番茄奶油醬",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_11",
+      "ocr": {
+        "x": 7.811398384524602,
+        "y": 35.07741056727726,
+        "text": "로제스파게티",
+        "width": 15.324857051916245,
+        "height": 1.322639040092407,
+        "rotation": 2.172768180078833
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "생선커틀렛",
+        "en.ROMAN": "saengseon cutlet",
+        "en": "Fish Cutlet",
+        "ja": "魚カツレツ",
+        "zh_CN": "炸鲜鱼排",
+        "zh_TW": "炸魚排",
+        "price": "6000",
+        "ingredients.ko": [
+          "생선",
+          "밀가루",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Wheat Flour",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "小麦粉",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "面粉",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "麵粉",
+          "雞蛋"
+        ],
+        "allergy": [
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_18",
+      "ocr": {
+        "x": 21.951534459842303,
+        "y": 58.660248759087864,
+        "text": "생선커틀렛",
+        "width": 9.56542446655825,
+        "height": 1.0939061362178655,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "미니돈까스",
+        "en.ROMAN": "mini dongaseu",
+        "en": "Mini pork cutlet",
+        "ja": "ミニ豚カツ",
+        "zh_CN": "迷你炸猪排",
+        "zh_TW": "迷你炸豬排",
+        "price": "3000",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_15",
+      "ocr": {
+        "x": 10.12609973613609,
+        "y": 58.689254106171305,
+        "text": "미니돈까스",
+        "width": 9.665091271613074,
+        "height": 1.0356914723550432,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "스파게티",
+        "en.ROMAN": "spaghetti",
+        "en": "Pasta",
+        "ja": "スパゲッティ",
+        "zh_CN": "意大利面",
+        "zh_TW": "義大利麵",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_21",
+      "ocr": {
+        "x": 10.010996957231708,
+        "y": 60.586665367205825,
+        "text": "스파게티",
+        "width": 7.1366779925945245,
+        "height": 0.8604596821085525,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "마늘빵",
+        "en.ROMAN": "maneulppang",
+        "en": "Garlic Bread",
+        "ja": "ガーリックトースト",
+        "zh_CN": "香蒜面包",
+        "zh_TW": "香蒜麵包",
+        "price": "500",
+        "ingredients.ko": [
+          "계란",
+          "마늘",
+          "빵",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Garlic",
+          "Bread",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "にんにく",
+          "パン",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "大蒜",
+          "面包",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "大蒜",
+          "麵包",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_25",
+      "ocr": {
+        "x": 10.04527998148057,
+        "y": 62.4237899565116,
+        "text": "마늘빵",
+        "width": 5.489079665486617,
+        "height": 1.0880538086424858,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1500",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_27",
+      "ocr": {
+        "x": 9.913908657277583,
+        "y": 64.30527784578503,
+        "text": "공기밥",
+        "width": 5.5483143496992335,
+        "height": 1.0106583594626863,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "환타",
+        "en.ROMAN": "fanta",
+        "en": "Fanta",
+        "ja": "ファンタ",
+        "zh_CN": "芬达",
+        "zh_TW": "芬達",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_33",
+      "ocr": {
+        "x": 21.301483590195467,
+        "y": 65.98393781103691,
+        "text": "환타",
+        "width": 3.6264133575869018,
+        "height": 1.0710944329493337,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_30",
+      "ocr": {
+        "x": 9.833088902622062,
+        "y": 66.13669950927356,
+        "text": "콜라",
+        "width": 3.718025152039806,
+        "height": 1.1153830320373805,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_31",
+      "ocr": {
+        "x": 14.671786867767489,
+        "y": 66.19652932983489,
+        "text": "사이다",
+        "width": 5.517595616525463,
+        "height": 0.7704729756036036,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "아메리카노",
+        "en.ROMAN": "Americano",
+        "en": "Americano",
+        "ja": "アメリカーノ",
+        "zh_CN": "美式咖啡",
+        "zh_TW": "美式咖啡",
+        "price": "2000",
+        "ingredients.ko": [
+          "커피"
+        ],
+        "ingredients.en": [
+          "Coffee"
+        ],
+        "ingredients.ja": [
+          "コーヒー"
+        ],
+        "ingredients.zh_CN": [
+          "咖啡"
+        ],
+        "ingredients.zh_TW": [
+          "咖啡"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1944692_6-tf_35",
+      "ocr": {
+        "x": 9.697913794198179,
+        "y": 70.46799572402014,
+        "text": "아메리카노",
+        "width": 9.143744385201195,
+        "height": 0.8634096314850198,
+        "rotation": 357.8784207897201
+      }
+    }
+  ]
+}

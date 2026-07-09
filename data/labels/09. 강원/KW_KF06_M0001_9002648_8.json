@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "file_name": "KW_KF06_M0001_9002648_8.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:11 18:16:32",
+    "store_id": "9002648",
+    "store_region": "KW",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          93.88221512736295,
+          13.814749443634414
+        ],
+        [
+          95.70135746606337,
+          69.50963088020879
+        ],
+        [
+          6.108597285067876,
+          73.24840764331215
+        ],
+        [
+          7.4729540390931835,
+          9.044585987261144
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "콘치즈교자",
+        "en.ROMAN": "corn cheese gyoja",
+        "en": "Corn and Cheese Chinese Dumpling",
+        "ja": "コーンチーズ餃子",
+        "zh_CN": "奶酪玉米饺子",
+        "zh_TW": "玉米起司餃子",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "치즈",
+          "밀가루",
+          "스위트콘"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Cheese",
+          "Wheat Flour",
+          "Sweet Corn"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "チーズ",
+          "小麦粉",
+          "スイートコーン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "奶酪",
+          "面粉",
+          "玉米粒"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "起司",
+          "麵粉",
+          "甜玉米"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF06_M0001_9002648_8-tf_3",
+      "ocr": {
+        "x": 61.677043380285184,
+        "y": 20.772418567177468,
+        "text": "콘치즈교자",
+        "width": 24.61835523709833,
+        "height": 2.8354797911743956,
+        "rotation": 6.114783327342934
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "닭똥집",
+        "en.ROMAN": "dakttongjip",
+        "en": "Chicken Gizzards",
+        "ja": "砂肝",
+        "zh_CN": "鸡胗",
+        "zh_TW": "雞胗",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "닭모래집"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken Gizzard"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "砂肝"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡胗"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞胗"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF06_M0001_9002648_8-tf_9",
+      "ocr": {
+        "x": 21.19174639964213,
+        "y": 38.096972890442345,
+        "text": "닭똥집",
+        "width": 16.134620445454015,
+        "height": 3.0859639549594995,
+        "rotation": 358.27469301005084
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "골뱅이무침",
+        "en.ROMAN": "golbaengimuchim",
+        "en": "Sea Snail Salad",
+        "ja": "つぶ貝の和え物",
+        "zh_CN": "凉拌海螺",
+        "zh_TW": "涼拌海螺",
+        "price": "19000",
+        "ingredients.ko": [
+          "야채",
+          "골뱅이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Sea Snail"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "つぶ貝"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海螺"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海螺"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF06_M0001_9002648_8-tf_17",
+      "ocr": {
+        "x": 61.14347962125389,
+        "y": 61.819845161441926,
+        "text": "골뱅이무침",
+        "width": 24.870742302368846,
+        "height": 2.963046741309172,
+        "rotation": 356.81453616912336
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "먹태구이",
+        "en.ROMAN": "meoktaegui",
+        "en": "Grilled Dried Pollack",
+        "ja": "小さい干しスケトウダラ",
+        "zh_CN": "烤黑干明太鱼",
+        "zh_TW": "烤乾黑斑明太魚",
+        "price": "14000",
+        "ingredients.ko": [
+          "명태"
+        ],
+        "ingredients.en": [
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "明太子"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF06_M0001_9002648_8-tf_18",
+      "ocr": {
+        "x": 14.629753314674979,
+        "y": 62.40301679013022,
+        "text": "먹태구이",
+        "width": 21.466109546363267,
+        "height": 3.1109916049348096,
+        "rotation": 0
+      }
+    }
+  ]
+}

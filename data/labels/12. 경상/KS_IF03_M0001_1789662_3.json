@@ -1,0 +1,809 @@
+{
+  "meta": {
+    "file_name": "KS_IF03_M0001_1789662_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:14 18:14:08",
+    "store_id": "1789662",
+    "store_region": "KS",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          67.93349168646081,
+          1.9607843137254901
+        ],
+        [
+          42.517814726840854,
+          0.17825311942959002
+        ],
+        [
+          0.4750593824228028,
+          0.17825311942959002
+        ],
+        [
+          0.7125890736342043,
+          99.64349376114082
+        ],
+        [
+          67.93349168646081,
+          99.46524064171123
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "도로초밥",
+        "en.ROMAN": "dorochobap",
+        "en": "Toro Sushi",
+        "ja": "トロ寿司",
+        "zh_CN": "金枪鱼鱼腩寿司",
+        "zh_TW": "鮪魚腹壽司",
+        "price": "6000",
+        "ingredients.ko": [
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_1",
+      "ocr": {
+        "x": 9.929077567419847,
+        "y": 17.838807202169548,
+        "text": "도로초밥",
+        "width": 6.267956211193833,
+        "height": 1.5009270596286117,
+        "rotation": 1.6881518556910464
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "민물장어초밥",
+        "en.ROMAN": "minmuljangeochobap",
+        "en": "Freshwater eel sushi",
+        "ja": "ウナギ寿司",
+        "zh_CN": "淡水鳗寿司",
+        "zh_TW": "淡水鰻魚壽司",
+        "price": "5500",
+        "ingredients.ko": [
+          "쌀",
+          "단촛물",
+          "장어"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Rice Vinegar",
+          "Eel"
+        ],
+        "ingredients.ja": [
+          "米",
+          "すし酢",
+          "ウナギ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "糖醋水",
+          "鳗鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "甜醋水",
+          "鰻魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_2",
+      "ocr": {
+        "x": 27.672725278225244,
+        "y": 18.445750089998455,
+        "text": "민물장어초밥",
+        "width": 7.647057025611938,
+        "height": 1.4251198381342078,
+        "rotation": 1.4781434018958635
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "한우초밥",
+        "en.ROMAN": "hanuchobap",
+        "en": "Korean Beef Sushi",
+        "ja": "韓牛寿司",
+        "zh_CN": "韩牛寿司",
+        "zh_TW": "韓牛壽司",
+        "price": "3900",
+        "ingredients.ko": [
+          "쌀",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "米",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_4",
+      "ocr": {
+        "x": 47.17468681575074,
+        "y": 18.991153409198407,
+        "text": "한우초밥",
+        "width": 5.254009364674801,
+        "height": 1.3496181878390399,
+        "rotation": 1.523278145342431
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "성게알초밥",
+        "en.ROMAN": "seonggealchobap",
+        "en": "Sea Urchin Roe Sushi",
+        "ja": "ウニ寿司",
+        "zh_CN": "海胆子寿司",
+        "zh_TW": "海膽壽司",
+        "price": "5800",
+        "ingredients.ko": [
+          "쌀",
+          "성게알"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sea Urchin Roe"
+        ],
+        "ingredients.ja": [
+          "米",
+          "ウニ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "海胆子"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "海膽"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_5",
+      "ocr": {
+        "x": 9.194471942407969,
+        "y": 25.963196736512657,
+        "text": "성게알초밥",
+        "width": 6.6243596275790475,
+        "height": 1.4093441819294448,
+        "rotation": 1.0546439278643902
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "전복버터구이",
+        "en.ROMAN": "jeonbok butter gui",
+        "en": "Butter-grilled Abalone",
+        "ja": "アワビのバター焼き",
+        "zh_CN": "黄油烤鲍鱼",
+        "zh_TW": "奶油烤鮑魚",
+        "price": "5500",
+        "ingredients.ko": [
+          "전복",
+          "버터"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Butter"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "バター"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "黄油"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "奶油"
+        ],
+        "allergy": [
+          "전복",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_6",
+      "ocr": {
+        "x": 28.086860372195055,
+        "y": 26.30617396132255,
+        "text": "전복버터구이",
+        "width": 8.364422644479808,
+        "height": 1.3858444901028926,
+        "rotation": 1.275877546651543
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "연어알초밥",
+        "en.ROMAN": "yeoneoalchobap",
+        "en": "Salmon Roe Sushi",
+        "ja": "イクラ寿司",
+        "zh_CN": "三文鱼子寿司",
+        "zh_TW": "鮭魚卵壽司",
+        "price": "3900",
+        "ingredients.ko": [
+          "쌀",
+          "연어알",
+          "단촛물"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Salmon Roe",
+          "Rice Vinegar"
+        ],
+        "ingredients.ja": [
+          "米",
+          "イクラ",
+          "すし酢"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "三文鱼子",
+          "糖醋水"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "鮭魚卵",
+          "甜醋水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_7",
+      "ocr": {
+        "x": 47.160337909885136,
+        "y": 26.67432706611167,
+        "text": "연어알초밥",
+        "width": 5.982007612308738,
+        "height": 1.3693104596784278,
+        "rotation": 0.6870267820013396
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "전복초밥",
+        "en.ROMAN": "jeonbokchobap",
+        "en": "Abalone Sushi",
+        "ja": "アワビ寿司",
+        "zh_CN": "鲍鱼寿司",
+        "zh_TW": "鮑魚壽司",
+        "price": "4100",
+        "ingredients.ko": [
+          "전복",
+          "쌀",
+          "단촛물"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice",
+          "Rice Vinegar"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米",
+          "すし酢"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米",
+          "糖醋水"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米",
+          "甜醋水"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_8",
+      "ocr": {
+        "x": 28.373015873015788,
+        "y": 34.176587301587304,
+        "text": "전복초밥",
+        "width": 5.878268454076013,
+        "height": 1.4241553182828435,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "참치타다끼초밥",
+        "en.ROMAN": "chamchi tataki chobap",
+        "en": "Tuna Tadaki Sushi",
+        "ja": "まぐろのたたき寿司",
+        "zh_CN": "金枪鱼塔达基寿司",
+        "zh_TW": "金槍魚塔達基壽司",
+        "price": "4600",
+        "ingredients.ko": [
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_9",
+      "ocr": {
+        "x": 47.21068378321648,
+        "y": 34.388748627308445,
+        "text": "참치타다끼초밥",
+        "width": 7.062349200539788,
+        "height": 1.3298813090921449,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "아끼우동",
+        "en.ROMAN": "akki udon",
+        "en": "Stir-fried Udon",
+        "ja": "焼きうどん",
+        "zh_CN": "日式炒乌冬面",
+        "zh_TW": "炒烏龍麵",
+        "price": "7500",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_12",
+      "ocr": {
+        "x": 46.954318455534874,
+        "y": 65.84693521923718,
+        "text": "아끼우동",
+        "width": 5.216003574730415,
+        "height": 1.4732288055158327,
+        "rotation": 357.6551283191603
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "나가사끼짬뽕",
+        "en.ROMAN": "Nagasaki jjamppong",
+        "en": "Nagasaki Seafood Noodle Soup",
+        "ja": "長崎チャンポン",
+        "zh_CN": "长崎炒码面",
+        "zh_TW": "長崎炒碼麵",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "돼지고기",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Pork",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "豚肉",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "猪肉",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "豬肉",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_13",
+      "ocr": {
+        "x": 29.02957475977571,
+        "y": 66.46721801534346,
+        "text": "나가사끼짬뽕",
+        "width": 7.9328102888972625,
+        "height": 1.459298948389728,
+        "rotation": 357.48234476939984
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동",
+        "en.ROMAN": "udon",
+        "en": "Udon",
+        "ja": "うどん",
+        "zh_CN": "乌冬面",
+        "zh_TW": "烏龍麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_14",
+      "ocr": {
+        "x": 12.30896703732924,
+        "y": 66.96087096078311,
+        "text": "우동",
+        "width": 3.0732346059891436,
+        "height": 1.4880952380952281,
+        "rotation": 358.41343397406473
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "회덮밥",
+        "en.ROMAN": "hoedeopbap",
+        "en": "Raw Fish Bibimbap",
+        "ja": "刺身丼",
+        "zh_CN": "生鱼片盖饭",
+        "zh_TW": "生魚片蓋飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_15",
+      "ocr": {
+        "x": 49.37561110543501,
+        "y": 80.56738904126495,
+        "text": "회덮밥",
+        "width": 4.09851339671287,
+        "height": 1.4632936507936674,
+        "rotation": 358.38067719307406
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "메밀소바",
+        "en.ROMAN": "memil soba",
+        "en": "Buckwheat Soba Noodles",
+        "ja": "そば",
+        "zh_CN": "日式荞麦面",
+        "zh_TW": "日式蕎麥麵",
+        "price": "7500",
+        "ingredients.ko": [
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_16",
+      "ocr": {
+        "x": 30.364304879750012,
+        "y": 81.4522475470628,
+        "text": "메밀소바",
+        "width": 5.479566021237368,
+        "height": 1.4758896353998512,
+        "rotation": 356.682981072046
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "알밥",
+        "en.ROMAN": "albap",
+        "en": "Fish Roe Rice",
+        "ja": "魚の卵ご飯",
+        "zh_CN": "鱼子饭",
+        "zh_TW": "魚卵飯",
+        "price": "3900",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "날치알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Flying Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "トビコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "飞鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "飛魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_17",
+      "ocr": {
+        "x": 12.512706891620361,
+        "y": 82.30355602360338,
+        "text": "알밥",
+        "width": 3.114280704387784,
+        "height": 1.4936945568658575,
+        "rotation": 356.71914069533295
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "구이/적",
+        "ko": "메로구이",
+        "en.ROMAN": "merogui",
+        "en": "Grilled Patagonian Toothfish",
+        "ja": "メロ焼き",
+        "zh_CN": "烤智利鲈鱼",
+        "zh_TW": "烤圓鱈",
+        "price": "20000",
+        "ingredients.ko": [
+          "메로"
+        ],
+        "ingredients.en": [
+          "Patagonian Toothfish"
+        ],
+        "ingredients.ja": [
+          "メロ"
+        ],
+        "ingredients.zh_CN": [
+          "智利鲈鱼"
+        ],
+        "ingredients.zh_TW": [
+          "圓鱈"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_18",
+      "ocr": {
+        "x": 48.725596744791915,
+        "y": 95.61106735261347,
+        "text": "메로구이",
+        "width": 5.244134623967361,
+        "height": 1.3714255362908505,
+        "rotation": 357.29068639209265
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "새우튀김",
+        "en.ROMAN": "saeutwigim",
+        "en": "Deep-fried Shrimp",
+        "ja": "海老天ぷら",
+        "zh_CN": "炸虾",
+        "zh_TW": "炸蝦",
+        "price": "15000",
+        "ingredients.ko": [
+          "새우",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_19",
+      "ocr": {
+        "x": 30.389785022408798,
+        "y": 96.61574745836985,
+        "text": "새우튀김",
+        "width": 5.473947908997249,
+        "height": 1.4319145244833913,
+        "rotation": 357.6883760930583
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "어린이세트",
+        "en.ROMAN": "eorini set",
+        "en": "Kids' Set",
+        "ja": "お子様セット",
+        "zh_CN": "儿童套餐",
+        "zh_TW": "兒童套餐",
+        "price": "7500",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1789662_3-tf_21",
+      "ocr": {
+        "x": 10.215255635867743,
+        "y": 97.64377593070994,
+        "text": "어린이세트",
+        "width": 6.03473305235077,
+        "height": 1.3031275575325203,
+        "rotation": 357.64092169019204
+      }
+    }
+  ]
+}

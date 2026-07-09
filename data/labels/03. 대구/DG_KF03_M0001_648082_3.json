@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "file_name": "DG_KF03_M0001_648082_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:24 12:20:56",
+    "store_id": "648082",
+    "store_region": "DG",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 11.650485436893204,
+        "y": 9.461426491994178,
+        "width": 83.49514563106796,
+        "height": 85.29839883551674,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "찹스테이크",
+        "en.ROMAN": "chop steak",
+        "en": "Chop Steak",
+        "ja": "チョップステーキ",
+        "zh_CN": "酱炒牛排肉",
+        "zh_TW": "醬炒牛排肉",
+        "price": "18900",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_648082_3-tf_2",
+      "ocr": {
+        "x": 49.29837830737637,
+        "y": 41.59226190476187,
+        "text": "찹스테이크",
+        "width": 11.687634919638832,
+        "height": 2.008928571428569,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "흑임자샐러드파스타",
+        "en.ROMAN": "heugimja salad pasta",
+        "en": "Black Sesame Salad Pasta",
+        "ja": "黒ごま入りサラダパスタ",
+        "zh_CN": "黑芝麻沙拉配意大利面",
+        "zh_TW": "黑芝麻沙拉義大利麵",
+        "price": "12900",
+        "ingredients.ko": [
+          "채소",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_648082_3-tf_10",
+      "ocr": {
+        "x": 49.49679100578905,
+        "y": 75.82316397644954,
+        "text": "흑임자샐러드파스타",
+        "width": 20.788727511733377,
+        "height": 2.0786217378360954,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "치아바타추가",
+        "en.ROMAN": "ciabatta chuga",
+        "en": "Extra Serving of Ciabatta",
+        "ja": "チアバター追加",
+        "zh_CN": "另加夏巴塔面包",
+        "zh_TW": "加點義大利拖鞋麵包",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_648082_3-tf_20",
+      "ocr": {
+        "x": 49.304983542943205,
+        "y": 88.41100768503196,
+        "text": "치아바타추가",
+        "width": 11.619137819077626,
+        "height": 1.8601190476190415,
+        "rotation": 1.4198510517688874
+      }
+    }
+  ]
+}

@@ -1,0 +1,839 @@
+{
+  "meta": {
+    "file_name": "BS_KF06_M0002_560283_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:10:06 16:15:34",
+    "store_id": "560283",
+    "store_region": "BS",
+    "store_type": "KF06",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          100,
+          14.446227929373997
+        ],
+        [
+          0.18083182640144665,
+          11.878009630818621
+        ],
+        [
+          0.09041591320072333,
+          95.34510433386836
+        ],
+        [
+          99.54792043399638,
+          96.7897271268058
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반/반메뉴",
+        "en.ROMAN": "ban/ban menu",
+        "en": "Half and Half Menu",
+        "ja": "半々メニュー",
+        "zh_CN": "双拼炸鸡",
+        "zh_TW": "雙拼菜單",
+        "price": "20000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_1",
+      "ocr": {
+        "x": 28.39353574298708,
+        "y": 19.448250716324488,
+        "text": "반/반메뉴",
+        "width": 15.70486562830651,
+        "height": 6.055304980102344,
+        "rotation": 0.4192182329235834
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드",
+        "en.ROMAN": "fried",
+        "en": "Fried Chicken",
+        "ja": "フライドチキン",
+        "zh_CN": "脆皮炸鸡",
+        "zh_TW": "炸雞",
+        "price": "18000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_4",
+      "ocr": {
+        "x": 6.427427419579082,
+        "y": 28.299302634487187,
+        "text": "후라이드",
+        "width": 6.495145160841819,
+        "height": 3.2282284489940576,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "치즈볼",
+        "en.ROMAN": "cheese ball",
+        "en": "Cheese Balls",
+        "ja": "チーズボール",
+        "zh_CN": "奶酪球",
+        "zh_TW": "起司球",
+        "price": "3000",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_8",
+      "ocr": {
+        "x": 52.22499999999989,
+        "y": 29.603213038021998,
+        "text": "치즈볼",
+        "width": 4.574999999999996,
+        "height": 3.02962811566513,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_10",
+      "ocr": {
+        "x": 76.05834502695996,
+        "y": 29.840220750976375,
+        "text": "소주",
+        "width": 3.0249999999999995,
+        "height": 2.886323268206039,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "깐풍",
+        "en.ROMAN": "kkanpung",
+        "en": "Sweet and Spicy",
+        "ja": "辛味甘酢がけ",
+        "zh_CN": "干烹",
+        "zh_TW": "乾烹",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_14",
+      "ocr": {
+        "x": 6.490617594797978,
+        "y": 33.623647708194646,
+        "text": "깐풍",
+        "width": 4.3501515437877725,
+        "height": 3.135017347127283,
+        "rotation": 0.5290523252543835
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_18",
+      "ocr": {
+        "x": 75.91669005391987,
+        "y": 34.44352321314341,
+        "text": "맥주",
+        "width": 3.0999999999999988,
+        "height": 2.915874147069643,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "감자튀김",
+        "en.ROMAN": "gamjatwigim",
+        "en": "French Fries",
+        "ja": "フライドポテト",
+        "zh_CN": "炸薯条",
+        "zh_TW": "炸薯條",
+        "price": "3000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_20",
+      "ocr": {
+        "x": 52.22499999999999,
+        "y": 37.20143154577434,
+        "text": "감자튀김",
+        "width": 5.96667830734893,
+        "height": 2.955568560075797,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "양념",
+        "en.ROMAN": "yangnyeom",
+        "en": "Seasoned Fried Chicken",
+        "ja": "薬味",
+        "zh_CN": "调味炸鸡",
+        "zh_TW": "調料",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_25",
+      "ocr": {
+        "x": 6.579805034756895,
+        "y": 38.989205394279594,
+        "text": "양념",
+        "width": 4.124999999999991,
+        "height": 3.0802302428393014,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "간장치킨",
+        "en.ROMAN": "ganjang chicken",
+        "en": "Soy Sauce Glazed Fried Chicken",
+        "ja": "カンジャンチキン",
+        "zh_CN": "酱香炸鸡",
+        "zh_TW": "醬油風味炸雞",
+        "price": "20000",
+        "ingredients.ko": [
+          "간장"
+        ],
+        "ingredients.en": [
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "醬油"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_35",
+      "ocr": {
+        "x": 6.554805034756915,
+        "y": 44.29987632909651,
+        "text": "간장",
+        "width": 4.345194965243074,
+        "height": 3.060665587995096,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "파인샤베트",
+        "en.ROMAN": "pine sherbet",
+        "en": "Pineapple Sherbet",
+        "ja": "パインシャーベット",
+        "zh_CN": "菠萝冰沙",
+        "zh_TW": "鳳梨雪酪",
+        "price": "7000",
+        "ingredients.ko": [
+          "파인애플"
+        ],
+        "ingredients.en": [
+          "Pineapple"
+        ],
+        "ingredients.ja": [
+          "パインアップル"
+        ],
+        "ingredients.zh_CN": [
+          "菠萝"
+        ],
+        "ingredients.zh_TW": [
+          "鳳梨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_37",
+      "ocr": {
+        "x": 52.14999999999996,
+        "y": 44.72559049793725,
+        "text": "파인샤베트",
+        "width": 7.552750616185865,
+        "height": 2.837104031129393,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "세가지맛치킨",
+        "en.ROMAN": "segajimat chicken",
+        "en": "Three Kinds of Fried Chicken",
+        "ja": "3種類味チキン",
+        "zh_CN": "三种味道炸鸡",
+        "zh_TW": "三味炸雞",
+        "price": "23000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_41",
+      "ocr": {
+        "x": 6.6100974826215175,
+        "y": 49.56778107737634,
+        "text": "김통쓰리런",
+        "width": 8.385584895729233,
+        "height": 3.0598461945853015,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라,사이다",
+        "en.ROMAN": "cola, cider",
+        "en": "Cola, Cider",
+        "ja": "コーラ、サイダー",
+        "zh_CN": "可乐、汽水",
+        "zh_TW": "可樂、汽水",
+        "price": "1500",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_43",
+      "ocr": {
+        "x": 75.76391023013974,
+        "y": 52.704605883829664,
+        "text": "콜라,사이다",
+        "width": 8.772743631776486,
+        "height": 2.979230705868405,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살변경",
+        "en.ROMAN": "sunsal byeongyeong",
+        "en": "Change to Boneless",
+        "ja": "骨なしチキンに変更",
+        "zh_CN": "换成无骨",
+        "zh_TW": "換無骨",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_49",
+      "ocr": {
+        "x": 6.60431762164919,
+        "y": 60.12515331880923,
+        "text": "순살변경",
+        "width": 6.269707552135361,
+        "height": 3.072496398941601,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드똥집",
+        "en.ROMAN": "fried ttongjip",
+        "en": "Fried Chicken Gizzards",
+        "ja": "フライド砂肝",
+        "zh_CN": "炸鸡胗",
+        "zh_TW": "炸雞胗",
+        "price": "6000",
+        "ingredients.ko": [
+          "닭고기",
+          "닭모래집",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Chicken Gizzard",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "砂肝",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "鸡胗",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "雞胗",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_53",
+      "ocr": {
+        "x": 52.096241002522966,
+        "y": 62.99342523791462,
+        "text": "후라이드똥집",
+        "width": 9.455561855331576,
+        "height": 3.09509338569155,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생감자추가",
+        "en.ROMAN": "saenggamjachuga",
+        "en": "Extra Fresh Potato",
+        "ja": "生じゃがいも追加",
+        "zh_CN": "另加土豆",
+        "zh_TW": "加點鮮馬鈴薯",
+        "price": "3000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_55",
+      "ocr": {
+        "x": 6.644707552135377,
+        "y": 65.3470143069124,
+        "text": "생감자추가",
+        "width": 7.960097482621525,
+        "height": 3.035005876072523,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "깐풍/간장/양념",
+        "en.ROMAN": "kkanpung/Ganjang/yangnyeom",
+        "en": "Sweet and Sour/ Soy Sauce/ Seasoned",
+        "ja": "辛味甘酢がけ/カンジャン/ヤンニョム",
+        "zh_CN": "干烹/酱味/调味",
+        "zh_TW": "乾烹/醬油/調味",
+        "price": "11000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_59",
+      "ocr": {
+        "x": 28.121241002522897,
+        "y": 67.50550056463887,
+        "text": "깐풍/간장/양념",
+        "width": 10.696241002522925,
+        "height": 2.9380191352795713,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "깐풍똥집",
+        "en.ROMAN": "kkanpungttongjip",
+        "en": "Sweet and Spicy Chicken Gizzards",
+        "ja": "砂肝唐揚げとフライドポテトの辛味甘酢がけ",
+        "zh_CN": "干烹鸡胗",
+        "zh_TW": "乾烹雞胗",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "닭모래집"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken Gizzard"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "砂肝"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡胗"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞胗"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_61",
+      "ocr": {
+        "x": 52.07500000000007,
+        "y": 70.49786573525022,
+        "text": "깐풍똥집",
+        "width": 6.469078245584852,
+        "height": 3.0334564566433575,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "간장똥집튀김",
+        "en.ROMAN": "ganjangttongjiptwigim",
+        "en": "Soy Sauce Seasoned Deep-fried Chicken Gizzards",
+        "ja": "砂肝のフライのカンジャンソース",
+        "zh_CN": "酱味炸鸡胗",
+        "zh_TW": "醬油炸雞胗",
+        "price": "7000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_67",
+      "ocr": {
+        "x": 52.071169791458374,
+        "y": 78.01262373778916,
+        "text": "간장똥집",
+        "width": 6.409122656406082,
+        "height": 2.92827006133381,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념똥집튀김",
+        "en.ROMAN": "yangnyeomttongjiptwigim",
+        "en": "Spicy Deep-fried Chicken Gizzards",
+        "ja": "ヤンニョム砂肝の唐揚げ",
+        "zh_CN": "炸调味鸡胗",
+        "zh_TW": "調味炸雞胗",
+        "price": "7000",
+        "ingredients.ko": [
+          "쌀",
+          "계란",
+          "닭모래집",
+          "음료"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Eggs",
+          "Chicken Gizzard",
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "米",
+          "卵",
+          "砂肝",
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "鸡蛋",
+          "鸡胗",
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "雞蛋",
+          "雞胗",
+          "飲料"
+        ],
+        "allergy": [
+          "계란",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_560283_1-tf_72",
+      "ocr": {
+        "x": 52.074999999999875,
+        "y": 85.50687221099764,
+        "text": "양념똥집",
+        "width": 6.425487413107706,
+        "height": 2.96494119079301,
+        "rotation": 0
+      }
+    }
+  ]
+}

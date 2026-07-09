@@ -1,0 +1,833 @@
+{
+  "meta": {
+    "file_name": "JR_KF04_M0002_1557726_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:09:24 19:25:14",
+    "store_id": "1557726",
+    "store_region": "JR",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          95.26166902404526,
+          13.065326633165828
+        ],
+        [
+          2.0509193776520513,
+          12.688442211055277
+        ],
+        [
+          0.21216407355021216,
+          94.59798994974874
+        ],
+        [
+          98.44413012729845,
+          94.09547738693468
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "해물순두부",
+        "en.ROMAN": "haemulsundubu",
+        "en": "Seafood and Soft Bean Curd Jjigae",
+        "ja": "海鮮スンドゥブ",
+        "zh_CN": "海鲜嫩豆腐锅",
+        "zh_TW": "海鮮嫩豆腐鍋",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_2",
+      "ocr": {
+        "x": 75.59113234926622,
+        "y": 40.14209591474248,
+        "text": "해물순두부",
+        "width": 7.889364978273522,
+        "height": 4.921094172983409,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "흑돼지대패",
+        "en.ROMAN": "heukdwaejidaepae",
+        "en": "Grilled Thin-sliced Black Pork",
+        "ja": "薄切り黒豚サムギョプサル焼き",
+        "zh_CN": "薄切黑猪肉",
+        "zh_TW": "薄切黑豬肉",
+        "price": "3900",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_4",
+      "ocr": {
+        "x": 12.438768561311118,
+        "y": 40.33547724866318,
+        "text": "흑돼지대패",
+        "width": 14.07881350938472,
+        "height": 5.043742552405157,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "3500",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_3",
+      "ocr": {
+        "x": 55.149916636119364,
+        "y": 40.688533426301326,
+        "text": "된장찌개",
+        "width": 9.947248991939627,
+        "height": 3.8324055399780472,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "고추장파절이대패",
+        "en.ROMAN": "gochujangpajeoridaepae",
+        "en": "Red Chili Paste Green Union Salad with Thin-sliced Pork",
+        "ja": "コチュジャンねぎサラダ入り薄切りサムギョプサル焼き",
+        "zh_CN": "薄切辣椒酱鲜辣葱",
+        "zh_TW": "薄切辣椒醬五花肉",
+        "price": "4500",
+        "ingredients.ko": [
+          "고추장",
+          "파",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Red Chili Paste",
+          "Green Onions",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "コチュジャン",
+          "ネギ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒酱",
+          "葱",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒醬",
+          "蔥",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_12",
+      "ocr": {
+        "x": 12.308951061768088,
+        "y": 46.41718328537307,
+        "text": "고추장파절이대패",
+        "width": 14.116048938231879,
+        "height": 5.1778451290768395,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "2500",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_16",
+      "ocr": {
+        "x": 75.79574599130945,
+        "y": 51.328361679906656,
+        "text": "볶음밥",
+        "width": 8.07712700434528,
+        "height": 4.5098040223211235,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "간장파절이대패",
+        "en.ROMAN": "ganjangpajeoridaepae",
+        "en": "Soy Sauce Green Union Salad with Thin-sliced Pork",
+        "ja": "カンジャンねぎサラダ入り薄切りサムギョプサル焼き",
+        "zh_CN": "薄切酱油鲜辣葱",
+        "zh_TW": "薄切醬油五花肉",
+        "price": "4500",
+        "ingredients.ko": [
+          "간장",
+          "파",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Soy Sauce",
+          "Green Onions",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "カンジャン",
+          "ネギ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "酱油",
+          "葱",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "醬油",
+          "蔥",
+          "豬肉"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "_5w4TKJxCq",
+      "ocr": {
+        "x": 12.203918446272983,
+        "y": 52.212841236878546,
+        "text": "간장파절이대패",
+        "width": 14.102798947985374,
+        "height": 5.073373594961776,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "날계란",
+        "en.ROMAN": "nalgyeran",
+        "en": "a raw egg",
+        "ja": "生卵",
+        "zh_CN": "生鸡蛋",
+        "zh_TW": "生雞蛋",
+        "price": "500",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_23",
+      "ocr": {
+        "x": 74.51834036590805,
+        "y": 56.40612791940996,
+        "text": "날계란",
+        "width": 3.6641490790681917,
+        "height": 3.2939950176674855,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "볶음밥치즈",
+        "en.ROMAN": "bokkeumbap cheese",
+        "en": "Fried Rice Cheese",
+        "ja": "チーズチャーハン",
+        "zh_CN": "奶酪炒饭",
+        "zh_TW": "起司炒飯",
+        "price": "2000",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_24",
+      "ocr": {
+        "x": 82.12526019702713,
+        "y": 56.482654752069024,
+        "text": "볶음밥치즈",
+        "width": 5.09182354883993,
+        "height": 3.108348134991114,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "우삼겹",
+        "en.ROMAN": "usamgyeop",
+        "en": "Beef Loin",
+        "ja": "牛バラ",
+        "zh_CN": "牛五花肉",
+        "zh_TW": "牛五花肉",
+        "price": "4500",
+        "ingredients.ko": [
+          "우삼겹"
+        ],
+        "ingredients.en": [
+          "Beef Loin"
+        ],
+        "ingredients.ja": [
+          "牛バラ"
+        ],
+        "ingredients.zh_CN": [
+          "牛五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛五花肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_26",
+      "ocr": {
+        "x": 12.04812910469834,
+        "y": 58.33691829249843,
+        "text": "우삼겹",
+        "width": 14.205538316887361,
+        "height": 4.188813623426571,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "숙성삼겹살",
+        "en.ROMAN": "sukseongsamgyeopsal",
+        "en": "Aged Pork Belly",
+        "ja": "熟成サムギョプサル",
+        "zh_CN": "熟成五花肉",
+        "zh_TW": "熟成五花肉",
+        "price": "6500",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_33",
+      "ocr": {
+        "x": 11.94012234558005,
+        "y": 63.59716065725689,
+        "text": "숙성삼겹살",
+        "width": 14.42043904316997,
+        "height": 5.086425461707089,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_36",
+      "ocr": {
+        "x": 67.80221691268346,
+        "y": 64.85609517326695,
+        "text": "맥주",
+        "width": 3.0727830873164996,
+        "height": 4.282448343606974,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_35",
+      "ocr": {
+        "x": 55.23436492869413,
+        "y": 64.86509256052757,
+        "text": "소주",
+        "width": 3.6850161140894726,
+        "height": 4.232974369859134,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "15000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_37",
+      "ocr": {
+        "x": 79.76987720790318,
+        "y": 64.98931009333806,
+        "text": "복분자",
+        "width": 4.305122792096053,
+        "height": 4.335971649696865,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "AQ69ch4-n8",
+      "ocr": {
+        "x": 55.27688131703964,
+        "y": 69.22903279536857,
+        "text": "음료수",
+        "width": 3.7171736104703297,
+        "height": 4.3665989593762795,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "대패해물삼합",
+        "en.ROMAN": "daepaehaemulsamhap",
+        "en": "Seafood Combo with Thin-sliced Pork",
+        "ja": "薄切りサムギョプサルと海鮮のサムハプ",
+        "zh_CN": "薄切海鲜三合",
+        "zh_TW": "薄切三合海鮮",
+        "price": "32900",
+        "ingredients.ko": [
+          "돼지고기",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "海鮮"
+        ],
+        "allergy": [
+          "돼지고기",
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_46",
+      "ocr": {
+        "x": 11.808024469116242,
+        "y": 69.30978617241838,
+        "text": "대패해물삼합",
+        "width": 14.312822392653358,
+        "height": 5.344987166726421,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "쭈꾸미+대패삼겹살",
+        "en.ROMAN": "jjukkumi+daepaesamgyeopsal",
+        "en": "Webfoot Octopus + Thin-sliced Pork Belly",
+        "ja": "イイダコ+薄切りサムギョプサル",
+        "zh_CN": "八爪鱼+薄切五花肉",
+        "zh_TW": "小章魚+薄切五花肉",
+        "price": "25900",
+        "ingredients.ko": [
+          "주꾸미",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "イイダコ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_50",
+      "ocr": {
+        "x": 19.811122852858198,
+        "y": 81.95688051280129,
+        "text": "쭈꾸미(200g)+대패삼겹살(300g)",
+        "width": 23.264342712692155,
+        "height": 3.885493334455051,
+        "rotation": 358.9294900429392
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "쭈꾸미(300g)+대패삼겹살(400g)",
+        "en.ROMAN": "jjukkumi(sambaek g)+daepaesamgyeopsal(sabae g)",
+        "en": "Webfoot Octopus(300g) + Thin-sliced Pork Belly(400g)",
+        "ja": "イイダコ(300グラム)+薄切りサムギョプサル(400グラム)",
+        "zh_CN": "小章鱼（300克）+薄切五花肉（400克）",
+        "zh_TW": "小章魚（300g）＋薄切五花肉（400g）",
+        "price": "35000",
+        "ingredients.ko": [
+          "주꾸미",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "イイダコ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_52",
+      "ocr": {
+        "x": 19.62799914866492,
+        "y": 86.13378265352515,
+        "text": "쭈꾸미(300g)+대패삼겹살(400g)",
+        "width": 23.428884878837035,
+        "height": 3.872157318585754,
+        "rotation": 358.7989738937119
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "양념쭈꾸미",
+        "en.ROMAN": "yangnyeomjjukkumi",
+        "en": "Marinated Webfoot Octopus",
+        "ja": "ヤンニョムイイダコ炒め",
+        "zh_CN": "调味八爪鱼",
+        "zh_TW": "調味小章魚",
+        "price": "5900",
+        "ingredients.ko": [
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1557726_1-tf.jpg_53",
+      "ocr": {
+        "x": 31.738688874673393,
+        "y": 89.81620173663755,
+        "text": "양념쭈꾸미",
+        "width": 11.287642814190958,
+        "height": 3.7153421869597287,
+        "rotation": 359.40273931524143
+      }
+    }
+  ]
+}

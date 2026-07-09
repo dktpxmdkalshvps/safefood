@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "file_name": "BS_KF06_M0002_499060_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "499060",
+    "store_region": "BS",
+    "store_type": "KF06",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          78.40328664376929,
+          57.78430409585642
+        ],
+        [
+          78.79452060905759,
+          75.96829603160612
+        ],
+        [
+          28.090598707697787,
+          77.31743091716174
+        ],
+        [
+          26.995143604890625,
+          58.898806827402375
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소고기모듬한마리",
+        "en.ROMAN": "sogogimodeumhanmari",
+        "en": "Assorted Braised Beef Cuts",
+        "ja": "牛肉の盛り合わせ",
+        "zh_CN": "一只牛肉拼盘",
+        "zh_TW": "牛肉拼盤（全部位）",
+        "price": "8000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_499060_1-tf_47",
+      "ocr": {
+        "x": 44.58850888195807,
+        "y": 66.6314139953685,
+        "text": "한마리",
+        "width": 15.550672251677698,
+        "height": 5.094798606600605,
+        "rotation": 358.0616090231272
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "두마리",
+        "en.ROMAN": "dumari",
+        "en": "2 Chickens",
+        "ja": "2匹",
+        "zh_CN": "两只",
+        "zh_TW": "兩隻",
+        "price": "15000",
+        "ingredients.ko": [
+          "닭고기",
+          "감자",
+          "밀가루",
+          "무"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Potato",
+          "Wheat Flour",
+          "Radish"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "じゃがいも",
+          "小麦粉",
+          "大根"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "土豆",
+          "面粉",
+          "白萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "馬鈴薯",
+          "麵粉",
+          "白蘿蔔"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0002_499060_1-tf_48",
+      "ocr": {
+        "x": 44.88093464731646,
+        "y": 71.73833689654171,
+        "text": "두마리",
+        "width": 15.560944012694574,
+        "height": 4.820896231876693,
+        "rotation": 357.7274102721656
+      }
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "file_name": "DG_KF04_M0001_624367_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:12:04 16:03:17",
+    "store_id": "624367",
+    "store_region": "DG",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.2818671454219,
+          0.2691790040376851
+        ],
+        [
+          28.007181328545787,
+          0.9421265141318977
+        ],
+        [
+          25.493716337522443,
+          98.3849259757739
+        ],
+        [
+          99.64093357271095,
+          98.78869448183042
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "의성마늘떡맵쌈",
+        "en.ROMAN": "Uiseongmaneultteongmaepssam",
+        "en": "Rice Cake Wraps with Pork and Uiseong Garlic Sauce",
+        "ja": "ウィソンにんにくソースと包み用トク",
+        "zh_CN": "义城蒜蓉年糕辣味菜包肉",
+        "zh_TW": "義城大蒜年糕辣味菜包肉",
+        "price": "38000",
+        "ingredients.ko": [
+          "김치",
+          "돼지고기",
+          "떡",
+          "배추",
+          "무",
+          "치커리"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Pork",
+          "Rice Cake",
+          "Napa Cabbage",
+          "Radish",
+          "Chicory"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "豚肉",
+          "トク",
+          "白菜",
+          "大根",
+          "チコリ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "猪肉",
+          "糕",
+          "白菜",
+          "白萝卜",
+          "苣菜"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "豬肉",
+          "年糕",
+          "白菜",
+          "白蘿蔔",
+          "苣菜"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "DG_KF04_M0001_624367_2-tf_23",
+      "ocr": {
+        "x": 74.50396825396824,
+        "y": 27.042000726690883,
+        "text": "의성마늘떡맵쌈",
+        "width": 20.242424531221005,
+        "height": 2.9761904761904745,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "반반보쌈",
+        "en.ROMAN": "banbanbossam",
+        "en": "Napa Wraps with Pork (Half and Half)",
+        "ja": "ポサム(ハーフ＆ハーフ)",
+        "zh_CN": "菜包肉双拼",
+        "zh_TW": "菜包肉雙拼",
+        "price": "33000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_624367_2-tf_47",
+      "ocr": {
+        "x": 74.01496760199315,
+        "y": 51.51214804908201,
+        "text": "반반보쌈",
+        "width": 11.415761252786757,
+        "height": 2.902534490600466,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "매운불보쌈",
+        "en.ROMAN": "maeunbulbossam",
+        "en": "Spicy Napa Wraps with Pork",
+        "ja": "辛味火ポサム",
+        "zh_CN": "火辣菜包肉",
+        "zh_TW": "辣火菜包肉",
+        "price": "33000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_624367_2-tf_59",
+      "ocr": {
+        "x": 74.1732804232805,
+        "y": 64.0933849508249,
+        "text": "매운火보쌈",
+        "width": 15.24470899470899,
+        "height": 2.874457154933165,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "보쌈세트",
+        "en.ROMAN": "bossam set",
+        "en": "Napa Wraps with Pork Set Menu",
+        "ja": "ポサムセット",
+        "zh_CN": "菜包肉套餐",
+        "zh_TW": "菜包肉套餐",
+        "price": "21000",
+        "ingredients.ko": [
+          "채소",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_624367_2-tf_66",
+      "ocr": {
+        "x": 77.05026455026454,
+        "y": 81.86839366221193,
+        "text": "1인보쌈세트",
+        "width": 12.614658417459301,
+        "height": 2.4322015758833446,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "보쌈실속면세트",
+        "en.ROMAN": "bossamsilsongmyeon set",
+        "en": "Napa Wraps with Pork and Spicy Noodles Set Menu",
+        "ja": "ポサムお得麺セット",
+        "zh_CN": "菜包肉实惠面套餐",
+        "zh_TW": "菜包肉實惠套餐",
+        "price": "23000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_624367_2-tf_65",
+      "ocr": {
+        "x": 45.66798941798944,
+        "y": 81.90386337318408,
+        "text": "1인보쌈실속면세트",
+        "width": 19.048662391226163,
+        "height": 2.435815383541825,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "보쌈",
+        "en.ROMAN": "bossam",
+        "en": "Napa Wraps with Pork",
+        "ja": "ポサム",
+        "zh_CN": "菜包肉",
+        "zh_TW": "菜包肉",
+        "price": "18000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0001_624367_2-tf_73",
+      "ocr": {
+        "x": 45.99867724867724,
+        "y": 86.89815759028997,
+        "text": "1인보쌈",
+        "width": 7.7711640211640205,
+        "height": 2.4123582827260392,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "맵쌈",
+        "en.ROMAN": "maepssam",
+        "en": "Napa Wraps with Spicy Pork",
+        "ja": "辛味ポサム",
+        "zh_CN": "辣味菜包肉",
+        "zh_TW": "辣味菜包肉",
+        "price": "20000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": 1
+      },
+      "sn": "DG_KF04_M0001_624367_2-tf_74",
+      "ocr": {
+        "x": 59.85449735449751,
+        "y": 87.04531097719125,
+        "text": "1인맵쌈",
+        "width": 7.9474809404786555,
+        "height": 2.488419181538974,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "맵쌈세트",
+        "en.ROMAN": "maepssam set",
+        "en": "Napa Wraps with Spicy Pork Set Menu",
+        "ja": "辛味ポサムセット",
+        "zh_CN": "辣味菜包肉套餐",
+        "zh_TW": "辣味菜包肉套餐",
+        "price": "23000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": 1
+      },
+      "sn": "DG_KF04_M0001_624367_2-tf_75",
+      "ocr": {
+        "x": 77.14730625290802,
+        "y": 88.2837342053624,
+        "text": "1인맵쌈세트",
+        "width": 12.568302212700463,
+        "height": 2.514876905748784,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0002_701730_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:09:22 14:36:32",
+    "store_id": "701730",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          17.114568599717114,
+          10.804020100502512
+        ],
+        [
+          74.68175388967468,
+          9.798994974874372
+        ],
+        [
+          74.11598302687409,
+          89.07035175879398
+        ],
+        [
+          16.76096181046676,
+          86.80904522613065
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "옻주",
+        "en.ROMAN": "otju",
+        "en": "Lacquer Liquor",
+        "ja": "漆酒",
+        "zh_CN": "漆酒",
+        "zh_TW": "漆木酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "엄나무",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Prickly Castor Oil Tree",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "ハリギリ",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "刺楸",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "刺楸",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_2",
+      "ocr": {
+        "x": 51.842039380772036,
+        "y": 29.774622930098882,
+        "text": "옻주",
+        "width": 7.699013567611241,
+        "height": 4.008023679103288,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "한방삼계탕",
+        "en.ROMAN": "hanbangsamgyetang",
+        "en": "Ginseng Chicken Soup with Medicinal Herbs",
+        "ja": "韓方サムゲタン",
+        "zh_CN": "药膳参鸡汤",
+        "zh_TW": "藥膳蔘雞湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "인삼",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_3",
+      "ocr": {
+        "x": 21.240309478608225,
+        "y": 30.058844399098472,
+        "text": "한방삼계탕",
+        "width": 11.099999999999996,
+        "height": 4.925023655758854,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "인삼주",
+        "en.ROMAN": "insamju",
+        "en": "Ginseng Liquor",
+        "ja": "高麗人蔘酒",
+        "zh_CN": "人参酒",
+        "zh_TW": "人蔘酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "인삼",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_5",
+      "ocr": {
+        "x": 51.87761181423134,
+        "y": 35.2600026878199,
+        "text": "인삼주",
+        "width": 7.628980309614025,
+        "height": 4.0313144600014335,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "옻삼계탕",
+        "en.ROMAN": "otsamgyetang",
+        "en": "Sumac and Ginseng Chicken Soup",
+        "ja": "漆エキス入りサムゲタン",
+        "zh_CN": "漆木参鸡汤",
+        "zh_TW": "漆木蔘雞湯",
+        "price": "17000",
+        "ingredients.ko": [
+          "인삼",
+          "닭고기",
+          "옻"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Chicken",
+          "Sumac"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "鶏肉",
+          "漆"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "鸡肉",
+          "漆木"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "雞肉",
+          "漆"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_7",
+      "ocr": {
+        "x": 21.05749194295528,
+        "y": 37.32796977524253,
+        "text": "옻삼계탕",
+        "width": 11.217508057044716,
+        "height": 4.9993317015303935,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_9",
+      "ocr": {
+        "x": 51.74085865018856,
+        "y": 40.86715991559398,
+        "text": "막걸리",
+        "width": 7.453542191747509,
+        "height": 4.531904679137925,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "옻닭",
+        "en.ROMAN": "otdak",
+        "en": "Braised Chicken with Sumac",
+        "ja": "鶏肉の漆エキス煮込み",
+        "zh_CN": "漆木鸡汤",
+        "zh_TW": "漆木雞",
+        "price": "52000",
+        "ingredients.ko": [
+          "닭고기",
+          "옻"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Sumac"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "漆"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "漆木"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "漆"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_11",
+      "ocr": {
+        "x": 21.009364928694122,
+        "y": 44.80129555362743,
+        "text": "옻닭",
+        "width": 11.225993489742503,
+        "height": 4.777306834745429,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "ZqPDk7jPIk",
+      "ocr": {
+        "x": 51.703766936152874,
+        "y": 46.17439496842612,
+        "text": "청하",
+        "width": 7.735570385764884,
+        "height": 4.260532530521212,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SkCKtdpvbS",
+      "ocr": {
+        "x": 51.671452970702056,
+        "y": 51.71413967914861,
+        "text": "맥주",
+        "width": 7.691430487219619,
+        "height": 4.047519207969846,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "백숙",
+        "en.ROMAN": "baeksuk",
+        "en": "Whole Chicken Soup",
+        "ja": "鶏肉の水炊き",
+        "zh_CN": "清炖鸡",
+        "zh_TW": "藥膳燉雞",
+        "price": "52000",
+        "ingredients.ko": [
+          "인삼",
+          "마늘",
+          "닭고기",
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Garlic",
+          "Chicken",
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "にんにく",
+          "鶏肉",
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "大蒜",
+          "鸡肉",
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "大蒜",
+          "雞肉",
+          "糯米"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_16",
+      "ocr": {
+        "x": 21.05709787646383,
+        "y": 52.01050214029356,
+        "text": "백숙",
+        "width": 11.111565220174898,
+        "height": 4.941528561303376,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "4y_O5EZh66",
+      "ocr": {
+        "x": 51.581729490400825,
+        "y": 57.283867628065956,
+        "text": "소주",
+        "width": 7.764636063992699,
+        "height": 3.9971697293465156,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "닭도리탕",
+        "en.ROMAN": "dakdoritang",
+        "en": "Spicy Braised Chicken",
+        "ja": "鶏肉の炒め煮",
+        "zh_CN": "辣炖鸡块汤",
+        "zh_TW": "辣燒雞",
+        "price": "48000",
+        "ingredients.ko": [
+          "야채",
+          "닭고기",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉",
+          "馬鈴薯"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_20",
+      "ocr": {
+        "x": 21.002057094603938,
+        "y": 59.51327378329564,
+        "text": "닭도리탕",
+        "width": 11.095885810792199,
+        "height": 4.8099824955656585,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_22",
+      "ocr": {
+        "x": 51.60925474586063,
+        "y": 62.655417406749486,
+        "text": "음료수",
+        "width": 7.702623594714803,
+        "height": 4.199812118806901,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오리",
+        "en.ROMAN": "ori",
+        "en": "Duck",
+        "ja": "鴨肉",
+        "zh_CN": "鸭肉",
+        "zh_TW": "鴨肉",
+        "price": "55000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_701730_1-tf.jpg_26",
+      "ocr": {
+        "x": 21.221089720091882,
+        "y": 64.69470847250656,
+        "text": "오리",
+        "width": 10.129583823486303,
+        "height": 5.331636332060864,
+        "rotation": 0
+      }
+    }
+  ]
+}

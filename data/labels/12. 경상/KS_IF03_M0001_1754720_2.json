@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "file_name": "KS_IF03_M0001_1754720_2.jpg",
+    "image_original_width": 3456,
+    "image_original_height": 3456,
+    "captured_date": "2022:12:10 15:38:49",
+    "store_id": "1754720",
+    "store_region": "KS",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          17.26027397260274,
+          1.917808219178082
+        ],
+        [
+          88.63013698630137,
+          0.410958904109589
+        ],
+        [
+          95.06849315068493,
+          99.45205479452055
+        ],
+        [
+          9.726027397260276,
+          99.58904109589041
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "모듬초밥(10P)",
+        "en.ROMAN": "modeumchobap(10P)",
+        "en": "Assorted Sushi (10 pcs.)",
+        "ja": "寿司の盛り合わせ(10P)",
+        "zh_CN": "寿司拼盘（10p）",
+        "zh_TW": "壽司拼盤（10p）",
+        "price": "9900",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1754720_2-tf_9",
+      "ocr": {
+        "x": 44.98700696357397,
+        "y": 23.295494640499236,
+        "text": "모듬초밥(10p)",
+        "width": 14.120370370370313,
+        "height": 2.777241081355657,
+        "rotation": 356.4854418642439
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "초밥",
+        "en.ROMAN": "chobap",
+        "en": "Sushi",
+        "ja": "寿司",
+        "zh_CN": "寿司",
+        "zh_TW": "壽司",
+        "price": "17900",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1754720_2-tf_17",
+      "ocr": {
+        "x": 21.185884511086314,
+        "y": 46.78613767627892,
+        "text": "오늘의초밥",
+        "width": 10.974709480217076,
+        "height": 2.522082357042,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "연어초밥",
+        "en.ROMAN": "yeoneochobap",
+        "en": "Salmon Sushi",
+        "ja": "サーモン寿司",
+        "zh_CN": "三文鱼寿司",
+        "zh_TW": "鮭魚壽司",
+        "price": "13900",
+        "ingredients.ko": [
+          "쌀",
+          "연어"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Salmon"
+        ],
+        "ingredients.ja": [
+          "米",
+          "鮭"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "三文鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "鮭魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1754720_2-tf_23",
+      "ocr": {
+        "x": 20.746527777777718,
+        "y": 58.66068154107232,
+        "text": "연어초밥",
+        "width": 8.59020203752735,
+        "height": 2.51823694765045,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "생연어초밥",
+        "en.ROMAN": "saengyeoneochobap",
+        "en": "Salmon Sushi",
+        "ja": "サーモン寿司",
+        "zh_CN": "鲜三文鱼寿司",
+        "zh_TW": "鮭魚壽司",
+        "price": "13900",
+        "ingredients.ko": [
+          "쌀",
+          "연어"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Salmon"
+        ],
+        "ingredients.ja": [
+          "米",
+          "鮭"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "三文鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "鮭魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1754720_2-tf_30",
+      "ocr": {
+        "x": 19.798093811873304,
+        "y": 70.76260215667172,
+        "text": "생연어초밥",
+        "width": 11.300670182864387,
+        "height": 2.6620370370370248,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "불연어초밥",
+        "en.ROMAN": "buryeoneochobap",
+        "en": "Grilled Salmon Sushi",
+        "ja": "炙りサーモンのにぎり",
+        "zh_CN": "火烤三文鱼寿司",
+        "zh_TW": "火燒鮭魚壽司",
+        "price": "14900",
+        "ingredients.ko": [
+          "연어",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Salmon",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "鮭",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "三文鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮭魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1754720_2-tf_33",
+      "ocr": {
+        "x": 18.931162029347423,
+        "y": 83.07291666666644,
+        "text": "불연어초밥",
+        "width": 11.58259420102898,
+        "height": 2.8411946559307206,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_246008_3.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:08 13:09:27",
+    "store_id": "246008",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.3246753246753247,
+          0.5484460694698354
+        ],
+        [
+          100.00563287115716,
+          0.09521540165819244
+        ],
+        [
+          98.7012987012987,
+          88.11700182815356
+        ],
+        [
+          0.974025974025974,
+          92.50457038391224
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "브로스/매콤반반돈까스",
+        "en.ROMAN": "Bro's/maekombanbandongaseu",
+        "en": "Bros/Spicy Half and Half Pork Cutlet",
+        "ja": "ブロス/ピリ辛半々豚カツ",
+        "zh_CN": "原味、香辣双拼炸猪排",
+        "zh_TW": "BROS醬及辣味炸豬排雙拼",
+        "price": "10900",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "SL_KF03_M0001_246008_3-tf-0",
+      "ocr": {
+        "x": 66.13853228769712,
+        "y": 25.119574596640092,
+        "text": "브로스/매콤반반돈까스",
+        "width": 32.18375302596477,
+        "height": 2.354475306161125,
+        "rotation": 357.46428249701495
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "매콤/크림반반돈까스",
+        "en.ROMAN": "maekom/cream banbandongaseu",
+        "en": "Half and Half Pork Cutlet (Spicy/Cream)",
+        "ja": "辛味/クリーム半々豚カツ",
+        "zh_CN": "香辣+奶油炸猪排双拼",
+        "zh_TW": "辣味/奶油雙拼炸豬排",
+        "price": "11900",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "SL_KF03_M0001_246008_3-tf-1",
+      "ocr": {
+        "x": 65.9858508070115,
+        "y": 51.00282703134338,
+        "text": "매콤/크림반반돈까스",
+        "width": 30.695658787783202,
+        "height": 2.2226164876417696,
+        "rotation": 359.07389927729207
+      }
+    }
+  ]
+}

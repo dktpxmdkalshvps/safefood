@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "file_name": "US_KF02_M0002_907605_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:10:11 14:13:49",
+    "store_id": "907605",
+    "store_region": "US",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          15.601827315720623,
+          0
+        ],
+        [
+          96.96302659046506,
+          0
+        ],
+        [
+          97.2163180806435,
+          82.11043339859681
+        ],
+        [
+          97.23797668655253,
+          99.18327182239454
+        ],
+        [
+          15.817211659230134,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "콩국수",
+        "en.ROMAN": "kongguksu",
+        "en": "Noodles in Cold Soybean Soup",
+        "ja": "コングクス",
+        "zh_CN": "豆汁面",
+        "zh_TW": "豆汁麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "면",
+          "콩"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Soybeans"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "豆"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "大豆"
+        ],
+        "allergy": [
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF02_M0002_907605_1-tf_5",
+      "ocr": {
+        "x": 26.81685381478309,
+        "y": 27.17087822704801,
+        "text": "콩국수",
+        "width": 31.824570429070796,
+        "height": 9.592148217999258,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔국수",
+        "en.ROMAN": "bibimguksu",
+        "en": "Spicy Noodles",
+        "ja": "混ぜ素麺",
+        "zh_CN": "拌面",
+        "zh_TW": "拌麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF02_M0002_907605_1-tf_6",
+      "ocr": {
+        "x": 27.116853814783116,
+        "y": 38.373947109904506,
+        "text": "비빔국수",
+        "width": 31.713530188332218,
+        "height": 9.826052890095465,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "칼국수",
+        "en.ROMAN": "kalguksu",
+        "en": "Noodle Soup",
+        "ja": "カルグクス",
+        "zh_CN": "刀切面",
+        "zh_TW": "刀切麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF02_M0002_907605_1-tf_9",
+      "ocr": {
+        "x": 27.027902543188734,
+        "y": 49.82241266847665,
+        "text": "칼국수",
+        "width": 31.743030918679487,
+        "height": 9.946813007755454,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "라면",
+        "en.ROMAN": "ramyeon",
+        "en": "Instant Noodles",
+        "ja": "ラーメン",
+        "zh_CN": "方便面",
+        "zh_TW": "泡麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "LRlvEUW38j",
+      "ocr": {
+        "x": 27.16179579434544,
+        "y": 61.236054958455455,
+        "text": "라면",
+        "width": 31.129689448385747,
+        "height": 9.923909329739464,
+        "rotation": 359.7113587163194
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF02_M0002_907605_1-tf_14",
+      "ocr": {
+        "x": 26.87066453120064,
+        "y": 72.48478850050977,
+        "text": "공기밥",
+        "width": 32.11766688515934,
+        "height": 10.001502930537052,
+        "rotation": 359.6937996052869
+      }
+    }
+  ]
+}

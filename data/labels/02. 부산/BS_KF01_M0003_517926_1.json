@@ -1,0 +1,358 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0003_517926_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:16 17:34:09",
+    "store_id": "517926",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          23.92426850258175,
+          34.580645161290334
+        ],
+        [
+          62.30636833046472,
+          33.29032258064516
+        ],
+        [
+          64.54388984509465,
+          75.61290322580645
+        ],
+        [
+          24.784853700516344,
+          76
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살고추장바베큐",
+        "en.ROMAN": "sunsalgochujang barbecue",
+        "en": "Boneless Chili Paste Barbeque",
+        "ja": "コチュジャン入り骨なしバベキュ",
+        "zh_CN": "无骨辣椒酱BBQ",
+        "zh_TW": "無骨辣椒醬燒烤",
+        "price": "19000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0003_517926_1-tf_6",
+      "ocr": {
+        "x": 43.73575192462096,
+        "y": 43.405554720574855,
+        "text": "숯불고추장바베큐(순살)",
+        "width": 9.433333333333348,
+        "height": 1.0681944176407687,
+        "rotation": 357.2345346853451
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뼈고추장바베큐",
+        "en.ROMAN": "ppyeogochujang barbecue",
+        "en": "Pork bone red pepper paste barbecue.",
+        "ja": "豚の背骨コチュジャンバーベキュー",
+        "zh_CN": "骨头辣酱烧烤",
+        "zh_TW": "骨頭辣醬燒烤",
+        "price": "20000",
+        "ingredients.ko": [
+          "고추장",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Red Chili Paste",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "コチュジャン",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒酱",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒醬",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0003_517926_1-tf_8",
+      "ocr": {
+        "x": 26.300547168194704,
+        "y": 43.894061358732365,
+        "text": "숯불고추장바베큐(뼈)",
+        "width": 8.385124058997851,
+        "height": 0.9995414178549537,
+        "rotation": 358.52480088520485
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살고추장파닭",
+        "en.ROMAN": "sunsalgochujangpadak",
+        "en": "Red Chili Paste Fired Boneless Chicken with Green Onion",
+        "ja": "骨なしコチジャン入りねぎチキン",
+        "zh_CN": "辣椒酱葱丝无骨炸鸡",
+        "zh_TW": "辣椒醬蔥絲無骨烤雞",
+        "price": "20000",
+        "ingredients.ko": [
+          "고추장",
+          "파",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Red Chili Paste",
+          "Green Onions",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "コチュジャン",
+          "ネギ",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒酱",
+          "葱",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒醬",
+          "蔥",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0003_517926_1-tf_12",
+      "ocr": {
+        "x": 50.035880242486215,
+        "y": 50.87174485682594,
+        "text": "순살고추장파닭",
+        "width": 6.2630337248018755,
+        "height": 1.0323632343854818,
+        "rotation": 358.5205629623513
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈고감자촌닭",
+        "en.ROMAN": "cheese gogamjachondak",
+        "en": "Cheese Potato Chondak (Chicken)",
+        "ja": "チーズとじゃがいも＋サツマイモ入りのチムダク",
+        "zh_CN": "奶酪炸薯条土鸡",
+        "zh_TW": "起司馬鈴薯烤雞",
+        "price": "21000",
+        "ingredients.ko": [
+          "치즈",
+          "감자",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Potato",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "じゃがいも",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "土豆",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "馬鈴薯",
+          "雞肉"
+        ],
+        "allergy": [
+          "우유",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0003_517926_1-tf_14",
+      "ocr": {
+        "x": 38.111616786113046,
+        "y": 51.11281685522989,
+        "text": "치즈고감자촌닭",
+        "width": 6.322931304494883,
+        "height": 0.9628650411262152,
+        "rotation": 358.4579165384245
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈새우촌닭",
+        "en.ROMAN": "cheese saeuchondak",
+        "en": "Cheese Shrimp Chondak (Chicken)",
+        "ja": "チーズとエビと骨なし鶏肉入りのチムダク",
+        "zh_CN": "奶酪虾仁土鸡",
+        "zh_TW": "起司蝦仁烤雞",
+        "price": "21000",
+        "ingredients.ko": [
+          "치즈",
+          "새우",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Shrimp",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "海老",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "虾",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "蝦",
+          "雞肉"
+        ],
+        "allergy": [
+          "우유",
+          "닭고기",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0003_517926_1-tf_15",
+      "ocr": {
+        "x": 26.426265408286337,
+        "y": 51.4106582186488,
+        "text": "치즈새우촌닭",
+        "width": 5.526117869317085,
+        "height": 1.0295814498872207,
+        "rotation": 357.67601343328187
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살어니언치킨",
+        "en.ROMAN": "sunsal onion chicken",
+        "en": "Onion Sauce Seasoned Fried Boneless Chicken",
+        "ja": "骨なしオニオンチキン",
+        "zh_CN": "洋葱无骨炸鸡",
+        "zh_TW": "無骨洋蔥炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0003_517926_1-tf_36",
+      "ocr": {
+        "x": 50.81585904796419,
+        "y": 69.375,
+        "text": "순살어니언",
+        "width": 5.065051429261697,
+        "height": 0.9999999999999992,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살치즈닝",
+        "en.ROMAN": "sunsal cheesening",
+        "en": "Boneless chilling.",
+        "ja": "骨なしチーズニング",
+        "zh_CN": "无骨芝士宁",
+        "zh_TW": "無骨芝士寧",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "튀김가루치즈"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Frying Powder"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "天ぷら粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "炸粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "酥炸粉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0003_517926_1-tf_38",
+      "ocr": {
+        "x": 38.48397086751387,
+        "y": 69.40263107603508,
+        "text": "순살치즈닝",
+        "width": 4.857265038460802,
+        "height": 0.9736460617488001,
+        "rotation": 0.6649034161159761
+      }
+    }
+  ]
+}

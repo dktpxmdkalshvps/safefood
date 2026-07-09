@@ -1,0 +1,560 @@
+{
+  "meta": {
+    "file_name": "SL_IF01_M0001_48768_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:08 20:27:00",
+    "store_id": "48768",
+    "store_region": "SL",
+    "store_type": "IF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          2.69179004037685
+        ],
+        [
+          94.7935368043088,
+          1.7496635262449527
+        ],
+        [
+          93.89587073608615,
+          99.73082099596229
+        ],
+        [
+          3.0520646319569114,
+          99.73082099596229
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-0",
+      "ocr": {
+        "x": 12.371909242400475,
+        "y": 25.941213894282534,
+        "text": "소고기쌀국수",
+        "width": 18.732758182930873,
+        "height": 2.2111703769658244,
+        "rotation": 359.1825730052856
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "소고기쌀국수",
+        "en.ROMAN": "sogogissalguksu",
+        "en": "Beef Rice Noodles",
+        "ja": "牛肉フォー",
+        "zh_CN": "牛肉米线",
+        "zh_TW": "牛肉河粉",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "숙주",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Mung Bean Sprout",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "緑豆もやし",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "绿豆芽",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "綠豆芽",
+          "河粉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-1",
+      "ocr": {
+        "x": 12.420894662343978,
+        "y": 33.66552193482212,
+        "text": "매운소고기쌀국수",
+        "width": 25.5906751211187,
+        "height": 2.2877652607566517,
+        "rotation": 359.4752191718365
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "매운소고기쌀국수",
+        "en.ROMAN": "maeunsogogissalguksu",
+        "en": "Spicy beef rice noodles",
+        "ja": "辛味牛肉フォー",
+        "zh_CN": "辣味牛肉米线",
+        "zh_TW": "辣牛肉河粉",
+        "price": "9500",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "숙주",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Mung Bean Sprout",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "緑豆もやし",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "绿豆芽",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "綠豆芽",
+          "河粉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": 2
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-2",
+      "ocr": {
+        "x": 12.460651784871708,
+        "y": 18.14924801078186,
+        "text": "튀긴스프링롤",
+        "width": 18.77132150576569,
+        "height": 2.284729901933581,
+        "rotation": 359.21159595208263
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "튀긴스프링롤",
+        "en.ROMAN": "twigin spring roll",
+        "en": "Fried Spring Roll",
+        "ja": "春巻きの素揚げ",
+        "zh_CN": "炸春卷",
+        "zh_TW": "油炸春卷",
+        "price": "4000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-3",
+      "ocr": {
+        "x": 12.98202483168705,
+        "y": 49.94705450763198,
+        "text": "해산물볶음쌀국수",
+        "width": 25.354094169441325,
+        "height": 2.259485913649584,
+        "rotation": 359.4193383898755
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "해산물볶음쌀국수",
+        "en.ROMAN": "haesanmulbokkeumssalguksu",
+        "en": "Stir-fried Seafood and Rice Noodles",
+        "ja": "海鮮入り炒めフォー",
+        "zh_CN": "海鲜炒米线",
+        "zh_TW": "炒海鮮河粉",
+        "price": "12000",
+        "ingredients.ko": [
+          "야채",
+          "숙주",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mung Bean Sprout",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "緑豆もやし",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "绿豆芽",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "綠豆芽",
+          "河粉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-4",
+      "ocr": {
+        "x": 13.081746232093357,
+        "y": 41.901548524576754,
+        "text": "갈비쌀국수",
+        "width": 15.748772529426958,
+        "height": 2.2335857918935433,
+        "rotation": 359.40711132964395
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "갈비쌀국수",
+        "en.ROMAN": "galbissalguksu",
+        "en": "Galbi Rice Noodles",
+        "ja": "カルビフォー",
+        "zh_CN": "排骨米线",
+        "zh_TW": "排骨河粉",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "갈비",
+          "숙주",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Galbi",
+          "Mung Bean Sprout",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "カルビ",
+          "緑豆もやし",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "排骨",
+          "绿豆芽",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "排骨",
+          "綠豆芽",
+          "河粉"
+        ],
+        "allergy": [],
+        "spicy_level": 1
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-5",
+      "ocr": {
+        "x": 13.327804955528546,
+        "y": 58.23234353712481,
+        "text": "돼지고기공심채덮밥",
+        "width": 28.048568516642035,
+        "height": 2.1861065765436676,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "밥",
+        "ko": "돼지고기공심채덮밥",
+        "en.ROMAN": "dwaejigogigongsimchaedeopbap",
+        "en": "Stir-fried Pork and Water Spinach with Rice",
+        "ja": "空心菜入り豚丼",
+        "zh_CN": "猪肉空心菜盖饭",
+        "zh_TW": "豬肉空心菜蓋飯",
+        "price": "9500",
+        "ingredients.ko": [
+          "돼지고기",
+          "공심채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Water Spinach",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "ヨウサイ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "空心菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "空心菜",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": 1
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-6",
+      "ocr": {
+        "x": 13.331061091955467,
+        "y": 66.76587301587229,
+        "text": "새우볶음밥",
+        "width": 15.412271579378725,
+        "height": 2.1837286472076602,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "새우볶음밥",
+        "en.ROMAN": "saeubokkeumbap",
+        "en": "Shrimp Fried Rice",
+        "ja": "海老チャーハン",
+        "zh_CN": "虾仁炒饭",
+        "zh_TW": "蝦仁炒飯",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "왕새우",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Jumbo Shrimp",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "大正海老",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大虾",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "明蝦",
+          "米"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-7",
+      "ocr": {
+        "x": 13.742523620042506,
+        "y": 74.3352393662692,
+        "text": "베트남식샌드위치",
+        "width": 23.844725804805908,
+        "height": 2.161215855043471,
+        "rotation": 0.5990550329250368
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "베트남샌드위치",
+        "en.ROMAN": "Vietnam sandwich",
+        "en": "Vietnamese sandwich",
+        "ja": "ベトナムサンドイッチ",
+        "zh_CN": "越南三明治",
+        "zh_TW": "越南三明治",
+        "price": "7000",
+        "ingredients.ko": [
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-8",
+      "ocr": {
+        "x": 14.084668930600193,
+        "y": 82.21728974048175,
+        "text": "탄산음료",
+        "width": 11.546634666102374,
+        "height": 2.1476272146250106,
+        "rotation": 1.189553835623883
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "탄산음료",
+        "en.ROMAN": "tansaneumnyo",
+        "en": "Soft Drinks",
+        "ja": "炭酸飲料",
+        "zh_CN": "碳酸饮料",
+        "zh_TW": "碳酸飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-9",
+      "ocr": {
+        "x": 47.80281330314997,
+        "y": 76.5293130174783,
+        "text": "돼지고기",
+        "width": 8.796881122493376,
+        "height": 1.6050333900974787,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "돼지고기",
+        "en.ROMAN": "dwaejigogi",
+        "en": "Pork",
+        "ja": "豚肉",
+        "zh_CN": "猪肉",
+        "zh_TW": "豬肉",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF01_M0001_48768_2-tf-10",
+      "ocr": {
+        "x": 47.902019652356344,
+        "y": 79.87205523916548,
+        "text": "햄&바베큐포크",
+        "width": 16.40537274172491,
+        "height": 1.6455005537874952,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "햄&바베큐포크",
+        "en.ROMAN": "ham & barbecue pork",
+        "en": "Ham and barbecue fork.",
+        "ja": "ハム&バーベキューフォーク",
+        "zh_CN": "火腿&烧烤叉",
+        "zh_TW": "火腿&燒烤叉",
+        "price": "7500",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

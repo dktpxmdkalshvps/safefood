@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "file_name": "KW_KF01_M0001_9006204_3.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:18 12:27:44",
+    "store_id": "9006204",
+    "store_region": "KW",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.17211703958691915,
+          22.580645161290324
+        ],
+        [
+          78.14113597246127,
+          22.580645161290324
+        ],
+        [
+          79.00172117039587,
+          97.54838709677419
+        ],
+        [
+          1.549053356282272,
+          97.93548387096774
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "우담둘",
+        "en.ROMAN": "udamdul",
+        "en": "Udam Two",
+        "ja": "牛談２",
+        "zh_CN": "韩牛外脊+韩牛胸肉",
+        "zh_TW": "牛談二",
+        "price": "58000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_9006204_3-tf_1",
+      "ocr": {
+        "x": 30.783708630868293,
+        "y": 27.375000000000025,
+        "text": "우담둘",
+        "width": 9.54962470246503,
+        "height": 2.4401275945984287,
+        "rotation": 0
+      }
+    }
+  ]
+}

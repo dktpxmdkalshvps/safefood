@@ -1,0 +1,813 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0002_743341_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:17 15:24:02",
+    "store_id": "743341",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.6176470588235297,
+          37.85900783289817
+        ],
+        [
+          94.41176470588235,
+          24.02088772845953
+        ],
+        [
+          95.58823529411765,
+          73.36814621409921
+        ],
+        [
+          1.0294117647058822,
+          72.84595300261097
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "우렁된장찌개",
+        "en.ROMAN": "ureongdoenjangjjigae",
+        "en": "Freshwater Snail Soybean Paste Jjigae",
+        "ja": "タニシ入りテンジャンチゲ",
+        "zh_CN": "田螺大酱汤",
+        "zh_TW": "田螺大醬鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "우렁이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Freshwater Snail"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "タニシ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "田螺"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "田螺"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_4",
+      "ocr": {
+        "x": 66.81731577655574,
+        "y": 43.52363002386266,
+        "text": "우렁된장찌개",
+        "width": 12.28295232558938,
+        "height": 3.900099797641402,
+        "rotation": 357.1157800740558
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_6",
+      "ocr": {
+        "x": 44.607035987412424,
+        "y": 45.96862439188847,
+        "text": "삼겹살",
+        "width": 5.067667112495309,
+        "height": 3.4765732964781617,
+        "rotation": 356.3155980373149
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "삼겹쌈밥",
+        "en.ROMAN": "samgyeopssambap",
+        "en": "Grilled Pork Belly, Leaf Wraps and Rice",
+        "ja": "サムギョプサルと野菜包みご飯",
+        "zh_CN": "五花肉蔬菜包饭",
+        "zh_TW": "五花肉菜包飯",
+        "price": "17000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "五花肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_11",
+      "ocr": {
+        "x": 22.47892265418514,
+        "y": 48.04493821436919,
+        "text": "삼겹쌈밥",
+        "width": 5.924999999999979,
+        "height": 3.201812794337849,
+        "rotation": 356.8963654771216
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "청국장",
+        "en.ROMAN": "cheonggukjang",
+        "en": "Rich Soybean Paste",
+        "ja": "チョングクチャン",
+        "zh_CN": "清麴酱锅",
+        "zh_TW": "清麴醬",
+        "price": "8000",
+        "ingredients.ko": [
+          "청국장"
+        ],
+        "ingredients.en": [
+          "Rich Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "チョングクチャン"
+        ],
+        "ingredients.zh_CN": [
+          "清麴酱"
+        ],
+        "ingredients.zh_TW": [
+          "清麴醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_12",
+      "ocr": {
+        "x": 66.85171945641541,
+        "y": 48.50332154338676,
+        "text": "청국장",
+        "width": 10.465746175168759,
+        "height": 3.9019875140823586,
+        "rotation": 357.90792730936283
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "우렁쌈밥",
+        "en.ROMAN": "ureongssambap",
+        "en": "Freshwater Snail, Leaf Wraps and Rice",
+        "ja": "タニシ入り野菜包みご飯",
+        "zh_CN": "田螺蔬菜包饭",
+        "zh_TW": "田螺菜包飯",
+        "price": "12000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "두부",
+          "돼지고기",
+          "쌀",
+          "우렁이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Bean Curd",
+          "Pork",
+          "Rice",
+          "Freshwater Snail"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豆腐",
+          "豚肉",
+          "米",
+          "タニシ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "豆腐",
+          "猪肉",
+          "大米",
+          "田螺"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豆腐",
+          "豬肉",
+          "米",
+          "田螺"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_16",
+      "ocr": {
+        "x": 6.490299616141592,
+        "y": 49.62572750065253,
+        "text": "우렁쌈밥",
+        "width": 5.33390002367754,
+        "height": 3.08438385984089,
+        "rotation": 357.1740714283478
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "차돌박이",
+        "en.ROMAN": "chadolbagi",
+        "en": "Beef Brisket",
+        "ja": "牛のともばら肉",
+        "zh_CN": "牛胸肉",
+        "zh_TW": "牛胸肉",
+        "price": "17000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_19",
+      "ocr": {
+        "x": 44.6696771172355,
+        "y": 51.96730343970537,
+        "text": "차돌박이",
+        "width": 6.8644327090745945,
+        "height": 3.474242771889597,
+        "rotation": 356.8134995760845
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "우렁회무침",
+        "en.ROMAN": "ureonghoemuchim",
+        "en": "Spicy Raw Freshwater Snail Salad",
+        "ja": "タニシの刺身の和え物",
+        "zh_CN": "凉拌田螺刺身",
+        "zh_TW": "生拌田螺",
+        "price": "15000",
+        "ingredients.ko": [
+          "우렁",
+          "회무침"
+        ],
+        "ingredients.en": [
+          "Freshwater Snail",
+          "Sliced Raw Fish Salad"
+        ],
+        "ingredients.ja": [
+          "タニシ",
+          "刺身の和え物"
+        ],
+        "ingredients.zh_CN": [
+          "田螺",
+          "凉拌生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "田螺",
+          "涼拌生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_24",
+      "ocr": {
+        "x": 67.02517435372474,
+        "y": 53.42011617544049,
+        "text": "우렁회무침",
+        "width": 10.121673532622212,
+        "height": 3.9360193488688675,
+        "rotation": 357.9508164323975
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "제육쌈밥",
+        "en.ROMAN": "jeyukssambap",
+        "en": "Spicy Stir-fried Pork, Leaf Wraps and Rice",
+        "ja": "豚肉炒め野菜包みご飯",
+        "zh_CN": "辣炒猪肉蔬菜包饭套餐",
+        "zh_TW": "辣炒豬肉菜包飯",
+        "price": "12000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "쌀",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Rice",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "米",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "大米",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "米",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_28",
+      "ocr": {
+        "x": 6.382211030454058,
+        "y": 54.869657558170594,
+        "text": "제육쌈밥",
+        "width": 5.381812708601475,
+        "height": 3.077112539282698,
+        "rotation": 357.747176803913
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "차돌박이쌈밥",
+        "en.ROMAN": "chadolbagissambap",
+        "en": "Grilled Beef Brisket, Leaf Wraps and Rice",
+        "ja": "牛のともばら肉の野菜包みご飯",
+        "zh_CN": "牛胸肉包饭",
+        "zh_TW": "牛胸肉菜包飯",
+        "price": "17000",
+        "ingredients.ko": [
+          "쇠고기",
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_32",
+      "ocr": {
+        "x": 22.40341143632408,
+        "y": 56.437801052801404,
+        "text": "차돌박이쌈밥",
+        "width": 9.034241296578283,
+        "height": 3.3724141351813217,
+        "rotation": 357.6339932391476
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "우렁쌈장",
+        "en.ROMAN": "ureongssamjang",
+        "en": "Mixed Paste with Freshwater Snail",
+        "ja": "タニシ入りサムジャン",
+        "zh_CN": "田螺包饭酱",
+        "zh_TW": "田螺包飯醬",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "우렁이",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Freshwater Snail",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "タニシ",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "田螺",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "田螺",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_34",
+      "ocr": {
+        "x": 50.58880947360439,
+        "y": 56.85496304989597,
+        "text": "우렁쌈장",
+        "width": 4.550241229708642,
+        "height": 2.307002558313332,
+        "rotation": 358.01321688706633
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉면",
+        "en.ROMAN": "naengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_39",
+      "ocr": {
+        "x": 67.16606058379394,
+        "y": 58.35976498251975,
+        "text": "냉면",
+        "width": 10.11868576619997,
+        "height": 3.8650799445596835,
+        "rotation": 358.7874979540362
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "제육",
+        "en.ROMAN": "jeyuk",
+        "en": "Spicy Stir-fried Pork",
+        "ja": "豚肉炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_41",
+      "ocr": {
+        "x": 50.57665682758606,
+        "y": 59.4071721139364,
+        "text": "제육",
+        "width": 2.2820362621548647,
+        "height": 2.324242591164124,
+        "rotation": 357.18820911019026
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_7",
+      "ocr": {
+        "x": 12.1840365931652,
+        "y": 61.08918492987621,
+        "text": "음료수",
+        "width": 2.8842059663015456,
+        "height": 2.1630568743329848,
+        "rotation": 358.49376961623943
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_44",
+      "ocr": {
+        "x": 6.739077003696586,
+        "y": 61.37323587577368,
+        "text": "소주",
+        "width": 2.2240982486231955,
+        "height": 1.9974720926953216,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_30",
+      "ocr": {
+        "x": 12.21195157185323,
+        "y": 63.489179967524954,
+        "text": "막걸리",
+        "width": 2.77400313887872,
+        "height": 2.1603188789490613,
+        "rotation": 357.27828243521543
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_743341_1-tf_46",
+      "ocr": {
+        "x": 6.679448540275207,
+        "y": 63.75110877664957,
+        "text": "맥주",
+        "width": 2.239782605741429,
+        "height": 2.0938743756066507,
+        "rotation": 0
+      }
+    }
+  ]
+}

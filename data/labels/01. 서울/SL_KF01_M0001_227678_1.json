@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_227678_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:16 12:32:49",
+    "store_id": "227678",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          8.43806104129264,
+          9.690444145356665
+        ],
+        [
+          95.33213644524237,
+          9.017496635262452
+        ],
+        [
+          93.17773788150808,
+          97.57738896366084
+        ],
+        [
+          11.490125673249551,
+          98.3849259757739
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "창고43세트",
+        "en.ROMAN": "changgosasipsam set",
+        "en": "Changgo43 Set",
+        "ja": "チャンコ43セット",
+        "zh_CN": "CHANGGO43套餐",
+        "zh_TW": "倉庫43套餐",
+        "price": "131000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_227678_1-tf-0",
+      "ocr": {
+        "x": 42.04212705633481,
+        "y": 33.97499999999995,
+        "text": "창고43세트",
+        "width": 20.0209945164404,
+        "height": 3.1433179402712037,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "와인세트",
+        "en.ROMAN": "wine set",
+        "en": "Wine Set",
+        "ja": "ワインセット",
+        "zh_CN": "红酒套餐",
+        "zh_TW": "葡萄酒套餐",
+        "price": "171000",
+        "ingredients.ko": [
+          "와인"
+        ],
+        "ingredients.en": [
+          "Wine"
+        ],
+        "ingredients.ja": [
+          "ワイン"
+        ],
+        "ingredients.zh_CN": [
+          "红酒"
+        ],
+        "ingredients.zh_TW": [
+          "葡萄酒"
+        ],
+        "allergy": [
+          "아황산함유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_227678_1-tf-1",
+      "ocr": {
+        "x": 44.76141803755657,
+        "y": 53.84999999999986,
+        "text": "와인세트",
+        "width": 15.029788239441935,
+        "height": 2.9749999999999943,
+        "rotation": 0
+      }
+    }
+  ]
+}

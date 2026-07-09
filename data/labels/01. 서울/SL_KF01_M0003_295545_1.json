@@ -1,0 +1,750 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0003_295545_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:09:02 11:08:33",
+    "store_id": "295545",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.132352941176471,
+          5.383360522022837
+        ],
+        [
+          85.9375,
+          5.383360522022837
+        ],
+        [
+          87.13235294117648,
+          97.06362153344209
+        ],
+        [
+          12.683823529411764,
+          99.836867862969
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "홍콩우육탕면",
+        "en.ROMAN": "Hong Kong uyuktangmyeon",
+        "en": "Hong Kong Beef Noodle Soup",
+        "ja": "香港風牛肉湯麺",
+        "zh_CN": "香港牛肉汤面",
+        "zh_TW": "香港牛肉湯麵",
+        "price": "9200",
+        "ingredients.ko": [
+          "소고기",
+          "면",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Noodles",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "麺",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "大豆",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "麵",
+          "高湯"
+        ],
+        "allergy": [
+          "쇠고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-0",
+      "ocr": {
+        "x": 24.79837643568597,
+        "y": 12.477797513321496,
+        "text": "홍콩우육탕면",
+        "width": 5.998376435685965,
+        "height": 2.08703374777975,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "양곱창전골",
+        "en.ROMAN": "yanggopchangjeongol",
+        "en": "Beef Tripe Hot Pot",
+        "ja": "牛ミノとコプチャンの寄せ鍋",
+        "zh_CN": "牛肚火锅",
+        "zh_TW": "牛肚火鍋",
+        "price": "29000",
+        "ingredients.ko": [
+          "야채",
+          "곱창"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Small Intestine"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "コプチャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "小肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "小腸"
+        ],
+        "allergy": [],
+        "spicy_level": 1
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-1",
+      "ocr": {
+        "x": 66.37499999999991,
+        "y": 17.501256694526674,
+        "text": "양곱창전골",
+        "width": 5.124999999999995,
+        "height": 2.3477663960594755,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "사천제육철판",
+        "en.ROMAN": "sacheonjeyukcheolpan",
+        "en": "Sichuan Griddled Pork",
+        "ja": "四川風豚肉鉄板",
+        "zh_CN": "四川铁板辣炒猪肉",
+        "zh_TW": "四川鐵板辣炒豬肉",
+        "price": "22000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-2",
+      "ocr": {
+        "x": 55.87824712862805,
+        "y": 18.039813566673242,
+        "text": "사천제육철판",
+        "width": 6.140258614115821,
+        "height": 2.291967038977703,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "새우물만두",
+        "en.ROMAN": "saeumulmandu",
+        "en": "Boiled Shrimp Dumplings",
+        "ja": "海老水餃子",
+        "zh_CN": "虾仁水饺",
+        "zh_TW": "蝦仁水餃",
+        "price": "10000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "蝦"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-3",
+      "ocr": {
+        "x": 66.525,
+        "y": 31.838365896980463,
+        "text": "새우물만두",
+        "width": 5.125,
+        "height": 2.4422735346358793,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "동파육과청경채",
+        "en.ROMAN": "dongpayukgwacheonggyeongchae",
+        "en": "Red Braised Pork Belly and Bok Choy",
+        "ja": "東坡肉と青梗菜",
+        "zh_CN": "东坡肉&油菜",
+        "zh_TW": "東坡肉和青江菜",
+        "price": "19000",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-4",
+      "ocr": {
+        "x": 56.02824712862807,
+        "y": 32.11334152491612,
+        "text": "동파육과청경채",
+        "width": 7.518505742743864,
+        "height": 2.3836255816229266,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "매운양곱창탕면",
+        "en.ROMAN": "maeunyanggopchangtangmyeon",
+        "en": "Spicy Beef Tripe Noodle Soup",
+        "ja": "辛味ヤンコプチャン湯麺",
+        "zh_CN": "辣味牛肚汤面",
+        "zh_TW": "辣牛肚湯麵",
+        "price": "13000",
+        "ingredients.ko": [
+          "양고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Lamb",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "ラム",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "羊肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "羊肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-5",
+      "ocr": {
+        "x": 25.049999999999997,
+        "y": 37.35882557290639,
+        "text": "매운양곱창탕면",
+        "width": 7.849999999999996,
+        "height": 2.206005688194883,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "군만두국물떡볶이",
+        "en.ROMAN": "gunmandugungmultteokbokki",
+        "en": "Pan-fried Mandu and Tteokbokki in Sauce",
+        "ja": "焼き餃子入りスープトッポッキ",
+        "zh_CN": "煎饺汤式辣炒年糕",
+        "zh_TW": "煎餃湯式辣炒年糕",
+        "price": "16000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "쌀",
+          "고추장"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Rice",
+          "Red Chili Paste"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "米",
+          "コチュジャン"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "大米",
+          "辣椒酱"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "米",
+          "辣椒醬"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-6",
+      "ocr": {
+        "x": 56.197532419546924,
+        "y": 51.307678985948215,
+        "text": "군만두국물떡볶이",
+        "width": 8.83499811060933,
+        "height": 2.4300102501412595,
+        "rotation": 359.27165394454767
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "청경채도가니탕면",
+        "en.ROMAN": "cheonggyeongchaedoganitangmyeon",
+        "en": "Bok Choy and Ox Knee Noodle Soup",
+        "ja": "青梗菜入り牛の膝軟骨湯麺",
+        "zh_CN": "油菜牛膝骨汤面",
+        "zh_TW": "青江菜牛膝骨湯麵",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "도가니",
+          "파",
+          "청경채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Knee Cartilage",
+          "Green Onions",
+          "Bok Choy",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "牛の膝軟骨",
+          "ネギ",
+          "青梗菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "牛膝骨",
+          "葱",
+          "油菜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "牛膝骨",
+          "蔥",
+          "青江菜",
+          "麵"
+        ],
+        "allergy": [
+          "쇠고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-7",
+      "ocr": {
+        "x": 25.31905786352508,
+        "y": 68.32289181443305,
+        "text": "청경채도가니탕면",
+        "width": 8.984901137646325,
+        "height": 2.5499661169879757,
+        "rotation": 358.62659679864134
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "찐만두",
+        "en.ROMAN": "jjinmandu",
+        "en": "Steamed Mandu",
+        "ja": "蒸し餃子",
+        "zh_CN": "蒸饺",
+        "zh_TW": "蒸餃",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-8",
+      "ocr": {
+        "x": 77.72023035344898,
+        "y": 68.87596807146447,
+        "text": "찐만두",
+        "width": 2.7874992799100045,
+        "height": 1.9094138543516879,
+        "rotation": 359.2175791922882
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "군만두",
+        "en.ROMAN": "gunmandu",
+        "en": "Pan-fried Mandu",
+        "ja": "焼き餃子",
+        "zh_CN": "煎饺",
+        "zh_TW": "煎餃",
+        "price": "7000",
+        "ingredients.ko": [
+          "밀가루",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "豬肉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-9",
+      "ocr": {
+        "x": 51.29760972085636,
+        "y": 69.88763933156295,
+        "text": "군만두",
+        "width": 2.7251958620145063,
+        "height": 1.932568783872048,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "카스",
+        "en.ROMAN": "cass",
+        "en": "Cass",
+        "ja": "カス(ビール)",
+        "zh_CN": "CASS",
+        "zh_TW": "CASS",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-10",
+      "ocr": {
+        "x": 77.14449276311623,
+        "y": 83.95486585039326,
+        "text": "카스",
+        "width": 2.2000000000000006,
+        "height": 2.0870337477797523,
+        "rotation": 359.1748471076066
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "칭따오",
+        "en.ROMAN": "Tsingtao",
+        "en": "Tsingtao",
+        "ja": "青島",
+        "zh_CN": "青岛啤酒",
+        "zh_TW": "青島啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-11",
+      "ocr": {
+        "x": 60.791516466508014,
+        "y": 84.59547305379958,
+        "text": "칭따오",
+        "width": 3.2467996494856433,
+        "height": 2.5397665799199802,
+        "rotation": 357.157501409475
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라,사이다",
+        "en.ROMAN": "cola, cider",
+        "en": "Cola, Cider",
+        "ja": "コーラ、サイダー",
+        "zh_CN": "可乐、汽水",
+        "zh_TW": "可樂、汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-12",
+      "ocr": {
+        "x": 47.1751743197214,
+        "y": 85.41308941641556,
+        "text": "콜라,사이다",
+        "width": 6.0429408800453706,
+        "height": 2.4629549043335945,
+        "rotation": 357.2751252846398
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "완탕면",
+        "en.ROMAN": "wantangmyeon",
+        "en": "Wanton Noodle Soup",
+        "ja": "ワンタン麺",
+        "zh_CN": "丸汤面",
+        "zh_TW": "餛飩湯麵",
+        "price": "11000",
+        "ingredients.ko": [
+          "밀가루",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "海鮮"
+        ],
+        "allergy": [
+          "밀",
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-13",
+      "ocr": {
+        "x": 25.412645446117974,
+        "y": 87.71368323430018,
+        "text": "홍콩완탕면",
+        "width": 5.378955798100326,
+        "height": 2.41104138636499,
+        "rotation": 358.00009560586045
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_295545_1-tf-14",
+      "ocr": {
+        "x": 77.16267203672854,
+        "y": 89.27629163804693,
+        "text": "소주",
+        "width": 2.323257229106867,
+        "height": 2.227506857315977,
+        "rotation": 359.1748471076062
+      }
+    }
+  ]
+}

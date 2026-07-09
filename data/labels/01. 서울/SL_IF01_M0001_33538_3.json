@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "file_name": "SL_IF01_M0001_33538_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:26 13:12:05",
+    "store_id": "33538",
+    "store_region": "SL",
+    "store_type": "IF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.1926782273603083,
+          5.057803468208093
+        ],
+        [
+          100,
+          8.815028901734104
+        ],
+        [
+          100,
+          91.76300578034682
+        ],
+        [
+          0.1926782273603083,
+          93.93063583815031
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "새우볶음밥",
+        "en.ROMAN": "saeubokkeumbap",
+        "en": "Shrimp Fried Rice",
+        "ja": "海老チャーハン",
+        "zh_CN": "虾仁炒饭",
+        "zh_TW": "蝦仁炒飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "왕새우",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Jumbo Shrimp",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "大正海老",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大虾",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "明蝦",
+          "米"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_33538_3-tf_4",
+      "ocr": {
+        "x": 13.46980662618067,
+        "y": 31.2798568594887,
+        "text": "새우볶음밥",
+        "width": 11.03212585065258,
+        "height": 1.8854466645296095,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소고기볶음밥",
+        "en.ROMAN": "sogogibokkeumbap",
+        "en": "Beef Fried Rice",
+        "ja": "牛肉チャーハン",
+        "zh_CN": "牛肉炒饭",
+        "zh_TW": "牛肉炒飯",
+        "price": "11000",
+        "ingredients.ko": [
+          "쌀",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "米",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_33538_3-tf_11",
+      "ocr": {
+        "x": 13.642712049424588,
+        "y": 41.9146825396824,
+        "text": "소고기볶음밥",
+        "width": 13.043795887083316,
+        "height": 1.8944409485443903,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "파인애플볶음밥",
+        "en.ROMAN": "pineapple bokkeumbap",
+        "en": "Pineapple Fried Rice",
+        "ja": "パインアップルチャーハン",
+        "zh_CN": "菠萝炒饭",
+        "zh_TW": "鳳梨炒飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "파인애플"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Pineapple"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "パインアップル"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "菠萝"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "鳳梨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_33538_3-tf_19",
+      "ocr": {
+        "x": 13.831409394436845,
+        "y": 50.886719024026334,
+        "text": "파인애플볶음밥",
+        "width": 15.817898134322327,
+        "height": 1.8999858193301946,
+        "rotation": 359.57509720500695
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "밥",
+        "ko": "검스언",
+        "en.ROMAN": "com suon",
+        "en": "Gom Suon (Vietnamese Stir-fried Beef with Instant Noodles)",
+        "ja": "コムスーンヌーン",
+        "zh_CN": "猪排盖饭",
+        "zh_TW": "越式豬排骨蓋飯",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0001_33538_3-tf_25",
+      "ocr": {
+        "x": 14.120197725412845,
+        "y": 59.78019330215143,
+        "text": "검스언",
+        "width": 6.372847209064018,
+        "height": 1.8101705831007335,
+        "rotation": 0
+      }
+    }
+  ]
+}

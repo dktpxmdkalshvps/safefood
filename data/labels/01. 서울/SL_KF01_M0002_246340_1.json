@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_246340_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:08 10:13:21",
+    "store_id": "246340",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          19.565217391304348,
+          26.225490196078425
+        ],
+        [
+          23.043478260869566,
+          79.41176470588233
+        ],
+        [
+          87.39130434782606,
+          79.41176470588233
+        ],
+        [
+          90,
+          25.98039215686275
+        ],
+        [
+          66.95652173913044,
+          26.225490196078432
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "나가사키짬뽕",
+        "en.ROMAN": "Nagasaki jjamppong",
+        "en": "Nagasaki Seafood Noodle Soup",
+        "ja": "長崎チャンポン",
+        "zh_CN": "长崎炒码面",
+        "zh_TW": "長崎炒碼麵",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "돼지고기",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Pork",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "豚肉",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "猪肉",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "豬肉",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_246340_1-tf-0",
+      "ocr": {
+        "x": 61.10520293060831,
+        "y": 48.30502583239433,
+        "text": "나가사키짬뽕",
+        "width": 18.016540408885394,
+        "height": 1.9678386911468306,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "장",
+        "ko": "간장새우장",
+        "en.ROMAN": "ganjangsaeujang",
+        "en": "Soy Sauce Marinated Shrimp",
+        "ja": "カンジャンセウ",
+        "zh_CN": "酱虾",
+        "zh_TW": "醬蝦",
+        "price": "9000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_246340_1-tf-1",
+      "ocr": {
+        "x": 65.54174067495558,
+        "y": 66.64070321468816,
+        "text": "간장새우장",
+        "width": 15.86487899674719,
+        "height": 1.934296785311869,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "한우육회",
+        "en.ROMAN": "hanuyukhoe",
+        "en": "Korean Beef Tartare",
+        "ja": "韓牛ユッケ",
+        "zh_CN": "生拌韩牛肉",
+        "zh_TW": "生拌韓牛肉",
+        "price": "22000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_246340_1-tf-2",
+      "ocr": {
+        "x": 34.63983880982684,
+        "y": 67.30213547645866,
+        "text": "한우육회",
+        "width": 12.239934281118792,
+        "height": 1.8071613088531995,
+        "rotation": 0
+      }
+    }
+  ]
+}

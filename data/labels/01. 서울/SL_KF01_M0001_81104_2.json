@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_81104_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "81104",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          11.004784688995215,
+          1.7953321364452424
+        ],
+        [
+          91.86602870813397,
+          3.2315978456014354
+        ],
+        [
+          88.75598086124401,
+          84.38061041292639
+        ],
+        [
+          16.267942583732058,
+          85.09874326750449
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "소갈비찜",
+        "en.ROMAN": "sogalbijjim",
+        "en": "Braised Beef Galbi",
+        "ja": "牛カルビの蒸し物",
+        "zh_CN": "炖牛排骨",
+        "zh_TW": "燉牛排骨",
+        "price": "52000",
+        "ingredients.ko": [
+          "야채",
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_81104_2-tf_0",
+      "ocr": {
+        "x": 32.57868139665093,
+        "y": 19.1009075337532,
+        "text": "소갈비찜",
+        "width": 38.54398439537191,
+        "height": 7.784013101167492,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뼈추가",
+        "en.ROMAN": "ppyeo chuga",
+        "en": "Extra Serving of Pork Backbone",
+        "ja": "豚の背骨追加",
+        "zh_CN": "另加腔骨",
+        "zh_TW": "加點豬骨",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_81104_2-tf_5",
+      "ocr": {
+        "x": 61.27964490281447,
+        "y": 60.96463605684409,
+        "text": "뼈추가",
+        "width": 7.97315660242763,
+        "height": 2.073509824537798,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "야채추가",
+        "en.ROMAN": "yachae chuga",
+        "en": "Extra Serving of Vegetables",
+        "ja": "野菜追加",
+        "zh_CN": "另加蔬菜",
+        "zh_TW": "加點蔬菜",
+        "price": "5000",
+        "ingredients.ko": [
+          "채소"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_81104_2-tf_7",
+      "ocr": {
+        "x": 61.41965868557723,
+        "y": 64.5682004223331,
+        "text": "야채추가",
+        "width": 10.6032494486898,
+        "height": 2.044130770877391,
+        "rotation": 358.3866513476174
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "당면사리",
+        "en.ROMAN": "dangmyeonsari",
+        "en": "Extra Glass Noodles",
+        "ja": "春雨追加",
+        "zh_CN": "另加粉条",
+        "zh_TW": "加點粉條",
+        "price": "2000",
+        "ingredients.ko": [
+          "당면"
+        ],
+        "ingredients.en": [
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "粉條"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_81104_2-tf_9",
+      "ocr": {
+        "x": 61.435811638464465,
+        "y": 68.05424299601862,
+        "text": "당면사리",
+        "width": 10.2040011624823,
+        "height": 2.0370090427254834,
+        "rotation": 358.3866513476169
+      }
+    }
+  ]
+}

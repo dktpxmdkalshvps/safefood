@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "file_name": "US_IF03_M0001_878877_5.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:10:21 17:50:12",
+    "store_id": "878877",
+    "store_region": "US",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          17.901234567901234,
+          3.4722222222222223
+        ],
+        [
+          15.432098765432098,
+          85.41666666666666
+        ],
+        [
+          76.5432098765432,
+          84.72222222222221
+        ],
+        [
+          80.8641975308642,
+          4.513888888888888
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "화로닭발",
+        "en.ROMAN": "hwarodakbal",
+        "en": "Grilled Chicken Feet",
+        "ja": "火鉢鶏足",
+        "zh_CN": "火炉烤鸡爪",
+        "zh_TW": "火爐雞爪",
+        "price": "14500",
+        "ingredients.ko": [
+          "고추",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_3",
+      "ocr": {
+        "x": 44.11052922044191,
+        "y": 13.025709170173462,
+        "text": "화로닭발",
+        "width": 9.250645370345358,
+        "height": 1.6303865859433346,
+        "rotation": 1.484477436915597
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "직화불닭",
+        "en.ROMAN": "jikhwabuldak",
+        "en": "Spicy Grilled Chicken",
+        "ja": "直火辛味鶏肉炒め",
+        "zh_CN": "直火劲辣烤鸡",
+        "zh_TW": "直火勁辣雞肉",
+        "price": "14000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_7",
+      "ocr": {
+        "x": 44.05995659172134,
+        "y": 17.75115920842396,
+        "text": "직화불닭",
+        "width": 9.028472891809312,
+        "height": 1.605576458858598,
+        "rotation": 1.4511549992880646
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "마늘똥집볶음",
+        "en.ROMAN": "maneulttongjipbokkeum",
+        "en": "Stir-fried Garlic and Chicken Gizzards",
+        "ja": "にんにく入り砂肝炒め",
+        "zh_CN": "炒蒜蓉鸡胗",
+        "zh_TW": "大蒜炒雞胗",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "마늘",
+          "닭모래집"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Garlic",
+          "Chicken Gizzard"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "にんにく",
+          "砂肝"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大蒜",
+          "鸡胗"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "大蒜",
+          "雞胗"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_11",
+      "ocr": {
+        "x": 43.95144085400973,
+        "y": 22.41383744918258,
+        "text": "마늘똥집볶음",
+        "width": 13.424464704616263,
+        "height": 1.6721333931965519,
+        "rotation": 1.553243947645683
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "매콤오돌뼈",
+        "en.ROMAN": "maekomodolppyeo",
+        "en": "Spicy Cartilage",
+        "ja": "辛味軟骨",
+        "zh_CN": "香辣脆骨",
+        "zh_TW": "辣味軟骨",
+        "price": "14000",
+        "ingredients.ko": [
+          "오돌뼈"
+        ],
+        "ingredients.en": [
+          "Pork Cartilage"
+        ],
+        "ingredients.ja": [
+          "軟骨"
+        ],
+        "ingredients.zh_CN": [
+          "脆骨"
+        ],
+        "ingredients.zh_TW": [
+          "軟骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_15",
+      "ocr": {
+        "x": 43.83563865337415,
+        "y": 27.20760998306426,
+        "text": "매콤오돌뼈",
+        "width": 11.351970319289151,
+        "height": 1.5756029188375857,
+        "rotation": 1.4709665317002987
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "타코와사비",
+        "en.ROMAN": "taco wasabi",
+        "en": "Raw Octopus with Wasabi",
+        "ja": "タコわさび",
+        "zh_CN": "芥末拌章鱼",
+        "zh_TW": "芥末拌大章魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "문어"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "タコ"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_19",
+      "ocr": {
+        "x": 44.0182232546917,
+        "y": 32.89594588766513,
+        "text": "타코와사비",
+        "width": 11.327020699054577,
+        "height": 1.592455459521128,
+        "rotation": 358.4204919645092
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "먹태",
+        "en.ROMAN": "meoktae",
+        "en": "Grilled Dried Pollack",
+        "ja": "干しスケトウダラ焼き",
+        "zh_CN": "黑干明太鱼",
+        "zh_TW": "乾黑斑明太魚乾",
+        "price": "14000",
+        "ingredients.ko": [
+          "황태"
+        ],
+        "ingredients.en": [
+          "Dried Pollack"
+        ],
+        "ingredients.ja": [
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "干明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚乾"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_28",
+      "ocr": {
+        "x": 43.38365896980463,
+        "y": 41.81474805625181,
+        "text": "먹태",
+        "width": 4.795737122557756,
+        "height": 1.5557558312445412,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반건조노가리",
+        "en.ROMAN": "bangeonjonogari",
+        "en": "Semi-dried Young Pollack",
+        "ja": "半干し姫タラ",
+        "zh_CN": "半干小明太鱼干",
+        "zh_TW": "半乾明太魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "명태"
+        ],
+        "ingredients.en": [
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "明太子"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_32",
+      "ocr": {
+        "x": 43.332119552884855,
+        "y": 46.10556994074843,
+        "text": "반건조노가리",
+        "width": 13.349307377439887,
+        "height": 1.5540326894314187,
+        "rotation": 0.7634060616119314
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "땅콩버터오징어",
+        "en.ROMAN": "ttangkong butter ojingeo",
+        "en": "Peanut Butter-grilled Squid",
+        "ja": "イカのピーナッツバター焼き",
+        "zh_CN": "花生酱烤鱿鱼",
+        "zh_TW": "花生醬烤魷魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "오징어",
+          "땅콩",
+          "버터"
+        ],
+        "ingredients.en": [
+          "Squid",
+          "Peanut",
+          "Butter"
+        ],
+        "ingredients.ja": [
+          "イカ",
+          "落花生",
+          "バター"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼",
+          "花生",
+          "黄油"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚",
+          "花生",
+          "奶油"
+        ],
+        "allergy": [
+          "오징어",
+          "땅콩",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_37",
+      "ocr": {
+        "x": 43.17529957922673,
+        "y": 50.593271009447854,
+        "text": "땅콩버터오징어",
+        "width": 14.57377327313052,
+        "height": 1.5834477821664086,
+        "rotation": 0.7490695161640701
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "해물누룽지탕",
+        "en.ROMAN": "haemullurungjitang",
+        "en": "Scorched Rice Soup with Seafood",
+        "ja": "海鮮おこげのあんかけ",
+        "zh_CN": "海鲜锅巴汤",
+        "zh_TW": "海鮮鍋粑湯",
+        "price": "21000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "누룽지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Scorched Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "おこげ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "锅巴"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "鍋粑"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_45",
+      "ocr": {
+        "x": 42.727974826378244,
+        "y": 64.35,
+        "text": "해물누룽지탕",
+        "width": 12.699822380106609,
+        "height": 1.5999999999999976,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "스키야키",
+        "en.ROMAN": "sukiyaki",
+        "en": "Beef Hot Pot",
+        "ja": "すき焼き",
+        "zh_CN": "寿喜烧",
+        "zh_TW": "壽喜燒",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "高湯"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_49",
+      "ocr": {
+        "x": 42.5478391625211,
+        "y": 68.625,
+        "text": "스키야키",
+        "width": 8.384665277976255,
+        "height": 1.510251943748151,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "탕",
+        "ko": "얼큰짬뽕탕",
+        "en.ROMAN": "eolkeunjjamppongtang",
+        "en": "Spicy jjamppong soup",
+        "ja": "辛味チャンポン",
+        "zh_CN": "辣爽炒码汤",
+        "zh_TW": "香辣炒碼湯",
+        "price": "19000",
+        "ingredients.ko": [
+          "야채",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_54",
+      "ocr": {
+        "x": 42.58245061820592,
+        "y": 73.21796408810431,
+        "text": "얼큰짬뽕탕",
+        "width": 10.99504839550501,
+        "height": 1.5662264458093718,
+        "rotation": 359.20087829048634
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "나가사키짬뽕",
+        "en.ROMAN": "Nagasaki jjamppong",
+        "en": "Nagasaki Seafood Noodle Soup",
+        "ja": "長崎チャンポン",
+        "zh_CN": "长崎炒码面",
+        "zh_TW": "長崎炒碼麵",
+        "price": "18500",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "돼지고기",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Pork",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "豚肉",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "猪肉",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "豬肉",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_IF03_M0001_878877_5-tf_59",
+      "ocr": {
+        "x": 42.31005720898427,
+        "y": 77.67120502320591,
+        "text": "나가사키짬뽕",
+        "width": 12.751754360082202,
+        "height": 1.5305040049954897,
+        "rotation": 359.18380381419456
+      }
+    }
+  ]
+}

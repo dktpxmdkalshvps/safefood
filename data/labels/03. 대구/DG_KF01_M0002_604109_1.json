@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "file_name": "DG_KF01_M0002_604109_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:29 14:16:42",
+    "store_id": "604109",
+    "store_region": "DG",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          83.65112559970477,
+          36.548223350253814
+        ],
+        [
+          3.9365235576331656,
+          37.19427780341486
+        ],
+        [
+          4.4285890023373105,
+          64.69773880941393
+        ],
+        [
+          83.7741419608808,
+          64.32856483617904
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_11",
+      "ocr": {
+        "x": 63.101101066500945,
+        "y": 41.338024107972586,
+        "text": "맥주",
+        "width": 8.964223604311773,
+        "height": 2.6437682791310286,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "갈비탕포장",
+        "en.ROMAN": "galbitangpojang",
+        "en": "Galbi Soup Take-out",
+        "ja": "カルビタンお持ち帰り",
+        "zh_CN": "牛排骨汤打包",
+        "zh_TW": "外帶牛排骨湯",
+        "price": "24000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_10",
+      "ocr": {
+        "x": 33.483832877332695,
+        "y": 41.625910907578955,
+        "text": "갈비탕포장",
+        "width": 14.943209276633901,
+        "height": 2.5886298491445534,
+        "rotation": 359.0170024403669
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "왕갈비탕",
+        "en.ROMAN": "wanggalbitang",
+        "en": "Jumbo Galbi Soup",
+        "ja": "特大カルビタン",
+        "zh_CN": "大排骨汤",
+        "zh_TW": "大牛排骨湯",
+        "price": "12000",
+        "ingredients.ko": [
+          "야채",
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_12",
+      "ocr": {
+        "x": 7.29360933586494,
+        "y": 41.7929347268319,
+        "text": "왕갈비탕",
+        "width": 11.825112330391713,
+        "height": 2.5748448320503865,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "1인포장",
+        "en.ROMAN": "1inpojang",
+        "en": "Take-out (1 Serving)",
+        "ja": "1人前のテイクアウト",
+        "zh_CN": "打包（1人）",
+        "zh_TW": "1人外帶",
+        "price": "15000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_14",
+      "ocr": {
+        "x": 37.39120506594962,
+        "y": 44.21916105795667,
+        "text": "1인포장",
+        "width": 9.9614626598687,
+        "height": 2.4206299762948107,
+        "rotation": 358.9953522648757
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_16",
+      "ocr": {
+        "x": 63.05469545235113,
+        "y": 44.37768506706308,
+        "text": "소주",
+        "width": 8.962847271220893,
+        "height": 2.522116520238215,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "갈비찜",
+        "en.ROMAN": "galbijjim",
+        "en": "Braised Galbi",
+        "ja": "カルビの蒸し物",
+        "zh_CN": "炖排骨",
+        "zh_TW": "燉排骨",
+        "price": "55000",
+        "ingredients.ko": [
+          "야채",
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_17",
+      "ocr": {
+        "x": 10.026230148530782,
+        "y": 44.644363891962016,
+        "text": "갈비찜",
+        "width": 8.723769851469237,
+        "height": 2.733679425582837,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "설렁탕포장",
+        "en.ROMAN": "seolleongtangpojang",
+        "en": "Ox Bone Soup (Take-out)",
+        "ja": "ソルロンタンのテイクアウト",
+        "zh_CN": "雪浓汤（打包）",
+        "zh_TW": "外帶雪濃湯",
+        "price": "18000",
+        "ingredients.ko": [
+          "소고기",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "澱粉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_19",
+      "ocr": {
+        "x": 33.50677528979413,
+        "y": 46.69214270129398,
+        "text": "설렁탕포장",
+        "width": 14.48360582587787,
+        "height": 2.6271033683031733,
+        "rotation": 359.30724367861336
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_20",
+      "ocr": {
+        "x": 63.161375661375786,
+        "y": 47.32342888385636,
+        "text": "막걸리",
+        "width": 8.463303988256113,
+        "height": 2.6534139760824105,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_24",
+      "ocr": {
+        "x": 63.16137566137643,
+        "y": 50.33828825564574,
+        "text": "음료수",
+        "width": 8.729882266844294,
+        "height": 2.5747876028316417,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "설렁탕",
+        "en.ROMAN": "seolleongtang",
+        "en": "Ox Bone Soup",
+        "ja": "ソルロンタン",
+        "zh_CN": "雪浓汤",
+        "zh_TW": "雪濃湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "사골"
+        ],
+        "ingredients.en": [
+          "Ox Bone"
+        ],
+        "ingredients.ja": [
+          "牛骨"
+        ],
+        "ingredients.zh_CN": [
+          "牛骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_26",
+      "ocr": {
+        "x": 10.141480579293491,
+        "y": 53.52182539682551,
+        "text": "설렁탕",
+        "width": 8.537009647425409,
+        "height": 2.6313773236524742,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "갈비만두",
+        "en.ROMAN": "galbimandu",
+        "en": "Galbi Mandu",
+        "ja": "カルビ餃子",
+        "zh_CN": "排骨饺子",
+        "zh_TW": "排骨餃子",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_28",
+      "ocr": {
+        "x": 10.177816123234068,
+        "y": 56.473214285715095,
+        "text": "갈비만두",
+        "width": 11.998217309196564,
+        "height": 2.7025748417379996,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0002_604109_1-tf_29",
+      "ocr": {
+        "x": 10.202354529751666,
+        "y": 59.4934061702838,
+        "text": "공기밥",
+        "width": 8.957212136168412,
+        "height": 2.559367084152659,
+        "rotation": 0
+      }
+    }
+  ]
+}

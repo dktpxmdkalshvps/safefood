@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "file_name": "SL_KF06_M0001_227897_5.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:03 22:03:16",
+    "store_id": "227897",
+    "store_region": "SL",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.777443308806656,
+          9.050776449487019
+        ],
+        [
+          97.98765561548925,
+          10.772965061028463
+        ],
+        [
+          95.78807975361873,
+          83.10488674576928
+        ],
+        [
+          1.5205428163091956,
+          83.27710560692341
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "화로닭발",
+        "en.ROMAN": "hwarodakbal",
+        "en": "Grilled Chicken Feet",
+        "ja": "火鉢鶏足",
+        "zh_CN": "火炉烤鸡爪",
+        "zh_TW": "火爐雞爪",
+        "price": "17000",
+        "ingredients.ko": [
+          "고추",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": 2
+      },
+      "sn": "SL_KF06_M0001_227897_5-tf_1",
+      "ocr": {
+        "x": 46.846601552948286,
+        "y": 17.529696013124,
+        "text": "화로닭발",
+        "width": 11.532810498755586,
+        "height": 1.8256441438100994,
+        "rotation": 1.274400261391861
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "골뱅이무침",
+        "en.ROMAN": "golbaengimuchim",
+        "en": "Sea Snail Salad",
+        "ja": "つぶ貝の和え物",
+        "zh_CN": "凉拌海螺",
+        "zh_TW": "涼拌海螺",
+        "price": "19000",
+        "ingredients.ko": [
+          "야채",
+          "골뱅이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Sea Snail"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "つぶ貝"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海螺"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海螺"
+        ],
+        "allergy": [],
+        "spicy_level": 1
+      },
+      "sn": "SL_KF06_M0001_227897_5-tf_4",
+      "ocr": {
+        "x": 45.96574089410158,
+        "y": 36.80110406972896,
+        "text": "골뱅이무침",
+        "width": 14.065073463448263,
+        "height": 1.849447965135534,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "오뎅탕",
+        "en.ROMAN": "odengtang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "18000",
+        "ingredients.ko": [
+          "생선살",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish Fillet",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚の身",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_227897_5-tf_9",
+      "ocr": {
+        "x": 8.097476786522899,
+        "y": 60.57518726393425,
+        "text": "오뎅탕",
+        "width": 6.956380371837736,
+        "height": 1.5843995798418582,
+        "rotation": 355.5808755887535
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "모듬소시지",
+        "en.ROMAN": "modeum sausage",
+        "en": "Assorted Sausages",
+        "ja": "ソーセージの盛り合わせ",
+        "zh_CN": "香肠拼盘",
+        "zh_TW": "香腸拼盤",
+        "price": "15000",
+        "ingredients.ko": [
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_227897_5-tf_12",
+      "ocr": {
+        "x": 73.39607606096152,
+        "y": 62.74536418808797,
+        "text": "모듬소시지",
+        "width": 11.585904975414786,
+        "height": 1.5772438214452342,
+        "rotation": 1.3844151783611096
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "먹태구이",
+        "en.ROMAN": "meoktaegui",
+        "en": "Grilled Dried Pollack",
+        "ja": "小さい干しスケトウダラ",
+        "zh_CN": "烤黑干明太鱼",
+        "zh_TW": "烤乾黑斑明太魚",
+        "price": "15000",
+        "ingredients.ko": [
+          "명태"
+        ],
+        "ingredients.en": [
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "明太子"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_227897_5-tf_16",
+      "ocr": {
+        "x": 9.107694458868682,
+        "y": 70.28403076394014,
+        "text": "먹태구이",
+        "width": 8.934109342750569,
+        "height": 1.6750422516403947,
+        "rotation": 353.08103394825906
+      }
+    }
+  ]
+}

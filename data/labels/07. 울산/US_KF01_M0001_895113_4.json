@@ -1,0 +1,688 @@
+{
+  "meta": {
+    "file_name": "US_KF01_M0001_895113_4.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:10:20 21:26:08",
+    "store_id": "895113",
+    "store_region": "US",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0.4749691270067446,
+        "y": 7.355104442483083,
+        "width": 99.50603210791299,
+        "height": 69.80662761774855,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4500",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_1",
+      "ocr": {
+        "x": 21.929511702990848,
+        "y": 23.2544831796851,
+        "text": "소주",
+        "width": 6.371013499351784,
+        "height": 2.0369302765668156,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4500",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_3",
+      "ocr": {
+        "x": 22.062726623061877,
+        "y": 25.204483179685106,
+        "text": "맥주",
+        "width": 6.392849260236975,
+        "height": 2.0537235484408574,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "생맥주",
+        "en.ROMAN": "saengmaekju",
+        "en": "Draft Beer",
+        "ja": "生ビール",
+        "zh_CN": "扎啤",
+        "zh_TW": "生啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_5",
+      "ocr": {
+        "x": 22.195941543132946,
+        "y": 27.329483179685106,
+        "text": "생맥주",
+        "width": 9.086262009504804,
+        "height": 1.9369302765668146,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "꿀맥주",
+        "en.ROMAN": "kkulmaekju",
+        "en": "Honey Beer",
+        "ja": "ハニービール",
+        "zh_CN": "蜂蜜啤酒",
+        "zh_TW": "蜂蜜啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_7",
+      "ocr": {
+        "x": 22.380840023522726,
+        "y": 29.274999999999984,
+        "text": "꿀맥주",
+        "width": 9.145957608371951,
+        "height": 2.0499999999999963,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리(국순당)",
+        "en.ROMAN": "Makgeolli(kooksoondang)",
+        "en": "Unrefined Rice WIne",
+        "ja": "マッコリ(麹醇堂)",
+        "zh_CN": "马格利酒（麹醇堂）",
+        "zh_TW": "馬格利酒（麴醇堂）",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_9",
+      "ocr": {
+        "x": 22.59558630334607,
+        "y": 31.304483179685093,
+        "text": "막걸리(국순당)",
+        "width": 19.59258192813238,
+        "height": 2.0078269125038504,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "심술",
+        "en.ROMAN": "simsool",
+        "en": "grumpy",
+        "ja": "シムスル",
+        "zh_CN": "心酒",
+        "zh_TW": "心酒",
+        "price": "5500",
+        "ingredients.ko": [
+          "과일"
+        ],
+        "ingredients.en": [
+          "Fruit"
+        ],
+        "ingredients.ja": [
+          "果物"
+        ],
+        "ingredients.zh_CN": [
+          "水果"
+        ],
+        "ingredients.zh_TW": [
+          "水果"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_12",
+      "ocr": {
+        "x": 22.59558630334608,
+        "y": 33.32948317968512,
+        "text": "심술",
+        "width": 6.126419420094852,
+        "height": 1.8869302765668021,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "빙탄복",
+        "en.ROMAN": "bingtanbok",
+        "en": "an ice-covered suit",
+        "ja": "ピンタンボク",
+        "zh_CN": "冰吞福酒",
+        "zh_TW": "冰炭服",
+        "price": "7500",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_13",
+      "ocr": {
+        "x": 22.684396250060114,
+        "y": 35.179483179685114,
+        "text": "빙탄복",
+        "width": 9.116109808938383,
+        "height": 2.016413456251913,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "한라봉하이볼",
+        "en.ROMAN": "hallabong highball",
+        "en": "Lime Sherbet Ice Cream",
+        "ja": "シラヌヒハイボール",
+        "zh_CN": "汉拿峰威士忌调配酒",
+        "zh_TW": "漢拏橘調和威士忌",
+        "price": "7000",
+        "ingredients.ko": [
+          "한라봉",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Hallabong",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "ハンラボン(デコポン)",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "丑橘",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "漢拏橘",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_15",
+      "ocr": {
+        "x": 23.039636036916228,
+        "y": 37.07948317968515,
+        "text": "한라봉하이볼",
+        "width": 18.759267614372575,
+        "height": 2.024620184377838,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "얼그레이하이볼",
+        "en.ROMAN": "earl grey highball",
+        "en": "Earl Grey Highball",
+        "ja": "アールグレイハイボール",
+        "zh_CN": "伯爵红茶高杯酒",
+        "zh_TW": "格雷伯爵高球雞尾酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "얼그레이",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Earl Grey",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アールグレイ",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "伯爵红茶",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "格雷伯爵茶",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_17",
+      "ocr": {
+        "x": 23.03963603691615,
+        "y": 39.20448317968515,
+        "text": "얼그레이하이볼",
+        "width": 21.732766139404315,
+        "height": 1.9660336406297414,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "쏘토닉(소주+레몬+토닉2)",
+        "en.ROMAN": "sotonic (Soju+ lemon + tonic 2)",
+        "en": "Sotonic (soju + lemon + tonic 2)",
+        "ja": "ソトニック(焼酎+レモン+トニック2)",
+        "zh_CN": "调色剂（烧酒+柠檬+汤力2）",
+        "zh_TW": "調色劑（燒酒+檸檬+湯力2）",
+        "price": "12000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_20",
+      "ocr": {
+        "x": 23.17285095698728,
+        "y": 40.941793271874054,
+        "text": "쏘토닉(소주+레몬+토닉2)",
+        "width": 30.993204500023808,
+        "height": 1.9082067281259458,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2500",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_22",
+      "ocr": {
+        "x": 23.61690069055744,
+        "y": 43.20448317968515,
+        "text": "콜라",
+        "width": 6.325875074408098,
+        "height": 2.032826912503811,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2500",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_24",
+      "ocr": {
+        "x": 23.83892555734251,
+        "y": 45.129483179685096,
+        "text": "사이다",
+        "width": 9.027299862224355,
+        "height": 1.9205168203148988,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "토닉",
+        "en.ROMAN": "tonic",
+        "en": "Tonic Water",
+        "ja": "飲み物(トニック等)",
+        "zh_CN": "汤力",
+        "zh_TW": "通寧水",
+        "price": "2500",
+        "ingredients.ko": [
+          "토닉워터"
+        ],
+        "ingredients.en": [
+          "Tonic Water"
+        ],
+        "ingredients.ja": [
+          "トニックウォーター"
+        ],
+        "ingredients.zh_CN": [
+          "奎宁水"
+        ],
+        "ingredients.zh_TW": [
+          "通寧水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_26",
+      "ocr": {
+        "x": 24.1497603708416,
+        "y": 47.004483179685074,
+        "text": "토닉",
+        "width": 5.579002565887262,
+        "height": 1.9906538250076868,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "미숫가루소주",
+        "en.ROMAN": "misutgarusoju",
+        "en": "Soju with Roasted Grain Power",
+        "ja": "麦こがし焼酎",
+        "zh_CN": "油茶面烧酒",
+        "zh_TW": "麵茶燒酒",
+        "price": "10000",
+        "ingredients.ko": [
+          "곡물",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Grain",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "穀物",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "谷物",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "穀物",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_28",
+      "ocr": {
+        "x": 24.14976037084164,
+        "y": 49.20448317968509,
+        "text": "미숫가루소주",
+        "width": 18.573635682396105,
+        "height": 1.9369302765668144,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "딸기막걸리",
+        "en.ROMAN": "ttalgimakgeolli",
+        "en": "Unrefined Strawberry Rice Wine",
+        "ja": "いちごマッコリ",
+        "zh_CN": "草莓马格利酒",
+        "zh_TW": "草莓\t馬格利酒",
+        "price": "15000",
+        "ingredients.ko": [
+          "쌀",
+          "딸기"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Strawberry"
+        ],
+        "ingredients.ja": [
+          "米",
+          "いちご"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "草莓"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "草莓"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_30",
+      "ocr": {
+        "x": 24.379063824588503,
+        "y": 51.06268990781126,
+        "text": "딸기막걸리",
+        "width": 15.495701011710102,
+        "height": 1.812310092188739,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "밤막걸리",
+        "en.ROMAN": "bammakgeolli",
+        "en": "Unrefined Chestnut Rice Wine",
+        "ja": "栗マッコリ",
+        "zh_CN": "板栗马格利酒",
+        "zh_TW": "栗子馬格利酒",
+        "price": "14000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩",
+          "밤"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast",
+          "Chestnut"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀",
+          "栗"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母",
+          "板栗"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母",
+          "栗"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF01_M0001_895113_4-tf_33",
+      "ocr": {
+        "x": 24.60108869137356,
+        "y": 52.91268990781115,
+        "text": "밤막걸리",
+        "width": 12.60209915654238,
+        "height": 1.8992403687556751,
+        "rotation": 0
+      }
+    }
+  ]
+}

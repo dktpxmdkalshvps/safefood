@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_322229_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:08 14:07:22",
+    "store_id": "322229",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.4784688995215311,
+          6.4602960969044405
+        ],
+        [
+          96.17224880382776,
+          6.4602960969044405
+        ],
+        [
+          94.97607655502392,
+          83.04172274562586
+        ],
+        [
+          0.4784688995215311,
+          83.17631224764467
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "일식코스",
+        "en.ROMAN": "ilsik course",
+        "en": "Course Menu",
+        "ja": "和食コース",
+        "zh_CN": "套餐",
+        "zh_TW": "套餐",
+        "price": "75000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_322229_1-tf-0",
+      "ocr": {
+        "x": 64.7944582102607,
+        "y": 11.699854016870706,
+        "text": "코스",
+        "width": 6.8447838100323555,
+        "height": 1.909764802720617,
+        "rotation": 358.2086064803059
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "카이센동",
+        "en.ROMAN": "kaisen dong",
+        "en": "Raw Seafood with Rice",
+        "ja": "海鮮丼",
+        "zh_CN": "海鲜盖饭",
+        "zh_TW": "海鮮丼",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "해산물",
+          "쌀",
+          "계란",
+          "연어",
+          "도미",
+          "광어",
+          "참치뱃살",
+          "연어알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Seafood",
+          "Rice",
+          "Eggs",
+          "Salmon",
+          "Sea Bream",
+          "Flatfish",
+          "Tuna Belly",
+          "Salmon Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "海鮮",
+          "米",
+          "卵",
+          "鮭",
+          "鯛",
+          "ヒラメ",
+          "マグロトロ",
+          "イクラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "海鲜",
+          "大米",
+          "鸡蛋",
+          "三文鱼",
+          "鲷鱼",
+          "左口鱼",
+          "金枪鱼腹肉",
+          "三文鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "海鮮",
+          "米",
+          "雞蛋",
+          "鮭魚",
+          "鯛魚",
+          "牙鮃",
+          "鮪魚肚肉",
+          "鮭魚卵"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_322229_1-tf-1",
+      "ocr": {
+        "x": 11.914196907168298,
+        "y": 24.150891834318383,
+        "text": "카이센동",
+        "width": 11.727494081091763,
+        "height": 2.180610456658193,
+        "rotation": 359.4154209888452
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "스키야끼",
+        "en.ROMAN": "sukiyaki",
+        "en": "Sukiyaki (Sukiyaki)",
+        "ja": "すき焼き",
+        "zh_CN": "寿喜锅",
+        "zh_TW": "壽喜燒",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "高湯"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_322229_1-tf-2",
+      "ocr": {
+        "x": 11.658441890997866,
+        "y": 35.42394651972724,
+        "text": "스키야끼",
+        "width": 11.481837216070282,
+        "height": 2.189080220409187,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "챠슈동",
+        "en.ROMAN": "char siu dong",
+        "en": "Char Siu with Rice",
+        "ja": "チャーシュー丼",
+        "zh_CN": "叉烧盖饭",
+        "zh_TW": "叉燒丼",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지고기",
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_322229_1-tf-3",
+      "ocr": {
+        "x": 13.152347020947936,
+        "y": 48.41795988979543,
+        "text": "챠슈동",
+        "width": 9.486800334212944,
+        "height": 2.145066850340976,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "규동",
+        "en.ROMAN": "gyudong",
+        "en": "Grilled Beef with Rice",
+        "ja": "牛丼",
+        "zh_CN": "日式牛肉盖饭",
+        "zh_TW": "牛肉丼飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_322229_1-tf-4",
+      "ocr": {
+        "x": 15.27849775402188,
+        "y": 60.57394651972733,
+        "text": "규동",
+        "width": 6.4598730890186,
+        "height": 2.101053480272712,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "타츠타아게동",
+        "en.ROMAN": "tacheutaagedong",
+        "en": "Marinated Deep-fried Chicken Drumsticks with Rice",
+        "ja": "龍田揚げ丼",
+        "zh_CN": "日式调味炸鸡腿肉盖饭",
+        "zh_TW": "炸雞丼",
+        "price": "13000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "米"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_322229_1-tf-5",
+      "ocr": {
+        "x": 11.831454736612871,
+        "y": 72.83297105831848,
+        "text": "타츠타아게동",
+        "width": 17.07230572024111,
+        "height": 2.0115598596890347,
+        "rotation": 359.4449199359921
+      }
+    }
+  ]
+}

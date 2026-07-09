@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "file_name": "KS_KF05_M0002_1725104_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:03 17:30:44",
+    "store_id": "1725104",
+    "store_region": "KS",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.849726775956283,
+          13.934426229508192
+        ],
+        [
+          0.34153005464480873,
+          97.17668488160291
+        ],
+        [
+          93.5792349726776,
+          98.26958105646631
+        ],
+        [
+          89.54918032786885,
+          13.934426229508194
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "자연산통마리",
+        "en.ROMAN": "jayeonsantongmari",
+        "en": "Whole Wild Fish",
+        "ja": "一尾の丸ごと天然魚",
+        "zh_CN": "野生鲷鱼",
+        "zh_TW": "野生鯛魚",
+        "price": "0",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_0",
+      "ocr": {
+        "x": 10.416666666666666,
+        "y": 32.83594121132616,
+        "text": "자연산통마리",
+        "width": 16.008892989600202,
+        "height": 4.756018224094522,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "회정식",
+        "en.ROMAN": "hoejeongsik",
+        "en": "Sliced Raw Fish Set Menu",
+        "ja": "刺身定食",
+        "zh_CN": "生鱼片套餐",
+        "zh_TW": "生魚片套餐",
+        "price": "15000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_5",
+      "ocr": {
+        "x": 61.25992063492063,
+        "y": 37.73148148148148,
+        "text": "회정식",
+        "width": 7.98611111111111,
+        "height": 4.828042328042328,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "자연산",
+        "en.ROMAN": "jayeonsan",
+        "en": "Wild-caught",
+        "ja": "天然刺身",
+        "zh_CN": "野生",
+        "zh_TW": "野生",
+        "price": "120000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_6",
+      "ocr": {
+        "x": 10.143849206349207,
+        "y": 37.863756613756614,
+        "text": "자연산",
+        "width": 8.209325396825397,
+        "height": 4.927248677248677,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "물회",
+        "en.ROMAN": "mulhoe",
+        "en": "Cold Raw Fish Soup",
+        "ja": "刺身入り冷やしスープ",
+        "zh_CN": "水拌生鱼片",
+        "zh_TW": "水拌生魚片",
+        "price": "12000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_9",
+      "ocr": {
+        "x": 61.245936001994636,
+        "y": 43.05555555555557,
+        "text": "물회",
+        "width": 7.925690982132409,
+        "height": 4.695767195767197,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "회덮밥",
+        "en.ROMAN": "hoedeopbap",
+        "en": "Raw Fish Bibimbap",
+        "ja": "刺身丼",
+        "zh_CN": "生鱼片盖饭",
+        "zh_TW": "生魚片蓋飯",
+        "price": "12000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_13",
+      "ocr": {
+        "x": 61.334325396825406,
+        "y": 48.346560846560855,
+        "text": "회덮밥",
+        "width": 8.307784813152594,
+        "height": 4.828042328042329,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "모듬회",
+        "en.ROMAN": "modeumhoe",
+        "en": "Assorted Sliced Raw Fish",
+        "ja": "刺身の盛り合わせ",
+        "zh_CN": "生鱼片拼盘",
+        "zh_TW": "綜合生魚片",
+        "price": "110000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_18",
+      "ocr": {
+        "x": 8.660050297209086,
+        "y": 56.48148148148147,
+        "text": "모듬회",
+        "width": 8.532852679254708,
+        "height": 4.927248677248674,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "화이트소주",
+        "en.ROMAN": "white soju",
+        "en": "White soju",
+        "ja": "ホワイト焼酎",
+        "zh_CN": "白烧酒",
+        "zh_TW": "白燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_20",
+      "ocr": {
+        "x": 61.34095770873869,
+        "y": 57.90383171738334,
+        "text": "화이트소주",
+        "width": 10.466269841269831,
+        "height": 3.477709072250688,
+        "rotation": 1.2944397567746364
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "좋은데이",
+        "en.ROMAN": "joeun day",
+        "en": "Good Day (Soju)",
+        "ja": "チョウンデイ(焼酎)",
+        "zh_CN": "好日子",
+        "zh_TW": "好日子燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_23",
+      "ocr": {
+        "x": 61.34518675719199,
+        "y": 61.861215993714836,
+        "text": "좋은데이",
+        "width": 8.382936507936504,
+        "height": 3.6706349206349187,
+        "rotation": 0.4469080188459884
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매실마을",
+        "en.ROMAN": "maesilmaeul",
+        "en": "Maesilmaeul",
+        "ja": "メシルマウル(梅酒)",
+        "zh_CN": "梅村",
+        "zh_TW": "梅村青梅酒",
+        "price": "6000",
+        "ingredients.ko": [
+          "매실"
+        ],
+        "ingredients.en": [
+          "Green Plum"
+        ],
+        "ingredients.ja": [
+          "梅"
+        ],
+        "ingredients.zh_CN": [
+          "青梅"
+        ],
+        "ingredients.zh_TW": [
+          "梅子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_26",
+      "ocr": {
+        "x": 61.45632512754307,
+        "y": 65.75206000409283,
+        "text": "매실마을",
+        "width": 8.45734126984126,
+        "height": 3.707458844984823,
+        "rotation": 0.8952833452054278
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_35",
+      "ocr": {
+        "x": 61.56762005862498,
+        "y": 74.0182984245287,
+        "text": "맥주",
+        "width": 6.21822202002103,
+        "height": 3.579658538018115,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "도다리계절활어",
+        "en.ROMAN": "dodarigyejeolhwareo",
+        "en": "Ridged-eye Flounder Seasonal Fish",
+        "ja": "メイタガレイ(季節の活魚)",
+        "zh_CN": "时令鲜木叶鲽",
+        "zh_TW": "時令木葉鰈活魚",
+        "price": "0",
+        "ingredients.ko": [
+          "도다리"
+        ],
+        "ingredients.en": [
+          "Flounder"
+        ],
+        "ingredients.ja": [
+          "メイタガレイ"
+        ],
+        "ingredients.zh_CN": [
+          "角木叶鲽"
+        ],
+        "ingredients.zh_TW": [
+          "木葉鰈"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_38",
+      "ocr": {
+        "x": 7.0155726841830415,
+        "y": 76.02513227513234,
+        "text": "도다리계절활어",
+        "width": 20.978953175696418,
+        "height": 5.349895943357176,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_39",
+      "ocr": {
+        "x": 61.439739712847626,
+        "y": 77.94312169312157,
+        "text": "음료수",
+        "width": 6.566212668104747,
+        "height": 3.845274777569711,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "전어계절활어",
+        "en.ROMAN": "jeoneogyejeolhwareo",
+        "en": "Gizzard Shad Seasonal Fish",
+        "ja": "コノシロ(季節の活魚)",
+        "zh_CN": "时令鲜\t斑鰶",
+        "zh_TW": "時令窩斑鰶活魚",
+        "price": "0",
+        "ingredients.ko": [
+          "전어"
+        ],
+        "ingredients.en": [
+          "Gizzard Shad"
+        ],
+        "ingredients.ja": [
+          "コノシロ"
+        ],
+        "ingredients.zh_CN": [
+          "斑鰶"
+        ],
+        "ingredients.zh_TW": [
+          "窩斑鰶"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF05_M0002_1725104_1-tf_41",
+      "ocr": {
+        "x": 6.74062876956796,
+        "y": 81.82802351571605,
+        "text": "전어계절활어",
+        "width": 18.307911177886425,
+        "height": 5.4130902405896615,
+        "rotation": 0
+      }
+    }
+  ]
+}

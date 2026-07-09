@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_1016382_1.jpg",
+    "image_original_width": 4624,
+    "image_original_height": 3468,
+    "captured_date": "2022:10:01 21:34:28",
+    "store_id": "1016382",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          6.25,
+          8.143939393939394
+        ],
+        [
+          98.01136363636364,
+          12.878787878787879
+        ],
+        [
+          98.01136363636364,
+          92.23484848484848
+        ],
+        [
+          4.545454545454547,
+          93.75
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "뼈다귀전골",
+        "en.ROMAN": "ppyeodagwijeongol",
+        "en": "Pork Backbone Hot Pot",
+        "ja": "豚の背骨の寄せ鍋",
+        "zh_CN": "腔骨火锅",
+        "zh_TW": "豬骨火鍋",
+        "price": "38000",
+        "ingredients.ko": [
+          "야채",
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1016382_1-tf.jpg_1",
+      "ocr": {
+        "x": 11.965984832445486,
+        "y": 29.4900697550052,
+        "text": "뼈다귀전골",
+        "width": 24.29955749709311,
+        "height": 6.875892803118354,
+        "rotation": 1.733613422344149
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "2500",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1016382_1-tf.jpg_2",
+      "ocr": {
+        "x": 66.5052578169861,
+        "y": 31.978085351787783,
+        "text": "볶음밥",
+        "width": 13.70876377253948,
+        "height": 6.401384083045009,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1016382_1-tf.jpg_10",
+      "ocr": {
+        "x": 66.32486582058272,
+        "y": 47.906604396938384,
+        "text": "소주",
+        "width": 13.489125518392468,
+        "height": 6.084198385236483,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "뼈다귀해장국",
+        "en.ROMAN": "ppyeodagwihaejangguk",
+        "en": "Pork Backbone Hangover Soup",
+        "ja": "豚の背骨酔い覚ましスープ",
+        "zh_CN": "腔骨醒酒汤",
+        "zh_TW": "豬骨醒酒湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "쌀",
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Rice",
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "米",
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "大米",
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "米",
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1016382_1-tf.jpg_12",
+      "ocr": {
+        "x": 11.522623041900559,
+        "y": 53.544848995169936,
+        "text": "뼈다귀해장국",
+        "width": 29.345158726401152,
+        "height": 7.18552221864247,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1016382_1-tf.jpg_9",
+      "ocr": {
+        "x": 66.29316258773328,
+        "y": 55.39779213310017,
+        "text": "맥주",
+        "width": 13.564193855676837,
+        "height": 6.496746540906309,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뼈추가",
+        "en.ROMAN": "ppyeo chuga",
+        "en": "Extra Serving of Pork Backbone",
+        "ja": "豚の背骨追加",
+        "zh_CN": "另加腔骨",
+        "zh_TW": "加點豬骨",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1016382_1-tf.jpg_16",
+      "ocr": {
+        "x": 11.258347383350685,
+        "y": 61.85121107266416,
+        "text": "뼈추가",
+        "width": 29.410604139654325,
+        "height": 6.835773842200288,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1016382_1-tf.jpg_18",
+      "ocr": {
+        "x": 66.22631233101549,
+        "y": 63.32179930795874,
+        "text": "음료수",
+        "width": 13.596352028846239,
+        "height": 6.80492495879291,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1016382_1-tf.jpg_15",
+      "ocr": {
+        "x": 10.791522491349493,
+        "y": 69.9466244854485,
+        "text": "라면사리",
+        "width": 29.540124635650837,
+        "height": 7.198792029221021,
+        "rotation": 0
+      }
+    }
+  ]
+}

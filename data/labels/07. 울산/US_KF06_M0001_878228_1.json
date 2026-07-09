@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "file_name": "US_KF06_M0001_878228_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:21 18:11:57",
+    "store_id": "878228",
+    "store_region": "US",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.5,
+          15.625
+        ],
+        [
+          87.96296296296296,
+          16.666666666666664
+        ],
+        [
+          91.66666666666664,
+          96.875
+        ],
+        [
+          12.037037037037036,
+          99.6527777777778
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "숙성생맥주",
+        "en.ROMAN": "sukseongsaengmaekju",
+        "en": "Matured Draft Beer",
+        "ja": "熟成生ビール",
+        "zh_CN": "熟成生啤酒",
+        "zh_TW": "熟成生啤酒",
+        "price": "3900",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0001_878228_1-tf_3",
+      "ocr": {
+        "x": 17.630710474619804,
+        "y": 20.25112946297528,
+        "text": "숙-성생맥주",
+        "width": 30.21340616843495,
+        "height": 3.950000000000012,
+        "rotation": 0.7463834482646234
+      }
+    }
+  ]
+}

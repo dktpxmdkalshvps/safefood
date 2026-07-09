@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "file_name": "CC_KF03_M0002_1424200_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "1424200",
+    "store_region": "CC",
+    "store_type": "KF03",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          96.53179190751445,
+          15.606936416184972
+        ],
+        [
+          4.624277456647398,
+          23.41040462427745
+        ],
+        [
+          0.5780346820809248,
+          73.41040462427746
+        ],
+        [
+          99.42196531791907,
+          74.42196531791907
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "오로라까스",
+        "en.ROMAN": "ororakkaseu",
+        "en": "Aurora Cutlet",
+        "ja": "オーロラカツ",
+        "zh_CN": "极光炸猪排",
+        "zh_TW": "Aurora炸豬排",
+        "price": "10500",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_13",
+      "ocr": {
+        "x": 49.83923006015569,
+        "y": 31.789343545794445,
+        "text": "오로라까스",
+        "width": 19.47255589062171,
+        "height": 3.1098723307606284,
+        "rotation": 355.2304979029486
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치킨까스",
+        "en.ROMAN": "chicken kkaseu",
+        "en": "Chicken Cutlet",
+        "ja": "チキンカツ",
+        "zh_CN": "炸鸡排",
+        "zh_TW": "炸雞排",
+        "price": "9000",
+        "ingredients.ko": [
+          "계란",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_15",
+      "ocr": {
+        "x": 10.194138356869766,
+        "y": 34.19056259114933,
+        "text": "치킨까스",
+        "width": 21.195658636437887,
+        "height": 3.328637755320426,
+        "rotation": 355.4159628213685
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "정식",
+        "en.ROMAN": "jeongsik",
+        "en": "Set Menu",
+        "ja": "定食",
+        "zh_CN": "套餐",
+        "zh_TW": "套餐",
+        "price": "11000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_17",
+      "ocr": {
+        "x": 49.81593396398819,
+        "y": 36.83914904417349,
+        "text": "정식",
+        "width": 19.5420797467107,
+        "height": 3.6185655416892892,
+        "rotation": 355.367396165136
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "바보돈까스",
+        "en.ROMAN": "babo dongaseu",
+        "en": "Fool Pork Cutlet",
+        "ja": "バカ豚カツ",
+        "zh_CN": "傻瓜炸猪排",
+        "zh_TW": "基本炸豬排",
+        "price": "10000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_18",
+      "ocr": {
+        "x": 9.758512178569488,
+        "y": 38.740840357613656,
+        "text": "바보돈까스",
+        "width": 21.330583008104007,
+        "height": 3.5139295332301197,
+        "rotation": 355.2136315776563
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생선까스",
+        "en.ROMAN": "saengseonkkaseu",
+        "en": "Fish Cutlet",
+        "ja": "白身魚のフライ",
+        "zh_CN": "炸鱼排",
+        "zh_TW": "炸魚排",
+        "price": "12000",
+        "ingredients.ko": [
+          "생선",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_20",
+      "ocr": {
+        "x": 49.82331869929519,
+        "y": 42.42364960167412,
+        "text": "생선까스",
+        "width": 19.99932780489824,
+        "height": 3.68250697603431,
+        "rotation": 355.1692232534989
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "유럽까스",
+        "en.ROMAN": "yureopkkaseu",
+        "en": "Europe Cutlet",
+        "ja": "ヨーロッパカツ",
+        "zh_CN": "欧洲炸猪排",
+        "zh_TW": "歐洲炸豬排",
+        "price": "11000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_21",
+      "ocr": {
+        "x": 9.546203774745846,
+        "y": 43.4222221910373,
+        "text": "유럽까스",
+        "width": 21.33235948465865,
+        "height": 3.6934193532151642,
+        "rotation": 355.7369551436704
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라,사이다",
+        "en.ROMAN": "cola, cider",
+        "en": "Cola, Cider",
+        "ja": "コーラ、サイダー",
+        "zh_CN": "可乐、汽水",
+        "zh_TW": "可樂、汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_23",
+      "ocr": {
+        "x": 49.87818113219498,
+        "y": 47.195408588648114,
+        "text": "콜라,사이다",
+        "width": 20.00880449469866,
+        "height": 4.047828965699316,
+        "rotation": 357.7631170477675
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "이태리까스",
+        "en.ROMAN": "itaerikkaseu",
+        "en": "Italy Cutlet",
+        "ja": "イタリアカツ",
+        "zh_CN": "意大利炸猪排",
+        "zh_TW": "義大利炸豬排",
+        "price": "10500",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_25",
+      "ocr": {
+        "x": 9.0892789242936,
+        "y": 48.44583641181761,
+        "text": "이태리까스",
+        "width": 21.62248572997619,
+        "height": 2.93231029217588,
+        "rotation": 356.2764191955933
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_27",
+      "ocr": {
+        "x": 49.92204130698051,
+        "y": 52.351994135322386,
+        "text": "공기밥",
+        "width": 20.332991037913278,
+        "height": 4.030979369697847,
+        "rotation": 358.2070332746526
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "매운까스",
+        "en.ROMAN": "maeunkkaseu",
+        "en": "Spicy Cutlet",
+        "ja": "辛味カツ",
+        "zh_CN": "辣味炸猪排",
+        "zh_TW": "辣味炸豬排",
+        "price": "10500",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1424200_1-tf_28",
+      "ocr": {
+        "x": 8.372577373033547,
+        "y": 53.02943353393345,
+        "text": "매운까스",
+        "width": 22.067581730680693,
+        "height": 3.731076768451985,
+        "rotation": 357.0632005906129
+      }
+    }
+  ]
+}

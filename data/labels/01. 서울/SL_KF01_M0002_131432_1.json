@@ -1,0 +1,1765 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_131432_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "131432",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          6.951871657754011,
+          11.898395721925134
+        ],
+        [
+          91.97860962566845,
+          5.614973262032086
+        ],
+        [
+          99.82174688057039,
+          97.99465240641712
+        ],
+        [
+          4.81283422459893,
+          98.66310160427807
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "완도전복죽",
+        "en.ROMAN": "Wandojeonbokjuk",
+        "en": "Wando Abalone Porridge",
+        "ja": "ワンドアワビ粥",
+        "zh_CN": "莞岛鲍鱼粥",
+        "zh_TW": "莞島鮑魚粥",
+        "price": "12000",
+        "ingredients.ko": [
+          "전복",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_2",
+      "ocr": {
+        "x": 61.846578788010696,
+        "y": 20.009645601687257,
+        "text": "완도전복죽",
+        "width": 11.044973544973475,
+        "height": 1.955626025961453,
+        "rotation": 355.0149239255648
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "삼계전복죽",
+        "en.ROMAN": "samgyejeonbokjuk",
+        "en": "Ginseng Chicken and Abalone Porridge",
+        "ja": "高麗人蔘と鶏肉入りアワビ粥",
+        "zh_CN": "参鸡鲍鱼粥",
+        "zh_TW": "蔘雞鮑魚粥",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "전복",
+          "인삼",
+          "쌀",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Abalone",
+          "Ginseng",
+          "Rice",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "アワビ",
+          "高麗人参",
+          "米",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鲍鱼",
+          "人参",
+          "大米",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮑魚",
+          "人蔘",
+          "米",
+          "雞肉"
+        ],
+        "allergy": [
+          "전복",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_5",
+      "ocr": {
+        "x": 62.07896368355053,
+        "y": 22.28507383072504,
+        "text": "삼계전복죽",
+        "width": 10.945767195767116,
+        "height": 2.035611187909982,
+        "rotation": 355.35612641574954
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "특전복죽",
+        "en.ROMAN": "teukjeonbokjuk",
+        "en": "Abalone Porridge Special",
+        "ja": "特上アワビ粥",
+        "zh_CN": "特级鲍鱼粥",
+        "zh_TW": "特級鮑魚粥",
+        "price": "20000",
+        "ingredients.ko": [
+          "전복",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_12",
+      "ocr": {
+        "x": 62.19234917715122,
+        "y": 24.655522527071998,
+        "text": "특전복죽",
+        "width": 8.89550264550258,
+        "height": 2.0102323636413204,
+        "rotation": 354.9491374974468
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "참치야채죽",
+        "en.ROMAN": "chamchiyachaejuk",
+        "en": "Tuna and Vegetable Porridge",
+        "ja": "ツナ入り野菜粥",
+        "zh_CN": "金枪鱼蔬菜粥",
+        "zh_TW": "鮪魚蔬菜粥",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_17",
+      "ocr": {
+        "x": 79.91160696607777,
+        "y": 38.21288162756859,
+        "text": "참치야채죽",
+        "width": 7.539682539682533,
+        "height": 1.4934441884746632,
+        "rotation": 356.6412819469873
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "소고기야채죽",
+        "en.ROMAN": "sogogiyachaejuk",
+        "en": "Beef and Vegetable Porridge",
+        "ja": "牛肉入り野菜粥",
+        "zh_CN": "牛肉鲜蔬粥",
+        "zh_TW": "牛肉蔬菜粥",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_18",
+      "ocr": {
+        "x": 67.9864097476237,
+        "y": 38.73790504442793,
+        "text": "소고기야채죽",
+        "width": 8.926491058793626,
+        "height": 1.4803783936862804,
+        "rotation": 357.28617671403435
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "굴버섯죽",
+        "en.ROMAN": "gulbeoseotjuk",
+        "en": "Oyster and Mushroom Porridge",
+        "ja": "カキ入りきのこ粥",
+        "zh_CN": "牡蛎蘑菇粥",
+        "zh_TW": "牡蠣蘑菇粥",
+        "price": "9000",
+        "ingredients.ko": [
+          "쌀",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "米",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "蘑菇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_19",
+      "ocr": {
+        "x": 58.351949849395574,
+        "y": 39.249781993320944,
+        "text": "굴버섯죽",
+        "width": 5.886243386243388,
+        "height": 1.4730478456146938,
+        "rotation": 356.82603433810476
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "콩나물낙지죽",
+        "en.ROMAN": "kongnamullakjijuk",
+        "en": "Bean Sprouts and Octopus Porridge",
+        "ja": "豆もやし入りテナガダコ粥",
+        "zh_CN": "豆芽长爪章鱼粥",
+        "zh_TW": "黃豆芽章魚粥",
+        "price": "9000",
+        "ingredients.ko": [
+          "콩나물",
+          "낙지",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Bean Sprout",
+          "Octopus",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豆もやし",
+          "テナガダコ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "黄豆芽",
+          "长爪章鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "黃豆芽",
+          "章魚",
+          "米"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_20",
+      "ocr": {
+        "x": 46.24233141198636,
+        "y": 39.673306271416806,
+        "text": "콩나물낙지죽",
+        "width": 8.730158730158713,
+        "height": 1.5067371202035826,
+        "rotation": 356.2495113772784
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "육개장죽",
+        "en.ROMAN": "yukgaejangjuk",
+        "en": "Spicy Beef Porridge",
+        "ja": "ユッケジャン粥",
+        "zh_CN": "香辣牛肉汤粥",
+        "zh_TW": "香辣牛肉湯粥",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_22",
+      "ocr": {
+        "x": 37.0172769406185,
+        "y": 40.18742303054843,
+        "text": "육개장죽",
+        "width": 5.720899470899465,
+        "height": 1.4043091346148706,
+        "rotation": 356.12266524626506
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "영양들깨죽",
+        "en.ROMAN": "yeongyangdeulkkaejuk",
+        "en": "Nutritious Perilla Seed Porridge",
+        "ja": "栄養エゴマ粥",
+        "zh_CN": "营养紫苏粥",
+        "zh_TW": "營養紫蘇粥",
+        "price": "8500",
+        "ingredients.ko": [
+          "쌀",
+          "들깨"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Perilla Seeds"
+        ],
+        "ingredients.ja": [
+          "米",
+          "エゴマ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "紫苏"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "紫蘇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_24",
+      "ocr": {
+        "x": 25.74224819639002,
+        "y": 40.71968061236735,
+        "text": "영양들깨죽",
+        "width": 7.043650793650791,
+        "height": 1.480084334626795,
+        "rotation": 356.3114171863962
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "야채죽",
+        "en.ROMAN": "yachaejuk",
+        "en": "Vegetable Porridge",
+        "ja": "野菜粥",
+        "zh_CN": "蔬菜粥",
+        "zh_TW": "蔬菜粥",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_27",
+      "ocr": {
+        "x": 16.667820985015673,
+        "y": 41.39589802540892,
+        "text": "야채죽",
+        "width": 4.294013370098645,
+        "height": 1.364087301587303,
+        "rotation": 357.01013120217414
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "삼계죽",
+        "en.ROMAN": "samgyejuk",
+        "en": "Ginseng and Chicken Porridge",
+        "ja": "高麗人蔘入り鶏肉のお粥",
+        "zh_CN": "参鸡粥",
+        "zh_TW": "蔘雞粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "인삼",
+          "쌀",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ginseng",
+          "Rice",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "高麗人参",
+          "米",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "人参",
+          "大米",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "人蔘",
+          "米",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_35",
+      "ocr": {
+        "x": 82.28808716538859,
+        "y": 47.9590892651792,
+        "text": "삼계죽",
+        "width": 4.861111111111105,
+        "height": 1.541830855179027,
+        "rotation": 356.64593922143797
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "크림치즈소고기죽",
+        "en.ROMAN": "cream cheese sogogijuk",
+        "en": "Cream Cheese Beef Porridge",
+        "ja": "クリームチーズ入り牛肉粥",
+        "zh_CN": "奶油奶酪牛肉粥",
+        "zh_TW": "奶油起司牛肉粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "소고기",
+          "치즈",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Cheese",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "チーズ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "奶酪",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "起司",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_36",
+      "ocr": {
+        "x": 67.32089930450798,
+        "y": 48.49166314337747,
+        "text": "크림치즈소고기죽",
+        "width": 11.70634920634916,
+        "height": 1.4924901362126808,
+        "rotation": 357.0265181025059
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "해물죽",
+        "en.ROMAN": "haemuljuk",
+        "en": "Seafood Porridge",
+        "ja": "海鮮粥",
+        "zh_CN": "海鲜粥",
+        "zh_TW": "海鮮粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "해산물",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "米"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_37",
+      "ocr": {
+        "x": 60.08129660581349,
+        "y": 49.03022195453884,
+        "text": "해물죽",
+        "width": 4.761904761904756,
+        "height": 1.501194723791938,
+        "rotation": 357.21647695959973
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "새우야채죽",
+        "en.ROMAN": "saeuyachaejuk",
+        "en": "Shrimp Vegetable Porridge",
+        "ja": "エビ入り野菜粥",
+        "zh_CN": "虾仁蔬菜粥",
+        "zh_TW": "鮮蝦蔬菜粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "米"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "-HDVPkeQsR",
+      "ocr": {
+        "x": 47.640966989414835,
+        "y": 49.429522154147506,
+        "text": "새우야채죽",
+        "width": 7.375137184623237,
+        "height": 1.4919391510477125,
+        "rotation": 357.57072667650243
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "빨간낙지죽",
+        "en.ROMAN": "ppalgannakjijuk",
+        "en": "Red Octopus Porridge",
+        "ja": "辛味テナガダコ粥",
+        "zh_CN": "香辣长爪章鱼粥",
+        "zh_TW": "辣味章魚粥",
+        "price": "9500",
+        "ingredients.ko": [
+          "낙지",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "テナガダコ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_40",
+      "ocr": {
+        "x": 36.800102273895135,
+        "y": 49.84583514685036,
+        "text": "빨간낙지죽",
+        "width": 7.208994708994698,
+        "height": 1.4969819301648566,
+        "rotation": 357.61626192325025
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "참치죽",
+        "en.ROMAN": "chamchijuk",
+        "en": "Tuna Porridge",
+        "ja": "ツナ粥",
+        "zh_CN": "金枪鱼粥",
+        "zh_TW": "鮪魚粥",
+        "price": "9500",
+        "ingredients.ko": [
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "I5zUcOrmlB",
+      "ocr": {
+        "x": 29.812799079126837,
+        "y": 50.15709494207812,
+        "text": "참치죽",
+        "width": 4.2246661113240265,
+        "height": 1.4745261697378942,
+        "rotation": 357.5104470780038
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "김치굴죽",
+        "en.ROMAN": "kimchi guljuk",
+        "en": "Kimchi Oyster Porridge",
+        "ja": "キムチ入りカキ粥",
+        "zh_CN": "辛奇牡蛎粥",
+        "zh_TW": "辛奇牡蠣粥",
+        "price": "9500",
+        "ingredients.ko": [
+          "김치",
+          "쌀",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Rice",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "米",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "大米",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "米",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_42",
+      "ocr": {
+        "x": 24.00337690055486,
+        "y": 50.416138801378715,
+        "text": "김치굴죽",
+        "width": 5.513815804396493,
+        "height": 1.4737053815837553,
+        "rotation": 357.1429417582466
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "소고기미역죽",
+        "en.ROMAN": "sogogimiyeokjuk",
+        "en": "Beef and Seaweed Porridge",
+        "ja": "牛肉入りワカメ粥",
+        "zh_CN": "牛肉海带粥",
+        "zh_TW": "牛肉海帶粥",
+        "price": "9000",
+        "ingredients.ko": [
+          "소고기",
+          "쌀",
+          "미역"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Rice",
+          "Seaweed"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "米",
+          "ワカメ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "大米",
+          "海带"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "米",
+          "海帶"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_44",
+      "ocr": {
+        "x": 14.249273329975123,
+        "y": 50.89347274427181,
+        "text": "소고기미역죽",
+        "width": 8.389217462638008,
+        "height": 1.4659513910055513,
+        "rotation": 356.6655328677673
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "녹두삼계죽",
+        "en.ROMAN": "nokdusamgyejuk",
+        "en": "Ginseng and Chicken Porridge with Mung Bean",
+        "ja": "緑豆と高麗人蔘入り鶏肉粥",
+        "zh_CN": "绿豆参鸡粥",
+        "zh_TW": "綠豆蔘雞粥",
+        "price": "11000",
+        "ingredients.ko": [
+          "인삼",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_49",
+      "ocr": {
+        "x": 81.2717892385459,
+        "y": 58.261448207323795,
+        "text": "녹두삼계죽",
+        "width": 7.702692224097076,
+        "height": 1.5617864885714992,
+        "rotation": 358.0714780609173
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "불닭죽",
+        "en.ROMAN": "buldakjuk",
+        "en": "Spicy Chicken Porridge",
+        "ja": "鶏肉の激辛炒め粥",
+        "zh_CN": "劲辣鸡肉粥",
+        "zh_TW": "勁辣雞肉粥",
+        "price": "11000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_50",
+      "ocr": {
+        "x": 71.39657281339562,
+        "y": 58.6360091917486,
+        "text": "불닭죽",
+        "width": 4.728835978835978,
+        "height": 1.5213669253804096,
+        "rotation": 358.0882117048851
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "불짬뽕죽",
+        "en.ROMAN": "buljjamppongjuk",
+        "en": "Spicy Seafood Noodle Porridge",
+        "ja": "激辛チャンポン粥",
+        "zh_CN": "劲辣炒码粥",
+        "zh_TW": "勁辣炒碼粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "해산물",
+          "채소",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_51",
+      "ocr": {
+        "x": 59.55382306775279,
+        "y": 59.03871094560492,
+        "text": "불짬뽕죽",
+        "width": 6.121982328267351,
+        "height": 1.639132797794898,
+        "rotation": 357.79054899562146
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "소고기카레죽",
+        "en.ROMAN": "sogogi curry Juk",
+        "en": "Beef Curry Porridge",
+        "ja": "牛肉入りカレー粥",
+        "zh_CN": "牛肉咖喱粥",
+        "zh_TW": "咖哩牛肉粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "쇠고기",
+          "카레",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Curry",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "カレー",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "咖喱",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "咖哩",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_52",
+      "ocr": {
+        "x": 47.15399790804674,
+        "y": 59.45016557463653,
+        "text": "소고기카레죽",
+        "width": 8.829365079365072,
+        "height": 1.539366551692065,
+        "rotation": 357.8258371014993
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "게살브로컬리치즈죽",
+        "en.ROMAN": "gesal broccoli cheese Juk",
+        "en": "Crab Meat Broccoli Cheese Porridge",
+        "ja": "カニとブロッコリー入りチーズ粥",
+        "zh_CN": "蟹肉西兰花奶酪粥",
+        "zh_TW": "蟹肉青花菜起司粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "치즈",
+          "게살"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Crab Meat"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "ガニ肉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "蟹肉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "蟹肉"
+        ],
+        "allergy": [
+          "우유",
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "lwVu8EYEpp",
+      "ocr": {
+        "x": 33.38344730905501,
+        "y": 60.04644624803294,
+        "text": "게살브로컬리치즈죽",
+        "width": 12.264255145874642,
+        "height": 1.582945055076703,
+        "rotation": 357.4324026708135
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "게살누룽지죽",
+        "en.ROMAN": "gesallurungjijuk",
+        "en": "Crab and Scorched Rice Porridge",
+        "ja": "カニ肉入りおこげ粥",
+        "zh_CN": "蟹肉锅巴粥",
+        "zh_TW": "蟹肉鍋粑粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "쌀",
+          "게살",
+          "누룽지"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Crab Meat",
+          "Scorched Rice"
+        ],
+        "ingredients.ja": [
+          "米",
+          "ガニ肉",
+          "おこげ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "蟹肉",
+          "锅巴"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "蟹肉",
+          "鍋粑"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "qXZXciy-tY",
+      "ocr": {
+        "x": 24.448327797834153,
+        "y": 60.371870323006895,
+        "text": "게살누룽지죽",
+        "width": 8.57049270957924,
+        "height": 1.5367709954129567,
+        "rotation": 358.0666993050821
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "매생이굴죽",
+        "en.ROMAN": "maesaengiguljuk",
+        "en": "Oyster and Seaweed Fulvescens Porridge",
+        "ja": "カプサアオノリ入りカキ粥",
+        "zh_CN": "海藻牡蛎粥",
+        "zh_TW": "海藻牡蠣粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "쌀",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "米",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_56",
+      "ocr": {
+        "x": 14.948562199288276,
+        "y": 60.74343644163035,
+        "text": "매생이굴죽",
+        "width": 6.878306878306871,
+        "height": 1.5170395509956267,
+        "rotation": 358.0520293075398
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "잣죽",
+        "en.ROMAN": "jatjuk",
+        "en": "Pine Nut Porridge",
+        "ja": "松の実粥",
+        "zh_CN": "松仁粥",
+        "zh_TW": "松子粥",
+        "price": "12000",
+        "ingredients.ko": [
+          "쌀",
+          "잣"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Pine Nut"
+        ],
+        "ingredients.ja": [
+          "米",
+          "松の実"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "松子"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "松子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_65",
+      "ocr": {
+        "x": 83.88000143143891,
+        "y": 73.80379823835551,
+        "text": "잣죽",
+        "width": 3.3068783068783083,
+        "height": 1.6271289492424965,
+        "rotation": 359.12275415377513
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "흑임자죽",
+        "en.ROMAN": "heugimjajuk",
+        "en": "Black Sesame Porridge",
+        "ja": "黒ごま粥",
+        "zh_CN": "黑芝麻粥",
+        "zh_TW": "黑芝麻粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "쌀",
+          "흑임자"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Black Sesame"
+        ],
+        "ingredients.ja": [
+          "米",
+          "黒ごま"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "黑芝麻"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "黑芝麻"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_66",
+      "ocr": {
+        "x": 65.52495489037726,
+        "y": 74.20906672249613,
+        "text": "흑임자죽",
+        "width": 6.18386243386243,
+        "height": 1.6391112190846544,
+        "rotation": 358.9871738461293
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "녹두죽",
+        "en.ROMAN": "nokdujuk",
+        "en": "Mung Bean Porridge",
+        "ja": "緑豆粥",
+        "zh_CN": "绿豆粥",
+        "zh_TW": "綠豆粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "쌀",
+          "녹두"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Mung Beans"
+        ],
+        "ingredients.ja": [
+          "米",
+          "緑豆"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "绿豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "綠豆"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_67",
+      "ocr": {
+        "x": 49.517991743263124,
+        "y": 74.61171308838689,
+        "text": "녹두죽",
+        "width": 4.662698412698411,
+        "height": 1.537698412698413,
+        "rotation": 358.9119791486346
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "팥죽",
+        "en.ROMAN": "patjuk",
+        "en": "Red Bean Porridge",
+        "ja": "小豆粥",
+        "zh_CN": "红豆粥",
+        "zh_TW": "紅豆粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "쌀",
+          "팥"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Red Bean"
+        ],
+        "ingredients.ja": [
+          "米",
+          "小豆"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "红豆"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "紅豆"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_68",
+      "ocr": {
+        "x": 33.59554901567363,
+        "y": 74.94144683055008,
+        "text": "팥죽",
+        "width": 3.273809523809523,
+        "height": 1.661706349206349,
+        "rotation": 358.12318121234216
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "호박죽",
+        "en.ROMAN": "hobakjuk",
+        "en": "Pumpkin Porridge",
+        "ja": "カボチャ粥",
+        "zh_CN": "南瓜粥",
+        "zh_TW": "南瓜粥",
+        "price": "9000",
+        "ingredients.ko": [
+          "호박",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pumpkin",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "かぼちゃ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "南瓜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "南瓜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_70",
+      "ocr": {
+        "x": 16.32602920796731,
+        "y": 75.4665107218535,
+        "text": "호박죽",
+        "width": 4.694394844331234,
+        "height": 1.5376984126984126,
+        "rotation": 358.537960929998
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "물만두",
+        "en.ROMAN": "mulmandu",
+        "en": "Boiled Mandu",
+        "ja": "水餃子",
+        "zh_CN": "水饺",
+        "zh_TW": "水餃",
+        "price": "4000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_78",
+      "ocr": {
+        "x": 84.67470581472904,
+        "y": 90.21878367879127,
+        "text": "물만두",
+        "width": 5.153272363234812,
+        "height": 1.6710972735896235,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "떡갈비",
+        "en.ROMAN": "tteokgalbi",
+        "en": "Grilled Galbi Patties",
+        "ja": "粗挽きカルビ焼き",
+        "zh_CN": "牛肉饼",
+        "zh_TW": "烤牛肉餅",
+        "price": "4000",
+        "ingredients.ko": [
+          "소고기",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "豬肉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_80",
+      "ocr": {
+        "x": 69.43128108129598,
+        "y": 90.35073774574842,
+        "text": "떡갈비",
+        "width": 4.754838805482885,
+        "height": 1.687952730443217,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "뚝배기육개장밥",
+        "en.ROMAN": "ttukbaegiyukgaejangbap",
+        "en": "Hot Pot Spicy Beef Soup with Rice",
+        "ja": "土鍋ユッケジャンご飯",
+        "zh_CN": "砂锅香辣牛肉汤饭",
+        "zh_TW": "砂鍋香辣牛肉湯飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_79",
+      "ocr": {
+        "x": 55.44402314597915,
+        "y": 90.55519452497025,
+        "text": "뚝배기육개장밥",
+        "width": 10.794216985071191,
+        "height": 1.6582936616772832,
+        "rotation": 359.2720772726909
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "해물뚝배기밥",
+        "en.ROMAN": "haemulttukbaegibap",
+        "en": "Hot Pot Seafood with Rice",
+        "ja": "海鮮土鍋ご飯",
+        "zh_CN": "砂锅海鲜饭",
+        "zh_TW": "海鮮砂鍋飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "해물",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "米"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_81",
+      "ocr": {
+        "x": 41.65190665683693,
+        "y": 90.71329434838967,
+        "text": "해물뚝배기밥",
+        "width": 9.230026055181803,
+        "height": 1.6577088990806315,
+        "rotation": 359.2526826206284
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "새우뚝배기밥",
+        "en.ROMAN": "saeuttukbaegibap",
+        "en": "Hot Pot Shrimp with Rice",
+        "ja": "海老土鍋ご飯",
+        "zh_CN": "砂锅虾饭",
+        "zh_TW": "鮮蝦砂鍋飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "새우",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "米"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_82",
+      "ocr": {
+        "x": 27.85164118188541,
+        "y": 91.02206728639071,
+        "text": "새우뚝배기밥",
+        "width": 9.051597235212405,
+        "height": 1.6277031969312452,
+        "rotation": 358.51696380718323
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "날치알뚝배기밥",
+        "en.ROMAN": "nalchialttukbaegibap",
+        "en": "Hot Pot Flying Fish Roe with Rice",
+        "ja": "トビコ土鍋ご飯",
+        "zh_CN": "砂锅飞鱼子饭",
+        "zh_TW": "飛魚卵砂鍋飯",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "날치알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Flying Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "トビコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "飞鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "飛魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_131432_1-tf_83",
+      "ocr": {
+        "x": 13.768413309369233,
+        "y": 91.21955053095274,
+        "text": "날치알뚝배기밥",
+        "width": 9.603488160407434,
+        "height": 1.6121031746031766,
+        "rotation": 358.8118130219779
+      }
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "meta": {
+    "file_name": "KS_IF02_M0002_1751121_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:12:11 07:30:22",
+    "store_id": "1751121",
+    "store_region": "KS",
+    "store_type": "IF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          37.76493256262042,
+          0.43352601156069354
+        ],
+        [
+          65.1252408477842,
+          0.5780346820809248
+        ],
+        [
+          64.35452793834297,
+          95.95375722543352
+        ],
+        [
+          41.040462427745666,
+          94.94219653179191
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "마라탕",
+        "en.ROMAN": "mala tang",
+        "en": "Mala Soup",
+        "ja": "麻辣湯",
+        "zh_CN": "麻辣烫",
+        "zh_TW": "麻辣燙",
+        "price": "1600",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "고기",
+          "면",
+          "완자"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Meat",
+          "Noodles",
+          "Meatballs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "肉",
+          "麺",
+          "団子"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "肉",
+          "大豆",
+          "丸子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "肉",
+          "麵",
+          "丸"
+        ],
+        "allergy": [
+          "콩",
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0002_1751121_1-tf_1",
+      "ocr": {
+        "x": 41.86919974016798,
+        "y": 20.560185606414635,
+        "text": "마라탕",
+        "width": 4.876194931154348,
+        "height": 1.361477865501783,
+        "rotation": 358.9910663891782
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마라샹궈",
+        "en.ROMAN": "mala xiangguo",
+        "en": "Mala Stir-fry Hot Pot",
+        "ja": "麻辣香鍋",
+        "zh_CN": "麻辣香锅",
+        "zh_TW": "麻辣香鍋",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0002_1751121_1-tf_4",
+      "ocr": {
+        "x": 42.305275729280744,
+        "y": 34.4417496422555,
+        "text": "마라샹궈",
+        "width": 6.190635198625898,
+        "height": 1.3314875574736458,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "운남쌀국수",
+        "en.ROMAN": "unnamssalguksu",
+        "en": "Yunnan Rice Noodles",
+        "ja": "ウンナムフォー",
+        "zh_CN": "云南米线",
+        "zh_TW": "雲南過橋米線",
+        "price": "8000",
+        "ingredients.ko": [
+          "쌀면",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Rice Noodle",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "米麺",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "米线",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "河粉",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0002_1751121_1-tf_7",
+      "ocr": {
+        "x": 42.84089751817434,
+        "y": 49.57750187667908,
+        "text": "운남쌀국수",
+        "width": 7.566370931654985,
+        "height": 1.222676488681899,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "해물쌀국수",
+        "en.ROMAN": "haemulssalguksu",
+        "en": "Seafood Rice Noodles",
+        "ja": "海鮮フォー",
+        "zh_CN": "海鲜米线",
+        "zh_TW": "海鮮河粉",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "숙주",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Mung Bean Sprout",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "緑豆もやし",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "绿豆芽",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "綠豆芽",
+          "河粉"
+        ],
+        "allergy": [
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0002_1751121_1-tf_10",
+      "ocr": {
+        "x": 42.96272959744547,
+        "y": 54.01132957114679,
+        "text": "해물쌀국수",
+        "width": 7.519957952599986,
+        "height": 1.1909137508214551,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "꿔바로우",
+        "en.ROMAN": "guobaorou",
+        "en": "Sweet and Sour Pork in Sweet Rice Batter",
+        "ja": "鍋包肉",
+        "zh_CN": "锅包肉",
+        "zh_TW": "鍋包肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "찹쌀가루",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Sweet Rice Powder",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "もち米粉",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "糯米粉",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "糯米粉",
+          "澱粉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0002_1751121_1-tf_13",
+      "ocr": {
+        "x": 43.2626112180717,
+        "y": 66.56193196785064,
+        "text": "꿔바로우",
+        "width": 5.947728925279285,
+        "height": 1.1891754539297812,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "미니라면",
+        "en.ROMAN": "mini ramyeon",
+        "en": "Instant Noodles (Small Serving)",
+        "ja": "ミニラーメン",
+        "zh_CN": "迷你方便面",
+        "zh_TW": "迷你泡麵",
+        "price": "9000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0002_1751121_1-tf_16",
+      "ocr": {
+        "x": 54.20633110705035,
+        "y": 68.34112230028192,
+        "text": "미니",
+        "width": 2.124993764168389,
+        "height": 0.9311728684535814,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마라소롱샤",
+        "en.ROMAN": "mala sorongsya",
+        "en": "Mala Meat Mandu",
+        "ja": "ザリガニの麻辣ソース炒め",
+        "zh_CN": "麻辣小龙虾",
+        "zh_TW": "麻辣小龍蝦",
+        "price": "30000",
+        "ingredients.ko": [
+          "마라소스",
+          "민물가재"
+        ],
+        "ingredients.en": [
+          "Mala Sauce",
+          "Crayfish"
+        ],
+        "ingredients.ja": [
+          "麻辣ソース",
+          "淡水ザリガニ"
+        ],
+        "ingredients.zh_CN": [
+          "麻辣酱",
+          "小龙虾"
+        ],
+        "ingredients.zh_TW": [
+          "麻辣醬",
+          "淡水螯蝦"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0002_1751121_1-tf_17",
+      "ocr": {
+        "x": 43.60711337796521,
+        "y": 78.64813134264165,
+        "text": "마라소롱샤",
+        "width": 7.340093368088445,
+        "height": 1.1398025496617434,
+        "rotation": 1.1131273402467627
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "샤오롱바오",
+        "en.ROMAN": "xiaolongbao",
+        "en": "Xiaolongbao",
+        "ja": "小籠包",
+        "zh_CN": "小笼包",
+        "zh_TW": "小籠包",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "돼지껍데기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork Rind",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚皮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪皮",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬皮",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0002_1751121_1-tf_21",
+      "ocr": {
+        "x": 43.90618093248393,
+        "y": 91.27853832980014,
+        "text": "샤오롱바오",
+        "width": 7.18868670811857,
+        "height": 1.1487806692828788,
+        "rotation": 0.7487273611936303
+      }
+    }
+  ]
+}

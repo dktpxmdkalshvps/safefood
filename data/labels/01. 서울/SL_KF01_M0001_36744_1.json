@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_36744_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:01 12:17:17",
+    "store_id": "36744",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 15.86605540508675,
+        "width": 99.99999999999994,
+        "height": 84.13394459491319,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념갈비",
+        "en.ROMAN": "yangnyeomgalbi",
+        "en": "Marinated Grilled Galbi",
+        "ja": "味付けカルビ",
+        "zh_CN": "调味排骨",
+        "zh_TW": "調味排骨",
+        "price": "55000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_36744_1-tf_0",
+      "ocr": {
+        "x": 61.07923694947186,
+        "y": 28.66231008561016,
+        "text": "양념갈비",
+        "width": 11.46732756739131,
+        "height": 2.6126899143897657,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "불고기",
+        "en.ROMAN": "bulgogi",
+        "en": "Bulgogi",
+        "ja": "プルゴギ",
+        "zh_CN": "烤牛肉",
+        "zh_TW": "烤牛肉",
+        "price": "33000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_36744_1-tf_6",
+      "ocr": {
+        "x": 14.868818257816201,
+        "y": 51.75165006115015,
+        "text": "불고기",
+        "width": 9.154272328329434,
+        "height": 2.4733499388498497,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "진갈비살",
+        "en.ROMAN": "jingalbisal",
+        "en": "Boneless Galbi",
+        "ja": "牛カルビ焼き",
+        "zh_CN": "去骨肋条肉",
+        "zh_TW": "牛肋條",
+        "price": "46000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_36744_1-tf_12",
+      "ocr": {
+        "x": 61.545293072823966,
+        "y": 73.60533001223003,
+        "text": "진갈비살",
+        "width": 11.941906118437716,
+        "height": 2.4946699877700502,
+        "rotation": 0
+      }
+    }
+  ]
+}

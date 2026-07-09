@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "file_name": "SL_KF02_M0002_469730_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "469730",
+    "store_region": "SL",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          19.76470588235294,
+          37.918871252204575
+        ],
+        [
+          23.999999983104455,
+          85.89065255731923
+        ],
+        [
+          86.11764694055472,
+          85.71428571428571
+        ],
+        [
+          94.35294107509732,
+          38.447971781305114
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "세트",
+        "en.ROMAN": "set",
+        "en": "Set",
+        "ja": "セット",
+        "zh_CN": "套餐",
+        "zh_TW": "套餐",
+        "price": "10000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "5qey89aERe",
+      "ocr": {
+        "x": 29.816408702429577,
+        "y": 49.838917164059964,
+        "text": "1인세트",
+        "width": 15.575858176884962,
+        "height": 3.211704795348342,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "치즈추가",
+        "en.ROMAN": "cheese chuga",
+        "en": "Add cheese",
+        "ja": "チーズ追加",
+        "zh_CN": "另加奶酪",
+        "zh_TW": "加點起司",
+        "price": "11500",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_469730_3-tf_9",
+      "ocr": {
+        "x": 42.759463861765994,
+        "y": 61.43353174603159,
+        "text": "치즈추가",
+        "width": 13.921013799839239,
+        "height": 2.91044409818213,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "달밤세트",
+        "en.ROMAN": "dalbam set",
+        "en": "Dalbam Set",
+        "ja": "ダルパムセット",
+        "zh_CN": "招牌套餐",
+        "zh_TW": "招牌套餐",
+        "price": "12000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_469730_3-tf_10",
+      "ocr": {
+        "x": 31.367988104152506,
+        "y": 67.78160474940758,
+        "text": "달밤세트",
+        "width": 14.558762830579104,
+        "height": 2.92212393405227,
+        "rotation": 358.4103398803211
+      }
+    }
+  ]
+}

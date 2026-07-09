@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "file_name": "GK_KF02_M0002_941605_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:02 14:14:40",
+    "store_id": "941605",
+    "store_region": "GK",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.3577981651376145,
+          8.387096774193552
+        ],
+        [
+          99.08256880733946,
+          11.35483870967742
+        ],
+        [
+          91.05504587155966,
+          92.12903225806451
+        ],
+        [
+          6.192660550458716,
+          93.03225806451613
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_KF02_M0002_941605_1-tf-0",
+      "ocr": {
+        "x": 16.487956389046467,
+        "y": 33.996531114481826,
+        "text": "해물칼국수",
+        "width": 27.52921489488282,
+        "height": 3.627334738947053,
+        "rotation": 1.7533801076401119
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "해물칼국수",
+        "en.ROMAN": "haemulkalguksku",
+        "en": "Noodle Soup with Seafood",
+        "ja": "海鮮カルグクス",
+        "zh_CN": "海鲜刀切面",
+        "zh_TW": "海鮮刀切麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0002_941605_1-tf-1",
+      "ocr": {
+        "x": 16.69893946197678,
+        "y": 41.425361125505965,
+        "text": "해물만두전골",
+        "width": 32.40464158537729,
+        "height": 3.5668119753334735,
+        "rotation": 1.1432513875593031
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "해물만두전골",
+        "en.ROMAN": "haemulmandujeongol",
+        "en": "Seafood and Mandu Hot Pot",
+        "ja": "海鮮餃子の寄せ鍋",
+        "zh_CN": "海鲜饺子火锅",
+        "zh_TW": "海鮮餃子火鍋",
+        "price": "12000",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0002_941605_1-tf-2",
+      "ocr": {
+        "x": 16.776984135058786,
+        "y": 48.63676318597142,
+        "text": "해물전복칼국수",
+        "width": 37.34879350171385,
+        "height": 3.5542393585580863,
+        "rotation": 0.5985428575992273
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "해물전복칼국수",
+        "en.ROMAN": "haemuljeonbokkalguksu",
+        "en": "Noodle Soup with Seafood and Abalones",
+        "ja": "海鮮入りアワビカルグクス",
+        "zh_CN": "海鲜鲍鱼刀切面",
+        "zh_TW": "海鮮鮑魚刀切麵",
+        "price": "12000",
+        "ingredients.ko": [
+          "해산물",
+          "전복",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Abalone",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "アワビ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "鲍鱼",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "鮑魚",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "전복",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0002_941605_1-tf-3",
+      "ocr": {
+        "x": 16.800968867306622,
+        "y": 55.75259003906091,
+        "text": "해물전복만두전골",
+        "width": 42.127782319539016,
+        "height": 3.5092661415512163,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "해물전복만두전골",
+        "en.ROMAN": "haemuljeonbongmandujeongol",
+        "en": "Seafood and Abalones Mandu Hot Pot",
+        "ja": "海鮮入りアワビと餃子の寄せ鍋",
+        "zh_CN": "海鲜鲍鱼饺子火锅",
+        "zh_TW": "海鮮鮑魚餃子火鍋",
+        "price": "15000",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루",
+          "채소",
+          "전복"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour",
+          "Vegetables",
+          "Abalone"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉",
+          "野菜",
+          "アワビ"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉",
+          "蔬菜",
+          "鲍鱼"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉",
+          "蔬菜",
+          "鮑魚"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀",
+          "전복"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0002_941605_1-tf-4",
+      "ocr": {
+        "x": 16.87823805646705,
+        "y": 62.81731857925406,
+        "text": "찐만두(김치/고기/반반)",
+        "width": 47.46245444588542,
+        "height": 3.465753625280251,
+        "rotation": 359.5663817296342
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "찐만두(김치/고기/반반)",
+        "en.ROMAN": "jjinmandu(kimchi/gogi/banban)",
+        "en": "Steamed Mandu (Kimchi/Meat/Half and Half)",
+        "ja": "蒸し餃子(キムチ/肉/半々)",
+        "zh_CN": "蒸饺（辛奇/肉类/双拼）",
+        "zh_TW": "蒸餃（辛奇/肉/雙拼）",
+        "price": "8000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0002_941605_1-tf-5",
+      "ocr": {
+        "x": 17.052285674521173,
+        "y": 69.8174150376625,
+        "text": "콩국수",
+        "width": 15.961916060955037,
+        "height": 3.3063183250173203,
+        "rotation": 359.5098049537266
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "콩국수",
+        "en.ROMAN": "kongguksu",
+        "en": "Noodles in Cold Soybean Soup",
+        "ja": "コングクス",
+        "zh_CN": "豆汁面",
+        "zh_TW": "豆汁麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "면",
+          "콩"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Soybeans"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "豆"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "大豆"
+        ],
+        "allergy": [
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

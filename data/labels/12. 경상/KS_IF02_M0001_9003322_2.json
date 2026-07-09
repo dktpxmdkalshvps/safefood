@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "file_name": "KS_IF02_M0001_9003322_2.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:13 12:12:00",
+    "store_id": "9003322",
+    "store_region": "KS",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          99.04761904761905,
+          0.35714285714285715
+        ],
+        [
+          99.04761904761905,
+          99.46428571428574
+        ],
+        [
+          0,
+          99.82142857142857
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "마라두부덮밥",
+        "en.ROMAN": "mala dubudeopbap",
+        "en": "Mala Bean Curd with Rice",
+        "ja": "麻辣豆腐丼",
+        "zh_CN": "麻辣豆腐盖饭",
+        "zh_TW": "麻辣豆腐蓋飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "두부",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Bean Curd",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豆腐",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_1",
+      "ocr": {
+        "x": 48.8701639578407,
+        "y": 23.12325798939588,
+        "text": "마라두부덮밥",
+        "width": 43.36586884688362,
+        "height": 6.396135345047341,
+        "rotation": 1.1330035906163403
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "어향육슬덮밥",
+        "en.ROMAN": "eohyangnyukseuldeopbap",
+        "en": "Stir-fried Fish-flavored Pork with Rice",
+        "ja": "魚香肉絲丼",
+        "zh_CN": "鱼香肉丝盖饭",
+        "zh_TW": "魚香肉絲蓋飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_3",
+      "ocr": {
+        "x": 48.93828921199335,
+        "y": 37.52018440305494,
+        "text": "어향육슬덮밥",
+        "width": 43.074705016438806,
+        "height": 6.573495656191525,
+        "rotation": 1.0961942433482932
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "어향가지덮밥",
+        "en.ROMAN": "eohyanggajideopbap",
+        "en": "Stir-fried Fish-flavored Eggplant with Rice",
+        "ja": "魚香なす丼",
+        "zh_CN": "鱼香茄子盖饭",
+        "zh_TW": "魚香茄子蓋飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "어향소스",
+          "가지",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Fish-flavored Sauce",
+          "Eggplant",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "魚香ソース",
+          "茄子",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鱼香酱",
+          "茄子",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "魚香肉絲醬",
+          "茄子",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_5",
+      "ocr": {
+        "x": 48.55556100987334,
+        "y": 52.71205901832017,
+        "text": "어향가기덮밥",
+        "width": 42.92021693280801,
+        "height": 6.58794098167981,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "토마토계란덮밥",
+        "en.ROMAN": "tomato gyerandeopbap",
+        "en": "Stir-fried Tomato and Egg with Rice",
+        "ja": "トマト卵丼",
+        "zh_CN": "番茄鸡蛋盖饭",
+        "zh_TW": "番茄雞蛋蓋飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "쌀",
+          "계란",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Eggs",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "米",
+          "卵",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "鸡蛋",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "雞蛋",
+          "番茄"
+        ],
+        "allergy": [
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_7",
+      "ocr": {
+        "x": 48.24472619637421,
+        "y": 66.47482360732818,
+        "text": "토마토계란덮밥",
+        "width": 42.4093042679976,
+        "height": 6.075352785343837,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "온면",
+        "en.ROMAN": "onmyeon",
+        "en": "Warm Noodles",
+        "ja": "温麺",
+        "zh_CN": "温面",
+        "zh_TW": "溫麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "면",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "高湯"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_9",
+      "ocr": {
+        "x": 12.30017761989345,
+        "y": 81.00598821548238,
+        "text": "온면",
+        "width": 7.204409284599118,
+        "height": 2.2940117845178367,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉면",
+        "en.ROMAN": "naengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_12",
+      "ocr": {
+        "x": 54.04085257548851,
+        "y": 81.08532940516086,
+        "text": "냉면",
+        "width": 7.311622089353039,
+        "height": 2.3956588103214616,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_13",
+      "ocr": {
+        "x": 12.30017761989344,
+        "y": 85.93098821548232,
+        "text": "볶음밥",
+        "width": 10.989635620708036,
+        "height": 2.2940117845178207,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "볶음면",
+        "en.ROMAN": "bokkeummyeon",
+        "en": "Fried Noodles",
+        "ja": "炒麺",
+        "zh_CN": "炒面",
+        "zh_TW": "炒麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_16",
+      "ocr": {
+        "x": 54.04085257548847,
+        "y": 85.97500000000014,
+        "text": "볶음면",
+        "width": 10.77521001120027,
+        "height": 2.3999999999999373,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "특미비빔면",
+        "en.ROMAN": "teungmibibimmyeon",
+        "en": "Spicy Noodles Special",
+        "ja": "特上混ぜ素麺",
+        "zh_CN": "特级美味拌面",
+        "zh_TW": "特色拌麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_17",
+      "ocr": {
+        "x": 12.211367673179405,
+        "y": 90.73098821548226,
+        "text": "특미비빔면",
+        "width": 17.984014209591496,
+        "height": 2.3526941638748804,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "물만두",
+        "en.ROMAN": "mulmandu",
+        "en": "Boiled Mandu",
+        "ja": "水餃子",
+        "zh_CN": "水饺",
+        "zh_TW": "水餃",
+        "price": "6000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_9003322_2-tf_20",
+      "ocr": {
+        "x": 53.907637655417425,
+        "y": 90.82500000000003,
+        "text": "물만두",
+        "width": 10.908424931271304,
+        "height": 2.3,
+        "rotation": 0
+      }
+    }
+  ]
+}

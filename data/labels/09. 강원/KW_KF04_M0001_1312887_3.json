@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "file_name": "KW_KF04_M0001_1312887_3.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 2268,
+    "captured_date": "2022:11:05 10:56:08",
+    "store_id": "1312887",
+    "store_region": "KW",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          31.187122736418505,
+          1.4285714285714286
+        ],
+        [
+          64.58752515090544,
+          5
+        ],
+        [
+          66.80080482897385,
+          92.85714285714286
+        ],
+        [
+          32.59557344064387,
+          98.92857142857143
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉면",
+        "en.ROMAN": "naengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0001_1312887_3-tf_2",
+      "ocr": {
+        "x": 38.410302805853235,
+        "y": 16.69683243973988,
+        "text": "냉면",
+        "width": 6.246239436454405,
+        "height": 5.90686105190001,
+        "rotation": 2.777856196665482
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "소면",
+        "en.ROMAN": "somyeon",
+        "en": "Noodles",
+        "ja": "素麺",
+        "zh_CN": "龙须面",
+        "zh_TW": "細麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "소면"
+        ],
+        "ingredients.en": [
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "素麺"
+        ],
+        "ingredients.zh_CN": [
+          "龙须面"
+        ],
+        "ingredients.zh_TW": [
+          "細麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0001_1312887_3-tf_4",
+      "ocr": {
+        "x": 38.51567448945939,
+        "y": 23.54375225292755,
+        "text": "소면",
+        "width": 6.257811139057396,
+        "height": 5.57054182624227,
+        "rotation": 2.3132776196742952
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0001_1312887_3-tf_8",
+      "ocr": {
+        "x": 38.691021324087494,
+        "y": 30.907965925783454,
+        "text": "된장찌개",
+        "width": 12.216271093243684,
+        "height": 5.7855086482714455,
+        "rotation": 1.1858745214256032
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0001_1312887_3-tf_10",
+      "ocr": {
+        "x": 38.73969672806067,
+        "y": 37.70006177598285,
+        "text": "공기밥",
+        "width": 9.405240747798397,
+        "height": 5.91210077631751,
+        "rotation": 359.99996802050646
+      }
+    }
+  ]
+}

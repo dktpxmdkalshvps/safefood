@@ -1,0 +1,493 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_18734_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "18734",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 4.475043029259895,
+        "y": 0.9032258064516129,
+        "width": 55.765920826161775,
+        "height": 97.41935483870967,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "전복오골계탕",
+        "en.ROMAN": "jeonbogogolgyetang",
+        "en": "Abalone and Silkie Chicken Soup",
+        "ja": "アワビ入り烏骨鶏スープ",
+        "zh_CN": "鲍鱼乌鸡汤",
+        "zh_TW": "鮑魚烏骨雞湯",
+        "price": "30000",
+        "ingredients.ko": [
+          "전복",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "雞肉"
+        ],
+        "allergy": [
+          "전복",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_0",
+      "ocr": {
+        "x": 12.228050895377097,
+        "y": 13.978446508158246,
+        "text": "전복오골계탕",
+        "width": 12.433862433862421,
+        "height": 2.0463913244725145,
+        "rotation": 1.0353779411572646
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "산삼전복오골계탕",
+        "en.ROMAN": "sansamjeonbogogolgyetang",
+        "en": "Abalone and Wild Ginseng Silkie Chicken Soup",
+        "ja": "天然高麗人蔘入り烏骨鶏スープ",
+        "zh_CN": "山参鲍鱼乌鸡汤",
+        "zh_TW": "山蔘鮑魚烏骨雞湯",
+        "price": "36000",
+        "ingredients.ko": [
+          "산삼",
+          "전복",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Wild Ginseng",
+          "Abalone",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "山参",
+          "アワビ",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "山参",
+          "鲍鱼",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "山蔘",
+          "鮑魚",
+          "雞肉"
+        ],
+        "allergy": [
+          "전복",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_1",
+      "ocr": {
+        "x": 41.133928882224666,
+        "y": 14.265572649514384,
+        "text": "산삼전복오골계탕",
+        "width": 16.588182592727122,
+        "height": 2.0263647741293487,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "오골계탕",
+        "en.ROMAN": "ogolgyetang",
+        "en": "Silkie Chicken Soup",
+        "ja": "烏骨鶏スープ",
+        "zh_CN": "乌鸡汤",
+        "zh_TW": "烏骨雞湯",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_24",
+      "ocr": {
+        "x": 15.884794516372297,
+        "y": 27.07951964746582,
+        "text": "오골계탕",
+        "width": 8.625880383833325,
+        "height": 2.043469222197333,
+        "rotation": 0.542516496030089
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "산삼오골계탕",
+        "en.ROMAN": "sansamogolgyetang",
+        "en": "Wild Ginseng Silkie Chicken Soup",
+        "ja": "天然高麗人蔘入り烏骨鶏スープ",
+        "zh_CN": "山参乌鸡汤",
+        "zh_TW": "山蔘烏骨雞湯",
+        "price": "30000",
+        "ingredients.ko": [
+          "오골계고기",
+          "산삼"
+        ],
+        "ingredients.en": [
+          "Silkie Chicken",
+          "Wild Ginseng"
+        ],
+        "ingredients.ja": [
+          "烏骨鶏",
+          "山参"
+        ],
+        "ingredients.zh_CN": [
+          "乌鸡",
+          "山参"
+        ],
+        "ingredients.zh_TW": [
+          "烏骨雞肉",
+          "山蔘"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_25",
+      "ocr": {
+        "x": 42.833884583316504,
+        "y": 27.28174603174602,
+        "text": "산삼오골계탕",
+        "width": 12.424051924619988,
+        "height": 2.0162939560293833,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "전복삼계탕",
+        "en.ROMAN": "jeonboksamgyetang",
+        "en": "Abalone and Ginseng Chicken Soup",
+        "ja": "アワビサムゲタン",
+        "zh_CN": "鲍鱼参鸡汤",
+        "zh_TW": "鮑魚蔘雞湯",
+        "price": "24000",
+        "ingredients.ko": [
+          "전복",
+          "인삼",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Ginseng",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "高麗人参",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "人参",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "人蔘",
+          "雞肉"
+        ],
+        "allergy": [
+          "전복",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_41",
+      "ocr": {
+        "x": 13.375772122931787,
+        "y": 39.977453296659576,
+        "text": "전복삼계탕",
+        "width": 10.820766574174975,
+        "height": 2.1705143468372214,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "산삼전복삼계탕",
+        "en.ROMAN": "sansamjeonboksamgyetang",
+        "en": "Abalone and Wild Ginseng Chicken Soup",
+        "ja": "天然高麗人蔘入りアワビサムゲタン",
+        "zh_CN": "山参鲍鱼参鸡汤",
+        "zh_TW": "山蔘鮑魚蔘雞湯",
+        "price": "30000",
+        "ingredients.ko": [
+          "산삼",
+          "전복",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Wild Ginseng",
+          "Abalone",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "山参",
+          "アワビ",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "山参",
+          "鲍鱼",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "山蔘",
+          "鮑魚",
+          "雞肉"
+        ],
+        "allergy": [
+          "전복",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_42",
+      "ocr": {
+        "x": 42.84005783721752,
+        "y": 40.15106440777069,
+        "text": "산삼전복삼계탕",
+        "width": 14.584434590115237,
+        "height": 2.0786733822316807,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "산삼삼계탕",
+        "en.ROMAN": "sansamsamgyetang",
+        "en": "Wild Ginseng Chicken Soup",
+        "ja": "山参入りサムゲタン",
+        "zh_CN": "山参参鸡汤",
+        "zh_TW": "山蔘雞湯",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "산삼"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wild Ginseng"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "山参"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "山参"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "山蔘"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_61",
+      "ocr": {
+        "x": 42.59512859115211,
+        "y": 54.17869200236901,
+        "text": "산삼삼계탕",
+        "width": 10.831678340199344,
+        "height": 2.096109584932484,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "삼계탕",
+        "en.ROMAN": "samgyetang",
+        "en": "Ginseng Chicken Soup",
+        "ja": "サムゲタン",
+        "zh_CN": "参鸡汤",
+        "zh_TW": "蔘雞湯",
+        "price": "18000",
+        "ingredients.ko": [
+          "인삼",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Ginseng",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "高麗人参",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "人参",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_62",
+      "ocr": {
+        "x": 17.26807801580574,
+        "y": 54.21822435887235,
+        "text": "삼계탕",
+        "width": 6.723874728987333,
+        "height": 2.096109584932459,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고려통닭",
+        "en.ROMAN": "Goryeotongdak",
+        "en": "Goryeo Grilled Whole Chicken",
+        "ja": "高麗チキン",
+        "zh_CN": "高丽炸鸡",
+        "zh_TW": "高麗烤雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_76",
+      "ocr": {
+        "x": 13.986993981313312,
+        "y": 67.87923901094527,
+        "text": "고려통닭",
+        "width": 9.69752920661828,
+        "height": 2.1007695360341128,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "전복죽",
+        "en.ROMAN": "jeonbokjuk",
+        "en": "Abalone Porridge",
+        "ja": "アワビ粥",
+        "zh_CN": "鲍鱼粥",
+        "zh_TW": "鮑魚粥",
+        "price": "18000",
+        "ingredients.ko": [
+          "전복",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_18734_1-tf_82",
+      "ocr": {
+        "x": 16.431547929843727,
+        "y": 81.54491361411992,
+        "text": "전복죽",
+        "width": 6.83289158743612,
+        "height": 2.297227716844298,
+        "rotation": 0
+      }
+    }
+  ]
+}

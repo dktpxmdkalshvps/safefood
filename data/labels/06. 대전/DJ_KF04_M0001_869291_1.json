@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "file_name": "DJ_KF04_M0001_869291_1.jpg",
+    "image_original_width": 2250,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:05 18:13:06",
+    "store_id": "869291",
+    "store_region": "DJ",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          98.03921568627452,
+          72.40618101545257
+        ],
+        [
+          78.43137254901961,
+          2.2075055187637975
+        ],
+        [
+          3.9215686274509802,
+          2.4282560706401766
+        ],
+        [
+          1.1764705882352942,
+          77.92494481236203
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "통큰한판",
+        "en.ROMAN": "tongkeunhanpan",
+        "en": "Assorted Grilled Beef Cuts",
+        "ja": "トンクン一式",
+        "zh_CN": "大手笔套餐",
+        "zh_TW": "大份拼盤",
+        "price": "72000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0001_869291_1-tf_1",
+      "ocr": {
+        "x": 37.884176745091025,
+        "y": 10.053434297534293,
+        "text": "통큰한판",
+        "width": 39.01463063517669,
+        "height": 5.737123944034344,
+        "rotation": 355.98759914379684
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "등심",
+        "en.ROMAN": "deungsim",
+        "en": "Grilled Sirloin",
+        "ja": "ロース",
+        "zh_CN": "里脊",
+        "zh_TW": "里肌",
+        "price": "24000",
+        "ingredients.ko": [
+          "등심"
+        ],
+        "ingredients.en": [
+          "Sirloin"
+        ],
+        "ingredients.ja": [
+          "ロース"
+        ],
+        "ingredients.zh_CN": [
+          "外脊肉"
+        ],
+        "ingredients.zh_TW": [
+          "里肌"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0001_869291_1-tf_9",
+      "ocr": {
+        "x": 22.25252938936858,
+        "y": 56.95104152229345,
+        "text": "등심",
+        "width": 11.27206351720936,
+        "height": 3.787952840226469,
+        "rotation": 356.396479069695
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0003_717330_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "717330",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          11.131059245960502,
+          1.345895020188425
+        ],
+        [
+          91.38240574506284,
+          3.095558546433378
+        ],
+        [
+          92.10053859964096,
+          99.32705248990578
+        ],
+        [
+          7.360861759425494,
+          99.19246298788694
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "봉추찜닭",
+        "en.ROMAN": "bongchujjimdak",
+        "en": "Spicy Braised Chicken",
+        "ja": "ボンチュチムダク",
+        "zh_CN": "凤雏炖鸡",
+        "zh_TW": "鳳雛燉雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "야채",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0003_717330_1-tf-0",
+      "ocr": {
+        "x": 19.518140620651796,
+        "y": 39.594011456997,
+        "text": "봉추찜닭",
+        "width": 20.396589480400195,
+        "height": 4.774557509811097,
+        "rotation": 1.578796010067549
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "뼈없는찜닭",
+        "en.ROMAN": "ppyeoeomneunjjimdak",
+        "en": "Braised Boneless Chicken",
+        "ja": "骨無しチムダク",
+        "zh_CN": "炖无骨鸡",
+        "zh_TW": "無骨燉雞",
+        "price": "26000",
+        "ingredients.ko": [
+          "야채",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0003_717330_1-tf-1",
+      "ocr": {
+        "x": 17.560610099862732,
+        "y": 65.62152341950484,
+        "text": "뼈없는찜닭",
+        "width": 27.014996321822327,
+        "height": 4.799299531608012,
+        "rotation": 1.0588660353867567
+      }
+    }
+  ]
+}

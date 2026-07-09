@@ -1,0 +1,1227 @@
+{
+  "meta": {
+    "file_name": "SL_KF04_M0002_423467_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:10:20 13:56:24",
+    "store_id": "423467",
+    "store_region": "SL",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          7.314897413024085,
+          34.7068145800317
+        ],
+        [
+          81.44513826940232,
+          39.3026941362916
+        ],
+        [
+          80.99910793933988,
+          99.84152139461173
+        ],
+        [
+          6.512042818911684,
+          99.68304278922345
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "족발",
+        "en.ROMAN": "jokbal",
+        "en": "Braised Pigs' Feet",
+        "ja": "豚足",
+        "zh_CN": "酱猪蹄",
+        "zh_TW": "豬腳",
+        "price": "45000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_0",
+      "ocr": {
+        "x": 9.856031756896085,
+        "y": 40.59279149266116,
+        "text": "족발",
+        "width": 12.238389240922729,
+        "height": 5.0138341255841254,
+        "rotation": 1.7086184405593485
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "탕",
+        "ko": "해물짬뽕라면탕",
+        "en.ROMAN": "haemuljjamppongnamyeontang",
+        "en": "Spicy Seafood Instant Noodle Soup",
+        "ja": "海鮮チャンポンラーメン",
+        "zh_CN": "海鲜炒码方便面汤",
+        "zh_TW": "海鮮炒碼泡麵湯",
+        "price": "12000",
+        "ingredients.ko": [
+          "해물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_2",
+      "ocr": {
+        "x": 36.868138235536826,
+        "y": 41.82546000576431,
+        "text": "해물짬뽕라면탕",
+        "width": 13.657303075374985,
+        "height": 4.786596004720371,
+        "rotation": 2.07790771561514
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "쟁반막국수",
+        "en.ROMAN": "jaengbanmakguksu",
+        "en": "Jumbo Buckwheat Noodles",
+        "ja": "大皿混ぜそば",
+        "zh_CN": "大盘荞麦凉面",
+        "zh_TW": "大盤蕎麥麵",
+        "price": "12000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "오이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Cucumber"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "キュウリ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "黄瓜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "小黃瓜"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_6",
+      "ocr": {
+        "x": 36.84140115753728,
+        "y": 47.838529624059795,
+        "text": "쟁반막국수",
+        "width": 9.817046863115426,
+        "height": 4.665546140374188,
+        "rotation": 2.077907715614799
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "순두부",
+        "en.ROMAN": "sundubu",
+        "en": "Soft Bean Curd",
+        "ja": "スンドゥブ",
+        "zh_CN": "嫩豆腐",
+        "zh_TW": "嫩豆腐",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_8",
+      "ocr": {
+        "x": 60.63445370518141,
+        "y": 49.067937791232815,
+        "text": "순두부",
+        "width": 5.50822301346534,
+        "height": 4.049468180359515,
+        "rotation": 1.8609403775847113
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "족발반추가",
+        "en.ROMAN": "jokbalbanchuga",
+        "en": "Extra Serving of Half Braised Pigs' Feet",
+        "ja": "豚足半分追加",
+        "zh_CN": "另加半份酱猪蹄",
+        "zh_TW": "加點醬燒豬腳半份",
+        "price": "26000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_10",
+      "ocr": {
+        "x": 9.684002800396579,
+        "y": 52.89900035184606,
+        "text": "족발반추가",
+        "width": 12.349839189313174,
+        "height": 4.397887918907608,
+        "rotation": 1.5504030712652366
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "볶음김치순두부",
+        "en.ROMAN": "bokkeum kimchi sundubu",
+        "en": "Stir-fried Kimchi and Soft Bean Curd Jjigae",
+        "ja": "キムチ入りスンドゥブ炒め",
+        "zh_CN": "炒辛奇嫩豆腐锅",
+        "zh_TW": "炒辛奇嫩豆腐",
+        "price": "9000",
+        "ingredients.ko": [
+          "김치",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_11",
+      "ocr": {
+        "x": 60.59052977815521,
+        "y": 53.60083002836167,
+        "text": "볶음김치순두부",
+        "width": 12.9746389573023,
+        "height": 4.018714360922308,
+        "rotation": 1.8609403775855071
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "김치만두탕",
+        "en.ROMAN": "kimchi mandutang",
+        "en": "Kimchi and Mandu Soup",
+        "ja": "キムチ入り餃子スープ",
+        "zh_CN": "辛奇饺子汤",
+        "zh_TW": "辛奇餃子湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "김치",
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_12",
+      "ocr": {
+        "x": 36.79858105216539,
+        "y": 53.83430391616818,
+        "text": "김치만두탕",
+        "width": 9.906805431072746,
+        "height": 4.772536660220052,
+        "rotation": 1.4617502237634312
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "들깨순두부",
+        "en.ROMAN": "deulkkaesundubu",
+        "en": "Perilla Seed and Soft Bean Curd Stew",
+        "ja": "エゴマ入りスンドゥブ",
+        "zh_CN": "紫苏嫩豆腐锅",
+        "zh_TW": "紫蘇嫩豆腐鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_15",
+      "ocr": {
+        "x": 60.5770162909623,
+        "y": 58.117447876385604,
+        "text": "들깨순두부",
+        "width": 9.52600259028488,
+        "height": 4.150693717674823,
+        "rotation": 1.8609403775849387
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "직화불족발",
+        "en.ROMAN": "jikhwabuljokbal",
+        "en": "Grilled Spicy Braised Pigs' Feet",
+        "ja": "直火激辛豚足",
+        "zh_CN": "直火劲辣酱猪蹄",
+        "zh_TW": "直火辣味豬腳",
+        "price": "45000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_17",
+      "ocr": {
+        "x": 9.653397841426449,
+        "y": 59.31184853474611,
+        "text": "직화불족발",
+        "width": 12.276531085970975,
+        "height": 5.041798498489195,
+        "rotation": 1.5504030712659755
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "부추전",
+        "en.ROMAN": "buchujeon",
+        "en": "Chive Pancake",
+        "ja": "ニラのチヂミ",
+        "zh_CN": "韭菜煎饼",
+        "zh_TW": "韭菜煎餅",
+        "price": "8000",
+        "ingredients.ko": [
+          "계란",
+          "밀가루",
+          "부추"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Wheat Flour",
+          "Chives"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "小麦粉",
+          "ニラ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "面粉",
+          "韭菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "麵粉",
+          "韭菜"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_18",
+      "ocr": {
+        "x": 36.73106789384833,
+        "y": 59.77859133639716,
+        "text": "부추전",
+        "width": 5.996268921750328,
+        "height": 4.645960118490899,
+        "rotation": 1.378050868223795
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "김치전",
+        "en.ROMAN": "kimchijeon",
+        "en": "Kimchi Pancake",
+        "ja": "キムチのチヂミ",
+        "zh_CN": "辛奇煎饼",
+        "zh_TW": "辛奇煎餅",
+        "price": "8000",
+        "ingredients.ko": [
+          "김치",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_23",
+      "ocr": {
+        "x": 36.69086054248324,
+        "y": 65.6863958025261,
+        "text": "김치전",
+        "width": 5.998196077832243,
+        "height": 4.624762949915126,
+        "rotation": 1.1267448019115136
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "보쌈",
+        "en.ROMAN": "bossam",
+        "en": "Napa Wraps with Pork",
+        "ja": "ポサム",
+        "zh_CN": "菜包肉",
+        "zh_TW": "菜包肉",
+        "price": "45000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_24",
+      "ocr": {
+        "x": 9.591039268914885,
+        "y": 66.27847378788721,
+        "text": "보쌈",
+        "width": 12.269084840765336,
+        "height": 4.747092351073927,
+        "rotation": 1.5504030712647818
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "보쌈정식",
+        "en.ROMAN": "bossamjeongsik",
+        "en": "Napa Wraps with Pork Set Menu",
+        "ja": "ポサム定食",
+        "zh_CN": "菜包肉套餐",
+        "zh_TW": "菜包肉套餐",
+        "price": "12000",
+        "ingredients.ko": [
+          "채소",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_27",
+      "ocr": {
+        "x": 60.44622168651274,
+        "y": 67.34000502997931,
+        "text": "보쌈정식",
+        "width": 7.329883903907197,
+        "height": 4.100259450614388,
+        "rotation": 1.3245288000040318
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "계란찜",
+        "en.ROMAN": "gyeranjjim",
+        "en": "Steamed Eggs",
+        "ja": "茶碗蒸し",
+        "zh_CN": "鸡蛋羹",
+        "zh_TW": "蒸蛋",
+        "price": "7000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_29",
+      "ocr": {
+        "x": 36.55554740921742,
+        "y": 71.5874636467309,
+        "text": "계란찜",
+        "width": 6.11379046333184,
+        "height": 4.61167897884211,
+        "rotation": 1.12674480191248
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "족발정식",
+        "en.ROMAN": "jokbaljeongsik",
+        "en": "Braised Pigs' Feet Set Menu",
+        "ja": "豚足定食",
+        "zh_CN": "酱猪蹄套餐",
+        "zh_TW": "豬腳套餐",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_30",
+      "ocr": {
+        "x": 60.44848403295517,
+        "y": 71.95380841457624,
+        "text": "족발정식",
+        "width": 7.239412878847231,
+        "height": 4.052107073027517,
+        "rotation": 1.324528800004316
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "치즈날치알계란찜",
+        "en.ROMAN": "cheese nalchialgyeranjjim",
+        "en": "Steamed Eggs with Cheese and Flying Fish Roe",
+        "ja": "チーズ入りトビコ茶碗蒸し",
+        "zh_CN": "奶酪飞鱼子炖鸡蛋",
+        "zh_TW": "起司飛魚卵蒸雞蛋",
+        "price": "10000",
+        "ingredients.ko": [
+          "치즈",
+          "날치알",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Flying Fish Roe",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "トビコ",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "飞鱼子",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "飛魚卵",
+          "雞蛋"
+        ],
+        "allergy": [
+          "우유",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_34",
+      "ocr": {
+        "x": 36.51009772124871,
+        "y": 77.52219652044519,
+        "text": "치즈날치알계란찜",
+        "width": 13.925800700168525,
+        "height": 4.773905525190131,
+        "rotation": 0.5794776026608588
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "보쌈고기추가",
+        "en.ROMAN": "bossamgogi chuga",
+        "en": "Extra Serving of Pork",
+        "ja": "ポサム追加",
+        "zh_CN": "另加菜包肉",
+        "zh_TW": "加點菜包肉",
+        "price": "26000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_35",
+      "ocr": {
+        "x": 9.455450371172613,
+        "y": 78.6164369212765,
+        "text": "보쌈고기추가",
+        "width": 12.28955715397773,
+        "height": 4.3967663788057525,
+        "rotation": 0.9577707129926694
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "날치알주먹밥",
+        "en.ROMAN": "nalchialjumeokbap",
+        "en": "Flying Fish Roe Riceball",
+        "ja": "トビコ入りおにぎり",
+        "zh_CN": "飞鱼子饭团",
+        "zh_TW": "飛魚卵飯糰",
+        "price": "5000",
+        "ingredients.ko": [
+          "쌀",
+          "날치알",
+          "김"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Flying Fish Roe",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "米",
+          "トビコ",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "飞鱼子",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "飛魚卵",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_38",
+      "ocr": {
+        "x": 36.47084605515034,
+        "y": 83.34296592217193,
+        "text": "날치알주먹밥",
+        "width": 11.82324005680415,
+        "height": 4.81327306783664,
+        "rotation": 0.5732449378362503
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "족발+불족",
+        "en.ROMAN": "jokbal+buljok",
+        "en": "Braised Pigs' Feet + Spicy Braised Pigs' Feet",
+        "ja": "豚足+激辛豚足",
+        "zh_CN": "酱猪蹄+劲辣猪蹄",
+        "zh_TW": "豬腳+勁辣豬腳",
+        "price": "47000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_40",
+      "ocr": {
+        "x": 9.451396128345142,
+        "y": 86.62955749215978,
+        "text": "족발+불족",
+        "width": 12.044308069947181,
+        "height": 5.328596802841921,
+        "rotation": 0.9577707129922715
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "복국",
+        "en.ROMAN": "bokguk",
+        "en": "Puffer Fish Soup",
+        "ja": "ふぐスープ",
+        "zh_CN": "河豚汤",
+        "zh_TW": "河魨湯",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "복어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Puffer Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ふぐ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "河豚"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "河豚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_42",
+      "ocr": {
+        "x": 60.3323510554059,
+        "y": 87.82778480525931,
+        "text": "복국",
+        "width": 2.7176489445941527,
+        "height": 3.3095238444021255,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔면",
+        "en.ROMAN": "bibimmyeon",
+        "en": "Spicy Noodles",
+        "ja": "混ぜ素麺",
+        "zh_CN": "拌面",
+        "zh_TW": "拌麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_43",
+      "ocr": {
+        "x": 69.90234259879166,
+        "y": 87.92184724689139,
+        "text": "비빔면",
+        "width": 4.074198887265316,
+        "height": 3.5523978685612727,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "어리굴젓추가",
+        "en.ROMAN": "eoriguljeot chuga",
+        "en": "Extra Serving of Spicy Salted Oysters",
+        "ja": "味付けカキの塩辛追加",
+        "zh_CN": "另加辣牡蛎酱",
+        "zh_TW": "加點小牡蠣醬",
+        "price": "8000",
+        "ingredients.ko": [
+          "굴"
+        ],
+        "ingredients.en": [
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_44",
+      "ocr": {
+        "x": 36.41785482481851,
+        "y": 89.25861673951765,
+        "text": "어리굴젓추가",
+        "width": 11.831635898647415,
+        "height": 4.804096518812869,
+        "rotation": 0.5732449378375009
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "복탕",
+        "en.ROMAN": "boktang",
+        "en": "Puffer Fish Soup",
+        "ja": "ふぐスープ",
+        "zh_CN": "河豚汤",
+        "zh_TW": "河魨湯",
+        "price": "11000",
+        "ingredients.ko": [
+          "채소",
+          "복어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Puffer Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ふぐ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "河豚"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "河豚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_47",
+      "ocr": {
+        "x": 60.279404221623764,
+        "y": 92.33878876661052,
+        "text": "복탕",
+        "width": 2.7838405013469285,
+        "height": 3.254613881208202,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "밀면",
+        "en.ROMAN": "milmyeon",
+        "en": "Wheat Noodles",
+        "ja": "ミルミョン(小麦冷麺)",
+        "zh_CN": "小麦面",
+        "zh_TW": "小麥麵條",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "밀가루",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Wheat Flour",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "小麦粉",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "面粉",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵粉",
+          "高湯"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_46",
+      "ocr": {
+        "x": 69.87311941576142,
+        "y": 92.36234458259308,
+        "text": "밀면",
+        "width": 2.7268805842385917,
+        "height": 3.4191829484902283,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "보쌈+족발",
+        "en.ROMAN": "bossam+jokbal",
+        "en": "Napa Wraps with Pork + Boiled Pork Slices",
+        "ja": "ポサム+豚足",
+        "zh_CN": "菜包肉+酱猪蹄",
+        "zh_TW": "菜包肉+豬腳",
+        "price": "49000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_49",
+      "ocr": {
+        "x": 9.326356281844635,
+        "y": 93.99809939511327,
+        "text": "보쌈+족발",
+        "width": 12.287570881797055,
+        "height": 5.195381882770871,
+        "rotation": 0.9577707129922715
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "만두",
+        "en.ROMAN": "mandu",
+        "en": "Mandu",
+        "ja": "餃子",
+        "zh_CN": "饺子",
+        "zh_TW": "餃子",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_423467_1-tf_54",
+      "ocr": {
+        "x": 60.18675527702947,
+        "y": 96.84199439673363,
+        "text": "만두",
+        "width": 2.7882447229705516,
+        "height": 3.1580056032663815,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_971573_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "971573",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          11.24593132967541,
+          5.474459822762122
+        ],
+        [
+          84.5655534961158,
+          5.807959714004267
+        ],
+        [
+          84.5655534961158,
+          78.67768595041315
+        ],
+        [
+          9.030837004405306,
+          77.84393622230782
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "불고기덮밥",
+        "en.ROMAN": "bulgogideopbap",
+        "en": "Stir-fried Bulgogi with Rice",
+        "ja": "プルゴギ丼",
+        "zh_CN": "烤牛肉盖饭",
+        "zh_TW": "烤牛肉蓋飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_971573_2-tf_1",
+      "ocr": {
+        "x": 15.158776077454675,
+        "y": 14.77847435448676,
+        "text": "불고기덮밥",
+        "width": 44.40895864089165,
+        "height": 4.703010696433416,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "햄사리",
+        "en.ROMAN": "ham sari",
+        "en": "Extra Ham",
+        "ja": "ハム追加",
+        "zh_CN": "另加火腿",
+        "zh_TW": "加點火腿",
+        "price": "4000",
+        "ingredients.ko": [
+          "햄"
+        ],
+        "ingredients.en": [
+          "Ham"
+        ],
+        "ingredients.ja": [
+          "ハム"
+        ],
+        "ingredients.zh_CN": [
+          "午餐肉"
+        ],
+        "ingredients.zh_TW": [
+          "火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_971573_2-tf_4",
+      "ocr": {
+        "x": 15.3456032221121,
+        "y": 20.949763610573402,
+        "text": "햄사리",
+        "width": 15.397157942509557,
+        "height": 4.823391577784062,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "소세지사리",
+        "en.ROMAN": "sausage sari",
+        "en": "Extra Sausages",
+        "ja": "ソーセージ追加",
+        "zh_CN": "另加香肠",
+        "zh_TW": "香腸",
+        "price": "4000",
+        "ingredients.ko": [
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "ucbZkNHrI0",
+      "ocr": {
+        "x": 32.11149948294265,
+        "y": 21.00715153770126,
+        "text": "소세지사리",
+        "width": 26.529454541362398,
+        "height": 4.977013372635753,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "만두사리",
+        "en.ROMAN": "mandusari",
+        "en": "Extra Mandu",
+        "ja": "餃子追加",
+        "zh_CN": "另加饺子",
+        "zh_TW": "加點餃子",
+        "price": "3000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_971573_2-tf_6",
+      "ocr": {
+        "x": 14.948777825286662,
+        "y": 26.993773252893195,
+        "text": "만두사리",
+        "width": 43.823618221211895,
+        "height": 5.198687064566963,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "사리면",
+        "en.ROMAN": "sarimyeon",
+        "en": "Extra Noodles",
+        "ja": "麺追加",
+        "zh_CN": "另加面条",
+        "zh_TW": "加點麵",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_971573_2-tf_8",
+      "ocr": {
+        "x": 14.866949806713228,
+        "y": 33.31610940529915,
+        "text": "사리면",
+        "width": 44.01996457701915,
+        "height": 5.125316607411563,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "쫄면",
+        "en.ROMAN": "jjolmyeon",
+        "en": "Spicy Chewy Noodles",
+        "ja": "チョルミョン",
+        "zh_CN": "辣拌筋面",
+        "zh_TW": "Q麵",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "콩나물",
+          "면",
+          "쫄면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Sprout",
+          "Noodles",
+          "Chewy Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆もやし",
+          "麺",
+          "チョルミョン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "黄豆芽",
+          "大豆",
+          "筋面"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "黃豆芽",
+          "麵",
+          "Q麵"
+        ],
+        "allergy": [
+          "콩",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_971573_2-tf_12",
+      "ocr": {
+        "x": 14.668537108300482,
+        "y": 39.48946727088452,
+        "text": "쫄면",
+        "width": 13.612402392705102,
+        "height": 4.8266632550432,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "당면",
+        "en.ROMAN": "dangmyeon",
+        "en": "Glass Noodles",
+        "ja": "春雨の替え玉",
+        "zh_CN": "粉条",
+        "zh_TW": "粉條",
+        "price": "2000",
+        "ingredients.ko": [
+          "전분"
+        ],
+        "ingredients.en": [
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "澱粉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "pIl7LpHcEM",
+      "ocr": {
+        "x": 33.79294378486001,
+        "y": 39.65342699011133,
+        "text": "당면",
+        "width": 13.451554415338693,
+        "height": 4.8368158128431995,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "떡",
+        "en.ROMAN": "tteok",
+        "en": "Rice Cake",
+        "ja": "トク",
+        "zh_CN": "年糕",
+        "zh_TW": "年糕",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "米"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "pFsp6IbUCx",
+      "ocr": {
+        "x": 52.9427261122518,
+        "y": 39.72352577000751,
+        "text": "떡",
+        "width": 5.604814339724508,
+        "height": 4.766717032946931,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_971573_2-tf_14",
+      "ocr": {
+        "x": 14.503193192956559,
+        "y": 45.937879969296894,
+        "text": "소주",
+        "width": 44.73301604304753,
+        "height": 4.891421748181706,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_971573_2-tf_17",
+      "ocr": {
+        "x": 14.687850918429909,
+        "y": 51.90480117619584,
+        "text": "맥주",
+        "width": 44.35639446733185,
+        "height": 4.852281683179619,
+        "rotation": 0.7020803987550153
+      }
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0003_9000608_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:10:31 22:11:02",
+    "store_id": "9000608",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          75.64276048714477,
+          3.3502538071065997
+        ],
+        [
+          18.40324763193504,
+          3.9593908629441623
+        ],
+        [
+          21.650879566982407,
+          93.70558375634518
+        ],
+        [
+          79.16102841677943,
+          92.08121827411168
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "통돼지김치찌개",
+        "en.ROMAN": "tongdwaejikimchijjigae",
+        "en": "Whole Pork and Kimchi Jjigae",
+        "ja": "豚肉入りキムチチゲ",
+        "zh_CN": "整块猪肉辛奇汤",
+        "zh_TW": "豬肉辛奇鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0003_9000608_1-tf_1",
+      "ocr": {
+        "x": 24.87616431730679,
+        "y": 16.79915513342138,
+        "text": "통돼지김치찌개",
+        "width": 27.77707083719279,
+        "height": 2.800566775288052,
+        "rotation": 359.5731162759356
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "직화쭈꾸미볶음",
+        "en.ROMAN": "jikhwajjukkumibokkeum",
+        "en": "Stir-fried Webfoot Octopus",
+        "ja": "直火イイダコ炒め",
+        "zh_CN": "直火辣炒八爪鱼",
+        "zh_TW": "直火辣炒小章魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0003_9000608_1-tf_6",
+      "ocr": {
+        "x": 25.18877559806227,
+        "y": 28.33207537720854,
+        "text": "직화쭈꾸미볶음",
+        "width": 27.821761740566977,
+        "height": 2.789034044225927,
+        "rotation": 359.2528773968057
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0003_9000608_1-tf_11",
+      "ocr": {
+        "x": 27.933824556408627,
+        "y": 65.4828169942481,
+        "text": "소주",
+        "width": 7.4631792294364505,
+        "height": 1.8578873022421174,
+        "rotation": 358.030204188177
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0003_9000608_1-tf_12",
+      "ocr": {
+        "x": 28.037815549450794,
+        "y": 67.59002942532031,
+        "text": "맥주",
+        "width": 7.396221360081801,
+        "height": 1.913614650093759,
+        "rotation": 357.67400585402146
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0003_9000608_1-tf_13",
+      "ocr": {
+        "x": 28.13633402451976,
+        "y": 69.69504622085579,
+        "text": "막걸리",
+        "width": 7.054345278292976,
+        "height": 1.9750242350861886,
+        "rotation": 357.66867317069153
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0003_9000608_1-tf_14",
+      "ocr": {
+        "x": 28.18160810517862,
+        "y": 71.91082169796627,
+        "text": "음료수",
+        "width": 7.270549088284989,
+        "height": 1.933076015800703,
+        "rotation": 357.4609544113901
+      }
+    }
+  ]
+}

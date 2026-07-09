@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "file_name": "GK_KF03_M0001_9000876_8.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:04 13:38:21",
+    "store_id": "9000876",
+    "store_region": "GK",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.132231404958679,
+          0.3105590062111801
+        ],
+        [
+          100,
+          0
+        ],
+        [
+          95.45454545454545,
+          96.8944099378882
+        ],
+        [
+          4.545454545454546,
+          97.51552795031056
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "생크프로마쥬피자",
+        "en.ROMAN": "saengkeu fromage pizza",
+        "en": "Cinq Fromage Pizza",
+        "ja": "サンクプロマージュピザ",
+        "zh_CN": "5种奶酪混合披萨",
+        "zh_TW": "鮮奶油起司披薩",
+        "price": "24000",
+        "ingredients.ko": [
+          "밀가루",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF03_M0001_9000876_8-tf_3",
+      "ocr": {
+        "x": 14.065338195238644,
+        "y": 23.42986242841904,
+        "text": "생크프로마쥬피자",
+        "width": 18.15939246124385,
+        "height": 2.144608338776993,
+        "rotation": 2.722772818859994
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "프로슈토루꼴라피자",
+        "en.ROMAN": "prosciutto rucola pizza",
+        "en": "Prosciutto Arugula Pizza",
+        "ja": "プロシュートルッコラピザ",
+        "zh_CN": "意大利熏火腿芝麻菜披萨",
+        "zh_TW": "帕瑪火腿芝麻葉披薩",
+        "price": "24000",
+        "ingredients.ko": [
+          "야채",
+          "모짜렐라치즈",
+          "밀가루",
+          "루꼴라",
+          "프로슈토"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mozzarella",
+          "Wheat Flour",
+          "Arugula",
+          "Prosciutto"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "モッツァレラチーズ",
+          "小麦粉",
+          "ルッコラ",
+          "プロシュート"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "马苏里拉奶酪",
+          "面粉",
+          "芝麻菜",
+          "意大利熏火腿"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "莫札瑞拉起司",
+          "麵粉",
+          "芝麻菜",
+          "義大利帕馬生火腿"
+        ],
+        "allergy": [
+          "우유",
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF03_M0001_9000876_8-tf_9",
+      "ocr": {
+        "x": 13.822613197892753,
+        "y": 48.798747225943195,
+        "text": "프로슈토루꼴라피자",
+        "width": 19.743599750858913,
+        "height": 1.9469388817262705,
+        "rotation": 1.5124946458074078
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "비스마르크피자",
+        "en.ROMAN": "bismarck pizza",
+        "en": "Bismarck Pizza",
+        "ja": "ビスマルクピザ",
+        "zh_CN": "俾斯麦披萨",
+        "zh_TW": "俾斯麥披薩",
+        "price": "34000",
+        "ingredients.ko": [
+          "야채",
+          "모짜렐라치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mozzarella",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "モッツァレラチーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "马苏里拉奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "莫札瑞拉起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF03_M0001_9000876_8-tf_15",
+      "ocr": {
+        "x": 14.05385200432973,
+        "y": 72.44436531540016,
+        "text": "비스마르크피자",
+        "width": 14.502517298695462,
+        "height": 1.7249999999999963,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+{
+  "meta": {
+    "file_name": "BS_KF04_M0003_9004026_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:15 20:29:15",
+    "store_id": "9004026",
+    "store_region": "BS",
+    "store_type": "KF04",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          81.95709214384938,
+          19.861030689056157
+        ],
+        [
+          78.71585121160673,
+          82.28141285466126
+        ],
+        [
+          15.434480629726815,
+          79.03879559930515
+        ],
+        [
+          22.534341719401148,
+          17.77649102489865
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "7d2sxh_eCv",
+      "ocr": {
+        "x": 28.604302509957137,
+        "y": 50.646378772261244,
+        "text": "된장찌개",
+        "width": 7.404972680482239,
+        "height": 1.8072040952646418,
+        "rotation": 2.8631682209582436
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "새우",
+        "en.ROMAN": "saeu",
+        "en": "Shrimp",
+        "ja": "海老",
+        "zh_CN": "虾",
+        "zh_TW": "蝦",
+        "price": "2000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_34",
+      "ocr": {
+        "x": 50.96135446149147,
+        "y": 51.602674950654716,
+        "text": "새우",
+        "width": 3.91400435070881,
+        "height": 1.7913139707886445,
+        "rotation": 2.2338352313379914
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "5000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_36",
+      "ocr": {
+        "x": 28.47215737594568,
+        "y": 52.657767634321594,
+        "text": "김치찌개",
+        "width": 7.3458948361292915,
+        "height": 1.8138275939421553,
+        "rotation": 2.6799756995471853
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "새송이버섯",
+        "en.ROMAN": "saesongibeoseot",
+        "en": "King Oyster Mushrooms",
+        "ja": "エリンギ",
+        "zh_CN": "杏鲍菇",
+        "zh_TW": "杏鮑菇",
+        "price": "2000",
+        "ingredients.ko": [
+          "새송이버섯"
+        ],
+        "ingredients.en": [
+          "King Oyster Mushroom"
+        ],
+        "ingredients.ja": [
+          "エリンギ"
+        ],
+        "ingredients.zh_CN": [
+          "杏鲍菇"
+        ],
+        "ingredients.zh_TW": [
+          "杏鮑菇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_38",
+      "ocr": {
+        "x": 50.76196789617875,
+        "y": 53.86256207183773,
+        "text": "새송이버섯",
+        "width": 9.363452886523598,
+        "height": 1.9223728044214952,
+        "rotation": 2.4511130341687704
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "냉면(물/비빔)",
+        "en.ROMAN": "naengmyeon(mul/bibim)",
+        "en": "Cold Buckwheat Noodles/Spicy Buckwheat Noodles",
+        "ja": "冷麺(水/混ぜ)",
+        "zh_CN": "冷面（冷/拌）",
+        "zh_TW": "冷麵（水/拌）",
+        "price": "5000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_39",
+      "ocr": {
+        "x": 28.32053017883079,
+        "y": 54.59389595484251,
+        "text": "냉면(물/비빔)",
+        "width": 11.331766464661118,
+        "height": 1.8701958020282818,
+        "rotation": 2.4801508676712274
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "파인애플",
+        "en.ROMAN": "pineapple",
+        "en": "Pineapples",
+        "ja": "パインアップル",
+        "zh_CN": "菠萝",
+        "zh_TW": "鳳梨",
+        "price": "1000",
+        "ingredients.ko": [
+          "파인애플"
+        ],
+        "ingredients.en": [
+          "Pineapple"
+        ],
+        "ingredients.ja": [
+          "パインアップル"
+        ],
+        "ingredients.zh_CN": [
+          "菠萝"
+        ],
+        "ingredients.zh_TW": [
+          "鳳梨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_41",
+      "ocr": {
+        "x": 50.54271403860489,
+        "y": 56.155642696170865,
+        "text": "파인애플",
+        "width": 7.7245733825998295,
+        "height": 1.884355869430768,
+        "rotation": 3.101791604133666
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_42",
+      "ocr": {
+        "x": 28.007368216361773,
+        "y": 56.6196323048009,
+        "text": "공기밥",
+        "width": 5.758328037190559,
+        "height": 1.8373602714442714,
+        "rotation": 2.781498755568009
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "대선",
+        "en.ROMAN": "daeseon",
+        "en": "Daesun Soju",
+        "ja": "デソン",
+        "zh_CN": "大鲜",
+        "zh_TW": "大鮮",
+        "price": "5000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_50",
+      "ocr": {
+        "x": 31.056795087289842,
+        "y": 67.47565918726048,
+        "text": "대선",
+        "width": 2.6787796013079603,
+        "height": 1.3750000000000022,
+        "rotation": 2.5751445015254717
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "진로",
+        "en.ROMAN": "jinro",
+        "en": "Jinro Soju",
+        "ja": "ジンロ(焼酎)",
+        "zh_CN": "真露",
+        "zh_TW": "真露",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_51",
+      "ocr": {
+        "x": 34.681079317520904,
+        "y": 67.64154470467338,
+        "text": "진로",
+        "width": 2.7615128950709384,
+        "height": 1.3157049489276609,
+        "rotation": 3.490097348737663
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "참이슬",
+        "en.ROMAN": "chamisul",
+        "en": "Chamiseul",
+        "ja": "チャミスル",
+        "zh_CN": "真露",
+        "zh_TW": "真露燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "fAMt__Iy-M",
+      "ocr": {
+        "x": 38.34702313243687,
+        "y": 67.80875481545881,
+        "text": "참이슬",
+        "width": 3.967732497892433,
+        "height": 1.3565388608025972,
+        "rotation": 3.077455399423343
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "좋은데이",
+        "en.ROMAN": "joeun day",
+        "en": "Good Day (Soju)",
+        "ja": "チョウンデイ(焼酎)",
+        "zh_CN": "好日子",
+        "zh_TW": "好日子燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_52",
+      "ocr": {
+        "x": 43.20028810795785,
+        "y": 68.05606274505138,
+        "text": "좋은데이",
+        "width": 5.109310989991303,
+        "height": 1.3694580993072465,
+        "rotation": 2.5648658665740527
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "코카콜라",
+        "en.ROMAN": "coca cola",
+        "en": "Coca Cola",
+        "ja": "コカコーラ",
+        "zh_CN": "可口可乐",
+        "zh_TW": "可口可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_53",
+      "ocr": {
+        "x": 50.29108800056851,
+        "y": 68.35356686142393,
+        "text": "코카콜라",
+        "width": 5.275635512643765,
+        "height": 1.353367052260106,
+        "rotation": 3.2014656982560723
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다(스프라이트)",
+        "en.ROMAN": "cider (sprite)",
+        "en": "Cider (Sprite)",
+        "ja": "サイダー(スプライト)",
+        "zh_CN": "汽水（雪碧）",
+        "zh_TW": "汽水（雪碧）",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_55",
+      "ocr": {
+        "x": 56.92169517826062,
+        "y": 68.61214017515562,
+        "text": "사이다(스프라이트)",
+        "width": 11.084602583234943,
+        "height": 1.3908106504213502,
+        "rotation": 3.41466910520262
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "카스",
+        "en.ROMAN": "cass",
+        "en": "Cass",
+        "ja": "カス(ビール)",
+        "zh_CN": "CASS",
+        "zh_TW": "CASS",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_54",
+      "ocr": {
+        "x": 30.89965403619599,
+        "y": 68.69729029372654,
+        "text": "카스",
+        "width": 2.811762468405218,
+        "height": 1.3591679899513114,
+        "rotation": 2.7403512640408962
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "테라",
+        "en.ROMAN": "terra",
+        "en": "Terra",
+        "ja": "テラ(ビール)",
+        "zh_CN": "Terra",
+        "zh_TW": "TERRA",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "UcafQM_sSH",
+      "ocr": {
+        "x": 34.58678450852981,
+        "y": 68.9175925723797,
+        "text": "테라",
+        "width": 2.82198734310889,
+        "height": 1.323707718759085,
+        "rotation": 3.289242678488449
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "한맥",
+        "en.ROMAN": "hanmac",
+        "en": "Hanmac",
+        "ja": "ハンメク(ビール)",
+        "zh_CN": "Hanmac",
+        "zh_TW": "Hanmac",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CVpM6-lF6O",
+      "ocr": {
+        "x": 38.23421045529758,
+        "y": 69.0658504282755,
+        "text": "한맥",
+        "width": 2.724336062430131,
+        "height": 1.3591669674945974,
+        "rotation": 3.1975577738490415
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "제로콜라(펩시라임향)",
+        "en.ROMAN": "zero cola (pepsi lime hyang)",
+        "en": "Coke Zero (Pepsi Lime)",
+        "ja": "ゼロコーラ(ペプシライム)",
+        "zh_CN": "zero可乐（百事酸橙味）",
+        "zh_TW": "零卡可樂（百事萊姆香）",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_56",
+      "ocr": {
+        "x": 50.19751344669028,
+        "y": 69.59246132704229,
+        "text": "제로콜라(펩시라임향)",
+        "width": 12.467257220340587,
+        "height": 1.384546761706369,
+        "rotation": 3.3571752296668933
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "환타(파인)",
+        "en.ROMAN": "fanta(pine)",
+        "en": "Fanta (Pineapple)",
+        "ja": "ファンタ(パイナップル)",
+        "zh_CN": "芬达（橙子）",
+        "zh_TW": "芬達（鳳梨）",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0003_9004026_1-tf_57",
+      "ocr": {
+        "x": 64.4260517546136,
+        "y": 70.20438886677866,
+        "text": "환타(파인)",
+        "width": 6.126472068702034,
+        "height": 1.4642538401042138,
+        "rotation": 2.9668520288529976
+      }
+    }
+  ]
+}

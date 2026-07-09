@@ -1,0 +1,693 @@
+{
+  "meta": {
+    "file_name": "JR_IF03_M0001_1501041_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:13 15:45:40",
+    "store_id": "1501041",
+    "store_region": "JR",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          1.6803947957238947
+        ],
+        [
+          67.11590296495957,
+          3.519342096851473
+        ],
+        [
+          67.54542752047959,
+          98.73448465340996
+        ],
+        [
+          10.689589621564014,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "우럭매운탕",
+        "en.ROMAN": "ureongmaeuntang",
+        "en": "Spicy Rockfish Stew",
+        "ja": "クロソイの辛味スープ",
+        "zh_CN": "鲜辣石斑鱼汤",
+        "zh_TW": "鮮辣石斑魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "우럭"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rockfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "クロソイ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "石斑鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "石斑魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_3",
+      "ocr": {
+        "x": 14.3228510305294,
+        "y": 24.49279161606856,
+        "text": "우럭매운탕",
+        "width": 18.766233631900672,
+        "height": 2.4616562879485824,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "내장탕",
+        "en.ROMAN": "naejangtang",
+        "en": "Offal Soup",
+        "ja": "ネジャンタン",
+        "zh_CN": "内脏汤",
+        "zh_TW": "內臟湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "소내장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef Offal"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛内臓"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛内脏"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛內臟"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_5",
+      "ocr": {
+        "x": 14.670669856289562,
+        "y": 28.638110897844328,
+        "text": "내장탕",
+        "width": 18.57680271626217,
+        "height": 2.408858576967787,
+        "rotation": 359.5029396869644
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "복매운탕",
+        "en.ROMAN": "bongmaeuntang",
+        "en": "Spicy Puffer Fish Stew",
+        "ja": "ふぐの辛味スープ",
+        "zh_CN": "鲜辣河豚汤",
+        "zh_TW": "鮮辣河魨湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "복어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Puffer Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ふぐ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "河豚"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "河豚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_7",
+      "ocr": {
+        "x": 14.909721087067384,
+        "y": 32.80399131839332,
+        "text": "복매운탕",
+        "width": 18.477573579015345,
+        "height": 2.4198728684770114,
+        "rotation": 358.95400331689723
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "아구매운탕",
+        "en.ROMAN": "agumaeuntang",
+        "en": "Spicy Monkfish Stew",
+        "ja": "アンコウの辛味スープ",
+        "zh_CN": "鲜辣安康鱼汤",
+        "zh_TW": "鮮辣鮟鱇魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "아귀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮟鱇魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_10",
+      "ocr": {
+        "x": 15.457733214976857,
+        "y": 36.83819311422785,
+        "text": "아구매운탕",
+        "width": 18.13474595061185,
+        "height": 2.408245654555494,
+        "rotation": 358.87929106611347
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "조기매운탕",
+        "en.ROMAN": "jogimaeuntang",
+        "en": "Spicy Yellow Croaker Stew",
+        "ja": "イシモチの辛味スープ",
+        "zh_CN": "鲜辣黄花鱼汤",
+        "zh_TW": "鮮辣黃花魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "조기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Yellow Croaker"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イシモチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "黄花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "黃花魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_11",
+      "ocr": {
+        "x": 15.546088862721431,
+        "y": 40.83653785492488,
+        "text": "조기매운탕",
+        "width": 18.2188839294868,
+        "height": 2.4321718030606934,
+        "rotation": 358.55275030880176
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "홍어매운탕",
+        "en.ROMAN": "hongeomaeuntang",
+        "en": "Spicy skate soup.",
+        "ja": "ガンギエイの辛味スープ",
+        "zh_CN": "辣斑鳐汤",
+        "zh_TW": "辣斑鰩湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "홍어",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Skate",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "ガンギエイ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "斑鳐",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "斑甕鰩",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_13",
+      "ocr": {
+        "x": 15.834794978083185,
+        "y": 44.65341744345362,
+        "text": "홍어매운탕",
+        "width": 18.20107204255726,
+        "height": 2.4381459192106565,
+        "rotation": 358.8958972792126
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "생태탕",
+        "en.ROMAN": "saengtaetang",
+        "en": "Spicy Pollack Stew",
+        "ja": "スケトウダラスープ",
+        "zh_CN": "鲜明太鱼汤",
+        "zh_TW": "鮮明太魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "생태"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "生スケソウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鲜明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮮明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_16",
+      "ocr": {
+        "x": 16.266029770501024,
+        "y": 48.683923977440095,
+        "text": "생태탕",
+        "width": 18.030903463635223,
+        "height": 2.3557586692584556,
+        "rotation": 358.0892130190377
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "대구매운탕",
+        "en.ROMAN": "daegumaeuntang",
+        "en": "Spicy Codfish Stew",
+        "ja": "たらの辛味スープ",
+        "zh_CN": "鲜辣鳕鱼汤",
+        "zh_TW": "鮮辣鱈魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "채소",
+          "대구"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_19",
+      "ocr": {
+        "x": 16.51774855232253,
+        "y": 52.53561499152788,
+        "text": "대구매운탕",
+        "width": 17.816186817502306,
+        "height": 2.2850324837991858,
+        "rotation": 357.8150557961522
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "활어초밥",
+        "en.ROMAN": "hwareochobap",
+        "en": "Fresh Fish Sushi",
+        "ja": "活魚寿司",
+        "zh_CN": "鲜鱼寿司",
+        "zh_TW": "鮮魚壽司",
+        "price": "15000",
+        "ingredients.ko": [
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_21",
+      "ocr": {
+        "x": 16.76000582980113,
+        "y": 56.28705853157977,
+        "text": "활어초밥",
+        "width": 17.799262574595875,
+        "height": 2.3611370763664996,
+        "rotation": 357.64726450576364
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "전복초밥",
+        "en.ROMAN": "jeonbokchobap",
+        "en": "Abalone Sushi",
+        "ja": "アワビ寿司",
+        "zh_CN": "鲍鱼寿司",
+        "zh_TW": "鮑魚壽司",
+        "price": "20000",
+        "ingredients.ko": [
+          "전복",
+          "쌀",
+          "단촛물"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice",
+          "Rice Vinegar"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米",
+          "すし酢"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米",
+          "糖醋水"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米",
+          "甜醋水"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_23",
+      "ocr": {
+        "x": 17.07805655178017,
+        "y": 60.08191397514977,
+        "text": "전복초밥",
+        "width": 17.673207529765,
+        "height": 2.3030987614691862,
+        "rotation": 357.4373203899022
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "회덮밥",
+        "en.ROMAN": "hoedeopbap",
+        "en": "Raw Fish Bibimbap",
+        "ja": "刺身丼",
+        "zh_CN": "生鱼片盖饭",
+        "zh_TW": "生魚片蓋飯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_26",
+      "ocr": {
+        "x": 17.448141454869408,
+        "y": 63.76730186618933,
+        "text": "회덮밥",
+        "width": 17.460851082430676,
+        "height": 2.271298543735022,
+        "rotation": 357.5174449232149
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "전복죽",
+        "en.ROMAN": "jeonbokjuk",
+        "en": "Abalone Porridge",
+        "ja": "アワビ粥",
+        "zh_CN": "鲍鱼粥",
+        "zh_TW": "鮑魚粥",
+        "price": "15000",
+        "ingredients.ko": [
+          "전복",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_28",
+      "ocr": {
+        "x": 17.73628255412263,
+        "y": 67.42282793417296,
+        "text": "전복죽",
+        "width": 17.332032158140027,
+        "height": 2.160500303848181,
+        "rotation": 357.59490655936753
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "희락정식",
+        "en.ROMAN": "huirakjeongsik",
+        "en": "The Joy and Rak Set Menu",
+        "ja": "喜楽定食",
+        "zh_CN": "喜乐定式",
+        "zh_TW": "喜樂定式",
+        "price": "30000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_24",
+      "ocr": {
+        "x": 18.093213706653046,
+        "y": 71.01873166355172,
+        "text": "희락정식",
+        "width": 16.89514495730203,
+        "height": 2.265953929536787,
+        "rotation": 356.9874737028374
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "서대매운탕",
+        "en.ROMAN": "seodaemaeuntang",
+        "en": "Spicy Tongue Sole Stew",
+        "ja": "アカシタビラメの辛味スープ",
+        "zh_CN": "鲜辣舌头鱼汤",
+        "zh_TW": "鮮辣窄體舌鰨湯",
+        "price": "15000",
+        "ingredients.ko": [],
+        "ingredients.en": [
+          "Vegetables",
+          "Tongue Sole"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "アカシタビラメ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "舌头鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "窄體舌鰨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_31",
+      "ocr": {
+        "x": 18.321574638290166,
+        "y": 74.55992299077589,
+        "text": "서대매운탕",
+        "width": 17.155183489151515,
+        "height": 2.1930060071311126,
+        "rotation": 357.36579597000963
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "민어탕",
+        "en.ROMAN": "mineotang",
+        "en": "Freshwater Fish Stew",
+        "ja": "ニベスープ",
+        "zh_CN": "黄姑鱼汤",
+        "zh_TW": "鮸魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "민어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Croaker"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ニベ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鮸鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮸魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_IF03_M0001_1501041_1-tf_33",
+      "ocr": {
+        "x": 18.591968783572515,
+        "y": 78.16427730182527,
+        "text": "민어탕",
+        "width": 17.115900950755798,
+        "height": 2.1211093177208933,
+        "rotation": 356.9181554639203
+      }
+    }
+  ]
+}

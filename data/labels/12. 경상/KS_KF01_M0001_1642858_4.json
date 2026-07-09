@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "file_name": "KS_KF01_M0001_1642858_4.jpg",
+    "image_original_width": 3468,
+    "image_original_height": 4624,
+    "captured_date": "2022:11:28 14:13:02",
+    "store_id": "1642858",
+    "store_region": "KS",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          21.44026186579378,
+          16.687116564417177
+        ],
+        [
+          17.6759410801964,
+          84.1717791411043
+        ],
+        [
+          65.30278232405891,
+          92.26993865030674
+        ],
+        [
+          60.39279869067103,
+          0.8588957055214724
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "7LgTUINB_P",
+      "ocr": {
+        "x": 43.73288877767168,
+        "y": 10.88705810651117,
+        "text": "공기밥",
+        "width": 4.167862045849076,
+        "height": 1.146351348160313,
+        "rotation": 333.9264549212014
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "옻오리백숙",
+        "en.ROMAN": "odoribaeksuk",
+        "en": "Whole Duck Soup with Sumac",
+        "ja": "漆エキス入り鴨肉の水炊き",
+        "zh_CN": "漆木清炖鸭",
+        "zh_TW": "漆木藥膳燉鴨",
+        "price": "55000",
+        "ingredients.ko": [
+          "야채",
+          "오리고기",
+          "마늘",
+          "옻"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Duck Meat",
+          "Garlic",
+          "Sumac"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鴨肉",
+          "にんにく",
+          "漆"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸭肉",
+          "大蒜",
+          "漆木"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鴨肉",
+          "大蒜",
+          "漆"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0001_1642858_4-tf_22",
+      "ocr": {
+        "x": 28.871012768209564,
+        "y": 76.15899688395618,
+        "text": "옻오리백숙",
+        "width": 11.913257749779305,
+        "height": 3.0081889260180885,
+        "rotation": 4.349924830586247
+      }
+    }
+  ]
+}

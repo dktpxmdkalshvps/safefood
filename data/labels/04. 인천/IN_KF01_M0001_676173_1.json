@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0001_676173_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:28 17:32:08",
+    "store_id": "676173",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.2074688796680498,
+          3.8880248833592534
+        ],
+        [
+          91.07883817427386,
+          2.6438569206842923
+        ],
+        [
+          94.6058091286307,
+          96.57853810264383
+        ],
+        [
+          0.2074688796680498,
+          96.73405909797823
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "곱도리탕세트",
+        "en.ROMAN": "gopdoritang set",
+        "en": "Gopdoritang Set",
+        "ja": "コプトリタンセット",
+        "zh_CN": "牛小肠炖汤套装",
+        "zh_TW": "牛小腸燉湯套裝",
+        "price": "38000",
+        "ingredients.ko": [
+          "닭고기",
+          "소내장육"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Beef Intestine"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "牛内臓肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "牛内脏"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "牛雜"
+        ],
+        "allergy": [
+          "닭고기",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0001_676173_1-tf_7",
+      "ocr": {
+        "x": 50.88662191752567,
+        "y": 21.857531180078293,
+        "text": "곱도리탕세트",
+        "width": 22.36507831099688,
+        "height": 3.0962344099608377,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "곱도리탕세트",
+        "en.ROMAN": "gopdoritang set",
+        "en": "Gopdoritang Set",
+        "ja": "コプトリタンセット",
+        "zh_CN": "牛小肠炖汤套装",
+        "zh_TW": "牛小腸燉湯套裝",
+        "price": "40000",
+        "ingredients.ko": [
+          "김치",
+          "쇠고기",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Beef",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "牛肉",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "牛肉",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "牛肉",
+          "雞肉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0001_676173_1-tf_19",
+      "ocr": {
+        "x": 6.617144791176906,
+        "y": 62.747870956980215,
+        "text": "묵은지곱도리탕세트",
+        "width": 34.786966548811606,
+        "height": 3.2430410182112497,
+        "rotation": 359.41479483058856
+      }
+    }
+  ]
+}

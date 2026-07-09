@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "file_name": "IN_IF03_M0004_9006223_5.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:18 14:04:28",
+    "store_id": "9006223",
+    "store_region": "IN",
+    "store_type": "IF03",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.624733475479744,
+          0.16
+        ],
+        [
+          11.513859275053305,
+          88.31999999999998
+        ],
+        [
+          76.33262260127934,
+          88.16000000000003
+        ],
+        [
+          81.02345415778251,
+          0.32
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "로제파스타우동",
+        "en.ROMAN": "rosé pasta udon",
+        "en": "Rose Pasta Udon",
+        "ja": "ロゼパスタうどん",
+        "zh_CN": "番茄奶油意大利面乌冬",
+        "zh_TW": "番茄奶油義大利麵烏龍麵",
+        "price": "9500",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SI8JZXm-sO",
+      "ocr": {
+        "x": 61.21283811197821,
+        "y": 22.138038138332668,
+        "text": "로제파스타우동",
+        "width": 11.553585378401598,
+        "height": 1.7529427925009855,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "베이컨크림우동",
+        "en.ROMAN": "bacon cream udon",
+        "en": "Bacon and Cream Udon",
+        "ja": "ベーコンクリームうどん",
+        "zh_CN": "培根奶油乌冬面",
+        "zh_TW": "培根奶油烏龍麵",
+        "price": "10000",
+        "ingredients.ko": [
+          "베이컨",
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Bacon",
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "ベーコン",
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "培根",
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "培根",
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "dPkqlfy-yf",
+      "ocr": {
+        "x": 43.225047724972,
+        "y": 22.24,
+        "text": "베이컨크림우동",
+        "width": 11.668544526677753,
+        "height": 1.7599999999999996,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "명란크림우동",
+        "en.ROMAN": "myeongnan cream udon",
+        "en": "Pollack Roe and Cream Udon",
+        "ja": "明太子クリームうどん",
+        "zh_CN": "明太鱼子奶油乌冬面",
+        "zh_TW": "明太子奶油烏龍麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "명란",
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Pollack Roe",
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "明太子",
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼子",
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "明太子",
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "i190PJjPdp",
+      "ocr": {
+        "x": 25.141106450921523,
+        "y": 22.327847446669256,
+        "text": "명란크림우동",
+        "width": 10.117472848664683,
+        "height": 1.744305106661488,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "투움바파스타우동",
+        "en.ROMAN": "Toowoomba pasta udon",
+        "en": "Toowoomba Pasta Udon",
+        "ja": "辛味クリームパスタうどん",
+        "zh_CN": "图文巴意大利面乌冬面",
+        "zh_TW": "辣味奶油義大利麵烏龍麵",
+        "price": "11500",
+        "ingredients.ko": [
+          "밀가루",
+          "토마토",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Tomato",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "トマト",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "番茄",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "番茄",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BcuCQN6RQ4",
+      "ocr": {
+        "x": 7.066569307487055,
+        "y": 22.349019069166342,
+        "text": "투움바파스타우동",
+        "width": 13.470452343359494,
+        "height": 1.81098093083366,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "치쿠와우동",
+        "en.ROMAN": "chikuwa udon",
+        "en": "Chikuwa Udon",
+        "ja": "ちくわうどん",
+        "zh_CN": "乌冬面",
+        "zh_TW": "烏龍麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "biwemO32lR",
+      "ocr": {
+        "x": 60.83552911353309,
+        "y": 37.27294279250086,
+        "text": "치쿠와우동",
+        "width": 8.324969162598935,
+        "height": 1.7741144149981078,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "토마토파스타우동",
+        "en.ROMAN": "tomato pasta udon",
+        "en": "Tomato Pasta Udon",
+        "ja": "トマトパスタうどん",
+        "zh_CN": "番茄意大利面乌冬面",
+        "zh_TW": "番茄義大利麵烏龍麵",
+        "price": "8500",
+        "ingredients.ko": [
+          "토마토",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Tomato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "トマト",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "番茄",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "番茄",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CZ65OheiOL",
+      "ocr": {
+        "x": 26.167478428596702,
+        "y": 37.425885585001794,
+        "text": "토마토파스타우동",
+        "width": 12.889327859325686,
+        "height": 1.8094004524933396,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "소고기우동스끼야끼",
+        "en.ROMAN": "sogogi udon sukiyaki",
+        "en": "Beef Udon Sukiyaki",
+        "ja": "牛肉入りすき焼きうどん",
+        "zh_CN": "牛肉乌冬面寿喜烧",
+        "zh_TW": "牛肉烏龍麵壽喜燒",
+        "price": "12500",
+        "ingredients.ko": [
+          "소고기",
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "7nJOMEQSyK",
+      "ocr": {
+        "x": 43.47799344452494,
+        "y": 37.44,
+        "text": "소고기우동스끼야끼",
+        "width": 14.295118416330281,
+        "height": 1.70196186166732,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "매콤토마토파스타우동",
+        "en.ROMAN": "maekom tomato pasta udon",
+        "en": "Spicy Tomato Pasta Udon",
+        "ja": "辛味トマトパスタうどん",
+        "zh_CN": "香辣番茄意大利面乌冬",
+        "zh_TW": "辣味番茄義大利麵烏龍麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "토마토",
+          "파스타면",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Tomato",
+          "Pasta Noodles",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "トマト",
+          "パスタ麺",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "番茄",
+          "意大利面",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "番茄",
+          "義大利麵",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "ZDBoLMejIK",
+      "ocr": {
+        "x": 8.442037891759414,
+        "y": 37.48392372333458,
+        "text": "매콤토마토파스타우동",
+        "width": 16.14615646697626,
+        "height": 1.7670572074990698,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "왕새우튀김우동",
+        "en.ROMAN": "wangsaeutwigim udon",
+        "en": "Deep-fried Jumbo Shrimp Udon",
+        "ja": "特大海老天ぷらうどん",
+        "zh_CN": "炸大虾乌冬面",
+        "zh_TW": "炸明蝦烏龍麵",
+        "price": "12000",
+        "ingredients.ko": [
+          "새우",
+          "밀가루",
+          "음료",
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Wheat Flour",
+          "Beverage",
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "小麦粉",
+          "飲料水",
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "面粉",
+          "饮料",
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "麵粉",
+          "飲料",
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "-SssbhrSpE",
+      "ocr": {
+        "x": 9.634608832559339,
+        "y": 51.730980930833645,
+        "text": "왕새우튀김우동",
+        "width": 11.443811198972794,
+        "height": 1.716076276665389,
+        "rotation": 0
+      }
+    }
+  ]
+}

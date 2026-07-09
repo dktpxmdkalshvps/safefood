@@ -1,0 +1,746 @@
+{
+  "meta": {
+    "file_name": "KS_KF04_M0002_1791325_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:09:13 19:01:38",
+    "store_id": "1791325",
+    "store_region": "KS",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          86.0236220472441,
+          2.272727272727273
+        ],
+        [
+          7.67716535433071,
+          0.5244755244755245
+        ],
+        [
+          6.791338582677166,
+          99.65034965034963
+        ],
+        [
+          88.9763779527559,
+          99.47552447552448
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "진홍합탕",
+        "en.ROMAN": "jinhonghaptang",
+        "en": "Thick Mussel Soup",
+        "ja": "真ムール貝スープ",
+        "zh_CN": "真贻贝汤",
+        "zh_TW": "真貽貝湯",
+        "price": "18000",
+        "ingredients.ko": [
+          "홍합"
+        ],
+        "ingredients.en": [
+          "Mussels"
+        ],
+        "ingredients.ja": [
+          "ムール貝"
+        ],
+        "ingredients.zh_CN": [
+          "贻贝"
+        ],
+        "ingredients.zh_TW": [
+          "貽貝"
+        ],
+        "allergy": [
+          "홍합"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-0",
+      "ocr": {
+        "x": 65.69679898782249,
+        "y": 20.893961703484777,
+        "text": "진홍합탕",
+        "width": 6.8346030365327195,
+        "height": 3.5968028419182985,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "꼬막숙회",
+        "en.ROMAN": "kkomaksukhoe",
+        "en": "Parboiled Cockles",
+        "ja": "ゆでハイガイ",
+        "zh_CN": "白灼泥蚶",
+        "zh_TW": "燙泥蚶",
+        "price": "18000",
+        "ingredients.ko": [
+          "꼬막"
+        ],
+        "ingredients.en": [
+          "Cockle"
+        ],
+        "ingredients.ja": [
+          "ハイガイ"
+        ],
+        "ingredients.zh_CN": [
+          "泥蚶"
+        ],
+        "ingredients.zh_TW": [
+          "泥蚶"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-1",
+      "ocr": {
+        "x": 65.71859797564487,
+        "y": 26.28774422735346,
+        "text": "꼬막숙회",
+        "width": 6.80640202435521,
+        "height": 3.576022094248523,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "부산오뎅탕",
+        "en.ROMAN": "Busanodengtang",
+        "en": "Busan Fishcake Soup",
+        "ja": "プサン練り物スープ",
+        "zh_CN": "釜山鱼糕汤",
+        "zh_TW": "釜山魚板湯",
+        "price": "20000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-2",
+      "ocr": {
+        "x": 65.80689822868926,
+        "y": 31.642808733900097,
+        "text": "부산오뎅탕",
+        "width": 8.493101771310728,
+        "height": 3.4579009658123008,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "계란찜",
+        "en.ROMAN": "gyeranjjim",
+        "en": "Steamed Eggs",
+        "ja": "茶碗蒸し",
+        "zh_CN": "鸡蛋羹",
+        "zh_TW": "蒸蛋",
+        "price": "3000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-3",
+      "ocr": {
+        "x": 65.91062677526513,
+        "y": 50.91973878769131,
+        "text": "계란찜",
+        "width": 5.205466530918636,
+        "height": 3.4003092807455,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-4",
+      "ocr": {
+        "x": 65.98562677526515,
+        "y": 56.365730850328745,
+        "text": "된장찌개",
+        "width": 6.930466530918612,
+        "height": 3.6253881549998703,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "암돼지급랭삼겹살",
+        "en.ROMAN": "amdwaejigeumnaengsamgyeopsal",
+        "en": "Fast Frozen Pork Belly",
+        "ja": "メス豚急冷サムギョプサル",
+        "zh_CN": "母猪速冻五花肉",
+        "zh_TW": "母豬急冷五花肉",
+        "price": "3900",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-5",
+      "ocr": {
+        "x": 37.949999999999974,
+        "y": 58.6444743108051,
+        "text": "암돼지급랭삼겹살",
+        "width": 13.998033047002686,
+        "height": 3.502395654001388,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "냄비라면",
+        "en.ROMAN": "naembiramyeon",
+        "en": "Hot Pot Instant Noodles",
+        "ja": "鍋ラーメン",
+        "zh_CN": "锅烧方便面",
+        "zh_TW": "鍋燒泡麵",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-6",
+      "ocr": {
+        "x": 66.07672008144885,
+        "y": 61.81172291296625,
+        "text": "냄비라면",
+        "width": 6.898279918551182,
+        "height": 3.5523978685612785,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "암돼지목살",
+        "en.ROMAN": "amdwaejimoksal",
+        "en": "Grilled Sow Shoulder",
+        "ja": "メス豚肩ロース",
+        "zh_CN": "母猪肩肉",
+        "zh_TW": "母豬肩肉",
+        "price": "7500",
+        "ingredients.ko": [
+          "목살"
+        ],
+        "ingredients.en": [
+          "Pork Shoulder"
+        ],
+        "ingredients.ja": [
+          "豚の肩肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肩肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肩肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-7",
+      "ocr": {
+        "x": 37.94447290048251,
+        "y": 63.82958020308908,
+        "text": "암돼지목살",
+        "width": 8.765631335372031,
+        "height": 3.5523978685613025,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "물냉면",
+        "en.ROMAN": "mullaengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "水冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "5500",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-8",
+      "ocr": {
+        "x": 66.09625355053034,
+        "y": 67.3623445825933,
+        "text": "물냉면",
+        "width": 5.318119674204543,
+        "height": 3.4191829484902327,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "암돼지삼겹살",
+        "en.ROMAN": "amdwaejisamgyeopsal",
+        "en": "Grilled Pork Belly",
+        "ja": "メス豚サムギョプサル",
+        "zh_CN": "母猪五花肉",
+        "zh_TW": "雌豬五花肉",
+        "price": "7500",
+        "ingredients.ko": [
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "五花肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-9",
+      "ocr": {
+        "x": 38.00442822797347,
+        "y": 68.9323918817797,
+        "text": "암돼지삼겹살",
+        "width": 10.29989280402286,
+        "height": 3.669280310982766,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔냉면",
+        "en.ROMAN": "bibimnaengmyeon",
+        "en": "Spicy Buckwheat Noodles",
+        "ja": "混ぜ冷麺",
+        "zh_CN": "拌冷面",
+        "zh_TW": "拌冷麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "비빔장",
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Sauce",
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "ビビンソース",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "拌饭酱",
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "拌飯醬",
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-10",
+      "ocr": {
+        "x": 66.2034401628977,
+        "y": 72.7797513321492,
+        "text": "비빔냉면",
+        "width": 6.946559837102312,
+        "height": 3.580983181642843,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "암돼지항정살",
+        "en.ROMAN": "amdwaejihangjeongsal",
+        "en": "Grilled Sow Neck",
+        "ja": "メス豚トロ",
+        "zh_CN": "母猪颈肉",
+        "zh_TW": "母豬頸肉",
+        "price": "7900",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-11",
+      "ocr": {
+        "x": 37.92499999999998,
+        "y": 74.19089373504586,
+        "text": "암돼지항정살",
+        "width": 10.412739733443107,
+        "height": 3.6954295331607074,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "도시락",
+        "en.ROMAN": "dosirak",
+        "en": "Lunch Box",
+        "ja": "お弁当",
+        "zh_CN": "盒饭",
+        "zh_TW": "便當",
+        "price": "5000",
+        "ingredients.ko": [
+          "고추",
+          "쌀",
+          "계란",
+          "햄",
+          "김"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Rice",
+          "Eggs",
+          "Ham",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "米",
+          "卵",
+          "ハム",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "大米",
+          "鸡蛋",
+          "午餐肉",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "米",
+          "雞蛋",
+          "火腿",
+          "海苔"
+        ],
+        "allergy": [
+          "계란",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-12",
+      "ocr": {
+        "x": 66.22662068376682,
+        "y": 78.38253403403098,
+        "text": "추억의도시락",
+        "width": 10.430466530918574,
+        "height": 3.6567788502469383,
+        "rotation": 359.49946819414635
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "암돼지가브리살",
+        "en.ROMAN": "amdwaejigabeurisal",
+        "en": "Grilled Sow Blade-end Fatback",
+        "ja": "メス豚ロースかぶり",
+        "zh_CN": "母猪颊肉",
+        "zh_TW": "母豬頰肉",
+        "price": "8500",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-13",
+      "ocr": {
+        "x": 38.054428227973226,
+        "y": 79.4806828057338,
+        "text": "암돼지가브리살",
+        "width": 11.913838604987605,
+        "height": 3.704327785770512,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "양념돼지갈비",
+        "en.ROMAN": "yangnyeomdwaejigalbi",
+        "en": "Grilled Marinated Pork Galbi",
+        "ja": "味付け豚カルビ",
+        "zh_CN": "调味猪排骨",
+        "zh_TW": "調味豬排骨",
+        "price": "7500",
+        "ingredients.ko": [
+          "돼지갈비"
+        ],
+        "ingredients.en": [
+          "Pork Galbi"
+        ],
+        "ingredients.ja": [
+          "豚カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "猪排骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬排骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-14",
+      "ocr": {
+        "x": 37.92500000000003,
+        "y": 84.82331585642903,
+        "text": "양념돼지갈비",
+        "width": 9.862483629102364,
+        "height": 3.720201017461039,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "돼지껍데기",
+        "en.ROMAN": "dwaejikkeopdegi",
+        "en": "Grilled Pork Rinds",
+        "ja": "豚皮",
+        "zh_CN": "猪皮",
+        "zh_TW": "豬皮",
+        "price": "6900",
+        "ingredients.ko": [
+          "돼지껍데기"
+        ],
+        "ingredients.en": [
+          "Pork Rind"
+        ],
+        "ingredients.ja": [
+          "豚皮"
+        ],
+        "ingredients.zh_CN": [
+          "猪皮"
+        ],
+        "ingredients.zh_TW": [
+          "豬皮"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1791325_1-tf-15",
+      "ocr": {
+        "x": 37.84710839807096,
+        "y": 90.13695791949874,
+        "text": "돼지껍데기",
+        "width": 8.329321031996145,
+        "height": 3.7253390127047474,
+        "rotation": 0
+      }
+    }
+  ]
+}

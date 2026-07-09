@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "file_name": "CC_KF01_M0001_1415215_10.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:11 19:04:04",
+    "store_id": "1415215",
+    "store_region": "CC",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.940357852882704,
+          10.447761194029853
+        ],
+        [
+          93.04174950298211,
+          10.597014925373134
+        ],
+        [
+          91.84890656063618,
+          98.05970149253731
+        ],
+        [
+          10.536779324055663,
+          95.67164179104478
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "고기순두부찌개",
+        "en.ROMAN": "gogisundubujjigae",
+        "en": "Spicy Soft Bean Curd Jjigae with Pork",
+        "ja": "お肉入りスンドゥブチゲ",
+        "zh_CN": "猪肉嫩豆腐锅",
+        "zh_TW": "豬肉嫩豆腐鍋",
+        "price": "13900",
+        "ingredients.ko": [
+          "고기",
+          "두부",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Meat",
+          "Bean Curd",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "肉",
+          "豆腐",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "肉",
+          "豆腐",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "肉",
+          "豆腐",
+          "蔬菜"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0001_1415215_10-tf_6",
+      "ocr": {
+        "x": 57.17994898525342,
+        "y": 41.852443161535795,
+        "text": "고기순두부찌개",
+        "width": 20.638826660831207,
+        "height": 2.9201136769284375,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "나가사끼짬뽕",
+        "en.ROMAN": "Nagasaki jjamppong",
+        "en": "Nagasaki Seafood Noodle Soup",
+        "ja": "長崎チャンポン",
+        "zh_CN": "长崎炒码面",
+        "zh_TW": "長崎炒碼麵",
+        "price": "24500",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "돼지고기",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Pork",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "豚肉",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "猪肉",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "豬肉",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0001_1415215_10-tf_10",
+      "ocr": {
+        "x": 48.833333333333336,
+        "y": 55.6,
+        "text": "나가사끼짬뽕",
+        "width": 16.366666666666667,
+        "height": 2.95,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "해물짬뽕탕",
+        "en.ROMAN": "haemuljjamppongtang",
+        "en": "Spicy Seafood Soup",
+        "ja": "海鮮チャンポンスープ",
+        "zh_CN": "海鲜炒码面",
+        "zh_TW": "海鮮炒碼湯",
+        "price": "18500",
+        "ingredients.ko": [
+          "야채",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0001_1415215_10-tf_15",
+      "ocr": {
+        "x": 39.03333333333335,
+        "y": 70.87499999999993,
+        "text": "해물짬뽕탕",
+        "width": 14.068991876233275,
+        "height": 2.8675180394343798,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "얼큰시원오뎅탕",
+        "en.ROMAN": "eolkeunsiwonodengtang",
+        "en": "Spicy Fishcake Soup",
+        "ja": "辛味練り天スープ",
+        "zh_CN": "辣爽鱼糕汤",
+        "zh_TW": "香辣清爽魚板湯",
+        "price": "16500",
+        "ingredients.ko": [
+          "어묵",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Fishcake",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "練り天",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "魚板",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0001_1415215_10-tf_19",
+      "ocr": {
+        "x": 46.3753577970996,
+        "y": 83.97090897731118,
+        "text": "얼큰시원오뎅탕",
+        "width": 18.492424051755258,
+        "height": 2.928660604315383,
+        "rotation": 2.0963210140853903
+      }
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "meta": {
+    "file_name": "DJ_KF01_M0002_869374_1.jpg",
+    "image_original_width": 3468,
+    "image_original_height": 4624,
+    "captured_date": "2022:11:05 17:41:45",
+    "store_id": "869374",
+    "store_region": "DJ",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.20202020202020202,
+          17.727272727272727
+        ],
+        [
+          99.79797979797979,
+          19.696969696969692
+        ],
+        [
+          99.79797979797979,
+          80.45454545454545
+        ],
+        [
+          0.40404040404040403,
+          80.60606060606061
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고니추가",
+        "en.ROMAN": "goni chuga",
+        "en": "Extra Serving of Hard Roe",
+        "ja": "白子追加",
+        "zh_CN": "另加白子",
+        "zh_TW": "加點魚卵",
+        "price": "6000",
+        "ingredients.ko": [
+          "생선곤이"
+        ],
+        "ingredients.en": [
+          "Fish Hard Roe"
+        ],
+        "ingredients.ja": [
+          "魚の白子"
+        ],
+        "ingredients.zh_CN": [
+          "鱼白子"
+        ],
+        "ingredients.zh_TW": [
+          "魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_8",
+      "ocr": {
+        "x": 40.339987895466834,
+        "y": 39.417349151005524,
+        "text": "고니추가",
+        "width": 9.504163589296711,
+        "height": 2.2099184978968256,
+        "rotation": 0.9820815048413465
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "낙지추가",
+        "en.ROMAN": "nakji chuga",
+        "en": "Extra Serving of Octopus",
+        "ja": "テナガダコ追加",
+        "zh_CN": "另加长爪章鱼",
+        "zh_TW": "加點章魚",
+        "price": "6000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_12",
+      "ocr": {
+        "x": 40.33302265518504,
+        "y": 42.10330830769465,
+        "text": "낙지추가",
+        "width": 9.398532207413307,
+        "height": 2.196450349219772,
+        "rotation": 0.9820815048409486
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "전복추가",
+        "en.ROMAN": "jeonbok chuga",
+        "en": "Extra Serving of Abalone",
+        "ja": "アワビ追加",
+        "zh_CN": "另加鲍鱼",
+        "zh_TW": "加點鮑魚",
+        "price": "6000",
+        "ingredients.ko": [
+          "전복"
+        ],
+        "ingredients.en": [
+          "Abalone"
+        ],
+        "ingredients.ja": [
+          "アワビ"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_13",
+      "ocr": {
+        "x": 40.35139433173721,
+        "y": 44.764990973456555,
+        "text": "전복추가",
+        "width": 9.418417109844452,
+        "height": 2.194155584526403,
+        "rotation": 0.9820815048413465
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "아낙찜",
+        "en.ROMAN": "anakjjim",
+        "en": "Steamed Anak",
+        "ja": "アンコウとテナガダコの蒸し物",
+        "zh_CN": "安康鱼炖长爪章鱼",
+        "zh_TW": "燉鮟鱇魚小章魚",
+        "price": "28000",
+        "ingredients.ko": [
+          "야채",
+          "낙지",
+          "아귀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Octopus",
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "テナガダコ",
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "长爪章鱼",
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "章魚",
+          "鮟鱇魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_16",
+      "ocr": {
+        "x": 64.75260499110277,
+        "y": 45.2906721925366,
+        "text": "아낙찜",
+        "width": 14.885368328595552,
+        "height": 5.4095799464892105,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "아구사리추가",
+        "en.ROMAN": "agusarichuga",
+        "en": "Add Agusari",
+        "ja": "アンコウ追加",
+        "zh_CN": "安康萨里追加",
+        "zh_TW": "安康薩里追加",
+        "price": "12000",
+        "ingredients.ko": [
+          "아구"
+        ],
+        "ingredients.en": [
+          "Monkfish"
+        ],
+        "ingredients.ja": [
+          "アンコウ"
+        ],
+        "ingredients.zh_CN": [
+          "安康鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮟鱇魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_17",
+      "ocr": {
+        "x": 38.07475467859798,
+        "y": 47.37094774372106,
+        "text": "아구사리추가",
+        "width": 13.924238397283167,
+        "height": 2.2483715258859753,
+        "rotation": 0.9820815048409486
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "해물사리추가",
+        "en.ROMAN": "haemulsarichuga",
+        "en": "Extra Seafood",
+        "ja": "海鮮追加",
+        "zh_CN": "另加海鲜",
+        "zh_TW": "加點海鮮",
+        "price": "20000",
+        "ingredients.ko": [
+          "해물"
+        ],
+        "ingredients.en": [
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_18",
+      "ocr": {
+        "x": 38.02565720485193,
+        "y": 50.047952890353486,
+        "text": "해물사리추가",
+        "width": 14.031039907362254,
+        "height": 2.292473357588668,
+        "rotation": 0.9820815048413465
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "산삼주",
+        "en.ROMAN": "sansamju",
+        "en": "Wild Ginseng Wine",
+        "ja": "天然高麗人蔘酒",
+        "zh_CN": "山参酒",
+        "zh_TW": "山蔘酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "산삼"
+        ],
+        "ingredients.en": [
+          "Wild Ginseng"
+        ],
+        "ingredients.ja": [
+          "山参"
+        ],
+        "ingredients.zh_CN": [
+          "山参"
+        ],
+        "ingredients.zh_TW": [
+          "山蔘"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_25",
+      "ocr": {
+        "x": 38.951441810368955,
+        "y": 59.37677333495247,
+        "text": "산삼주",
+        "width": 9.265513149735032,
+        "height": 2.452811440134045,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "뽕주",
+        "en.ROMAN": "ppongju",
+        "en": "Mulberry Wine",
+        "ja": "桑の実酒",
+        "zh_CN": "桑葚酒",
+        "zh_TW": "桑葚酒",
+        "price": "6000",
+        "ingredients.ko": [
+          "오디"
+        ],
+        "ingredients.en": [
+          "Mulberry"
+        ],
+        "ingredients.ja": [
+          "桑の実"
+        ],
+        "ingredients.zh_CN": [
+          "桑葚"
+        ],
+        "ingredients.zh_TW": [
+          "桑葚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_31",
+      "ocr": {
+        "x": 38.83610155662037,
+        "y": 63.38667820069205,
+        "text": "뽕주",
+        "width": 9.380853403483604,
+        "height": 2.459371381317797,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_33",
+      "ocr": {
+        "x": 38.98500576701268,
+        "y": 66.43598615916952,
+        "text": "막걸리",
+        "width": 9.066974202545296,
+        "height": 2.4900374927321174,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "TcvhmN6fmY",
+      "ocr": {
+        "x": 39.078755713796234,
+        "y": 69.47732668220287,
+        "text": "맥주",
+        "width": 9.128119636110359,
+        "height": 2.3899870123017424,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_39",
+      "ocr": {
+        "x": 17.19326401639237,
+        "y": 69.75425260986002,
+        "text": "라면사리",
+        "width": 8.80991427215503,
+        "height": 3.2584612825928887,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "J5crAs1zLC",
+      "ocr": {
+        "x": 38.954668871802646,
+        "y": 72.55601892866432,
+        "text": "소주",
+        "width": 9.351475951698832,
+        "height": 2.4011501758621216,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF01_M0002_869374_1-tf_43",
+      "ocr": {
+        "x": 17.391455520424614,
+        "y": 73.7582653021893,
+        "text": "볶음밥",
+        "width": 8.6131556225076,
+        "height": 3.4094381802324962,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "식혜",
+        "en.ROMAN": "sikhye",
+        "en": "Sweet Rice Punch",
+        "ja": "シケ",
+        "zh_CN": "甜米露",
+        "zh_TW": "甜米釀",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "ZOAYNdfbNK",
+      "ocr": {
+        "x": 38.98443730796363,
+        "y": 75.60867154718339,
+        "text": "식혜",
+        "width": 9.267121710978133,
+        "height": 2.371373986002685,
+        "rotation": 0
+      }
+    }
+  ]
+}

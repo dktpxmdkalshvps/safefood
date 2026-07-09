@@ -1,0 +1,667 @@
+{
+  "meta": {
+    "file_name": "IN_IF02_M0001_756328_3.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:18 16:38:26",
+    "store_id": "756328",
+    "store_region": "IN",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.50738916256158,
+          5.360443622920517
+        ],
+        [
+          13.300492610837443,
+          5.730129390018484
+        ],
+        [
+          15.270935960591137,
+          90.57301293900184
+        ],
+        [
+          100,
+          90.0184842883549
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "중새우마늘소스",
+        "en.ROMAN": "jungsaeumaneul sauce",
+        "en": "Shrimp in Garlic Sauce",
+        "ja": "中型海老のガーリックソース",
+        "zh_CN": "中虾大蒜调料",
+        "zh_TW": "中蝦蒜蓉醬",
+        "price": "32000",
+        "ingredients.ko": [
+          "새우",
+          "마늘"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Garlic"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "にんにく"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "大蒜"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "大蒜"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_5",
+      "ocr": {
+        "x": 32.77376067146845,
+        "y": 18.462381942084946,
+        "text": "중새우마늘소스",
+        "width": 9.902091013296952,
+        "height": 1.3895903681924127,
+        "rotation": 359.0523230014722
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "중새우칠리소스",
+        "en.ROMAN": "jungsaeu chili sauce",
+        "en": "Chinese prawn chili sauce",
+        "ja": "中型海老チリソースがけ",
+        "zh_CN": "干烧中虾",
+        "zh_TW": "甜辣醬中蝦",
+        "price": "32000",
+        "ingredients.ko": [
+          "새우",
+          "칠리소스"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Chili Sauce"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "チリソース"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "辣椒酱"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "甜辣醬"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_13",
+      "ocr": {
+        "x": 32.79494345998415,
+        "y": 21.012301167094883,
+        "text": "중새우칠리소스",
+        "width": 9.841659490539596,
+        "height": 1.3453988343135204,
+        "rotation": 358.48884374936415
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "중새우화이트소스",
+        "en.ROMAN": "jungsaeu white sauce",
+        "en": "Deep-fried Shrimp with White Sauce",
+        "ja": "中型海老のホワイトソースがけ",
+        "zh_CN": "白酱中虾",
+        "zh_TW": "白醬中蝦",
+        "price": "32000",
+        "ingredients.ko": [
+          "새우",
+          "생크림"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Fresh Cream"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "生クリーム"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "鲜奶油"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "鮮奶油"
+        ],
+        "allergy": [
+          "새우",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_20",
+      "ocr": {
+        "x": 32.765808252263454,
+        "y": 23.41547573680288,
+        "text": "중새우화이트소스",
+        "width": 11.200214686330202,
+        "height": 1.3568047726452759,
+        "rotation": 359.7821128593609
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "새우완자",
+        "en.ROMAN": "saeuwanja",
+        "en": "Shrimp Balls",
+        "ja": "海老団子",
+        "zh_CN": "虾丸",
+        "zh_TW": "蝦丸",
+        "price": "35000",
+        "ingredients.ko": [
+          "새우",
+          "완자"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Meatballs"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "団子"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "丸子"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "丸"
+        ],
+        "allergy": [
+          "돼지고기",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_27",
+      "ocr": {
+        "x": 32.730201695805576,
+        "y": 25.926965306444597,
+        "text": "새우완자",
+        "width": 5.59138839506664,
+        "height": 1.4131086531880201,
+        "rotation": 359.64779329927916
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "깐풍큰새우",
+        "en.ROMAN": "kkanpungkeunsaeu",
+        "en": "Sweet and Spicy Jumbo Shrimp",
+        "ja": "(大)海老の唐揚げ辛味甘酢がけ",
+        "zh_CN": "干烹大虾",
+        "zh_TW": "幹烹明蝦",
+        "price": "48000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_30",
+      "ocr": {
+        "x": 32.675687699052304,
+        "y": 28.408613106387662,
+        "text": "깐풍큰새우",
+        "width": 6.93289551231814,
+        "height": 1.4317592241604977,
+        "rotation": 359.64779329927813
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "깐소큰새우",
+        "en.ROMAN": "ganshao keunsaeu",
+        "en": "Sweet and Sour Large Shrimp",
+        "ja": "大正海老唐揚げチリソースがけ",
+        "zh_CN": "干烧大虾",
+        "zh_TW": "乾燒明蝦",
+        "price": "48000",
+        "ingredients.ko": [
+          "새우",
+          "밀가루",
+          "칠리소스"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Wheat Flour",
+          "Chili Sauce"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "小麦粉",
+          "チリソース"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "面粉",
+          "辣椒酱"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "麵粉",
+          "甜辣醬"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_36",
+      "ocr": {
+        "x": 32.755910854013145,
+        "y": 30.95158348400698,
+        "text": "깐소큰새우",
+        "width": 7.239709173498895,
+        "height": 1.4197645976229467,
+        "rotation": 359.64779329927916
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "멘보샤",
+        "en.ROMAN": "menbosha",
+        "en": "Fried Shrimp Sandwich",
+        "ja": "エビパン包み揚げ",
+        "zh_CN": "面包虾",
+        "zh_TW": "麵包蝦",
+        "price": "28000",
+        "ingredients.ko": [
+          "새우",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_40",
+      "ocr": {
+        "x": 32.777652099950956,
+        "y": 33.49740998157025,
+        "text": "멘보샤",
+        "width": 4.281241756305271,
+        "height": 1.3765710003957456,
+        "rotation": 0.023415014216482177
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "모듬야채",
+        "en.ROMAN": "modeumnyachae",
+        "en": "Assorted Vegetables",
+        "ja": "野菜の盛り合わせ",
+        "zh_CN": "什锦蔬菜",
+        "zh_TW": "綜合蔬菜",
+        "price": "25000",
+        "ingredients.ko": [
+          "채소"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_46",
+      "ocr": {
+        "x": 32.841660361741845,
+        "y": 46.22500000000001,
+        "text": "모듬야채",
+        "width": 5.499999999999999,
+        "height": 1.3374674314252228,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "호유청경채",
+        "en.ROMAN": "hoyucheonggyeongchae",
+        "en": "Bok Choy in Oyster Sauce",
+        "ja": "オイスターソース入り青梗菜炒め",
+        "zh_CN": "蚝油油菜",
+        "zh_TW": "蠔油青江菜",
+        "price": "17000",
+        "ingredients.ko": [
+          "청경채"
+        ],
+        "ingredients.en": [
+          "Bok Choy"
+        ],
+        "ingredients.ja": [
+          "青梗菜"
+        ],
+        "ingredients.zh_CN": [
+          "油菜"
+        ],
+        "ingredients.zh_TW": [
+          "青江菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_52",
+      "ocr": {
+        "x": 32.84166036174182,
+        "y": 48.725,
+        "text": "호유청경채",
+        "width": 6.758339638258182,
+        "height": 1.3562337157126112,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "송이볶음",
+        "en.ROMAN": "songibokkeum",
+        "en": "Stir-fried Pine Mushrooms",
+        "ja": "松茸炒め",
+        "zh_CN": "炒松茸",
+        "zh_TW": "炒松茸",
+        "price": "70000",
+        "ingredients.ko": [
+          "송이버섯"
+        ],
+        "ingredients.en": [
+          "Pine Mushrooms"
+        ],
+        "ingredients.ja": [
+          "松茸"
+        ],
+        "ingredients.zh_CN": [
+          "松茸"
+        ],
+        "ingredients.zh_TW": [
+          "松茸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_57",
+      "ocr": {
+        "x": 32.84166036174185,
+        "y": 51.224999999999994,
+        "text": "송이볶음",
+        "width": 5.575018914774456,
+        "height": 1.3561685785630575,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "새우두부",
+        "en.ROMAN": "saeudubu",
+        "en": "Shrimp and Bean Curd",
+        "ja": "海老豆腐",
+        "zh_CN": "鲜虾豆腐",
+        "zh_TW": "鮮蝦豆腐",
+        "price": "28000",
+        "ingredients.ko": [
+          "새우",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "豆腐"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_64",
+      "ocr": {
+        "x": 32.866666666666674,
+        "y": 63.875,
+        "text": "새우두부",
+        "width": 5.5,
+        "height": 1.45,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "두반삼선",
+        "en.ROMAN": "dubansamseon",
+        "en": "Braised Three-delicacy Bean Curd and Seafood",
+        "ja": "豆板海鮮",
+        "zh_CN": "豆瓣三鲜",
+        "zh_TW": "豆瓣三鮮",
+        "price": "30000",
+        "ingredients.ko": [
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_68",
+      "ocr": {
+        "x": 32.866666666666674,
+        "y": 66.45,
+        "text": "두반삼선",
+        "width": 5.5,
+        "height": 1.375,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마파두부",
+        "en.ROMAN": "mapadubu",
+        "en": "Spicy Bean Curd",
+        "ja": "麻婆豆腐",
+        "zh_CN": "麻婆豆腐",
+        "zh_TW": "麻婆豆腐",
+        "price": "20000",
+        "ingredients.ko": [
+          "고추",
+          "두부",
+          "돼지고기",
+          "파"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Bean Curd",
+          "Pork",
+          "Green Onions"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "豆腐",
+          "豚肉",
+          "ネギ"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "豆腐",
+          "猪肉",
+          "葱"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "豆腐",
+          "豬肉",
+          "蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_72",
+      "ocr": {
+        "x": 32.866666666666674,
+        "y": 69.025,
+        "text": "마파두부",
+        "width": 5.5,
+        "height": 1.375,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "가상두부",
+        "en.ROMAN": "gasangdubu",
+        "en": "Braised Bean Curd with Hot Sauce",
+        "ja": "家常豆腐",
+        "zh_CN": "家常豆腐",
+        "zh_TW": "家常豆腐",
+        "price": "25000",
+        "ingredients.ko": [
+          "두부"
+        ],
+        "ingredients.en": [
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_756328_3-tf_76",
+      "ocr": {
+        "x": 32.866666666666674,
+        "y": 71.54370114713784,
+        "text": "가상두부",
+        "width": 5.600025219699281,
+        "height": 1.431298852862164,
+        "rotation": 0
+      }
+    }
+  ]
+}

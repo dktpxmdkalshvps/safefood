@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0001_484929_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:25 16:52:51",
+    "store_id": "484929",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 0.24096385542168683,
+        "width": 95.1768488745981,
+        "height": 99.03614457831326,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "모듬샤브샤브",
+        "en.ROMAN": "modeum shabu shabu",
+        "en": "Assorted Shabu-shabu",
+        "ja": "盛り合わせしゃぶしゃぶ",
+        "zh_CN": "拼盘涮涮锅",
+        "zh_TW": "拼盤涮涮鍋",
+        "price": "20000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0001_484929_2-tf_0",
+      "ocr": {
+        "x": 53.51799713280434,
+        "y": 2.728163345998344,
+        "text": "모듬샤브샤브",
+        "width": 25.740502387228414,
+        "height": 4.034236629871651,
+        "rotation": 359.1095349156221
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "해물샤브샤브",
+        "en.ROMAN": "haemul shabu shabu",
+        "en": "Seafood Shabu-shabu",
+        "ja": "海鮮しゃぶしゃぶ",
+        "zh_CN": "海鲜涮涮锅",
+        "zh_TW": "海鮮火鍋",
+        "price": "16000",
+        "ingredients.ko": [
+          "야채",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0001_484929_2-tf_19",
+      "ocr": {
+        "x": 55.10495559066838,
+        "y": 72.20970611780454,
+        "text": "해물샤브샤브",
+        "width": 23.993706748209135,
+        "height": 3.3078927063022094,
+        "rotation": 359.4480048791589
+      }
+    }
+  ]
+}

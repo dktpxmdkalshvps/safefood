@@ -1,0 +1,355 @@
+{
+  "meta": {
+    "file_name": "US_KF04_M0003_878284_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:22 14:44:00",
+    "store_id": "878284",
+    "store_region": "US",
+    "store_type": "KF04",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.969884867772834,
+          38.80680878715598
+        ],
+        [
+          97.82282604424341,
+          34.62926309524996
+        ],
+        [
+          98.11694369130228,
+          69.8773048707069
+        ],
+        [
+          3.1169436913022452,
+          70.39949808219514
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "냉면(물/비빔)",
+        "en.ROMAN": "naengmyeon(mul/bibim)",
+        "en": "Cold Buckwheat Noodles/Spicy Buckwheat Noodles",
+        "ja": "冷麺(水/混ぜ)",
+        "zh_CN": "冷面（冷/拌）",
+        "zh_TW": "冷麵（水/拌）",
+        "price": "4900",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0003_878284_1-tf_9",
+      "ocr": {
+        "x": 42.7552089216599,
+        "y": 41.95408842058176,
+        "text": "냉면(물/비빔)",
+        "width": 5.29513928110655,
+        "height": 2.1400501229351003,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "생맥주",
+        "en.ROMAN": "saengmaekju",
+        "en": "Draft Beer",
+        "ja": "生ビール",
+        "zh_CN": "扎啤",
+        "zh_TW": "生啤酒",
+        "price": "3900",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0003_878284_1-tf_8",
+      "ocr": {
+        "x": 30.056327012185786,
+        "y": 42.43998920057943,
+        "text": "생맥주",
+        "width": 6.693475221538866,
+        "height": 4.595581122450698,
+        "rotation": 358.46737125180476
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "11세이상",
+        "en.ROMAN": "11seisang",
+        "en": "Menu for 11 Years of Age or Over",
+        "ja": "11歳以上",
+        "zh_CN": "11岁以上",
+        "zh_TW": "11歲以上",
+        "price": "16500",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0003_878284_1-tf_14",
+      "ocr": {
+        "x": 11.050000000000002,
+        "y": 43.98708344542063,
+        "text": "11세이상",
+        "width": 4.124999999999998,
+        "height": 2.0541671603110307,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0003_878284_1-tf_17",
+      "ocr": {
+        "x": 43.90375054498829,
+        "y": 44.80144020960721,
+        "text": "된장찌개",
+        "width": 3.0954874838729256,
+        "height": 1.786832282626923,
+        "rotation": 359.3072438021729
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "계란찜",
+        "en.ROMAN": "gyeranjjim",
+        "en": "Steamed Eggs",
+        "ja": "茶碗蒸し",
+        "zh_CN": "鸡蛋羹",
+        "zh_TW": "蒸蛋",
+        "price": "3000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0003_878284_1-tf_21",
+      "ocr": {
+        "x": 43.91334392712262,
+        "y": 46.958709423072285,
+        "text": "계란찜",
+        "width": 2.380208921659794,
+        "height": 1.813340470204618,
+        "rotation": 358.6553222626728
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소갈비살",
+        "en.ROMAN": "sogalbisal",
+        "en": "Beef Galbi",
+        "ja": "牛カルビ",
+        "zh_CN": "牛肋条肉",
+        "zh_TW": "牛肋條",
+        "price": "7000",
+        "ingredients.ko": [
+          "갈비살"
+        ],
+        "ingredients.en": [
+          "Galbi"
+        ],
+        "ingredients.ja": [
+          "カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "肋条肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肋條"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0003_878284_1-tf_24",
+      "ocr": {
+        "x": 43.944020370046914,
+        "y": 49.03492031815404,
+        "text": "소갈비살",
+        "width": 3.0944711152449056,
+        "height": 1.8479116650811742,
+        "rotation": 359.3928532271303
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "돼지껍데기",
+        "en.ROMAN": "dwaejikkeopdegi",
+        "en": "Grilled Pork Rinds",
+        "ja": "豚皮",
+        "zh_CN": "猪皮",
+        "zh_TW": "豬皮",
+        "price": "3000",
+        "ingredients.ko": [
+          "돼지껍데기"
+        ],
+        "ingredients.en": [
+          "Pork Rind"
+        ],
+        "ingredients.ja": [
+          "豚皮"
+        ],
+        "ingredients.zh_CN": [
+          "猪皮"
+        ],
+        "ingredients.zh_TW": [
+          "豬皮"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0003_878284_1-tf_27",
+      "ocr": {
+        "x": 43.9145111619646,
+        "y": 51.28350632120299,
+        "text": "돼지껍데기",
+        "width": 3.8146103963516302,
+        "height": 1.8319788207875993,
+        "rotation": 358.7061785237591
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "소주/병맥주",
+        "en.ROMAN": "soju/byeongmaekju",
+        "en": "Soju / Bottle Beer",
+        "ja": "焼酎/瓶ビール",
+        "zh_CN": "烧酒/瓶装啤酒",
+        "zh_TW": "燒酒/瓶裝啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0003_878284_1-tf_31",
+      "ocr": {
+        "x": 35.34180995513743,
+        "y": 55.521675884447134,
+        "text": "소주/병맥주",
+        "width": 5.825,
+        "height": 2.575488454706928,
+        "rotation": 359.33763339120435
+      }
+    }
+  ]
+}

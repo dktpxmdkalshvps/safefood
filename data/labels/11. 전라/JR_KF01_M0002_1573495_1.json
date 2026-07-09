@@ -1,0 +1,557 @@
+{
+  "meta": {
+    "file_name": "JR_KF01_M0002_1573495_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:10:21 12:58:48",
+    "store_id": "1573495",
+    "store_region": "JR",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.5683202785030463,
+          1.6241299303944319
+        ],
+        [
+          100,
+          1.3958914611045434
+        ],
+        [
+          100,
+          89.61905941964741
+        ],
+        [
+          7.872533880745443,
+          90.00559198656602
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_2",
+      "ocr": {
+        "x": 72.45162161035795,
+        "y": 5.086783350040107,
+        "text": "맥주",
+        "width": 6.601807582416558,
+        "height": 4.231683975891422,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_1",
+      "ocr": {
+        "x": 63.3300080277209,
+        "y": 5.195396100676798,
+        "text": "소주",
+        "width": 7.053459710463937,
+        "height": 4.137937232656535,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "육회비빔밥",
+        "en.ROMAN": "yukhoebibimbap",
+        "en": "Beef Tartare Bibimbap",
+        "ja": "ユッケビビンバ",
+        "zh_CN": "生牛肉拌饭",
+        "zh_TW": "生牛肉拌飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "쇠고기",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Beef",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "牛肉",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "牛肉",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "牛肉",
+          "雞蛋"
+        ],
+        "allergy": [
+          "쇠고기",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_3",
+      "ocr": {
+        "x": 7.353770342448111,
+        "y": 5.4323444200015905,
+        "text": "육회비빔밥",
+        "width": 15.435069426507514,
+        "height": 4.659569474997956,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_4",
+      "ocr": {
+        "x": 63.28434649348048,
+        "y": 13.604070232783362,
+        "text": "막걸리",
+        "width": 15.625228052156103,
+        "height": 4.179134522038906,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_9",
+      "ocr": {
+        "x": 63.215197402207465,
+        "y": 21.995672610194458,
+        "text": "음료수",
+        "width": 15.491337662987679,
+        "height": 4.1669238236888395,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "굴국밥",
+        "en.ROMAN": "gulgukbap",
+        "en": "Oyster and Rice Soup",
+        "ja": "カキクッパ",
+        "zh_CN": "牡蛎汤饭",
+        "zh_TW": "牡蠣湯飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_11",
+      "ocr": {
+        "x": 8.105611988520028,
+        "y": 22.535368428375676,
+        "text": "굴국밥",
+        "width": 15.430706256129556,
+        "height": 4.414759039793617,
+        "rotation": 359.6053379288245
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_13",
+      "ocr": {
+        "x": 63.128770342448064,
+        "y": 30.25759164833455,
+        "text": "공기밥",
+        "width": 15.422755600660837,
+        "height": 4.25049445666586,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "콩국수",
+        "en.ROMAN": "kongguksu",
+        "en": "Noodles in Cold Soybean Soup",
+        "ja": "コングクス",
+        "zh_CN": "豆汁面",
+        "zh_TW": "豆汁麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "면",
+          "콩"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Soybeans"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "豆"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "大豆"
+        ],
+        "allergy": [
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_14",
+      "ocr": {
+        "x": 8.399543895687769,
+        "y": 30.72519286776662,
+        "text": "콩국수",
+        "width": 15.387487875832711,
+        "height": 4.303813075761231,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생삼겹살",
+        "en.ROMAN": "saengsamgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "鲜五花肉",
+        "zh_TW": "鮮五花肉",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_20",
+      "ocr": {
+        "x": 16.85727438717212,
+        "y": 43.27209765498938,
+        "text": "생삼겹살",
+        "width": 10.928204203944475,
+        "height": 4.070131846639069,
+        "rotation": 359.65898940357374
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "누룽지",
+        "en.ROMAN": "nurungji",
+        "en": "Scorched Rice",
+        "ja": "おこげ湯",
+        "zh_CN": "锅巴",
+        "zh_TW": "鍋粑",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_31",
+      "ocr": {
+        "x": 9.693078158110865,
+        "y": 60.10460389932339,
+        "text": "누룽지",
+        "width": 14.977383202851136,
+        "height": 3.848251069373722,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "육회한접시",
+        "en.ROMAN": "yukhoe hanjeopsi",
+        "en": "A Plate of Beef Tartare",
+        "ja": "ユッケ一皿",
+        "zh_CN": "生拌牛肉一盘",
+        "zh_TW": "生拌牛肉（1盤）",
+        "price": "28000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_36",
+      "ocr": {
+        "x": 10.068851711498956,
+        "y": 67.73849025169228,
+        "text": "육회한접시",
+        "width": 14.81906879821162,
+        "height": 3.918968616328098,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "생굴한접시",
+        "en.ROMAN": "saenggul hanjeopsi",
+        "en": "A Plate of Fresh Oysters",
+        "ja": "生ガキ(一皿)",
+        "zh_CN": "一盘生牡蛎",
+        "zh_TW": "一盤生牡蠣",
+        "price": "23000",
+        "ingredients.ko": [
+          "굴"
+        ],
+        "ingredients.en": [
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0002_1573495_1-tf_39",
+      "ocr": {
+        "x": 10.400175129129082,
+        "y": 75.45919792038704,
+        "text": "생굴한접시",
+        "width": 14.713492509615108,
+        "height": 3.9019603695748177,
+        "rotation": 359.2597967910064
+      }
+    }
+  ]
+}

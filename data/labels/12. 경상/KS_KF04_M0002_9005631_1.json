@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "file_name": "KS_KF04_M0002_9005631_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:09 11:33:36",
+    "store_id": "9005631",
+    "store_region": "KS",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          6.474820143884892,
+          10.121457489878543
+        ],
+        [
+          88.12949640287769,
+          10.526315789473683
+        ],
+        [
+          85.97122302158273,
+          88.25910931174089
+        ],
+        [
+          5.0359712230215825,
+          88.8663967611336
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "소고기한판",
+        "en.ROMAN": "sogogi hanpan",
+        "en": "One Plate of Beef",
+        "ja": "牛肉一皿",
+        "zh_CN": "牛肉拼盘",
+        "zh_TW": "牛肉一盤",
+        "price": "56000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_9005631_1-tf_2",
+      "ocr": {
+        "x": 17.28291920161702,
+        "y": 17.828736900803626,
+        "text": "소고기한판",
+        "width": 22.733828112570652,
+        "height": 2.844810690796208,
+        "rotation": 0.9529035171212854
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "1인추가시",
+        "en.ROMAN": "1inchugasi",
+        "en": "Additional Charge for Extra Serving",
+        "ja": "1人前追加時",
+        "zh_CN": "另加1人份时",
+        "zh_TW": "加1人時",
+        "price": "8000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_9005631_1-tf_12",
+      "ocr": {
+        "x": 16.892050095445978,
+        "y": 25.289820393512514,
+        "text": "1인추가시",
+        "width": 7.82789890101712,
+        "height": 1.4535967314531204,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "살치살",
+        "en.ROMAN": "salchisal",
+        "en": "Grilled Chuck Flap Tail",
+        "ja": "牛ザブトン焼き",
+        "zh_CN": "板腱肉",
+        "zh_TW": "板腱肉",
+        "price": "10000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SJFhkUOEZr",
+      "ocr": {
+        "x": 40.48112140634608,
+        "y": 25.487460788365983,
+        "text": "살치살",
+        "width": 4.937962565927507,
+        "height": 1.338220695035776,
+        "rotation": 0.788118622804177
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "진갈비",
+        "en.ROMAN": "jingalbi",
+        "en": "Boneless Galbi",
+        "ja": "真・豚カルビ",
+        "zh_CN": "真排骨",
+        "zh_TW": "牛排骨肉",
+        "price": "12000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "RkUNlED1i3",
+      "ocr": {
+        "x": 53.423287154603706,
+        "y": 25.564806663288376,
+        "text": "진갈비",
+        "width": 4.7550448016507065,
+        "height": 1.357214777911184,
+        "rotation": 0.9022211615230731
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "꽃갈비스페셜",
+        "en.ROMAN": "kkotgalbi special",
+        "en": "Flower ribs special.",
+        "ja": "霜降りカルビスペシャル",
+        "zh_CN": "猪排骨特别店",
+        "zh_TW": "豬排骨特別店",
+        "price": "59000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_9005631_1-tf_22",
+      "ocr": {
+        "x": 16.373379235423265,
+        "y": 36.63232570239816,
+        "text": "꽃갈비Special",
+        "width": 31.158837681142895,
+        "height": 2.912370193806053,
+        "rotation": 0.6308025397819961
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "돼지고기한판",
+        "en.ROMAN": "dwaejigogihanpan",
+        "en": "A Plate of Pork",
+        "ja": "豚肉の盛り合わせ",
+        "zh_CN": "猪肉一盘",
+        "zh_TW": "一盤豬肉",
+        "price": "50000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_9005631_1-tf_31",
+      "ocr": {
+        "x": 16.239473595659728,
+        "y": 44.96830139372811,
+        "text": "돼지고기한판",
+        "width": 26.98797810790215,
+        "height": 2.9349608990244804,
+        "rotation": 0.653723246145546
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "닭특수부위",
+        "en.ROMAN": "dakteuksubuwi",
+        "en": "Chicken Special Cuts",
+        "ja": "鶏肉の特殊部位",
+        "zh_CN": "鸡肉特殊部位",
+        "zh_TW": "雞特殊部位",
+        "price": "50000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_9005631_1-tf_40",
+      "ocr": {
+        "x": 16.136052179648704,
+        "y": 55.099999999999575,
+        "text": "닭특수부위한판",
+        "width": 32.15175127672927,
+        "height": 2.9148018875305626,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "사계절냉면",
+        "en.ROMAN": "sagyejeollaengmyeon",
+        "en": "All-season Cold Buckwheat Noodles",
+        "ja": "四季冷麺",
+        "zh_CN": "四季冷面",
+        "zh_TW": "四季冷麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_9005631_1-tf_50",
+      "ocr": {
+        "x": 13.42823006843936,
+        "y": 80.91690121643188,
+        "text": "사계절냉면",
+        "width": 25.572574968388935,
+        "height": 3.0838024328636635,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "닭개장",
+        "en.ROMAN": "dakgaejang",
+        "en": "Spicy Chicken Soup",
+        "ja": "鶏肉のユッケジャン",
+        "zh_CN": "香辣鸡丝汤",
+        "zh_TW": "香辣雞肉湯",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "닭고기",
+          "숙주",
+          "고사리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken",
+          "Mung Bean Sprout",
+          "Bracken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉",
+          "緑豆もやし",
+          "ワラビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉",
+          "绿豆芽",
+          "蕨菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉",
+          "綠豆芽",
+          "蕨菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_9005631_1-tf_53",
+      "ocr": {
+        "x": 13.722309188631012,
+        "y": 84.15880243286368,
+        "text": "닭개장",
+        "width": 15.523812560335061,
+        "height": 3.0661975671361352,
+        "rotation": 0
+      }
+    }
+  ]
+}

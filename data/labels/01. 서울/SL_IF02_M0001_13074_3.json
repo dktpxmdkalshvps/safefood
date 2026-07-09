@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "file_name": "SL_IF02_M0001_13074_3.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:20 12:38:47",
+    "store_id": "13074",
+    "store_region": "SL",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.419287211740042,
+          4.958677685950414
+        ],
+        [
+          99.37106918238993,
+          7.556080283353009
+        ],
+        [
+          99.79035639412997,
+          98.46517119244392
+        ],
+        [
+          66.45702306079664,
+          100
+        ],
+        [
+          0,
+          99.88193624557263
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "연근멘보샤",
+        "en.ROMAN": "yeongeun menbosha",
+        "en": "Fried Shrimp Sandwich with Lotus Roots",
+        "ja": "レンコンパン包み揚げ",
+        "zh_CN": "莲藕面包虾",
+        "zh_TW": "蓮藕麵包蝦",
+        "price": "32000",
+        "ingredients.ko": [
+          "연근",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Lotus Root",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "レンコン",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "莲藕",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蓮藕",
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_13074_3-tf.jpg_2",
+      "ocr": {
+        "x": 33.62456805883551,
+        "y": 22.713908206416367,
+        "text": "연근멘보샤",
+        "width": 9.185627940825338,
+        "height": 1.2989099287984163,
+        "rotation": 2.098536078169957
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "어향표고새우",
+        "en.ROMAN": "eohyangpyogosaeu",
+        "en": "Stir-fried Fish-flavored Golden Oak Mushroom and Shrimp",
+        "ja": "シイタケと海老の魚香ソースがけ",
+        "zh_CN": "鱼香香菇虾",
+        "zh_TW": "魚香香菇蝦",
+        "price": "42000",
+        "ingredients.ko": [
+          "새우",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "蘑菇"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "SL_IF02_M0001_13074_3-tf.jpg_10",
+      "ocr": {
+        "x": 33.52533103654781,
+        "y": 29.932856734081913,
+        "text": "어향표고새우",
+        "width": 11.722912966252215,
+        "height": 1.266612292646963,
+        "rotation": 2.098536078168422
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "마늘새우찜",
+        "en.ROMAN": "maneulsaeujjim",
+        "en": "Braised Shrimp in Garlic Soy Sauce",
+        "ja": "にんにく入り海老の蒸し物",
+        "zh_CN": "蒜蓉蒸鲜虾",
+        "zh_TW": "燉大蒜蝦仁",
+        "price": "48000",
+        "ingredients.ko": [
+          "새우",
+          "마늘"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Garlic"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "にんにく"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "大蒜"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "大蒜"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_13074_3-tf.jpg_15",
+      "ocr": {
+        "x": 33.50766009619786,
+        "y": 37.23081617995023,
+        "text": "마늘새우찜",
+        "width": 9.777044592348517,
+        "height": 1.3208832151966363,
+        "rotation": 1.4374440079162696
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "칠리중새우",
+        "en.ROMAN": "chili jungsaeu",
+        "en": "Chilli Shrimp",
+        "ja": "エビチリ",
+        "zh_CN": "香辣中虾",
+        "zh_TW": "七裏中蝦",
+        "price": "47000",
+        "ingredients.ko": [
+          "새우",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "雞蛋"
+        ],
+        "allergy": [
+          "새우",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_13074_3-tf.jpg_22",
+      "ocr": {
+        "x": 33.38304011541693,
+        "y": 44.5071065239846,
+        "text": "칠리중새우",
+        "width": 9.80867565036861,
+        "height": 1.3445102145354102,
+        "rotation": 1.4292083195310283
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "깐풍중새우",
+        "en.ROMAN": "kkanpungjungsaeu",
+        "en": "Sweet and Spicy Shrimp",
+        "ja": "中型海老の唐揚げ辛味甘酢がけ",
+        "zh_CN": "干烹中虾",
+        "zh_TW": "乾烹中蝦",
+        "price": "47000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "SL_IF02_M0001_13074_3-tf.jpg_26",
+      "ocr": {
+        "x": 33.35057510934095,
+        "y": 51.84999999999997,
+        "text": "깐풍중새우",
+        "width": 9.98867888710665,
+        "height": 1.323611566939719,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "호두꿀크림중새우",
+        "en.ROMAN": "hodukkul cream jungsaeu",
+        "en": "Walnut Honey Cream Shrimp",
+        "ja": "中型海老のクルミハチミツクリームがけ",
+        "zh_CN": "核桃蜂蜜奶油中虾",
+        "zh_TW": "核桃蜂蜜奶油中蝦",
+        "price": "47000",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "꿀",
+          "호두",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Honey",
+          "Walnuts",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "蜂蜜",
+          "クルミ",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "蜂蜜",
+          "核桃",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "蜂蜜",
+          "核桃",
+          "澱粉"
+        ],
+        "allergy": [
+          "새우",
+          "호두"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_13074_3-tf.jpg_30",
+      "ocr": {
+        "x": 33.210039834604075,
+        "y": 59.10416529918088,
+        "text": "호두꿀크림중새우",
+        "width": 15.987010467636734,
+        "height": 1.341669401638105,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "비풍당중새우",
+        "en.ROMAN": "bipungdangjungsaeu",
+        "en": "Deep-fried Shrimp with Garlic and Chili Peppers",
+        "ja": "避風塘中型海老",
+        "zh_CN": "辣椒蒜片炒中虾",
+        "zh_TW": "避風塘炒蝦",
+        "price": "50000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "SL_IF02_M0001_13074_3-tf.jpg_36",
+      "ocr": {
+        "x": 33.17957456747833,
+        "y": 66.62618577368232,
+        "text": "비풍당중새우",
+        "width": 11.673750905258416,
+        "height": 1.3149899313372388,
+        "rotation": 357.89503164926333
+      }
+    }
+  ]
+}

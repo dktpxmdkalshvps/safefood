@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "file_name": "KW_KF01_M0001_1332903_6.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:12:21 20:48:00",
+    "store_id": "1332903",
+    "store_region": "KW",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          18.51706925832493,
+          0.15345637506899112
+        ],
+        [
+          65.47472002943621,
+          0.07672818753449556
+        ],
+        [
+          64.75859027911426,
+          98.69562081191357
+        ],
+        [
+          17.187114007727008,
+          98.61889262437907
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "고기고기정식",
+        "en.ROMAN": "gogigogijeongsik",
+        "en": "Meat Set Menu",
+        "ja": "肉肉定食",
+        "zh_CN": "肉类套餐",
+        "zh_TW": "肉肉套餐",
+        "price": "9000",
+        "ingredients.ko": [
+          "고기"
+        ],
+        "ingredients.en": [
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1332903_6-tf_2",
+      "ocr": {
+        "x": 41.91433940641432,
+        "y": 33.20576792045019,
+        "text": "고기고기정식",
+        "width": 10.649014484997506,
+        "height": 1.7064730665958856,
+        "rotation": 1.331791447403532
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "소불고기오징어정식",
+        "en.ROMAN": "sobulgogiojingeojeongsik",
+        "en": "Beef Bulgogi and Spicy Stir-fried Squid Set Menu Lunch Box",
+        "ja": "牛肉プルゴギとイカ炒めの定食",
+        "zh_CN": "烤牛肉鱿鱼套餐",
+        "zh_TW": "烤牛肉魷魚套餐",
+        "price": "10000",
+        "ingredients.ko": [
+          "쇠고기",
+          "오징어"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Squid"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "イカ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "魷魚"
+        ],
+        "allergy": [
+          "쇠고기",
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1332903_6-tf_5",
+      "ocr": {
+        "x": 41.35800130712301,
+        "y": 42.8944643291842,
+        "text": "소불고기오징어정식",
+        "width": 15.289488339842517,
+        "height": 1.6653613797616393,
+        "rotation": 0.9517191658843558
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "소불고기낙지정식",
+        "en.ROMAN": "sobulgoginakjijeongsik",
+        "en": "Beef Bulgogi and Spicy Stir-fried Octopus Set Menu Lunch Box",
+        "ja": "牛肉プルゴギとテナガダコ定食",
+        "zh_CN": "烤牛肉长爪章鱼套餐",
+        "zh_TW": "烤牛肉章魚套餐",
+        "price": "14000",
+        "ingredients.ko": [
+          "쇠고기",
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "章魚"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1332903_6-tf_8",
+      "ocr": {
+        "x": 41.18262273640603,
+        "y": 53.150381293601825,
+        "text": "소불고기낙지정식",
+        "width": 13.62205564327482,
+        "height": 1.6928911570181888,
+        "rotation": 0.7555267887391892
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "소불고기쌈밥정식",
+        "en.ROMAN": "sobulgogissambapjeongsik",
+        "en": "Napa Wraps With Beef Bulgogi Set Menu",
+        "ja": "牛肉プルゴギ野菜包みご飯定食",
+        "zh_CN": "烤牛肉蔬菜包饭套餐",
+        "zh_TW": "烤牛肉菜包飯套餐",
+        "price": "12000",
+        "ingredients.ko": [
+          "쇠고기",
+          "쌈채소"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables for Wraps"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "包み野菜"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "包菜用蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "包肉蔬菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1332903_6-tf_11",
+      "ocr": {
+        "x": 40.38636807376176,
+        "y": 63.03084951881497,
+        "text": "소불고기쌈밥정식",
+        "width": 13.7355262201361,
+        "height": 1.6960581694835766,
+        "rotation": 0.39985212936653625
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "제육쌈밥정식",
+        "en.ROMAN": "jeyukssambapjeongsik",
+        "en": "Stir-fried Pork with Leaf Wraps and Rice Set Menu",
+        "ja": "豚肉炒め野菜包みご飯定食",
+        "zh_CN": "辣炒猪肉蔬菜包饭套餐",
+        "zh_TW": "辣炒豬肉菜包飯套餐",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "쌀",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Rice",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "米",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "大米",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "米",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_1332903_6-tf_14",
+      "ocr": {
+        "x": 40.47619047619056,
+        "y": 73.95949235839552,
+        "text": "제육쌈밥정식",
+        "width": 10.457650290916021,
+        "height": 1.7588844045543384,
+        "rotation": 0
+      }
+    }
+  ]
+}

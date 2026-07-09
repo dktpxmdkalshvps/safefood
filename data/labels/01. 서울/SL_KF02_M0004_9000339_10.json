@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "file_name": "SL_KF02_M0004_9000339_10.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:09:01 13:17:00",
+    "store_id": "9000339",
+    "store_region": "SL",
+    "store_type": "KF02",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.1928020565552699,
+          7.283633247643531
+        ],
+        [
+          1.1568123393316192,
+          96.57240788346186
+        ],
+        [
+          91.90231362467867,
+          96.1439588688946
+        ],
+        [
+          95.37275064267352,
+          10.11139674378749
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "라면",
+        "en.ROMAN": "ramyeon",
+        "en": "Instant Noodles",
+        "ja": "ラーメン",
+        "zh_CN": "方便面",
+        "zh_TW": "泡麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0004_9000339_10-tf_4",
+      "ocr": {
+        "x": 39.95535714285714,
+        "y": 29.485293673858397,
+        "text": "라면",
+        "width": 3.0257936507936507,
+        "height": 2.3930132044484735,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "떡라면",
+        "en.ROMAN": "tteongnamyeon",
+        "en": "Rice Cake Instant Noodles",
+        "ja": "トク入りラーメン",
+        "zh_CN": "年糕方便面",
+        "zh_TW": "年糕泡麵",
+        "price": "4500",
+        "ingredients.ko": [
+          "밀가루",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0004_9000339_10-tf_5",
+      "ocr": {
+        "x": 72.00073637857638,
+        "y": 30.145614962744055,
+        "text": "떡라면",
+        "width": 4.330534482425168,
+        "height": 2.3342474126908797,
+        "rotation": 0.9910870432180445
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "치즈라면",
+        "en.ROMAN": "cheese ramyeon",
+        "en": "Cheese Instant Noodles",
+        "ja": "チーズラーメン",
+        "zh_CN": "奶酪方便面",
+        "zh_TW": "起司泡麵",
+        "price": "4500",
+        "ingredients.ko": [
+          "밀가루",
+          "야채",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0004_9000339_10-tf_11",
+      "ocr": {
+        "x": 39.880952380952365,
+        "y": 51.42195767195767,
+        "text": "치즈라면",
+        "width": 5.868930572854111,
+        "height": 2.311701127395317,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "짬뽕라면",
+        "en.ROMAN": "jjamppongnamyeon",
+        "en": "Spicy Seafood Instant Noodles",
+        "ja": "チャンポンラーメン",
+        "zh_CN": "炒码方便面",
+        "zh_TW": "炒碼泡麵",
+        "price": "5500",
+        "ingredients.ko": [
+          "채소",
+          "해물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0004_9000339_10-tf_12",
+      "ocr": {
+        "x": 71.24923307881795,
+        "y": 51.88941229055014,
+        "text": "짬뽕라면",
+        "width": 5.785939768259303,
+        "height": 2.2564085170617534,
+        "rotation": 0.9833826296089114
+      }
+    }
+  ]
+}

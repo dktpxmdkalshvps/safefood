@@ -1,0 +1,677 @@
+{
+  "meta": {
+    "file_name": "CC_KF03_M0001_1905339_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "1905339",
+    "store_region": "CC",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.7953321364452424,
+          5.114401076716016
+        ],
+        [
+          98.38420107719928,
+          7.537012113055182
+        ],
+        [
+          98.76212803776723,
+          12.440511424948133
+        ],
+        [
+          99.86724926139267,
+          19.507943687462816
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          0.17953321364452424,
+          99.59623149394348
+        ],
+        [
+          0.17953321364452424,
+          22.873845289533314
+        ],
+        [
+          0.8162806121839198,
+          12.3780728044629
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "알리오올리오",
+        "en.ROMAN": "aglio olio",
+        "en": "Aglio e Olio Pasta",
+        "ja": "アーリオオーリオ",
+        "zh_CN": "蒜香橄榄油意大利面",
+        "zh_TW": "蒜香橄欖油義大利麵",
+        "price": "8900",
+        "ingredients.ko": [
+          "마늘",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_5",
+      "ocr": {
+        "x": 30.441758200498334,
+        "y": 15.979430190227262,
+        "text": "알리오올리오",
+        "width": 10.240197225016182,
+        "height": 1.332182019940817,
+        "rotation": 2.021202968063676
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "까르보나라",
+        "en.ROMAN": "carbonara",
+        "en": "Carbonara",
+        "ja": "カルボナーラ",
+        "zh_CN": "奶油培根意大利面",
+        "zh_TW": "奶油培根蛋汁義大利麵",
+        "price": "9900",
+        "ingredients.ko": [
+          "베이컨",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Bacon",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "ベーコン",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "培根",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "培根",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_9",
+      "ocr": {
+        "x": 28.730010196248546,
+        "y": 20.63281865194248,
+        "text": "까르보나라",
+        "width": 8.869296622740684,
+        "height": 1.5575640419117125,
+        "rotation": 1.9181488472740398
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "매운까르보나라",
+        "en.ROMAN": "maeun carbonara",
+        "en": "Spicy Carbonara Pasta",
+        "ja": "スパイシーカルボナーラ",
+        "zh_CN": "香辣奶油培根意大利面",
+        "zh_TW": "辣味奶油培根義大利麵",
+        "price": "1000",
+        "ingredients.ko": [
+          "베이컨",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Bacon",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "ベーコン",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "培根",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "培根",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "kbTZBcHQNv",
+      "ocr": {
+        "x": 38.59204308524201,
+        "y": 20.961995493202654,
+        "text": "매운까르보나라",
+        "width": 11.862671526581588,
+        "height": 1.489637985592495,
+        "rotation": 1.9012364646136461
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "비프라구",
+        "en.ROMAN": "beef ragu",
+        "en": "Beef Ragu",
+        "ja": "ビフラグ",
+        "zh_CN": "比普拉戈",
+        "zh_TW": "比普拉戈",
+        "price": "10900",
+        "ingredients.ko": [
+          "쇠고기",
+          "토마토",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Tomato",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "トマト",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "番茄",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "番茄",
+          "蔬菜"
+        ],
+        "allergy": [
+          "쇠고기",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_14",
+      "ocr": {
+        "x": 27.88188729527933,
+        "y": 25.649259993391105,
+        "text": "비프라구",
+        "width": 7.017357160358673,
+        "height": 1.5174641476147228,
+        "rotation": 2.1590400160628747
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "봉골레링귀네",
+        "en.ROMAN": "vongole linguine",
+        "en": "Vongole ring is cute.",
+        "ja": "ボンゴレリンギネ",
+        "zh_CN": "邦戈莱灵居内",
+        "zh_TW": "邦戈萊靈居內",
+        "price": "14900",
+        "ingredients.ko": [
+          "문어",
+          "조개",
+          "마늘",
+          "버터",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Clam",
+          "Garlic",
+          "Butter",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "タコ",
+          "貝",
+          "にんにく",
+          "バター",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼",
+          "蛤蜊",
+          "大蒜",
+          "黄油",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "蛤蜊",
+          "大蒜",
+          "奶油",
+          "義大利麵"
+        ],
+        "allergy": [
+          "조개",
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_19",
+      "ocr": {
+        "x": 36.95371210762646,
+        "y": 31.23476564639548,
+        "text": "문어봉골레링귀네",
+        "width": 14.801437135489323,
+        "height": 1.6639707823005323,
+        "rotation": 2.419201624746279
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "마레파스타",
+        "en.ROMAN": "mare pasta",
+        "en": "Mare Pasta",
+        "ja": "マレパスタ",
+        "zh_CN": "海鲜意大利面",
+        "zh_TW": "梅爾義大利麵",
+        "price": "15900",
+        "ingredients.ko": [
+          "해산물",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀",
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_23",
+      "ocr": {
+        "x": 28.5111748879275,
+        "y": 38.486323469505194,
+        "text": "마레파스타",
+        "width": 9.496098531651196,
+        "height": 1.6464238619014664,
+        "rotation": 1.6136434828941333
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "트러플크림빠네파스타",
+        "en.ROMAN": "truffle cream pane pasta",
+        "en": "Truffle Cream Pasta in a Bread Bowl",
+        "ja": "トリュフクリーム・パネパスタ",
+        "zh_CN": "松露奶油培根意大利面",
+        "zh_TW": "松露麵包義大利麵",
+        "price": "13900",
+        "ingredients.ko": [
+          "트러플",
+          "크림소스",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Truffle",
+          "Cream Sauce",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "トリュフ",
+          "クリームソース",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "松露",
+          "奶油酱",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "松露",
+          "奶油醬",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_27",
+      "ocr": {
+        "x": 39.80238817548838,
+        "y": 44.61980338970516,
+        "text": "트러플크림빠네",
+        "width": 11.920484096009675,
+        "height": 1.6245745306708494,
+        "rotation": 0.9325174571868047
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "매운크림빠네",
+        "en.ROMAN": "maeun cream pane",
+        "en": "You like spicy cream.",
+        "ja": "辛いクリームパネ",
+        "zh_CN": "超辣奶油粉",
+        "zh_TW": "超辣奶油粉",
+        "price": "1000",
+        "ingredients.ko": [
+          "베이컨",
+          "양파",
+          "마늘",
+          "버섯",
+          "우유",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Bacon",
+          "Onion",
+          "Garlic",
+          "Mushroom",
+          "Milk",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "ベーコン",
+          "玉ねぎ",
+          "にんにく",
+          "きのこ",
+          "牛乳",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "培根",
+          "洋葱",
+          "大蒜",
+          "蘑菇",
+          "牛奶",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "培根",
+          "洋蔥",
+          "大蒜",
+          "蘑菇",
+          "牛奶",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "D2Q5gjusd9",
+      "ocr": {
+        "x": 52.72951739365992,
+        "y": 44.79789207500343,
+        "text": "매운크림빠네",
+        "width": 10.057385500929119,
+        "height": 1.5521133185822935,
+        "rotation": 0.4982116126109304
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "명란로제빠네",
+        "en.ROMAN": "myeongnan rosé pane",
+        "en": "Pollack Roe Rosé Pasta in Bread Bowl",
+        "ja": "明太子ロゼパネ",
+        "zh_CN": "明太鱼子面包啊",
+        "zh_TW": "明太魚子麪包啊",
+        "price": "15900",
+        "ingredients.ko": [
+          "명란",
+          "토마토",
+          "크림",
+          "우유",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pollack Roe",
+          "Tomato",
+          "Cream",
+          "Milk",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "明太子",
+          "トマト",
+          "クリーム",
+          "牛乳",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼子",
+          "番茄",
+          "奶油",
+          "牛奶",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "明太子",
+          "番茄",
+          "奶油",
+          "牛奶",
+          "麵粉"
+        ],
+        "allergy": [
+          "토마토",
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_31",
+      "ocr": {
+        "x": 39.060000010370196,
+        "y": 50.24006496634864,
+        "text": "명란로제빠네",
+        "width": 10.230557700062887,
+        "height": 1.5268511917775838,
+        "rotation": 0.3951275555699567
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "씨푸드토마토빠에야",
+        "en.ROMAN": "seafood tomato paella",
+        "en": "Seafood Tomato Paella",
+        "ja": "シーフードトマトパエリア",
+        "zh_CN": "番茄海鲜饭",
+        "zh_TW": "海鮮番茄西班牙燉飯",
+        "price": "17900",
+        "ingredients.ko": [
+          "해산물",
+          "토마토",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Tomato",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "トマト",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "番茄",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "番茄",
+          "米"
+        ],
+        "allergy": [
+          "토마토",
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_35",
+      "ocr": {
+        "x": 43.25018680623871,
+        "y": 62.01396450488394,
+        "text": "씨푸드토마토빠에야",
+        "width": 15.633311429818779,
+        "height": 1.7260842913233951,
+        "rotation": 359.57311461628217
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "오징어먹물빠에야",
+        "en.ROMAN": "ojingeomeongmul paella",
+        "en": "Squid Ink Paella",
+        "ja": "イカ墨パエリア",
+        "zh_CN": "西班牙鱿鱼墨汁杂烩菜饭",
+        "zh_TW": "魷魚墨魚西班牙烤飯",
+        "price": "18900",
+        "ingredients.ko": [
+          "오징어",
+          "먹물"
+        ],
+        "ingredients.en": [
+          "Squid",
+          "Squid Ink"
+        ],
+        "ingredients.ja": [
+          "イカ",
+          "墨"
+        ],
+        "ingredients.zh_CN": [
+          "鱿鱼",
+          "墨汁"
+        ],
+        "ingredients.zh_TW": [
+          "魷魚",
+          "墨汁"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_39",
+      "ocr": {
+        "x": 42.258339738802725,
+        "y": 67.78437593545203,
+        "text": "오징어먹물빠에야",
+        "width": 14.250101973948562,
+        "height": 1.7412999948896417,
+        "rotation": 359.0302720819989
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "하몽플레이트",
+        "en.ROMAN": "jamon plate",
+        "en": "Jamón Platter",
+        "ja": "生ハムプレート",
+        "zh_CN": "熏火腿拼盘",
+        "zh_TW": "火腿拼盤",
+        "price": "35000",
+        "ingredients.ko": [
+          "하몽"
+        ],
+        "ingredients.en": [
+          "Jamón"
+        ],
+        "ingredients.ja": [
+          "生ハム"
+        ],
+        "ingredients.zh_CN": [
+          "熏火腿"
+        ],
+        "ingredients.zh_TW": [
+          "西班牙伊比利火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0001_1905339_4-tf_46",
+      "ocr": {
+        "x": 12.103449089529114,
+        "y": 84.0868193757353,
+        "text": "하몽플레이트",
+        "width": 12.088957437099403,
+        "height": 1.9522606573250796,
+        "rotation": 357.8345772997276
+      }
+    }
+  ]
+}

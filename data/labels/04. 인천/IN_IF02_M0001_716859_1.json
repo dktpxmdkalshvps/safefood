@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "file_name": "IN_IF02_M0001_716859_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:15 13:20:20",
+    "store_id": "716859",
+    "store_region": "IN",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0.31746031746031744,
+        "y": 5.714285714285714,
+        "width": 99.68253968253966,
+        "height": 94.28571428571426,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "주말런치",
+        "en.ROMAN": "jumal lunch",
+        "en": "Weekend Lunch",
+        "ja": "週末ランチ",
+        "zh_CN": "周末午餐",
+        "zh_TW": "週末午餐",
+        "price": "25000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_IF02_M0001_716859_1-tf_24",
+      "ocr": {
+        "x": 39.610295163341206,
+        "y": 53.630632190046946,
+        "text": "주말런치",
+        "width": 22.76008327081688,
+        "height": 3.4089655071957004,
+        "rotation": 0
+      }
+    }
+  ]
+}

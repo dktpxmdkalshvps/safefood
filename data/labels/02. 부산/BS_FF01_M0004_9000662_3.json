@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "file_name": "BS_FF01_M0004_9000662_3.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:01 18:13:06",
+    "store_id": "9000662",
+    "store_region": "BS",
+    "store_type": "FF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          15.280135823429541,
+          7.13375796178344
+        ],
+        [
+          84.04074702886248,
+          6.496815286624204
+        ],
+        [
+          83.70118845500849,
+          96.43312101910828
+        ],
+        [
+          16.808149405772497,
+          96.43312101910828
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "핫크리스피버거",
+        "en.ROMAN": "hot crispy burger",
+        "en": "Hot Crispy Burger",
+        "ja": "ホットクリスピーバーガー",
+        "zh_CN": "辣脆鸡汉堡",
+        "zh_TW": "香脆雞堡",
+        "price": "5600",
+        "ingredients.ko": [
+          "야채",
+          "닭고기",
+          "빵",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken",
+          "Bread",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉",
+          "パン",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉",
+          "面包",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉",
+          "麵包",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "BS_FF01_M0004_9000662_3-tf_25",
+      "ocr": {
+        "x": 64.23256355290881,
+        "y": 34.10000000000002,
+        "text": "핫크리스피버거",
+        "width": 14.534103113757864,
+        "height": 1.8500000000000012,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "리아미라클버거",
+        "en.ROMAN": "ria miracle burger",
+        "en": "Ria Miracle Burger",
+        "ja": "リアミラクルバーガー",
+        "zh_CN": "素食汉堡",
+        "zh_TW": "RiaMiracleBurgle",
+        "price": "6500",
+        "ingredients.ko": [
+          "통밀",
+          "콩",
+          "감자",
+          "양상추",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Whole Wheat",
+          "Soybeans",
+          "Potato",
+          "Lettuce",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "全粒粉",
+          "豆",
+          "じゃがいも",
+          "レタス",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "全麦",
+          "大豆",
+          "土豆",
+          "圆生菜",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "全麥",
+          "大豆",
+          "馬鈴薯",
+          "結球萵苣",
+          "洋蔥"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_FF01_M0004_9000662_3-tf_26",
+      "ocr": {
+        "x": 34.53333333333341,
+        "y": 34.20020314253508,
+        "text": "리아미라클버거",
+        "width": 14.266153479716996,
+        "height": 1.8493905723948556,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "클래식치즈버거",
+        "en.ROMAN": "classic cheeseburger",
+        "en": "a classic cheeseburger",
+        "ja": "クラシックチーズバーガー",
+        "zh_CN": "经典奶酪汉堡",
+        "zh_TW": "經典起司漢堡",
+        "price": "4900",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_FF01_M0004_9000662_3-tf_32",
+      "ocr": {
+        "x": 34.566153479717165,
+        "y": 44.45081257014022,
+        "text": "클래식치즈버거",
+        "width": 14.366666666666701,
+        "height": 1.8233748597196144,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "새우버거",
+        "en.ROMAN": "saeu burger",
+        "en": "Shrimp Burger",
+        "ja": "海老バーガー",
+        "zh_CN": "鲜虾汉堡",
+        "zh_TW": "鮮蝦堡",
+        "price": "4500",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_FF01_M0004_9000662_3-tf_40",
+      "ocr": {
+        "x": 64.16615347971701,
+        "y": 54.57500000000007,
+        "text": "새우버거",
+        "width": 8.333589926808205,
+        "height": 1.8500000000000016,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "불고기버거",
+        "en.ROMAN": "bulgogi burger",
+        "en": "Bulgogi Burger",
+        "ja": "プルゴギバーガー",
+        "zh_CN": "烤牛肉汉堡",
+        "zh_TW": "烤牛肉堡",
+        "price": "4500",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "빵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Bread"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "パン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "面包"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "麵包"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_FF01_M0004_9000662_3-tf_39",
+      "ocr": {
+        "x": 34.632563552908884,
+        "y": 54.5752031425352,
+        "text": "불고기버거",
+        "width": 10.233589926808213,
+        "height": 1.823984287324725,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "티렉스버거",
+        "en.ROMAN": "t-rex burger",
+        "en": "TREX Burger",
+        "ja": "ティーレックスバーガー",
+        "zh_CN": "T-REX汉堡",
+        "zh_TW": "TREX漢堡",
+        "price": "4400",
+        "ingredients.ko": [
+          "닭고기",
+          "야채",
+          "햄버거빵"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Vegetables",
+          "Hamburger Bun"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "野菜",
+          "ハンバーガーバンズ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蔬菜",
+          "汉堡面包"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蔬菜",
+          "漢堡麵包"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "vD_gxcAt_g",
+      "ocr": {
+        "x": 35.42479233813585,
+        "y": 65.52759783003559,
+        "text": "티렉스",
+        "width": 5.419792151509993,
+        "height": 1.6443554588481877,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "file_name": "IN_IF03_M0001_721471_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "721471",
+    "store_region": "IN",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 4.048582995951417,
+        "y": 3.3434650455927053,
+        "width": 89.47368421052632,
+        "height": 93.46504559270517,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "로제카츠",
+        "en.ROMAN": "rosé katsu",
+        "en": "Rose katsu",
+        "ja": "ロゼカツ",
+        "zh_CN": "炸番茄奶油猪排",
+        "zh_TW": "番茄奶油炸豬排",
+        "price": "15900",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF03_M0001_721471_3-tf.jpg_1",
+      "ocr": {
+        "x": 25.19902994858443,
+        "y": 16.4339755454259,
+        "text": "로제카츠",
+        "width": 42.726223735234264,
+        "height": 8.723131986850383,
+        "rotation": 0
+      }
+    }
+  ]
+}

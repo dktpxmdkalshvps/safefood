@@ -1,0 +1,633 @@
+{
+  "meta": {
+    "file_name": "SL_KF02_M0002_193678_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:21 20:25:20",
+    "store_id": "193678",
+    "store_region": "SL",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          22.970297029702973,
+          0.593471810089021
+        ],
+        [
+          22.574257425742577,
+          98.96142433234421
+        ],
+        [
+          78.61386138613862,
+          99.25816023738872
+        ],
+        [
+          81.38613861386138,
+          0.2967359050445105
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "스팸마요",
+        "en.ROMAN": "spam mayo",
+        "en": "Stir-fried Spam in Mayonnaise Sauce with Rice",
+        "ja": "スパムマヨ",
+        "zh_CN": "午餐肉蛋黄酱",
+        "zh_TW": "午餐肉美乃滋",
+        "price": "5000",
+        "ingredients.ko": [
+          "쌀",
+          "햄"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Ham"
+        ],
+        "ingredients.ja": [
+          "米",
+          "ハム"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "午餐肉"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_3",
+      "ocr": {
+        "x": 29.303498535894157,
+        "y": 18.200630003196714,
+        "text": "스팸마요",
+        "width": 19.751593775884206,
+        "height": 3.9682539682539595,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "참치마요",
+        "en.ROMAN": "chamchi mayo",
+        "en": "Tuna mayo",
+        "ja": "ツナマヨ",
+        "zh_CN": "金枪鱼蛋黄酱",
+        "zh_TW": "鮪魚美乃滋",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "햄",
+          "김",
+          "캔참치",
+          "단무지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Ham",
+          "Laver",
+          "Canned Tuna",
+          "Pickled Radish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "ハム",
+          "海苔",
+          "ツナ缶",
+          "たくあん"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "午餐肉",
+          "紫菜",
+          "金枪鱼罐头",
+          "腌萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "火腿",
+          "海苔",
+          "罐頭鮪魚",
+          "醃蘿蔔"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_5",
+      "ocr": {
+        "x": 29.37196159924211,
+        "y": 22.743055555555472,
+        "text": "참치마요",
+        "width": 19.71736224421023,
+        "height": 4.14186507936507,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치킨마요",
+        "en.ROMAN": "chicken mayo",
+        "en": "Chicken Mayo",
+        "ja": "チキンマヨ",
+        "zh_CN": "炸鸡蛋黄酱",
+        "zh_TW": "蛋黃醬炸雞",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_7",
+      "ocr": {
+        "x": 29.132340877524285,
+        "y": 27.189337861938004,
+        "text": "치킨마요",
+        "width": 19.854288370906136,
+        "height": 4.191468253968245,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "제육",
+        "en.ROMAN": "jeyuk",
+        "en": "Spicy Stir-fried Pork",
+        "ja": "豚肉炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_10",
+      "ocr": {
+        "x": 29.15672870030655,
+        "y": 41.20217359888598,
+        "text": "제육",
+        "width": 10.019841269841253,
+        "height": 3.9085451572264853,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "돼지숙주덮밥",
+        "en.ROMAN": "dwaejisukjudeopbap",
+        "en": "Stir-fried Pork and Mung Bean Sprouts with Rice",
+        "ja": "豚肉入りもやし丼",
+        "zh_CN": "猪肉绿豆芽盖饭",
+        "zh_TW": "豬綠豆芽蓋飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "돼지고기",
+          "숙주"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Mung Bean Sprout"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "緑豆もやし"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "绿豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "綠豆芽"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_12",
+      "ocr": {
+        "x": 29.422421697651096,
+        "y": 45.673807288610384,
+        "text": "돼지숙주",
+        "width": 19.212962962962962,
+        "height": 3.9434523809523805,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "쭈꾸미숙주덮밥",
+        "en.ROMAN": "jjukkumisukjudeopbap",
+        "en": "Stir-fried Webfoot Octopus and Mung Bean Sprouts with Rice",
+        "ja": "イイダコ入りもやし丼",
+        "zh_CN": "八爪鱼绿豆芽盖饭",
+        "zh_TW": "小章魚綠豆芽蓋飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "숙주",
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Mung Bean Sprout",
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "緑豆もやし",
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "绿豆芽",
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "綠豆芽",
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_14",
+      "ocr": {
+        "x": 29.199735449735346,
+        "y": 54.56747149345575,
+        "text": "쭈꾸미숙주",
+        "width": 24.027812440656465,
+        "height": 3.971011629239334,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치킨까스",
+        "en.ROMAN": "chicken kkaseu",
+        "en": "Chicken Cutlet",
+        "ja": "チキンカツ",
+        "zh_CN": "炸鸡排",
+        "zh_TW": "炸雞排",
+        "price": "7000",
+        "ingredients.ko": [
+          "계란",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_17",
+      "ocr": {
+        "x": 28.906514018899205,
+        "y": 67.78273809523775,
+        "text": "치킨까스",
+        "width": 19.241634129248776,
+        "height": 4.02459423380686,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "한입야끼만두",
+        "en.ROMAN": "hannip yaki mandu",
+        "en": "Bite-sized Stir-fried Mandu",
+        "ja": "一口焼き餃子",
+        "zh_CN": "一口煎饺",
+        "zh_TW": "一口煎餃",
+        "price": "2500",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Meat",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "콩",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_19",
+      "ocr": {
+        "x": 29.13359788359785,
+        "y": 72.27182539682532,
+        "text": "한입야끼만두",
+        "width": 28.434755822370548,
+        "height": 4.141865079365071,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "닭껍질만두",
+        "en.ROMAN": "dakkkeopjilmandu",
+        "en": "Chicken Skin Mandu",
+        "ja": "鶏皮入り餃子",
+        "zh_CN": "鸡皮饺子",
+        "zh_TW": "雞皮餃子",
+        "price": "3000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_21",
+      "ocr": {
+        "x": 29.001322751322757,
+        "y": 76.76091269841284,
+        "text": "닭껍질만두",
+        "width": 23.867026108951226,
+        "height": 4.038106509018045,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "숙주라면",
+        "en.ROMAN": "sukjuramyeon",
+        "en": "Mung Bean Sprouts Instant Noodles",
+        "ja": "緑豆もやしもやしラーメン",
+        "zh_CN": "绿豆芽方便面",
+        "zh_TW": "綠豆芽泡麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "밀가루",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_23",
+      "ocr": {
+        "x": 28.802910052910054,
+        "y": 81.10119047619048,
+        "text": "숙주라면",
+        "width": 18.71693121693122,
+        "height": 4.141865079365079,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "공기밥추가",
+        "en.ROMAN": "gonggibap chuga",
+        "en": "Extra Serving of Steamed Rice",
+        "ja": "ご飯追加",
+        "zh_CN": "另加米饭",
+        "zh_TW": "加點米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_26",
+      "ocr": {
+        "x": 28.802910052910054,
+        "y": 85.63988095238095,
+        "text": "공기밥추가",
+        "width": 24.04100529100529,
+        "height": 4.216269841269841,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "통살새우볼",
+        "en.ROMAN": "tongsalsaeu ball",
+        "en": "Whole Shrimp Flesh Ball",
+        "ja": "丸ごと海老団子",
+        "zh_CN": "虾球",
+        "zh_TW": "炸蝦肉球",
+        "price": "3000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF02_M0002_193678_1-tf_28",
+      "ocr": {
+        "x": 28.62534937938685,
+        "y": 90.1289682539685,
+        "text": "통살새우볼",
+        "width": 24.008991111785257,
+        "height": 4.042658730158748,
+        "rotation": 0
+      }
+    }
+  ]
+}

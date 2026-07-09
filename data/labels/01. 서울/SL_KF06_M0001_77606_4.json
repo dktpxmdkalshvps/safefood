@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "file_name": "SL_KF06_M0001_77606_4.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:19 17:06:32",
+    "store_id": "77606",
+    "store_region": "SL",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0.20242914979757085,
+        "y": 4.711246200607903,
+        "width": 84.81781376518218,
+        "height": 89.51367781155015,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드",
+        "en.ROMAN": "fried",
+        "en": "Fried Chicken",
+        "ja": "フライドチキン",
+        "zh_CN": "脆皮炸鸡",
+        "zh_TW": "炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_77606_4-tf_4",
+      "ocr": {
+        "x": 13.72592567956545,
+        "y": 33.65032127103832,
+        "text": "후라이드",
+        "width": 8.548677600620772,
+        "height": 1.881009046721256,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "마늘치킨",
+        "en.ROMAN": "maneul chicken",
+        "en": "Garlic Fried Chicken",
+        "ja": "ガーリックチキン",
+        "zh_CN": "蒜蓉炸鸡",
+        "zh_TW": "蒜味炸雞",
+        "price": "21000",
+        "ingredients.ko": [
+          "마늘",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_77606_4-tf_6",
+      "ocr": {
+        "x": 51.400528959751696,
+        "y": 33.875,
+        "text": "마늘치킨",
+        "width": 7.999471040248298,
+        "height": 1.7750000000000001,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "허니간장치킨",
+        "en.ROMAN": "honey Ganjang chicken",
+        "en": "Honey Soy Sauce Seasoned Fried Chicken",
+        "ja": "ハニーカンジャンチキン",
+        "zh_CN": "蜂蜜酱味炸鸡",
+        "zh_TW": "蜂蜜醬油炸雞",
+        "price": "21000",
+        "ingredients.ko": [
+          "간장",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Soy Sauce",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "カンジャン",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "酱油",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "醬油",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "콩",
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_77606_4-tf_8",
+      "ocr": {
+        "x": 49.43333333333333,
+        "y": 55.824999999999996,
+        "text": "허니간장치킨",
+        "width": 11.933333333333334,
+        "height": 1.7750000000000001,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념치킨(순한or매운)",
+        "en.ROMAN": "yangnyeom chicken (sunhanormaeun)",
+        "en": "Seasoned chicken (mild or spicy)",
+        "ja": "味付けチキン(マイルドor辛味)",
+        "zh_CN": "调味炸鸡（温和or辣）",
+        "zh_TW": "調味炸雞（溫和or辣）",
+        "price": "21000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_77606_4-tf_11",
+      "ocr": {
+        "x": 9.916931146542515,
+        "y": 56.04999999999999,
+        "text": "양념치킨(순한or매운)",
+        "width": 16.549735520124155,
+        "height": 1.7560090467212617,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "킹바삭(크리스피)치킨",
+        "en.ROMAN": "kingbasak(crispy) chicken",
+        "en": "King Basak (Krispy) Chicken",
+        "ja": "キングサク(クリスピー)チキン",
+        "zh_CN": "脆皮炸鸡",
+        "zh_TW": "脆皮炸雞",
+        "price": "21000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_77606_4-tf_17",
+      "ocr": {
+        "x": 55.06666666666667,
+        "y": 68.475,
+        "text": "킹바삭(크리스피)치킨",
+        "width": 18.6,
+        "height": 1.925,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뿌링클링치킨",
+        "en.ROMAN": "ppuringkle ring chicken",
+        "en": "Bburinkle chicken.",
+        "ja": "プリンケリングチキン",
+        "zh_CN": "芝士炸鸡",
+        "zh_TW": "芝士炸雞",
+        "price": "22000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_77606_4-tf_19",
+      "ocr": {
+        "x": 61.425925679565516,
+        "y": 73.53133031775945,
+        "text": "뿌링클링치킨",
+        "width": 12.24021202734947,
+        "height": 1.8499999999999985,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "와사비파닭",
+        "en.ROMAN": "wasabi padak",
+        "en": "Wasabi-pa-dak (spicy chicken.",
+        "ja": "わさびねぎチキン",
+        "zh_CN": "芥末葱鸡",
+        "zh_TW": "芥末蔥雞",
+        "price": "23000",
+        "ingredients.ko": [
+          "와사비",
+          "파",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wasabi",
+          "Green Onions",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "ワサビ",
+          "ネギ",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "芥末",
+          "葱",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "山葵",
+          "蔥",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_77606_4-tf_22",
+      "ocr": {
+        "x": 10.055110540205568,
+        "y": 77.81808407949237,
+        "text": "와사비파닭(순살)",
+        "width": 16.199999999999996,
+        "height": 1.850000000000001,
+        "rotation": 359.4186035312674
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반반치킨",
+        "en.ROMAN": "banban chicken",
+        "en": "Fried Chicken (Half and Half)",
+        "ja": "ハーフ＆ハーフチキン",
+        "zh_CN": "炸鸡双拼",
+        "zh_TW": "炸雞雙拼",
+        "price": "22000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_77606_4-tf_23",
+      "ocr": {
+        "x": 32.26666666666667,
+        "y": 81.24366968224041,
+        "text": "반반치킨",
+        "width": 10.157672133643707,
+        "height": 2.3313303177595808,
+        "rotation": 0
+      }
+    }
+  ]
+}

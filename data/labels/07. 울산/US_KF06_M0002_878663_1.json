@@ -1,0 +1,2634 @@
+{
+  "meta": {
+    "file_name": "US_KF06_M0002_878663_1.jpg",
+    "image_original_width": 6528,
+    "image_original_height": 4896,
+    "captured_date": "2022:11:01 23:01:49",
+    "store_id": "878663",
+    "store_region": "US",
+    "store_type": "KF06",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.7751937984496124,
+          16.543574593796155
+        ],
+        [
+          98.56035437430786,
+          17.57754800590841
+        ],
+        [
+          98.78183831672206,
+          74.1506646971935
+        ],
+        [
+          0.6644518272425249,
+          74.88921713441653
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨",
+        "en.ROMAN": "fried chicken",
+        "en": "Fried Chicken",
+        "ja": "フライドチキン",
+        "zh_CN": "脆皮炸鸡",
+        "zh_TW": "炸雞",
+        "price": "18000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_0",
+      "ocr": {
+        "x": 3.2884640990775837,
+        "y": 20.675745831158743,
+        "text": "후라이드치킨",
+        "width": 7.924771195040055,
+        "height": 2.196197035214765,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드똥집",
+        "en.ROMAN": "fried ttongjip",
+        "en": "Fried Chicken Gizzards",
+        "ja": "フライド砂肝",
+        "zh_CN": "炸鸡胗",
+        "zh_TW": "炸雞胗",
+        "price": "12000",
+        "ingredients.ko": [
+          "닭고기",
+          "닭모래집",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Chicken Gizzard",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "砂肝",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "鸡胗",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "雞胗",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_2",
+      "ocr": {
+        "x": 84.49754901960785,
+        "y": 21.40522875816993,
+        "text": "후라이드똥집",
+        "width": 8.026960784313726,
+        "height": 2.267156862745098,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념치킨",
+        "en.ROMAN": "yangnyeom chicken",
+        "en": "Seasoned Fried Chicken",
+        "ja": "ヤンニョムチキン",
+        "zh_CN": "调味炸鸡",
+        "zh_TW": "調味炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_3",
+      "ocr": {
+        "x": 3.3037827265285644,
+        "y": 23.520747248837598,
+        "text": "양념치킨",
+        "width": 5.417557095962484,
+        "height": 2.212549185356093,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "감자튀김",
+        "en.ROMAN": "gamjatwigim",
+        "en": "French Fries",
+        "ja": "フライドポテト",
+        "zh_CN": "炸薯条",
+        "zh_TW": "炸薯條",
+        "price": "7000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_9",
+      "ocr": {
+        "x": 84.62888595767876,
+        "y": 26.43271312714007,
+        "text": "감자튀김",
+        "width": 5.210349623370874,
+        "height": 2.220358059445345,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반+반치킨",
+        "en.ROMAN": "ban+ban chicken",
+        "en": "Half and Half Fried Chicken",
+        "ja": "半々チキン",
+        "zh_CN": "商品炸鸡",
+        "zh_TW": "半+半炸鷄",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_8",
+      "ocr": {
+        "x": 3.247549019607844,
+        "y": 26.511437908496717,
+        "text": "반+반치킨",
+        "width": 6.422778401473503,
+        "height": 2.2146074887175597,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "간장치킨",
+        "en.ROMAN": "ganjang chicken",
+        "en": "Soy Sauce Glazed Fried Chicken",
+        "ja": "カンジャンチキン",
+        "zh_CN": "酱香炸鸡",
+        "zh_TW": "醬油風味炸雞",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_11",
+      "ocr": {
+        "x": 3.222099731690118,
+        "y": 29.41861339802132,
+        "text": "간장치킨",
+        "width": 5.259231909168789,
+        "height": 2.1493982319149465,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨+후라이드치킨",
+        "en.ROMAN": "fried chicken + fried chicken",
+        "en": "Fried Chicken+Fried Chicken",
+        "ja": "フライドチキン+フライドチキン",
+        "zh_CN": "炸鸡炸鸡+炸鸡炸鸡",
+        "zh_TW": "炸雞+炸雞",
+        "price": "23000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_12",
+      "ocr": {
+        "x": 23.4751974394757,
+        "y": 29.616912633937442,
+        "text": "set1후라이드치킨+후라이드치킨",
+        "width": 18.834851580131915,
+        "height": 2.072809073472938,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살후라이드+순살후라이드",
+        "en.ROMAN": "sunsal fried +sunsal fried",
+        "en": "boneless fried food + boneless fried food",
+        "ja": "骨なしフライド+骨なしフライドチキン",
+        "zh_CN": "无骨炸鸡+无骨炸鸡",
+        "zh_TW": "無骨炸雞+無骨炸雞",
+        "price": "23000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_13",
+      "ocr": {
+        "x": 54.30084824674007,
+        "y": 29.758986928104314,
+        "text": "set1순살후라이드+순살후라이드",
+        "width": 18.552167097118478,
+        "height": 1.8936986132857039,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "똥집세트",
+        "en.ROMAN": "ttongjip set",
+        "en": "Chicken Gizzards Set Menu",
+        "ja": "砂肝セット",
+        "zh_CN": "鸡胗套餐",
+        "zh_TW": "雞胗套餐",
+        "price": "26000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_18",
+      "ocr": {
+        "x": 84.48223039215678,
+        "y": 30.971800541762857,
+        "text": "똥집세트",
+        "width": 5.442306640517339,
+        "height": 2.008499378712387,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살후라이드+순살양념",
+        "en.ROMAN": "sunsal fried +sunsaryangnyeom",
+        "en": "Fried Boneless Chicken+Seasoned Fried Boneless Chicken",
+        "ja": "骨なしフライドチキン+骨なしヤンニョムチキン",
+        "zh_CN": "脆皮无骨炸鸡+调味无骨炸鸡",
+        "zh_TW": "無骨脆皮炸雞+調味無骨炸雞",
+        "price": "23000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_20",
+      "ocr": {
+        "x": 54.30169821762931,
+        "y": 31.827706615472255,
+        "text": "set2순살후라이드+순살양념",
+        "width": 16.2272788567217,
+        "height": 1.9063751957058814,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨+양념치킨",
+        "en.ROMAN": "fried chicken +yangnyeom chicken",
+        "en": "Fried Chicken and Glazed Chicken",
+        "ja": "フライドチキン＋味付けチキン",
+        "zh_CN": "原味炸鸡+调味炸鸡",
+        "zh_TW": "脆皮炸雞+調味炸雞",
+        "price": "23000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_19",
+      "ocr": {
+        "x": 23.47074265532894,
+        "y": 31.827706615472493,
+        "text": "set2후라이드치킨+양념치킨",
+        "width": 16.572149501533648,
+        "height": 2.0629858162852264,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "순살닭강정",
+        "en.ROMAN": "sunsaldakgangjeong",
+        "en": "Deep-fried and Braised Boneless Chicken",
+        "ja": "骨なしタッカンジョン",
+        "zh_CN": "甜辣无骨鸡块",
+        "zh_TW": "甜辣無骨雞塊",
+        "price": "21000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_25",
+      "ocr": {
+        "x": 3.152853661493943,
+        "y": 32.424938505504166,
+        "text": "순살닭강정",
+        "width": 6.616683536651666,
+        "height": 2.1426101596838913,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살후라이드+순살간장",
+        "en.ROMAN": "sunsal fried +sunsalganjang",
+        "en": "Fried Boneless Chicken+Soy Sauce Glazed Fried Boneless Chicken",
+        "ja": "骨なしフライドチキン+骨なしカンジャンチキン",
+        "zh_CN": "脆皮无骨炸鸡+酱味无骨炸鸡",
+        "zh_TW": "無骨脆皮炸雞+醬油無骨炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_27",
+      "ocr": {
+        "x": 54.21727883110836,
+        "y": 33.92565359477068,
+        "text": "set3순살후라이드+순살간장",
+        "width": 16.414132434822484,
+        "height": 1.8936986132856974,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨+간장치킨",
+        "en.ROMAN": "fried chicken +Ganjang chicken",
+        "en": "Fried Chicken + Soy Sauce Glazed Fried Chicken",
+        "ja": "フライドチキン+カンジャンチキン",
+        "zh_CN": "原味炸鸡+酱味炸鸡",
+        "zh_TW": "炸雞+醬油炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_28",
+      "ocr": {
+        "x": 23.468748823772252,
+        "y": 34.07250157807093,
+        "text": "set3후라이드치킨+간장치킨",
+        "width": 16.5867948735054,
+        "height": 1.9968602977954861,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "강정치킨",
+        "en.ROMAN": "gangjeong chicken",
+        "en": "Deep-fried and Braised Chicken",
+        "ja": "タッカンジョンチキン",
+        "zh_CN": "甜辣炸鸡块",
+        "zh_TW": "甜辣雞塊",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_32",
+      "ocr": {
+        "x": 3.1709558823529433,
+        "y": 35.362240849001886,
+        "text": "강정치킨",
+        "width": 5.245501297223193,
+        "height": 2.1786088242007184,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살양념+순살간장",
+        "en.ROMAN": "sunsaryangnyeom+sunsalganjang",
+        "en": "Seasoned Fried Boneless Chicken + Soy Sauce Glazed Fried Boneless Chicken",
+        "ja": "骨なしヤンニョムチキン+骨なしカンジャンチキン",
+        "zh_CN": "调味无骨炸鸡+酱味无骨炸鸡",
+        "zh_TW": "調味無骨+醬油無骨",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_34",
+      "ocr": {
+        "x": 54.291978054426885,
+        "y": 36.035222955341204,
+        "text": "set4순살양념+순살간장",
+        "width": 13.859576465784963,
+        "height": 1.850911876537766,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "세트4양념치킨+간장치킨",
+        "en.ROMAN": "set 4yangnyeom chicken +Ganjang chicken",
+        "en": "Set 4. Seasoned Deep-fried Chicken",
+        "ja": "セット4 ヤンニョム+醤油チキン",
+        "zh_CN": "套餐4 调味炸鸡+酱味炸鸡",
+        "zh_TW": "套餐4 調味炸雞+醬油炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_36",
+      "ocr": {
+        "x": 23.42381601729882,
+        "y": 36.31535947712415,
+        "text": "set4양념치킨+간장치킨",
+        "width": 14.291143061666748,
+        "height": 1.936485350033604,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "치즈볼",
+        "en.ROMAN": "cheese ball",
+        "en": "Cheese Balls",
+        "ja": "チーズボール",
+        "zh_CN": "奶酪球",
+        "zh_TW": "起司球",
+        "price": "4000",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_39",
+      "ocr": {
+        "x": 84.51512485653397,
+        "y": 37.41642420995756,
+        "text": "치즈볼",
+        "width": 4.278170558336285,
+        "height": 2.0325997830349256,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살후라이드+순살어니언",
+        "en.ROMAN": "sunsal fried +sunsal onion",
+        "en": "Boneless fried chicken + Boneless onion.",
+        "ja": "骨なしフライド+骨なしオニオン",
+        "zh_CN": "无骨炸鸡+无骨炸鸡",
+        "zh_TW": "無骨炸雞+無骨炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_41",
+      "ocr": {
+        "x": 54.25511672552506,
+        "y": 37.9755824324655,
+        "text": "set5순살후라이드+순살어니언",
+        "width": 17.424046879377762,
+        "height": 1.9287370958524523,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "날개치킨",
+        "en.ROMAN": "nalgae chicken",
+        "en": "Chicken Wings",
+        "ja": "手羽先チキン",
+        "zh_CN": "炸鸡翅",
+        "zh_TW": "炸雞翅",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭고기",
+          "닭날개",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Chicken Wing",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "手羽先",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "鸡翅",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "雞翅",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_44",
+      "ocr": {
+        "x": 3.074770618134339,
+        "y": 38.24996838352058,
+        "text": "날개치킨",
+        "width": 5.437871825660399,
+        "height": 2.1911474671595803,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "간장치킨+간장치킨",
+        "en.ROMAN": "Ganjang chicken +Ganjang chicken",
+        "en": "Soy Sauce Seasoned Fried Chicken + Soy Sauce Seasoned Fried Chicken",
+        "ja": "カンジャンチキン+カンジャンチキン",
+        "zh_CN": "酱味炸鸡+酱味炸鸡",
+        "zh_TW": "醬油炸雞+醬油炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_45",
+      "ocr": {
+        "x": 23.432245815964148,
+        "y": 38.52124183006532,
+        "text": "set5간장치킨+간장치킨",
+        "width": 14.20837733522185,
+        "height": 2.0016339869281112,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살양념+순살어니언",
+        "en.ROMAN": "sunsaryangnyeom+sunsal onion",
+        "en": "Seasoned boneless + boneless onion.",
+        "ja": "骨なしヤンニョム+骨なしオニオン",
+        "zh_CN": "无骨调料+无骨洋葱",
+        "zh_TW": "無骨調料+無骨洋蔥",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_47",
+      "ocr": {
+        "x": 54.30142678800836,
+        "y": 40.05891576579898,
+        "text": "set6순살양념+순살어니언",
+        "width": 14.982466821713754,
+        "height": 1.865525522503218,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "생맥주",
+        "en.ROMAN": "saengmaekju",
+        "en": "Draft Beer",
+        "ja": "生ビール",
+        "zh_CN": "扎啤",
+        "zh_TW": "生啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_49",
+      "ocr": {
+        "x": 84.54576211143613,
+        "y": 40.27480321272914,
+        "text": "생맥주",
+        "width": 4.417430002099032,
+        "height": 2.1757721986134255,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨+고추크러시",
+        "en.ROMAN": "fried chicken +gochukeureosi",
+        "en": "Fried chicken and pepper crush.",
+        "ja": "フライドチキン+唐辛子クラッシュ",
+        "zh_CN": "原味炸鸡+辣椒脆皮",
+        "zh_TW": "原味炸雞+辣椒脆皮",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "고추"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Chili Pepper"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "唐辛子"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "辣椒"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "辣椒"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_51",
+      "ocr": {
+        "x": 23.43614858557763,
+        "y": 40.758210716584,
+        "text": "set6후라이드치킨+고추크러시",
+        "width": 17.916658192787786,
+        "height": 1.9481855532038777,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "다리치킨",
+        "en.ROMAN": "da lychee kin",
+        "en": "Deep-fried Chicken Drumsticks",
+        "ja": "鶏もものフライドチキン",
+        "zh_CN": "炸鸡腿",
+        "zh_TW": "炸雞腿",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭고기",
+          "닭다리살",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Chicken Leg Fillet",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "鶏もも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "鸡腿肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "雞腿肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_53",
+      "ocr": {
+        "x": 3.096619954573218,
+        "y": 41.19986998988517,
+        "text": "다리치킨",
+        "width": 5.357005188892774,
+        "height": 2.2641822976965447,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살후라이드+순살고추크러시",
+        "en.ROMAN": "sunsal fried +sunsalgochukeureosi",
+        "en": "Boneless fried chicken + boneless pepper crush",
+        "ja": "骨なしフライド+骨なし唐辛子クラッシュ",
+        "zh_CN": "无骨炸鸡+无骨辣椒脆饼",
+        "zh_TW": "無骨炸雞+無骨辣椒脆餅",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "고추"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Chili Pepper"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "唐辛子"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "辣椒"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "辣椒"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_55",
+      "ocr": {
+        "x": 54.269243254091364,
+        "y": 42.05473856209131,
+        "text": "set7순살후라이드+순살고추크러시",
+        "width": 19.7197273341439,
+        "height": 1.9199346405228725,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "간장치킨+고추크러시",
+        "en.ROMAN": "Ganjang chicken +gochukeureosi",
+        "en": "Soy sauce chicken and pepper crush.",
+        "ja": "醤油チキン+唐辛子クラッシュ",
+        "zh_CN": "酱油炸鸡+辣椒脆饼",
+        "zh_TW": "醬油炸雞+辣椒脆餅",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "고추",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Chili Pepper",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "唐辛子",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "辣椒",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "辣椒",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_57",
+      "ocr": {
+        "x": 23.384928041865205,
+        "y": 42.892156862745004,
+        "text": "set7간장치킨+고추크러시",
+        "width": 15.383877747795037,
+        "height": 1.9792720867815052,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살간장+순살고추크러시",
+        "en.ROMAN": "sunsalganjang+sunsalgochukeureosi",
+        "en": "Boneless soy sauce + boneless pepper crush.",
+        "ja": "骨なし醤油+骨なし唐辛子クラッシュ",
+        "zh_CN": "无骨酱油+无骨辣椒脆饼",
+        "zh_TW": "無骨醬油+無骨辣椒脆餅",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_61",
+      "ocr": {
+        "x": 54.31197418922233,
+        "y": 44.18085863217261,
+        "text": "set8순살간장+순살고추크러시",
+        "width": 17.431506022431574,
+        "height": 1.79157443027918,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살어니언치킨",
+        "en.ROMAN": "sunsal onion chicken",
+        "en": "Onion Sauce Seasoned Fried Boneless Chicken",
+        "ja": "骨なしオニオンチキン",
+        "zh_CN": "洋葱无骨炸鸡",
+        "zh_TW": "無骨洋蔥炸雞",
+        "price": "21000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_62",
+      "ocr": {
+        "x": 2.9456908895385934,
+        "y": 44.255769906346885,
+        "text": "순살어니언치킨",
+        "width": 9.414184253927402,
+        "height": 2.1455847247324913,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨+어니언치킨",
+        "en.ROMAN": "fried chicken + onion chicken",
+        "en": "Fried chicken and onion chicken.",
+        "ja": "フライドチキン+オニオンチキン",
+        "zh_CN": "原味炸鸡+洋葱炸鸡",
+        "zh_TW": "原味炸雞+洋蔥炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_66",
+      "ocr": {
+        "x": 23.384928041865262,
+        "y": 45.07761437908495,
+        "text": "set8후라이드치킨+어니언치킨",
+        "width": 18.00668574320079,
+        "height": 1.9792720867814864,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살간장+순살간장",
+        "en.ROMAN": "sunsalganjang+sunsalganjang",
+        "en": "Boneless soy sauce + boneless soy sauce",
+        "ja": "骨なし醤油+骨なし醤油",
+        "zh_CN": "无骨酱油+无骨酱油",
+        "zh_TW": "無骨醬油+無骨醬油",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_70",
+      "ocr": {
+        "x": 54.30129145543961,
+        "y": 46.26419196550598,
+        "text": "set9순살간장+순살간장",
+        "width": 13.944025146974134,
+        "height": 1.7487876935312594,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "통구이",
+        "en.ROMAN": "tonggui",
+        "en": "Whole Grill",
+        "ja": "丸焼き",
+        "zh_CN": "烤全鸡",
+        "zh_TW": "烤整塊",
+        "price": "20000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_73",
+      "ocr": {
+        "x": 3.0200268173183162,
+        "y": 47.16392227746689,
+        "text": "통구이",
+        "width": 4.103134947387567,
+        "height": 2.1212084414873957,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념치킨+어니언치킨",
+        "en.ROMAN": "yangnyeom chicken + onion chicken",
+        "en": "Seasoned chicken and onion chicken.",
+        "ja": "フライドチキン+オニオンチキン",
+        "zh_CN": "调味炸鸡+洋葱炸鸡",
+        "zh_TW": "調味炸雞+洋蔥炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_74",
+      "ocr": {
+        "x": 23.363513556069133,
+        "y": 47.26307189542484,
+        "text": "set9양념치킨+어니언치킨",
+        "width": 15.50561883293863,
+        "height": 2.022058823529411,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "후라이드+순살마늘간장",
+        "en.ROMAN": "fried +sunsalmaneulganjang",
+        "en": "Fried + boneless garlic soy sauce.",
+        "ja": "フライド+骨なし にんにく醤油",
+        "zh_CN": "原味+无骨大蒜酱油",
+        "zh_TW": "原味+無骨大蒜醬油",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "마늘",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Garlic",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "にんにく",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "大蒜",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "大蒜",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_78",
+      "ocr": {
+        "x": 54.28732160382943,
+        "y": 48.202614379084764,
+        "text": "set10후라이드+순살마늘간장",
+        "width": 16.987098183509136,
+        "height": 1.8343611670270645,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드+마늘간장치킨",
+        "en.ROMAN": "fried +maneulganjang chicken",
+        "en": "Fried Chicken + Garlic and Soy Sauce Glazed Fried Chicken",
+        "ja": "フライド+にんにくカンジャンチキン",
+        "zh_CN": "炸鸡+蒜蓉酱味炸鸡",
+        "zh_TW": "炸雞+蒜香醬油炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_80",
+      "ocr": {
+        "x": 23.36333412632073,
+        "y": 49.448529411764554,
+        "text": "set10후라이드+마늘간장치킨",
+        "width": 17.36856054483653,
+        "height": 2.0220588235294104,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "병맥주",
+        "en.ROMAN": "byeongmaekju",
+        "en": "Bottled Beer",
+        "ja": "瓶ビール",
+        "zh_CN": "瓶装啤酒",
+        "zh_TW": "瓶裝啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_82",
+      "ocr": {
+        "x": 84.77328431372551,
+        "y": 49.997086054859494,
+        "text": "병맥주",
+        "width": 4.157878748203554,
+        "height": 2.2204353789985283,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "마늘통구이",
+        "en.ROMAN": "maneultonggui",
+        "en": "Grilled Whole Garlic",
+        "ja": "丸ごとにんにく焼き",
+        "zh_CN": "烤蒜头",
+        "zh_TW": "烤蒜頭",
+        "price": "21000",
+        "ingredients.ko": [
+          "마늘"
+        ],
+        "ingredients.en": [
+          "Garlic"
+        ],
+        "ingredients.ja": [
+          "にんにく"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_84",
+      "ocr": {
+        "x": 2.9456908895385934,
+        "y": 50.06424907485251,
+        "text": "마늘통구이",
+        "width": 6.766318914382975,
+        "height": 2.26418229769649,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념치킨+순살마늘간장",
+        "en.ROMAN": "yangnyeom chicken +sunsalmaneulganjang",
+        "en": "Seasoned chicken + boneless garlic soy sauce.",
+        "ja": "フライドチキン+骨なし にんにく醤油",
+        "zh_CN": "调味炸鸡+无骨大蒜酱油",
+        "zh_TW": "調味炸雞+無骨大蒜醬油",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_83",
+      "ocr": {
+        "x": 54.267435287152836,
+        "y": 50.081699346405046,
+        "text": "set11양념치킨+순살마늘간장",
+        "width": 17.04415246407557,
+        "height": 1.8995098039215612,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념치킨+마늘간장치킨",
+        "en.ROMAN": "yangnyeom chicken +maneulganjang chicken",
+        "en": "Seasoned Fried+Garlic and Soy Sauce Glazed Fried Chicken",
+        "ja": "ヤンニョムチキン+ガリックカンジャンチキン",
+        "zh_CN": "调味炸鸡+蒜香酱油炸鸡",
+        "zh_TW": "調味炸雞+蒜味醬油炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기양념장",
+          "밀가루",
+          "간장",
+          "마늘"
+        ],
+        "ingredients.en": [
+          "Chicken Spicy Sauce",
+          "Wheat Flour",
+          "Soy Sauce",
+          "Garlic"
+        ],
+        "ingredients.ja": [
+          "鶏肉の味付けソース",
+          "小麦粉",
+          "カンジャン",
+          "にんにく"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉调味酱",
+          "面粉",
+          "酱油",
+          "大蒜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉調味醬",
+          "麵粉",
+          "醬油",
+          "大蒜"
+        ],
+        "allergy": [
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_88",
+      "ocr": {
+        "x": 23.335823745709597,
+        "y": 51.5503194546818,
+        "text": "set11양념치킨+마늘간장치킨",
+        "width": 17.326230076217282,
+        "height": 2.0289085203592583,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "어니언치킨+순살마늘간장",
+        "en.ROMAN": "onion chicken +sunsalmaneulganjang",
+        "en": "Onion chicken + boneless garlic soy sauce.",
+        "ja": "オニオンチキン+骨なし にんにく醤油",
+        "zh_CN": "洋葱炸鸡+无骨大蒜酱油",
+        "zh_TW": "洋蔥炸雞+無骨大蒜醬油",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "양파",
+          "마늘",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Onion",
+          "Garlic",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "玉ねぎ",
+          "にんにく",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "洋葱",
+          "大蒜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "洋蔥",
+          "大蒜",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_90",
+      "ocr": {
+        "x": 54.26956374427653,
+        "y": 52.16503267973836,
+        "text": "set12어니언치킨+순살마늘간장",
+        "width": 16.71917960470046,
+        "height": 1.8995098039215639,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_93",
+      "ocr": {
+        "x": 84.78658665113893,
+        "y": 52.87990196078431,
+        "text": "소주",
+        "width": 4.271398929910764,
+        "height": 2.0716336325083895,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고추크러쉬",
+        "en.ROMAN": "gochukeureoswi",
+        "en": "Spicy Seasoned Fried Chicken with Chili Peppers",
+        "ja": "唐辛子チキン",
+        "zh_CN": "辣椒脆皮炸鸡",
+        "zh_TW": "辣椒Crush炸雞",
+        "price": "20000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_94",
+      "ocr": {
+        "x": 3.0382762022783525,
+        "y": 53.15123602723722,
+        "text": "고추크러쉬",
+        "width": 6.723962983508907,
+        "height": 2.1329854618656134,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "어니언치킨+마늘간장치킨",
+        "en.ROMAN": "onion chicken +maneulganjang chicken",
+        "en": "Onion chicken + garlic soy sauce chicken.",
+        "ja": "オニオンチキン+にんにく醤油チキン",
+        "zh_CN": "洋葱炸鸡+蒜酱炸鸡",
+        "zh_TW": "洋蔥炸雞+蒜醬炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "양파",
+          "마늘",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Onion",
+          "Garlic",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "玉ねぎ",
+          "にんにく",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "洋葱",
+          "大蒜",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "洋蔥",
+          "大蒜",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_96",
+      "ocr": {
+        "x": 23.243432386488173,
+        "y": 53.81944444444426,
+        "text": "set12어니언치킨+마늘간장치킨",
+        "width": 18.5807431089014,
+        "height": 1.936485350033596,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "닭강정+간장치킨",
+        "en.ROMAN": "dakgangjeong+Ganjang chicken",
+        "en": "Sweet and sour chicken and soy sauce chicken.",
+        "ja": "タッカンジョン+カンジャンチキン",
+        "zh_CN": "炸鸡块+酱油炸鸡",
+        "zh_TW": "炸雞塊+醬油炸雞",
+        "price": "24000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "양념장",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Marinade",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "味付けだれ",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "调味酱",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "調味醬",
+          "醬油"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_99",
+      "ocr": {
+        "x": 54.32398654910359,
+        "y": 54.24836601307178,
+        "text": "set13닭강정+간장치킨",
+        "width": 13.318507516507408,
+        "height": 1.899509803921563,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_100",
+      "ocr": {
+        "x": 84.76901081421273,
+        "y": 55.4738562091503,
+        "text": "음료수",
+        "width": 4.155621538728455,
+        "height": 2.18539689643182,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "마늘간장",
+        "en.ROMAN": "maneulganjang",
+        "en": "Garlic and Soy Sauce Glazed Fried Chicken",
+        "ja": "にんにくカンジャン",
+        "zh_CN": "蒜香酱油炸鸡",
+        "zh_TW": "蒜香醬油炸雞",
+        "price": "20000",
+        "ingredients.ko": [
+          "마늘",
+          "간장"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Soy Sauce"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "カンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "酱油"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "醬油"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_101",
+      "ocr": {
+        "x": 3.0024509803921573,
+        "y": 56.07981323495847,
+        "text": "마늘간장",
+        "width": 5.411748989708796,
+        "height": 2.1718207519696846,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "후라이드반+양념반+간장반",
+        "en.ROMAN": "fried ban+yangnyeomban+ganjangban",
+        "en": "Half fried + half seasoned + half soy sauce",
+        "ja": "フライド半分+ソース半分+醤油半分",
+        "zh_CN": "原味炸鸡+调味炸鸡+酱油炸鸡",
+        "zh_TW": "原味炸雞+調味炸雞+醬油炸雞",
+        "price": "26000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_108",
+      "ocr": {
+        "x": 52.95809463634745,
+        "y": 61.21323529411714,
+        "text": "set1후라이드반+양념반+간장반",
+        "width": 18.133220285104365,
+        "height": 1.919934640522879,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "후라이드반+양념반+마늘간장반",
+        "en.ROMAN": "fried ban+yangnyeomban+maneulganjangban",
+        "en": "Half fried + half seasoned + half garlic soy sauce",
+        "ja": "フライド半分+ヤンニョム半分+ニンニク醤油半分",
+        "zh_CN": "原味炸鸡+调味炸鸡+大蒜酱油炸鸡",
+        "zh_TW": "原味炸雞+調味炸雞+大蒜醬油炸雞",
+        "price": "26000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_106",
+      "ocr": {
+        "x": 76.39452412692083,
+        "y": 61.30892461577154,
+        "text": "set4후라이드반+양념반+마늘간장반",
+        "width": 16.799195202826713,
+        "height": 1.9355587045870561,
+        "rotation": 359.26914334410884
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드+마늘간장치킨+양념치킨",
+        "en.ROMAN": "fried +maneulganjang chicken +yangnyeom chicken",
+        "en": "Fried + Garlic Soy Sauce Chicken + Seasoned Chicken",
+        "ja": "フライド+ニンニク醤油チキン+フライドチキンのソース和え",
+        "zh_CN": "原味炸鸡+蒜酱炸鸡+调味炸鸡",
+        "zh_TW": "原味炸雞+蒜醬炸雞+調味炸雞",
+        "price": "25000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_107",
+      "ocr": {
+        "x": 28.492624691912305,
+        "y": 61.377481066404926,
+        "text": "set5후라이드+마늘간장치킨+양념치킨",
+        "width": 18.258379184680617,
+        "height": 1.937072111523572,
+        "rotation": 359.24990403267833
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살후라이드+순살간장+순살양념",
+        "en.ROMAN": "sunsal fried +sunsalganjang+sunsaryangnyeom",
+        "en": "Boneless fried food + boneless soy sauce + boneless seasoning",
+        "ja": "骨なしフライド+骨なし醤油+骨なしヤンニョム",
+        "zh_CN": "无骨炸鸡+无骨酱油+无骨调料",
+        "zh_TW": "無骨炸雞+無骨醬油+無骨調料",
+        "price": "25000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_109",
+      "ocr": {
+        "x": 2.2658633378036335,
+        "y": 61.43790849673213,
+        "text": "set1순살후라이드+순살간장+순살양념",
+        "width": 20.832432699164375,
+        "height": 1.9160605134322692,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "마늘간장치킨+어니언치킨+후라이드",
+        "en.ROMAN": "maneulganjang chicken + onion chicken + fried",
+        "en": "Garlic soy sauce chicken + onion chicken + fried chicken",
+        "ja": "ニンニク醤油チキン+オニオンチキン+フライド",
+        "zh_CN": "蒜酱炸鸡+洋葱炸鸡+原味炸鸡",
+        "zh_TW": "蒜醬炸雞+洋蔥炸雞+原味炸雞",
+        "price": "25000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_113",
+      "ocr": {
+        "x": 28.50981531865045,
+        "y": 63.50790400511368,
+        "text": "set6마늘간장치킨+어니언치킨+후라이드",
+        "width": 18.591104338417228,
+        "height": 1.947522760390833,
+        "rotation": 359.24361354881
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살양념+순살어니언+순살고추크러쉬",
+        "en.ROMAN": "sunsaryangnyeom+sunsal onion +sunsalgochukeureoswi",
+        "en": "Seasoned boneless + boneless onion + boneless pepper crush",
+        "ja": "骨なしヤンニョム+骨なしオニオン+骨なし唐辛子クラッシュ",
+        "zh_CN": "无骨调料+无骨洋葱+无骨辣椒脆饼",
+        "zh_TW": "無骨調料+無骨洋蔥+無骨辣椒脆餅",
+        "price": "25000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_114",
+      "ocr": {
+        "x": 2.1868915163556757,
+        "y": 63.629177203707776,
+        "text": "set2순살양념+순살어니언+순살고추크러쉬",
+        "width": 20.917872179235445,
+        "height": 1.971523832600388,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "후라이드반+양념반+고추크러쉬반",
+        "en.ROMAN": "fried ban+yangnyeomban+gochukeureoswiban",
+        "en": "Fried half + Seasoning half + Red pepper crush half",
+        "ja": "フライド半分+ヤンニョム半分+唐辛子クラッシュ半分",
+        "zh_CN": "原味炸鸡+调味炸鸡+辣椒脆皮炸鸡",
+        "zh_TW": "原味炸雞+調味炸雞+辣椒脆皮炸雞",
+        "price": "26000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_117",
+      "ocr": {
+        "x": 53.04380757603759,
+        "y": 64.0318627450977,
+        "text": "set2후라이드반+양념반+고추크러쉬반",
+        "width": 18.010339381524304,
+        "height": 2.022058823529411,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념반+간장반+고추크러쉬반",
+        "en.ROMAN": "yangnyeomban+ganjangban+gochukeureoswiban",
+        "en": "Seasoning half + soy sauce half + red pepper crush half",
+        "ja": "ヤンニョム半分+醤油半分+唐辛子クラッシュ半分",
+        "zh_CN": "调味半块儿+酱油半块儿+辣椒crush半",
+        "zh_TW": "調味半塊兒+醬油半塊兒+辣椒crush半",
+        "price": "26000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_118",
+      "ocr": {
+        "x": 76.35681515948528,
+        "y": 64.20511134924556,
+        "text": "set5양념반+간장반+고추크러쉬반",
+        "width": 16.96987430687859,
+        "height": 1.9296289129876616,
+        "rotation": 359.2520037614608
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "간장치킨+고추크러쉬+후라이드",
+        "en.ROMAN": "Ganjang chicken +gochukeureoswi+ fried",
+        "en": "Soy sauce chicken + pepper crush + fried chicken",
+        "ja": "醤油チキン+唐辛子クラッシュ+フライド",
+        "zh_CN": "酱油炸鸡+辣椒脆皮+原味炸鸡",
+        "zh_TW": "醬油炸雞+辣椒脆皮+原味炸雞",
+        "price": "25000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_119",
+      "ocr": {
+        "x": 28.43519103813902,
+        "y": 65.64297828828069,
+        "text": "set7간장치킨+고추크러쉬+후라이드",
+        "width": 18.406555342626085,
+        "height": 1.8451759025018568,
+        "rotation": 359.2516868645391
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살간장+순살양념+순살고추크러쉬",
+        "en.ROMAN": "sunsalganjang+sunsaryangnyeom+sunsalgochukeureoswi",
+        "en": "boneless soy sauce + boneless seasoning + boneless pepper crush",
+        "ja": "骨なし醤油+骨なしヤンニョム+骨なし唐辛子クラッシュ",
+        "zh_CN": "无骨酱油+无骨调料+无骨辣椒脆饼",
+        "zh_TW": "無骨醬油+無骨調料+無骨辣椒脆餅",
+        "price": "25000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_120",
+      "ocr": {
+        "x": 2.2338151364553913,
+        "y": 65.80882352941181,
+        "text": "set3순살간장+순살양념+순살고추크러쉬",
+        "width": 20.938816828292328,
+        "height": 1.9364853500335861,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념반+마늘간장반+고추크러쉬반",
+        "en.ROMAN": "yangnyeomban+maneulganjangban+gochukeureoswiban",
+        "en": "Seasoning half + garlic soy sauce half + red pepper crush half",
+        "ja": "ヤンニョム半分+にんにく醤油半分+唐辛子クラッシュ半分",
+        "zh_CN": "调料盘+大蒜酱油盘+辣椒蟹盘",
+        "zh_TW": "調料盤+大蒜醬油盤+辣椒蟹盤",
+        "price": "26000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_121",
+      "ocr": {
+        "x": 53.03868781349597,
+        "y": 66.95261437908457,
+        "text": "set3양념반+마늘간장반+고추크러쉬반",
+        "width": 17.97829118017599,
+        "height": 2.022058823529403,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "닭강정+고추크러쉬+간장치킨",
+        "en.ROMAN": "dakgangjeong+gochukeureoswi+Ganjang chicken",
+        "en": "Sweet and sour chicken + pepper crush + soy sauce chicken.",
+        "ja": "タッカンジョン+唐辛子クラッシュ+カンジャンチキン",
+        "zh_CN": "炸鸡块+辣椒脆皮+酱油炸鸡",
+        "zh_TW": "炸雞塊+辣椒脆皮+醬油炸雞",
+        "price": "25000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_122",
+      "ocr": {
+        "x": 28.46042616474197,
+        "y": 67.72549764304839,
+        "text": "set8닭강정+고추크러쉬+간장치킨",
+        "width": 18.2940049574527,
+        "height": 2.0357639143762922,
+        "rotation": 359.2863097860536
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살양념+순살간장+순살어니언",
+        "en.ROMAN": "sunsaryangnyeom+sunsalganjang+sunsal onion",
+        "en": "Seasoned boneless + boneless soy sauce + boneless onion",
+        "ja": "骨なしヤンニョム+骨なし醤油+骨なしオニオン",
+        "zh_CN": "无骨调料+无骨酱油+无骨洋葱",
+        "zh_TW": "無骨調料+無骨醬油+無骨洋蔥",
+        "price": "25000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF06_M0002_878663_1-tf_123",
+      "ocr": {
+        "x": 2.2083784586390465,
+        "y": 68.00009223638754,
+        "text": "set4순살양념+순살간장+순살어니언",
+        "width": 20.868068241890082,
+        "height": 1.9510989959991034,
+        "rotation": 0
+      }
+    }
+  ]
+}

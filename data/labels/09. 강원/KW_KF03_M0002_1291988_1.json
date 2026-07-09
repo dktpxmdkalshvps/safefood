@@ -1,0 +1,472 @@
+{
+  "meta": {
+    "file_name": "KW_KF03_M0002_1291988_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:12 18:41:04",
+    "store_id": "1291988",
+    "store_region": "KW",
+    "store_type": "KF03",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          80.87885985748218,
+          11.603375527426161
+        ],
+        [
+          81.23515439429929,
+          91.77215189873418
+        ],
+        [
+          11.520190023752969,
+          93.24894514767934
+        ],
+        [
+          12.232779097387176,
+          9.071729957805907
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "왕돈까스",
+        "en.ROMAN": "wangdongaseu",
+        "en": "Big pork cutlet",
+        "ja": "特大豚カツ",
+        "zh_CN": "大份炸猪排",
+        "zh_TW": "炸大豬排",
+        "price": "6000",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0002_1291988_1-tf_1",
+      "ocr": {
+        "x": 18.700965461508904,
+        "y": 35.99125574397413,
+        "text": "왕돈까스",
+        "width": 9.319283445132454,
+        "height": 5.012290325585639,
+        "rotation": 1.4267640107429997
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "왕정식",
+        "en.ROMAN": "wangjeongsik",
+        "en": "Wang Set Menu",
+        "ja": "特大豚カツ定食",
+        "zh_CN": "大份套餐",
+        "zh_TW": "大套餐",
+        "price": "7000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0002_1291988_1-tf_2",
+      "ocr": {
+        "x": 48.38589679869819,
+        "y": 37.01948133348251,
+        "text": "왕정식",
+        "width": 6.720498735167095,
+        "height": 5.269236152458716,
+        "rotation": 0.7039220815821636
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생선까스",
+        "en.ROMAN": "saengseonkkaseu",
+        "en": "Fish Cutlet",
+        "ja": "白身魚のフライ",
+        "zh_CN": "炸鱼排",
+        "zh_TW": "炸魚排",
+        "price": "6000",
+        "ingredients.ko": [
+          "생선",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0002_1291988_1-tf_5",
+      "ocr": {
+        "x": 18.55169126594581,
+        "y": 42.441102573237536,
+        "text": "생선까스",
+        "width": 9.352783919353094,
+        "height": 5.239786856127885,
+        "rotation": 0.696704806197431
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치킨까스",
+        "en.ROMAN": "chicken kkaseu",
+        "en": "Chicken Cutlet",
+        "ja": "チキンカツ",
+        "zh_CN": "炸鸡排",
+        "zh_TW": "炸雞排",
+        "price": "6000",
+        "ingredients.ko": [
+          "계란",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0002_1291988_1-tf_9",
+      "ocr": {
+        "x": 18.455376349016408,
+        "y": 49.053438449289736,
+        "text": "치킨까스",
+        "width": 9.39549824102448,
+        "height": 4.973357015985788,
+        "rotation": 0.7110756670001024
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "스페셜돈까스",
+        "en.ROMAN": "special dongaseu",
+        "en": "Special Pork Cutlet",
+        "ja": "スペシャル豚カツ",
+        "zh_CN": "精选炸猪排",
+        "zh_TW": "特別炸豬排",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0002_1291988_1-tf_10",
+      "ocr": {
+        "x": 48.316700396550274,
+        "y": 49.70923243027282,
+        "text": "스페셜돈까스",
+        "width": 13.261483291923467,
+        "height": 5.187438632055494,
+        "rotation": 0.7308824807081464
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "기타",
+        "ko": "새우까스",
+        "en.ROMAN": "saeukkaseu",
+        "en": "Shrimp Cutlet",
+        "ja": "海老カツ",
+        "zh_CN": "炸虾排",
+        "zh_TW": "炸蝦排",
+        "price": "6000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0002_1291988_1-tf_13",
+      "ocr": {
+        "x": 18.336213723034025,
+        "y": 55.41613789139924,
+        "text": "새우까스",
+        "width": 9.469927886768629,
+        "height": 5.254279803227753,
+        "rotation": 0.7134926138714945
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "고구마치즈돈까스",
+        "en.ROMAN": "goguma cheese dongaseu",
+        "en": "Sweet Potato and Cheese Stuffed Pork Cutlet",
+        "ja": "さつまいも入りチーズ豚カツ",
+        "zh_CN": "炸红薯奶酪猪排",
+        "zh_TW": "地瓜起司炸豬排",
+        "price": "8000",
+        "ingredients.ko": [
+          "고구마",
+          "돼지고기",
+          "치즈",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Sweet Potato",
+          "Pork",
+          "Cheese",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "サツマイモ",
+          "豚肉",
+          "チーズ",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "红薯",
+          "猪肉",
+          "奶酪",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜",
+          "豬肉",
+          "起司",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0002_1291988_1-tf_16",
+      "ocr": {
+        "x": 18.270159737303146,
+        "y": 61.80945582348245,
+        "text": "고구마치즈돈까스",
+        "width": 18.253210776583188,
+        "height": 5.345102136963941,
+        "rotation": 0.7086750387586562
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0002_1291988_1-tf_17",
+      "ocr": {
+        "x": 48.264205833921274,
+        "y": 62.60013823919212,
+        "text": "공기밥",
+        "width": 6.848827137289128,
+        "height": 4.885136646069763,
+        "rotation": 0.7438319688114916
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치즈돈까스",
+        "en.ROMAN": "cheese dongaseu",
+        "en": "Cheese Stuffed Pork Cutlet",
+        "ja": "チーズ豚カツ",
+        "zh_CN": "炸奶酪猪排",
+        "zh_TW": "起司炸豬排",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지고기",
+          "치즈",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Cheese",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "チーズ",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "奶酪",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "起司",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF03_M0002_1291988_1-tf_20",
+      "ocr": {
+        "x": 18.09045640509329,
+        "y": 68.41529746044579,
+        "text": "치즈돈까스",
+        "width": 11.762067374428515,
+        "height": 5.26773271364072,
+        "rotation": 0.7308824807056453
+      }
+    }
+  ]
+}

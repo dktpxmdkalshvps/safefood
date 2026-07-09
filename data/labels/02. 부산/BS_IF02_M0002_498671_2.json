@@ -1,0 +1,558 @@
+{
+  "meta": {
+    "file_name": "BS_IF02_M0002_498671_2.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:12 13:04:26",
+    "store_id": "498671",
+    "store_region": "BS",
+    "store_type": "IF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          31.653543307086604,
+          27.390791027154666
+        ],
+        [
+          32.913385826771645,
+          73.90791027154665
+        ],
+        [
+          99.52755905511809,
+          74.26210153482879
+        ],
+        [
+          99.37007874015748,
+          26.682408500590316
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "영빈세트",
+        "en.ROMAN": "yeong bean set",
+        "en": "Yeongbin Set Menu",
+        "ja": "ヨンビンセット",
+        "zh_CN": "迎宾套餐",
+        "zh_TW": "迎賓套餐",
+        "price": "22000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_1",
+      "ocr": {
+        "x": 39.07543334852935,
+        "y": 33.97759700660489,
+        "text": "영빈세트2인",
+        "width": 12.149133302941319,
+        "height": 2.2198059867901576,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "영빈세트",
+        "en.ROMAN": "yeong bean set",
+        "en": "Yeongbin Set Menu",
+        "ja": "ヨンビンセット",
+        "zh_CN": "迎宾套餐",
+        "zh_TW": "迎賓套餐",
+        "price": "17000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_4",
+      "ocr": {
+        "x": 39.266666666666666,
+        "y": 39.574999999999996,
+        "text": "영빈세트1인",
+        "width": 12.066666666666666,
+        "height": 2.272402993395086,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "찹쌀탕수육+짜장",
+        "en.ROMAN": "chapssaltangsuyuk+jjajang",
+        "en": "Deep-fried Pork in Sweet Rice Batter with Sweet and Sour Sauce + Black Bean Sauce Noodles",
+        "ja": "もち米酢豚+ジャージャー麺",
+        "zh_CN": "糯米糖醋肉+炸酱面",
+        "zh_TW": "糯米糖醋肉+炸醬麵",
+        "price": "11000",
+        "ingredients.ko": [
+          "돼지고기",
+          "찹쌀가루",
+          "전분",
+          "밀가루",
+          "춘장",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Sweet Rice Powder",
+          "Starch",
+          "Wheat Flour",
+          "Black Bean Paste",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "もち米粉",
+          "デン粉",
+          "小麦粉",
+          "甜麺醤",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "糯米粉",
+          "淀粉",
+          "面粉",
+          "春酱",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "糯米粉",
+          "澱粉",
+          "麵粉",
+          "春醬",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_7",
+      "ocr": {
+        "x": 39.44139187674857,
+        "y": 45.2644552756341,
+        "text": "찹쌀탕수육+짜장",
+        "width": 16.4491298574631,
+        "height": 2.261248510438596,
+        "rotation": 359.5020485301397
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "찹쌀탕수육+짬뽕+볶음밥",
+        "en.ROMAN": "chapssaltangsuyuk+jjamppong+bokkeumbap",
+        "en": "Deep-fried Pork in Sweet Rice Batter with Sweet and Sour Sauce+Spicy Seafood Noodle Soup+Fried Rice",
+        "ja": "もち米酢豚+チャンポン+チャーハン",
+        "zh_CN": "糯米糖醋肉+炒码面+炒饭",
+        "zh_TW": "糯米糖醋肉+炒碼麵+炒飯",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "찹쌀",
+          "해산물",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Sweet Rice",
+          "Seafood",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "もち米",
+          "海鮮",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "糯米",
+          "海鲜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "糯米",
+          "海鮮",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀",
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_8",
+      "ocr": {
+        "x": 39.30327066482577,
+        "y": 47.41803238304485,
+        "text": "찹쌀탕수육+짬뽕또는볶음밥",
+        "width": 27.734051893812783,
+        "height": 2.367511468723823,
+        "rotation": 359.5020485301433
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "깐풍기+짜장",
+        "en.ROMAN": "kkanpunggi+jjajang",
+        "en": "Sweet and Spicy Chicken + Black Bean Sauce Noodles",
+        "ja": "鶏の唐揚げ辛味甘酢がけ+ジャージャー麺",
+        "zh_CN": "干烹鸡+炸酱面",
+        "zh_TW": "乾烹雞+炸醬麵2",
+        "price": "13000",
+        "ingredients.ko": [
+          "닭고기",
+          "돼지고기",
+          "춘장"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Pork",
+          "Black Bean Paste"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "豚肉",
+          "甜麺醤"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "猪肉",
+          "春酱"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "豬肉",
+          "春醬"
+        ],
+        "allergy": [
+          "닭고기",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_11",
+      "ocr": {
+        "x": 39.350892822892845,
+        "y": 51.232147718505004,
+        "text": "깐풍기+짜장",
+        "width": 12.810433955303683,
+        "height": 2.0748789261684344,
+        "rotation": 359.7971569956289
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "깐풍기+짬뽕또는볶음밥",
+        "en.ROMAN": "kkan funghi +jjamppongttoneunbokkeumbap",
+        "en": "Kkanpunggi + jjamppong or fried rice.",
+        "ja": "カンプンギ+ちゃんぽんまたはチャーハン",
+        "zh_CN": "干烹鸡+海鲜面或炒饭",
+        "zh_TW": "幹烹雞+海鮮麪或炒飯",
+        "price": "15000",
+        "ingredients.ko": [
+          "닭고기",
+          "해산물",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Seafood",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "海鮮",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "海鲜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "海鮮",
+          "米"
+        ],
+        "allergy": [
+          "닭고기",
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_12",
+      "ocr": {
+        "x": 39.482323793114226,
+        "y": 53.15803446946802,
+        "text": "깐풍기+짬뽕또는볶음밥",
+        "width": 23.6133924711806,
+        "height": 2.442638200019624,
+        "rotation": 359.79715699563246
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "깐쇼새우+짜장",
+        "en.ROMAN": "ganshao saeu+jjajang",
+        "en": "Sweet and Sour Shrimp + Black Bean Sauce Noodles",
+        "ja": "海老のチリソース+ジャージャー麺",
+        "zh_CN": "干烧虾仁+炸酱面",
+        "zh_TW": "乾燒蝦仁+炸醬麵",
+        "price": "13000",
+        "ingredients.ko": [
+          "새우",
+          "춘장",
+          "돼지고기",
+          "채소",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Black Bean Paste",
+          "Pork",
+          "Vegetables",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "甜麺醤",
+          "豚肉",
+          "野菜",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "春酱",
+          "猪肉",
+          "蔬菜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "春醬",
+          "豬肉",
+          "蔬菜",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_15",
+      "ocr": {
+        "x": 39.59342034618022,
+        "y": 57.08717536973187,
+        "text": "깐쇼새우+짜장",
+        "width": 14.508407413180239,
+        "height": 2.131160722480545,
+        "rotation": 359.7971569956235
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "깐쇼새우+짬뽕또는볶음밥",
+        "en.ROMAN": "ganshao saeu+jjamppongttoneunbokkeumbap",
+        "en": "Shrimp and jjamppong or fried rice.",
+        "ja": "海老のチリソース+ちゃんぽんまたはチャーハン",
+        "zh_CN": "干烧虾+海鲜面或炒饭",
+        "zh_TW": "乾燒蝦+海鮮麪或炒飯",
+        "price": "15000",
+        "ingredients.ko": [
+          "새우",
+          "해산물",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Seafood",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "海鮮",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "海鲜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "海鮮",
+          "米"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_16",
+      "ocr": {
+        "x": 39.641242740478894,
+        "y": 59.13390220758346,
+        "text": "깐쇼새우+짬뽕또는볶음밥",
+        "width": 25.682924611422763,
+        "height": 2.309065303480709,
+        "rotation": 359.79715699563246
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "크림새우+짜장",
+        "en.ROMAN": "cream saeu+jjajang",
+        "en": "Cream shrimp and black bean noodles.",
+        "ja": "クリームエビ+ジャージャー麺",
+        "zh_CN": "奶油虾+炸酱",
+        "zh_TW": "奶油蝦+炸醬",
+        "price": "13000",
+        "ingredients.ko": [
+          "새우",
+          "생크림",
+          "밀가루",
+          "춘장"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Fresh Cream",
+          "Wheat Flour",
+          "Black Bean Paste"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "生クリーム",
+          "小麦粉",
+          "甜麺醤"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "鲜奶油",
+          "面粉",
+          "春酱"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "鮮奶油",
+          "麵粉",
+          "春醬"
+        ],
+        "allergy": [
+          "새우",
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_19",
+      "ocr": {
+        "x": 39.61335725938551,
+        "y": 62.88759466789079,
+        "text": "크림새우+짜장",
+        "width": 14.897837461212886,
+        "height": 2.171404500191678,
+        "rotation": 359.79715699562524
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "크림새우+짬뽕/볶음밥",
+        "en.ROMAN": "cream saeu+jjamppong/bokkeumbap",
+        "en": "Cream shrimp + jjamppong / fried rice",
+        "ja": "クリームエビ+ちゃんぽん/チャーハン",
+        "zh_CN": "奶油虾+海鲜面/炒饭",
+        "zh_TW": "奶油蝦+海鮮麪/炒飯",
+        "price": "15000",
+        "ingredients.ko": [
+          "새우",
+          "해산물",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Seafood",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "海鮮",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "海鲜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "海鮮",
+          "米"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_IF02_M0002_498671_2-tf.jpg_20",
+      "ocr": {
+        "x": 39.78951133071899,
+        "y": 65.04971002870373,
+        "text": "크림새우+짬뽕또는볶음밥",
+        "width": 25.600655596587334,
+        "height": 2.1838355663911417,
+        "rotation": 359.79715699562524
+      }
+    }
+  ]
+}

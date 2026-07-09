@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "file_name": "DG_KF02_M0002_9006502_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:22 16:45:11",
+    "store_id": "9006502",
+    "store_region": "DG",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          92.07207207207207,
+          18.3756345177665
+        ],
+        [
+          95.31531531531532,
+          84.16243654822335
+        ],
+        [
+          8.64864864864865,
+          84.16243654822335
+        ],
+        [
+          10.27027027027027,
+          19.39086294416244
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "미트팡",
+        "en.ROMAN": "meat pang",
+        "en": "Meat Ball Toast",
+        "ja": "ミートボールトースト",
+        "zh_CN": "肉丸吐司三明治",
+        "zh_TW": "肉餅",
+        "price": "4500",
+        "ingredients.ko": [
+          "쇠고기",
+          "밀가루",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Wheat Flour",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "小麦粉",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "面粉",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "麵粉",
+          "雞蛋"
+        ],
+        "allergy": [
+          "밀",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF02_M0002_9006502_1-tf_2",
+      "ocr": {
+        "x": 56.039049941925484,
+        "y": 27.08745627983418,
+        "text": "미트팡",
+        "width": 10.358478783096603,
+        "height": 2.3386135592278063,
+        "rotation": 359.3738701565157
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "더블소세지토스트",
+        "en.ROMAN": "double sausage toast",
+        "en": "Double Sausages Toast",
+        "ja": "ダブルソーセージトースト",
+        "zh_CN": "双香肠吐司",
+        "zh_TW": "雙倍香腸吐司",
+        "price": "4200",
+        "ingredients.ko": [
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF02_M0002_9006502_1-tf_8",
+      "ocr": {
+        "x": 13.792405772450032,
+        "y": 34.821093843758234,
+        "text": "더블소세지",
+        "width": 12.375290183170604,
+        "height": 1.6461182407451813,
+        "rotation": 359.3030573499621
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "트리플소세지토스트",
+        "en.ROMAN": "triple sausage toast",
+        "en": "Triple Sausage Toast",
+        "ja": "トリプルソーセージトースト",
+        "zh_CN": "三倍香肠吐司",
+        "zh_TW": "三倍香腸吐司",
+        "price": "4800",
+        "ingredients.ko": [
+          "트러플",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Truffle",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "トリュフ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "松露",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "松露",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF02_M0002_9006502_1-tf_11",
+      "ocr": {
+        "x": 52.46113011857419,
+        "y": 43.97247778514922,
+        "text": "트리플소세지",
+        "width": 14.96706789259538,
+        "height": 1.6524742934960548,
+        "rotation": 359.4323807638825
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "칠리새우",
+        "en.ROMAN": "chili saeu",
+        "en": "Chili Shrimp",
+        "ja": "海老のチリソース",
+        "zh_CN": "香辣虾仁",
+        "zh_TW": "甜辣鮮蝦",
+        "price": "4400",
+        "ingredients.ko": [
+          "새우",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "澱粉"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF02_M0002_9006502_1-tf_19",
+      "ocr": {
+        "x": 13.480585969144874,
+        "y": 53.75165525503862,
+        "text": "칠리새우",
+        "width": 10.337059146655543,
+        "height": 1.6341825817327535,
+        "rotation": 359.46809570369845
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "새우",
+        "en.ROMAN": "saeu",
+        "en": "Shrimp",
+        "ja": "海老",
+        "zh_CN": "虾",
+        "zh_TW": "蝦",
+        "price": "4400",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF02_M0002_9006502_1-tf_26",
+      "ocr": {
+        "x": 52.7782785816038,
+        "y": 63.29696379332649,
+        "text": "새우",
+        "width": 5.151452995795978,
+        "height": 1.6713874005134324,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "딥치즈베이컨토스트",
+        "en.ROMAN": "deep cheese bacon toast",
+        "en": "Cheese Dipped Bacon Toast",
+        "ja": "チーズ入りベーコントースト",
+        "zh_CN": "重奶酪培根吐司",
+        "zh_TW": "切達起司培根吐司",
+        "price": "4000",
+        "ingredients.ko": [
+          "치즈",
+          "베이컨"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Bacon"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "ベーコン"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "培根"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "培根"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF02_M0002_9006502_1-tf_27",
+      "ocr": {
+        "x": 13.259444875713868,
+        "y": 63.521812775420415,
+        "text": "딥치즈베이컨",
+        "width": 14.952786193123874,
+        "height": 1.708588936253777,
+        "rotation": 359.3682927407814
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "피자",
+        "en.ROMAN": "pizza",
+        "en": "Pizza",
+        "ja": "ピザ",
+        "zh_CN": "披萨",
+        "zh_TW": "披薩",
+        "price": "4300",
+        "ingredients.ko": [
+          "야채",
+          "모짜렐라치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mozzarella",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "モッツァレラチーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "马苏里拉奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "莫札瑞拉起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF02_M0002_9006502_1-tf_32",
+      "ocr": {
+        "x": 52.930728241562925,
+        "y": 73.43526140564684,
+        "text": "피자",
+        "width": 5.289156021840928,
+        "height": 1.767052281129485,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "베이컨베스트토스트",
+        "en.ROMAN": "bacon best toast",
+        "en": "Bacon Best Toast",
+        "ja": "ベーコンベストトースト",
+        "zh_CN": "培根吐司",
+        "zh_TW": "培根BEST吐司",
+        "price": "3700",
+        "ingredients.ko": [
+          "야채",
+          "밀가루",
+          "베이컨"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Wheat Flour",
+          "Bacon"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "小麦粉",
+          "ベーコン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "面粉",
+          "培根"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵粉",
+          "培根"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF02_M0002_9006502_1-tf_33",
+      "ocr": {
+        "x": 12.833037300177782,
+        "y": 73.53836374480224,
+        "text": "베이컨베스트",
+        "width": 15.344490911560055,
+        "height": 1.7394555756147532,
+        "rotation": 0
+      }
+    }
+  ]
+}

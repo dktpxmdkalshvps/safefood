@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "file_name": "CC_KF01_M0002_1903533_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 3024,
+    "captured_date": "2022:10:19 11:47:42",
+    "store_id": "1903533",
+    "store_region": "CC",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          15.606936416184972,
+          2.167630057803468
+        ],
+        [
+          74.42196531791907,
+          3.3236994219653178
+        ],
+        [
+          73.69942196531792,
+          72.6878612716763
+        ],
+        [
+          15.606936416184972,
+          72.10982658959537
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "코다리회무침",
+        "en.ROMAN": "kodarihoemuchim",
+        "en": "Spicy Raw Half-dried Pollack Salad",
+        "ja": "半干しスケトウダラの刺身の和え物",
+        "zh_CN": "生拌半干明太鱼",
+        "zh_TW": "生拌半乾明太魚",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "코다리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Half-dried Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "半干しスケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "半干明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "半乾明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1903533_3-tf_0",
+      "ocr": {
+        "x": 25.491564503013066,
+        "y": 26.07912761337927,
+        "text": "코다리회무침",
+        "width": 27.858476935263514,
+        "height": 5.686888159455444,
+        "rotation": 2.006419984143065
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "닭발",
+        "en.ROMAN": "dakbal",
+        "en": "Grilled Chicken Feet",
+        "ja": "鶏足",
+        "zh_CN": "鸡爪",
+        "zh_TW": "雞爪",
+        "price": "15000",
+        "ingredients.ko": [
+          "고추",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0002_1903533_3-tf_7",
+      "ocr": {
+        "x": 38.64872860036021,
+        "y": 52.37475467586214,
+        "text": "닭발",
+        "width": 9.433635904404479,
+        "height": 5.422979699177509,
+        "rotation": 0
+      }
+    }
+  ]
+}

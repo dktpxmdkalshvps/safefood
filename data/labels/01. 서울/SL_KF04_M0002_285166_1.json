@@ -1,0 +1,802 @@
+{
+  "meta": {
+    "file_name": "SL_KF04_M0002_285166_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:08:22 18:36:33",
+    "store_id": "285166",
+    "store_region": "SL",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.8215217739132358,
+          10.403726708074535
+        ],
+        [
+          100,
+          11.042750825359521
+        ],
+        [
+          99.52772153225675,
+          98.90856695204519
+        ],
+        [
+          0.3492433061699652,
+          99.06832298136646
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-0",
+      "ocr": {
+        "x": 7.292627994428501,
+        "y": 22.839348118514923,
+        "text": "한우갈비살",
+        "width": 20.867525698746835,
+        "height": 5.898197762374919,
+        "rotation": 0.7495409116442033
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "한우갈비살",
+        "en.ROMAN": "hanugalbisal",
+        "en": "Korean Beef Galbi",
+        "ja": "韓牛カルビ",
+        "zh_CN": "韩牛肋条肉",
+        "zh_TW": "韓牛牛肋條",
+        "price": "33000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-1",
+      "ocr": {
+        "x": 7.318730068552592,
+        "y": 30.160220198719447,
+        "text": "치마",
+        "width": 6.436750643960473,
+        "height": 5.573570192262662,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치마",
+        "en.ROMAN": "chima",
+        "en": "Skirt.",
+        "ja": "スカート",
+        "zh_CN": "裙子",
+        "zh_TW": "裙子",
+        "price": "33000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-2",
+      "ocr": {
+        "x": 7.522496649563073,
+        "y": 37.8577332173993,
+        "text": "한우특수모듬",
+        "width": 20.607583568338534,
+        "height": 5.942501654978658,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "한우특수모듬",
+        "en.ROMAN": "hanuteuksumodeum",
+        "en": "Korean beef special",
+        "ja": "韓牛希少部位の盛り合わせ",
+        "zh_CN": "韩牛特殊部位拼盘",
+        "zh_TW": "韓牛特殊部位拼盤",
+        "price": "30000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-3",
+      "ocr": {
+        "x": 7.563398604669776,
+        "y": 48.590774746369384,
+        "text": "한우등심",
+        "width": 13.04839532175091,
+        "height": 5.840589229883063,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "한우등심",
+        "en.ROMAN": "hanudeungsim",
+        "en": "Korean Beef Sirloin",
+        "ja": "韓牛ロース",
+        "zh_CN": "韩牛外脊",
+        "zh_TW": "韓牛里肌",
+        "price": "28000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-4",
+      "ocr": {
+        "x": 7.866871624277807,
+        "y": 58.217064789435376,
+        "text": "한우모듬",
+        "width": 20.21702369025562,
+        "height": 5.5952495519582,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "한우모듬",
+        "en.ROMAN": "hanumodeum",
+        "en": "Assorted Grilled Korean Beef Cuts",
+        "ja": "韓牛の盛り合わせ",
+        "zh_CN": "韩牛拼盘",
+        "zh_TW": "韓牛拼盤",
+        "price": "27000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-5",
+      "ocr": {
+        "x": 7.979532309619055,
+        "y": 68.9385591875066,
+        "text": "한우차돌박이",
+        "width": 20.019741417352375,
+        "height": 5.446307487620661,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "한우차돌박이",
+        "en.ROMAN": "hanuchadolbagi",
+        "en": "Korean Beef Brisket",
+        "ja": "牛のともばら肉",
+        "zh_CN": "韩牛胸肉",
+        "zh_TW": "韓牛牛胸肉",
+        "price": "24000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-6",
+      "ocr": {
+        "x": 7.931690823097049,
+        "y": 79.77263088574114,
+        "text": "국내산갈비살",
+        "width": 20.39468241834696,
+        "height": 5.4509754726946085,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "갈비살",
+        "en.ROMAN": "galbisal",
+        "en": "Galbi",
+        "ja": "カルビ",
+        "zh_CN": "肋条肉",
+        "zh_TW": "牛肋條",
+        "price": "26000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-7",
+      "ocr": {
+        "x": 55.053712559739,
+        "y": 63.62850639970168,
+        "text": "가브리",
+        "width": 8.927779623976273,
+        "height": 5.2246647984572885,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "가브리",
+        "en.ROMAN": "gabeuri",
+        "en": "Gavry",
+        "ja": "豚ロースかぶり",
+        "zh_CN": "猪颊肉",
+        "zh_TW": "豬頰肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "가브리살"
+        ],
+        "ingredients.en": [
+          "Blade-end Fatback"
+        ],
+        "ingredients.ja": [
+          "豚肩ロス"
+        ],
+        "ingredients.zh_CN": [
+          "猪颊肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬頰肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-8",
+      "ocr": {
+        "x": 55.00010652351108,
+        "y": 42.33093633749295,
+        "text": "등골",
+        "width": 12.564063449628167,
+        "height": 5.615652423681648,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "등골",
+        "en.ROMAN": "deunggol",
+        "en": "Beef Back Bone",
+        "ja": "ボーンマロー(牛の骨髄)",
+        "zh_CN": "牛脊排",
+        "zh_TW": "韓牛脊髓",
+        "price": "20000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-9",
+      "ocr": {
+        "x": 55.057540831806044,
+        "y": 57.80676566847701,
+        "text": "갈매기",
+        "width": 9.718657101377795,
+        "height": 5.145328879515732,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "갈매기살",
+        "en.ROMAN": "galmaegisal",
+        "en": "Grilled Pork Skirt",
+        "ja": "豚ハラミ",
+        "zh_CN": "猪外腹横肌肉",
+        "zh_TW": "豬側腹橫肌肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "갈매기살"
+        ],
+        "ingredients.en": [
+          "Pork Skirt"
+        ],
+        "ingredients.ja": [
+          "豚の横隔膜の肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪外腹横肌肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬側腹橫肌肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-10",
+      "ocr": {
+        "x": 55.02410455096238,
+        "y": 78.33055684518797,
+        "text": "양념돼지갈비",
+        "width": 16.47912402254751,
+        "height": 5.26477626509561,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "양념돼지갈비",
+        "en.ROMAN": "yangnyeomdwaejigalbi",
+        "en": "Grilled Marinated Pork Galbi",
+        "ja": "味付け豚カルビ",
+        "zh_CN": "调味猪排骨",
+        "zh_TW": "調味豬排骨",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지갈비"
+        ],
+        "ingredients.en": [
+          "Pork Galbi"
+        ],
+        "ingredients.ja": [
+          "豚カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "猪排骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬排骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-11",
+      "ocr": {
+        "x": 55.05774041912246,
+        "y": 49.08146597762,
+        "text": "간.천엽",
+        "width": 12.153410707382454,
+        "height": 5.744192705119878,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "간.천엽",
+        "en.ROMAN": "gan, cheonyeop",
+        "en": "Liver and Omasum",
+        "ja": "レバー、センマイ",
+        "zh_CN": "肝，百叶",
+        "zh_TW": "牛肝.牛百葉",
+        "price": "15000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-12",
+      "ocr": {
+        "x": 55.13487332149411,
+        "y": 33.68101836087978,
+        "text": "육회",
+        "width": 16.68534818037769,
+        "height": 5.348396083242148,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "육회",
+        "en.ROMAN": "yukhoe",
+        "en": "Beef Tartare",
+        "ja": "ユッケ",
+        "zh_CN": "生拌牛肉",
+        "zh_TW": "生拌牛肉",
+        "price": "25000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-13",
+      "ocr": {
+        "x": 55.34110162944884,
+        "y": 23.908063279192813,
+        "text": "한우육사시미",
+        "width": 16.701241379586143,
+        "height": 5.515183481045916,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "한우육사시미",
+        "en.ROMAN": "hanuyuk sashimi",
+        "en": "Sliced Raw Korean Beef",
+        "ja": "韓牛ユッケ",
+        "zh_CN": "生韩牛肉片",
+        "zh_TW": "生韓牛肉片",
+        "price": "28000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0002_285166_1-tf-14",
+      "ocr": {
+        "x": 54.9851190476187,
+        "y": 70.60130688147908,
+        "text": "삼겹살",
+        "width": 9.40806264231951,
+        "height": 5.288113245510613,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "UpNzGylJRF",
+      "ocr": {
+        "x": 14.455050429462965,
+        "y": 30.19630119291085,
+        "text": "살치",
+        "width": 6.270455309436742,
+        "height": 5.687419806441282,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "살치",
+        "en.ROMAN": "salchi",
+        "en": "Salchi",
+        "ja": "霜降りロース",
+        "zh_CN": "板腱肉",
+        "zh_TW": "板腱肉",
+        "price": "33000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "twDBYHJcVy",
+      "ocr": {
+        "x": 21.66338612072268,
+        "y": 30.379738739733874,
+        "text": "토시",
+        "width": 6.128196608754693,
+        "height": 5.49231673538846,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "토시",
+        "en.ROMAN": "tosi",
+        "en": "Grilled Inside Skirt",
+        "ja": "牛サガリ焼き",
+        "zh_CN": "烤牛肋间隔膜肉",
+        "zh_TW": "牛肋間隔膜肉",
+        "price": "33000",
+        "ingredients.ko": [
+          "토시살"
+        ],
+        "ingredients.en": [
+          "Inside Skirt"
+        ],
+        "ingredients.ja": [
+          "牛のあばら下の肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肋间隔膜肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肋間隔膜肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "opH1vkOVHf",
+      "ocr": {
+        "x": 65.94933724548936,
+        "y": 57.9131502178998,
+        "text": "항정",
+        "width": 6.03785070016484,
+        "height": 5.188620953979805,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "항정",
+        "en.ROMAN": "hangjeong",
+        "en": "Grilled Pork Neck",
+        "ja": "豚トロ",
+        "zh_CN": "猪颈肉",
+        "zh_TW": "豬頸",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지항정살"
+        ],
+        "ingredients.en": [
+          "Pork Neck"
+        ],
+        "ingredients.ja": [
+          "豚トロ"
+        ],
+        "ingredients.zh_CN": [
+          "猪颈肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬頸肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "bZaWrcF4zk",
+      "ocr": {
+        "x": 65.48655665826983,
+        "y": 70.76764470844758,
+        "text": "목살",
+        "width": 6.298527705150951,
+        "height": 5.110435654568696,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "목살",
+        "en.ROMAN": "moksal",
+        "en": "Pork Shoulder",
+        "ja": "肩ロース",
+        "zh_CN": "猪肩肉",
+        "zh_TW": "豬肩肉",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

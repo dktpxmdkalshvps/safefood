@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "file_name": "CC_KF03_M0002_1902757_1.jpg",
+    "image_original_width": 2604,
+    "image_original_height": 4624,
+    "captured_date": "2022:12:11 17:49:01",
+    "store_id": "1902757",
+    "store_region": "CC",
+    "store_type": "KF03",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.2732240437158471,
+          5.076923076923077
+        ],
+        [
+          99.18032786885246,
+          0.7692307692307693
+        ],
+        [
+          98.90710382513662,
+          75.07692307692308
+        ],
+        [
+          0.5464480874316942,
+          77.84615384615384
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "생선카츠",
+        "en.ROMAN": "saengseon katsu",
+        "en": "fishcats",
+        "ja": "白身魚のフライ",
+        "zh_CN": "炸鱼排",
+        "zh_TW": "炸魚排",
+        "price": "3900",
+        "ingredients.ko": [
+          "생선",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_3",
+      "ocr": {
+        "x": 13.185648214515394,
+        "y": 16.92598016218829,
+        "text": "생선카츠",
+        "width": 12.774614169974091,
+        "height": 2.2929744443172018,
+        "rotation": 356.08011531603
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "등심카츠",
+        "en.ROMAN": "deungsim katsu",
+        "en": "Sirloin katsu",
+        "ja": "ロースカツ",
+        "zh_CN": "炸猪外脊排",
+        "zh_TW": "炸豬里肌排",
+        "price": "3900",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_6",
+      "ocr": {
+        "x": 12.919797581378681,
+        "y": 20.62281686256593,
+        "text": "등심카츠",
+        "width": 12.995342850236876,
+        "height": 2.295911232190326,
+        "rotation": 356.08011531602983
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "안심카츠",
+        "en.ROMAN": "ansim katsu",
+        "en": "tenderloin katsu",
+        "ja": "牛ヒレカツ",
+        "zh_CN": "炸猪里脊排",
+        "zh_TW": "牛裏脊肉",
+        "price": "4500",
+        "ingredients.ko": [
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_9",
+      "ocr": {
+        "x": 12.678292273690982,
+        "y": 24.387746106955657,
+        "text": "안심카츠",
+        "width": 13.16239094823221,
+        "height": 2.3005276381600157,
+        "rotation": 356.0801153160299
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치즈롤카츠",
+        "en.ROMAN": "cheese roll katsu",
+        "en": "Pork Cutlet Rolls Stuffed with Cheese",
+        "ja": "チーズロールカツ",
+        "zh_CN": "炸奶酪猪肉卷",
+        "zh_TW": "炸起司捲",
+        "price": "4500",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉",
+          "豬肉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_12",
+      "ocr": {
+        "x": 12.619291829838483,
+        "y": 28.230013781753907,
+        "text": "치즈롤카츠",
+        "width": 16.07344917455074,
+        "height": 2.257079872238075,
+        "rotation": 356.08011531602943
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "고구마치즈롤카츠",
+        "en.ROMAN": "goguma cheese roll katsu",
+        "en": "Sweet Potato Mousse and Cheese Stuffed Pork Cutlet Roll",
+        "ja": "さつまいも入りチーズロールカツ",
+        "zh_CN": "炸红薯奶酪猪肉卷",
+        "zh_TW": "炸地瓜起司捲",
+        "price": "4800",
+        "ingredients.ko": [
+          "고구마",
+          "치즈",
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Sweet Potato",
+          "Cheese",
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "サツマイモ",
+          "チーズ",
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "红薯",
+          "奶酪",
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜",
+          "起司",
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_15",
+      "ocr": {
+        "x": 12.226805509385082,
+        "y": 31.976354009273855,
+        "text": "고구마치즈롤카츠",
+        "width": 25.864589243566638,
+        "height": 2.397121766392172,
+        "rotation": 356.08011531602955
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "돈카츠소스",
+        "en.ROMAN": "donkatsu sauce",
+        "en": "Sauce for Pork Cutlet",
+        "ja": "豚カツソース",
+        "zh_CN": "炸猪排酱",
+        "zh_TW": "炸豬排醬汁",
+        "price": "1000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_20",
+      "ocr": {
+        "x": 11.399089546006055,
+        "y": 50.02281447234752,
+        "text": "돈카츠소스",
+        "width": 16.9647441192488,
+        "height": 2.4087937827853207,
+        "rotation": 356.6296833352785
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "타르타르소스",
+        "en.ROMAN": "tartar sauce",
+        "en": "Tartar Sauce",
+        "ja": "タルタルソース",
+        "zh_CN": "塔塔酱",
+        "zh_TW": "塔塔醬",
+        "price": "1000",
+        "ingredients.ko": [
+          "마요네즈",
+          "양파",
+          "레몬"
+        ],
+        "ingredients.en": [
+          "Mayonnaise",
+          "Onion",
+          "Lemon"
+        ],
+        "ingredients.ja": [
+          "マヨネーズ",
+          "玉ねぎ",
+          "レモン"
+        ],
+        "ingredients.zh_CN": [
+          "蛋黄酱",
+          "洋葱",
+          "柠檬"
+        ],
+        "ingredients.zh_TW": [
+          "美乃滋",
+          "洋蔥",
+          "檸檬"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_22",
+      "ocr": {
+        "x": 11.201044254594066,
+        "y": 53.72087306405702,
+        "text": "타르타르소스",
+        "width": 20.132920790062066,
+        "height": 2.4844818528667045,
+        "rotation": 356.6296833352778
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매콤돈카츠소스",
+        "en.ROMAN": "maekom donkatsu sauce",
+        "en": "Spicy Sauce for Pork Cutlet",
+        "ja": "辛味豚カツソース",
+        "zh_CN": "香辣炸猪排酱",
+        "zh_TW": "香辣炸豬排醬汁",
+        "price": "1000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_24",
+      "ocr": {
+        "x": 10.930870232118933,
+        "y": 57.42783027001403,
+        "text": "매콤돈카츠소스",
+        "width": 23.81570947001372,
+        "height": 2.5428546490465798,
+        "rotation": 356.62968333527783
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "과일돈카츠소스",
+        "en.ROMAN": "gwail donkatsu sauce",
+        "en": "Fruit Sauce for Pork Cutlet",
+        "ja": "フルーツ入り豚カツソース",
+        "zh_CN": "水果炸猪排酱",
+        "zh_TW": "水果炸豬排醬汁",
+        "price": "1000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_26",
+      "ocr": {
+        "x": 10.683016012158836,
+        "y": 61.244477760079754,
+        "text": "과일돈카츠소스",
+        "width": 24.105388180380565,
+        "height": 2.525316795926086,
+        "rotation": 357.2067486927031
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "스리라차마요소스",
+        "en.ROMAN": "sriracha mayo sauce",
+        "en": "Sriracha Mayo Sauce",
+        "ja": "スリラチャマヨソース",
+        "zh_CN": "是拉差蛋黄酱",
+        "zh_TW": "是拉差美乃滋醬",
+        "price": "1500",
+        "ingredients.ko": [
+          "스리라차소스",
+          "마요네즈"
+        ],
+        "ingredients.en": [
+          "Sriracha Sauce",
+          "Mayonnaise"
+        ],
+        "ingredients.ja": [
+          "スリラッチャソース",
+          "マヨネーズ"
+        ],
+        "ingredients.zh_CN": [
+          "是拉差辣椒酱",
+          "蛋黄酱"
+        ],
+        "ingredients.zh_TW": [
+          "是拉差辣椒醬",
+          "美乃滋"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_28",
+      "ocr": {
+        "x": 10.388974729659667,
+        "y": 64.98481334713895,
+        "text": "스리라차마요소스",
+        "width": 28.311224300269853,
+        "height": 2.486024178058855,
+        "rotation": 357.2614650601834
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "와사비마요소스",
+        "en.ROMAN": "wasabi mayo sauce",
+        "en": "Wasabi Mayonnaise Sauce",
+        "ja": "わさびマヨソース",
+        "zh_CN": "芥末奶油酱",
+        "zh_TW": "芥末美乃滋醬",
+        "price": "1500",
+        "ingredients.ko": [
+          "와사비",
+          "마요네즈"
+        ],
+        "ingredients.en": [
+          "Wasabi",
+          "Mayonnaise"
+        ],
+        "ingredients.ja": [
+          "ワサビ",
+          "マヨネーズ"
+        ],
+        "ingredients.zh_CN": [
+          "芥末",
+          "蛋黄酱"
+        ],
+        "ingredients.zh_TW": [
+          "山葵",
+          "美乃滋"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF03_M0002_1902757_1-tf_30",
+      "ocr": {
+        "x": 10.163663928349159,
+        "y": 68.65879033539771,
+        "text": "와사비마요소스",
+        "width": 25.072643169016864,
+        "height": 2.5668332330937482,
+        "rotation": 357.2350978017616
+      }
+    }
+  ]
+}

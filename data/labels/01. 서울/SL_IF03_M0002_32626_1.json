@@ -1,0 +1,727 @@
+{
+  "meta": {
+    "file_name": "SL_IF03_M0002_32626_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:26 14:03:16",
+    "store_id": "32626",
+    "store_region": "SL",
+    "store_type": "IF03",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.19028340080972,
+          0.60790273556231
+        ],
+        [
+          0.6072874493927125,
+          0.1519756838905775
+        ],
+        [
+          7.489878542510121,
+          98.78419452887537
+        ],
+        [
+          96.96356275303644,
+          99.69604863221885
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-0",
+      "ocr": {
+        "x": 15.227701561644565,
+        "y": 40.74927744156924,
+        "text": "런치세트초밥(10ps)+튀김+우동",
+        "width": 42.78392719502873,
+        "height": 2.94382825819357,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "초밥+튀김+우동",
+        "en.ROMAN": "chobap+twigim+ udon",
+        "en": "Sushi + Deep-fried Dish + Udon",
+        "ja": "寿司+天ぷら+うどん",
+        "zh_CN": "寿司+炸什锦+乌冬面",
+        "zh_TW": "壽司+炸物+烏龍麵",
+        "price": "11000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-1",
+      "ocr": {
+        "x": 52.88003853474145,
+        "y": 53.70677106611048,
+        "text": "모둠사시미",
+        "width": 10.483757696874303,
+        "height": 1.8353174603174593,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "모둠사시미",
+        "en.ROMAN": "modum sashimi",
+        "en": "Assorted Sliced Raw Fish",
+        "ja": "刺身の盛り合わせ",
+        "zh_CN": "生鱼片拼盘",
+        "zh_TW": "生魚片拼盤",
+        "price": "30000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-2",
+      "ocr": {
+        "x": 13.07927160587825,
+        "y": 54.25679807285046,
+        "text": "이대헌스시",
+        "width": 10.851610693685597,
+        "height": 1.9725827276149643,
+        "rotation": 359.1226855451058
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "이대헌스시",
+        "en.ROMAN": "idaeheon sushi",
+        "en": "Lee Dae Hun's poem.",
+        "ja": "梨大軒寿司",
+        "zh_CN": "梨大亨氏市",
+        "zh_TW": "梨大亨氏市",
+        "price": "15000",
+        "ingredients.ko": [
+          "쌀",
+          "생선"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "米",
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-3",
+      "ocr": {
+        "x": 52.871934581386576,
+        "y": 56.71991601813213,
+        "text": "특모둠사시미",
+        "width": 12.518114700244443,
+        "height": 1.909722222222219,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "특모듬사시미",
+        "en.ROMAN": "teungmodeum sashimi",
+        "en": "Assorted Sliced Raw Fish Special",
+        "ja": "特上刺身の盛り合わせ",
+        "zh_CN": "特级生鱼片拼盘",
+        "zh_TW": "特級生魚片拼盤",
+        "price": "40000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-4",
+      "ocr": {
+        "x": 12.988521767558877,
+        "y": 57.356619608668865,
+        "text": "스모크스시",
+        "width": 10.997418433633202,
+        "height": 1.9593253968253899,
+        "rotation": 359.1226855451054
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "스모크스시",
+        "en.ROMAN": "smoke sushi",
+        "en": "Smokeshish",
+        "ja": "スモーク寿司",
+        "zh_CN": "斯摩克斯市",
+        "zh_TW": "斯摩克斯市",
+        "price": "20000",
+        "ingredients.ko": [
+          "쌀",
+          "생선"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "米",
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-5",
+      "ocr": {
+        "x": 53.04232804232819,
+        "y": 59.697420634920626,
+        "text": "이대헌스페셜사시미",
+        "width": 18.59772123930291,
+        "height": 2.083333333333329,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "이대헌스페셜사시미",
+        "en.ROMAN": "idaeheon special sashimi",
+        "en": "Lee Daeheon Special Sashimi",
+        "ja": "イ·デホンスペシャル刺身",
+        "zh_CN": "李大宪特别刺身",
+        "zh_TW": "李大憲特別刺身",
+        "price": "50000",
+        "ingredients.ko": [
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-6",
+      "ocr": {
+        "x": 13.204880802178378,
+        "y": 60.33763491627057,
+        "text": "특모듬초밥",
+        "width": 10.994293173236285,
+        "height": 2.132936507936501,
+        "rotation": 359.12268554510615
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "특모듬초밥",
+        "en.ROMAN": "teungmodeumchobap",
+        "en": "Assorted Sushi Special",
+        "ja": "特上寿司の盛り合わせ",
+        "zh_CN": "特级寿司拼盘",
+        "zh_TW": "特選壽司拼盤",
+        "price": "20000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-7",
+      "ocr": {
+        "x": 52.962362245391404,
+        "y": 62.72190014511631,
+        "text": "참치사시미",
+        "width": 10.446647818226637,
+        "height": 1.9345238095238082,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "참치사시미",
+        "en.ROMAN": "chamchi sashimi",
+        "en": "Sliced Raw Tuna",
+        "ja": "マグロの刺身",
+        "zh_CN": "金枪鱼生鱼片",
+        "zh_TW": "鮪魚生魚片",
+        "price": "60000",
+        "ingredients.ko": [
+          "참치"
+        ],
+        "ingredients.en": [
+          "Tuna"
+        ],
+        "ingredients.ja": [
+          "ツナ"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-8",
+      "ocr": {
+        "x": 13.29447483439458,
+        "y": 63.50227473900256,
+        "text": "연어초밥",
+        "width": 8.83902726891636,
+        "height": 1.9841269841269777,
+        "rotation": 359.1226855451054
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "연어초밥",
+        "en.ROMAN": "yeoneochobap",
+        "en": "Salmon Sushi",
+        "ja": "サーモン寿司",
+        "zh_CN": "三文鱼寿司",
+        "zh_TW": "鮭魚壽司",
+        "price": "20000",
+        "ingredients.ko": [
+          "쌀",
+          "연어"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Salmon"
+        ],
+        "ingredients.ja": [
+          "米",
+          "鮭"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "三文鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "鮭魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-9",
+      "ocr": {
+        "x": 53.06156859459762,
+        "y": 65.73554090738034,
+        "text": "연어사시미",
+        "width": 10.32329066996232,
+        "height": 1.9345238095238095,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "연어사시미",
+        "en.ROMAN": "yeoneo sashimi",
+        "en": "Sliced Raw Salmon",
+        "ja": "鮭の刺身",
+        "zh_CN": "三文鱼生鱼片",
+        "zh_TW": "鮭魚生魚片",
+        "price": "30000",
+        "ingredients.ko": [
+          "연어"
+        ],
+        "ingredients.en": [
+          "Salmon"
+        ],
+        "ingredients.ja": [
+          "鮭"
+        ],
+        "ingredients.zh_CN": [
+          "三文鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮭魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-10",
+      "ocr": {
+        "x": 13.29103436887556,
+        "y": 66.60247101824235,
+        "text": "광어초밥",
+        "width": 8.880972773761664,
+        "height": 2.0420752126814086,
+        "rotation": 359.28312272451507
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "광어초밥",
+        "en.ROMAN": "gwangeochobap",
+        "en": "Flatfish Sushi",
+        "ja": "ヒラメ寿司",
+        "zh_CN": "左口鱼寿司",
+        "zh_TW": "牙鮃壽司",
+        "price": "24000",
+        "ingredients.ko": [
+          "쌀",
+          "광어"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Flatfish"
+        ],
+        "ingredients.ja": [
+          "米",
+          "ヒラメ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "左口鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "牙鮃"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-11",
+      "ocr": {
+        "x": 52.948534014591864,
+        "y": 68.79960317460326,
+        "text": "VIP사시미",
+        "width": 9.60960567324851,
+        "height": 1.8353174603174593,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "사시미",
+        "en.ROMAN": "sashimi",
+        "en": "Sliced Raw Fish",
+        "ja": "刺身",
+        "zh_CN": "生鱼片",
+        "zh_TW": "生魚片",
+        "price": "80000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-12",
+      "ocr": {
+        "x": 13.3802179465827,
+        "y": 69.66729102119544,
+        "text": "참치초밥",
+        "width": 8.920674704646391,
+        "height": 2.132936507936502,
+        "rotation": 359.28312272451706
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "참치초밥",
+        "en.ROMAN": "chamchichobap",
+        "en": "Tuna Sushi",
+        "ja": "マグロ寿司",
+        "zh_CN": "金枪鱼寿司",
+        "zh_TW": "鮪魚壽司",
+        "price": "18000",
+        "ingredients.ko": [
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-13",
+      "ocr": {
+        "x": 13.546339957397548,
+        "y": 72.90714528509255,
+        "text": "도미초밥",
+        "width": 8.77282270350952,
+        "height": 2.014704661849233,
+        "rotation": 358.1837325790812
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "도미초밥",
+        "en.ROMAN": "domichobap",
+        "en": "Sea Bream Sushi",
+        "ja": "鯛寿司",
+        "zh_CN": "鲷鱼寿司",
+        "zh_TW": "鯛魚壽司",
+        "price": "26000",
+        "ingredients.ko": [
+          "쌀",
+          "도미"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sea Bream"
+        ],
+        "ingredients.ja": [
+          "米",
+          "鯛"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "鲷鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "鯛魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-14",
+      "ocr": {
+        "x": 13.584170685192873,
+        "y": 75.96310685274653,
+        "text": "VIP초밥",
+        "width": 7.829531497293114,
+        "height": 1.785714285714276,
+        "rotation": 358.6703327027237
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "VIP초밥",
+        "en.ROMAN": "vip chobap",
+        "en": "VIP Sushi",
+        "ja": "VIP寿司",
+        "zh_CN": "寿司",
+        "zh_TW": "VIP壽司",
+        "price": "50000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-15",
+      "ocr": {
+        "x": 53.198942619807106,
+        "y": 85.73908730158733,
+        "text": "모둠찌라시",
+        "width": 10.160845739981244,
+        "height": 1.9345238095238093,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "찌라시",
+        "en.ROMAN": "jjirasi",
+        "en": "Scallops.",
+        "ja": "チラシ",
+        "zh_CN": "小道消息",
+        "zh_TW": "小道消息",
+        "price": "17000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-16",
+      "ocr": {
+        "x": 53.16587383673831,
+        "y": 88.46112999970077,
+        "text": "연어찌라시",
+        "width": 10.1521164021164,
+        "height": 2.0025226993106116,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "연어찌라시",
+        "en.ROMAN": "yeoneojjirasi",
+        "en": "Salmon Chirashi.",
+        "ja": "鮭ちらし",
+        "zh_CN": "三文鱼小道消息",
+        "zh_TW": "三文魚小道消息",
+        "price": "24000",
+        "ingredients.ko": [
+          "연어"
+        ],
+        "ingredients.en": [
+          "Salmon"
+        ],
+        "ingredients.ja": [
+          "鮭"
+        ],
+        "ingredients.zh_CN": [
+          "三文鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮭魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0002_32626_1-tf-17",
+      "ocr": {
+        "x": 53.21400277768896,
+        "y": 91.18262476370039,
+        "text": "특모둠찌라시",
+        "width": 12.129648485027694,
+        "height": 1.83531746031746,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "특모듬찌라시",
+        "en.ROMAN": "teungmodeumjjirasi",
+        "en": "Extraordinary Modumperashi.",
+        "ja": "特盛ちらし",
+        "zh_CN": "特莫莫吉拉什",
+        "zh_TW": "特莫莫吉拉什",
+        "price": "28000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

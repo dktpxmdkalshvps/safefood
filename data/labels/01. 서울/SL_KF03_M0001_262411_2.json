@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_262411_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:13 12:15:34",
+    "store_id": "262411",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.1926782273603083,
+          5.780346820809249
+        ],
+        [
+          99.42196531791907,
+          5.346820809248556
+        ],
+        [
+          99.8073217726397,
+          99.85549132947978
+        ],
+        [
+          0.1926782273603083,
+          99.85549132947978
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-1",
+      "ocr": {
+        "x": 5.017877336150709,
+        "y": 41.21452761213324,
+        "text": "퍼보1",
+        "width": 4.8390696754072495,
+        "height": 1.5586573673387771,
+        "rotation": 354.7689431391599
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "퍼보1",
+        "en.ROMAN": "pho bo 1",
+        "en": "Pho Bo 1: Vietnamese Rice Noodle Soup with Beef",
+        "ja": "フォーボ1",
+        "zh_CN": "越南牛肉河粉1",
+        "zh_TW": "套餐1",
+        "price": "11900",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-2",
+      "ocr": {
+        "x": 19.70188838788382,
+        "y": 15.178664769134931,
+        "text": "분보후에",
+        "width": 8.003132666261465,
+        "height": 2.2655811566021153,
+        "rotation": 358.38977918947285
+      },
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "분보후에",
+        "en.ROMAN": "bun bo hue",
+        "en": "Hue-style Beef Noodle Soup",
+        "ja": "ブンボーフエ",
+        "zh_CN": "越南顺化牛肉粉",
+        "zh_TW": "順化牛肉河粉",
+        "price": "13900",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "河粉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": 2
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-3",
+      "ocr": {
+        "x": 20.55725568935517,
+        "y": 59.48525905471537,
+        "text": "퍼가",
+        "width": 5.306446452805813,
+        "height": 1.3471386084679917,
+        "rotation": 355.86108053263547
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "퍼가",
+        "en.ROMAN": "pho ga",
+        "en": "Vietnamese Rice Noodle Soup with Chicken",
+        "ja": "フォーガ",
+        "zh_CN": "鸡腿肉米线",
+        "zh_TW": "Furga",
+        "price": "11900",
+        "ingredients.ko": [
+          "쌀면",
+          "숙주",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Rice Noodle",
+          "Mung Bean Sprout",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "米麺",
+          "緑豆もやし",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "米线",
+          "绿豆芽",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "河粉",
+          "綠豆芽",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-4",
+      "ocr": {
+        "x": 20.97782844505198,
+        "y": 72.62316854015587,
+        "text": "퍼탑깜",
+        "width": 8.739928500511333,
+        "height": 2.0544988944004725,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "퍼탑깜",
+        "en.ROMAN": "pho thap cam",
+        "en": "Vietnamese Rice Noodle Soup with Seafood",
+        "ja": "フォータップカム",
+        "zh_CN": "虾仁鱿鱼鹌鹑蛋米线",
+        "zh_TW": "Puttopblack",
+        "price": "13900",
+        "ingredients.ko": [
+          "쌀면",
+          "숙주",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Rice Noodle",
+          "Mung Bean Sprout",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "米麺",
+          "緑豆もやし",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "米线",
+          "绿豆芽",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "河粉",
+          "綠豆芽",
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-5",
+      "ocr": {
+        "x": 21.355349516547548,
+        "y": 85.80499191098903,
+        "text": "분보싸오",
+        "width": 8.256334065472332,
+        "height": 2.1838561173602042,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "분보싸오",
+        "en.ROMAN": "bun bo xao",
+        "en": "Bun Bo Xao",
+        "ja": "ブンボーサオ",
+        "zh_CN": "拌米线",
+        "zh_TW": "越南牛肉乾拌米線",
+        "price": "12500",
+        "ingredients.ko": [
+          "야채",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "河粉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-6",
+      "ocr": {
+        "x": 43.88301179458743,
+        "y": 98.90900714485731,
+        "text": "고기추가",
+        "width": 5.604249068580524,
+        "height": 1.0872906091996473,
+        "rotation": 359.96247803885535
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "고기추가",
+        "en.ROMAN": "gogi chuga",
+        "en": "Extra Serving of Meat",
+        "ja": "肉追加",
+        "zh_CN": "另加肉",
+        "zh_TW": "加點肉類",
+        "price": "3000",
+        "ingredients.ko": [
+          "고기"
+        ],
+        "ingredients.en": [
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-7",
+      "ocr": {
+        "x": 45.2009631244454,
+        "y": 97.50474750989771,
+        "text": "면추가",
+        "width": 4.264715763732677,
+        "height": 1.1139953395546718,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "면추가",
+        "en.ROMAN": "myeon chuga",
+        "en": "Extra Serving of Noodles",
+        "ja": "麺追加",
+        "zh_CN": "另加面条",
+        "zh_TW": "加點麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-8",
+      "ocr": {
+        "x": 68.09374047452485,
+        "y": 14.49321031445705,
+        "text": "분짜",
+        "width": 5.03257979771367,
+        "height": 2.18275744690384,
+        "rotation": 2.8471327519965257
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "분짜",
+        "en.ROMAN": "bun cha",
+        "en": "Bun Cha",
+        "ja": "ブンチャー",
+        "zh_CN": "越南烤肉米粉",
+        "zh_TW": "越南烤肉米粉",
+        "price": "14500",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "河粉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-9",
+      "ocr": {
+        "x": 68.52251516133404,
+        "y": 28.428814661919645,
+        "text": "퍼싸오",
+        "width": 6.893948610109785,
+        "height": 1.3654203989656597,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "퍼싸오",
+        "en.ROMAN": "pho xao",
+        "en": "Pho Xao",
+        "ja": "炒めフォー",
+        "zh_CN": "越南炒米粉",
+        "zh_TW": "越南炒河粉",
+        "price": "13900",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "돼지고기",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Pork",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "豚肉",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "猪肉",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "豬肉",
+          "麵"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기",
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-10",
+      "ocr": {
+        "x": 68.68018432359064,
+        "y": 36.80977570278619,
+        "text": "퍼싸오탑깜",
+        "width": 13.429251129519862,
+        "height": 2.086222620268688,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "퍼싸오탑깜",
+        "en.ROMAN": "pho xao thap com",
+        "en": "Stir-fried Rice Noodles with Mixed Ingredients",
+        "ja": "フォーサオタップカム(五目炒め麺)",
+        "zh_CN": "海鲜蔬菜炒面",
+        "zh_TW": "Bringittothetop",
+        "price": "14900",
+        "ingredients.ko": [
+          "쌀면",
+          "채소",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Rice Noodle",
+          "Vegetables",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "米麺",
+          "野菜",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "米线",
+          "蔬菜",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "河粉",
+          "蔬菜",
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-11",
+      "ocr": {
+        "x": 68.99652559142152,
+        "y": 49.747223970171866,
+        "text": "꼼징능주",
+        "width": 9.655068701965948,
+        "height": 2.1133954790679073,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "밥",
+        "ko": "꼼징능주",
+        "en.ROMAN": "com chien nuong tu",
+        "en": "Vietnamese Fried Rice",
+        "ja": "ベトナム風チャーハン",
+        "zh_CN": "越式炒饭",
+        "zh_TW": "越南鮮蝦炒飯",
+        "price": "13900",
+        "ingredients.ko": [
+          "쌀",
+          "돼지고기",
+          "채소",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Pork",
+          "Vegetables",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "米",
+          "豚肉",
+          "野菜",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "猪肉",
+          "蔬菜",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "豬肉",
+          "蔬菜",
+          "蝦"
+        ],
+        "allergy": [
+          "돼지고기",
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF03_M0001_262411_2-tf-12",
+      "ocr": {
+        "x": 69.29374297861149,
+        "y": 58.482142857142726,
+        "text": "꼼징팃꾸아",
+        "width": 12.033416951534528,
+        "height": 2.1880517100654786,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "밥",
+        "ko": "꼼징팃꾸아",
+        "en.ROMAN": "com chien thit cua",
+        "en": "Crab Meat Fried Rice",
+        "ja": "ベトナム風カニチャーハン",
+        "zh_CN": "蟹肉炒饭",
+        "zh_TW": "CombszingtitCuckoo",
+        "price": "14500",
+        "ingredients.ko": [
+          "게",
+          "쌀",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Crab",
+          "Rice",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "ガニ",
+          "米",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "螃蟹",
+          "大米",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "螃蟹",
+          "米",
+          "蔬菜"
+        ],
+        "allergy": [
+          "게"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "9DfCSR4YZq",
+      "ocr": {
+        "x": 5.2629782789222865,
+        "y": 45.54187555064262,
+        "text": "퍼보2",
+        "width": 5.493492267209626,
+        "height": 1.5514368560076204,
+        "rotation": 355.0868022592689
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "퍼보2",
+        "en.ROMAN": "pho bo 2",
+        "en": "Pho Bo 2: Vietnamese Rice Noodle Soup with Beef and Brisket Point End",
+        "ja": "フォーボ2",
+        "zh_CN": "越南牛肉河粉2",
+        "zh_TW": "套餐2",
+        "price": "12900",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "PH6evsXbNd",
+      "ocr": {
+        "x": 5.414862145426738,
+        "y": 49.902450896349755,
+        "text": "퍼보3",
+        "width": 5.123329250578995,
+        "height": 1.5655383810356875,
+        "rotation": 354.7363287414399
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "퍼보3",
+        "en.ROMAN": "pho bo 3",
+        "en": "Pho Bo 3: Vietnamese Rice Noodle Soup with Beef and Tendons",
+        "ja": "フォーボ3",
+        "zh_CN": "越南牛肉河粉3",
+        "zh_TW": "套餐3",
+        "price": "13900",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "vC9HErKjYv",
+      "ocr": {
+        "x": 5.589151991451836,
+        "y": 53.975928111809765,
+        "text": "퍼보4",
+        "width": 5.609142965549451,
+        "height": 1.6109812379842978,
+        "rotation": 356.3191336814524
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "퍼보4",
+        "en.ROMAN": "pho bo 4",
+        "en": "Pho Bo 4: Vietnamese Rice Noodle Soup with Beef, Brisket Point End and Tendons",
+        "ja": "フォーボ4",
+        "zh_CN": "越南牛肉河粉4",
+        "zh_TW": "套餐4",
+        "price": "14900",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

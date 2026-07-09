@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file_name": "GK_KF06_M0004_978123_10.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:29 15:38:43",
+    "store_id": "978123",
+    "store_region": "GK",
+    "store_type": "KF06",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          7.987220447284345,
+          16.18705035971223
+        ],
+        [
+          97.44408945686901,
+          16.366906474820144
+        ],
+        [
+          92.33226837060703,
+          100
+        ],
+        [
+          10.86261980830671,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "교촌레드스틱1/2",
+        "en.ROMAN": "Kyochon red stick 1/2",
+        "en": "Red Sticks (Half a Serving)",
+        "ja": "キョチョン・レッドスティック(鶏もも)1/2",
+        "zh_CN": "校村辣味炸鸡腿1/2",
+        "zh_TW": "校村紅色炸雞條1/2",
+        "price": "11000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0004_978123_10-tf_3",
+      "ocr": {
+        "x": 21.58081705150977,
+        "y": 47.79999999999999,
+        "text": "교촌레드스틱1/2",
+        "width": 12.61101243339254,
+        "height": 1.3,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "교촌레드윙1/2",
+        "en.ROMAN": "Kyochon red wing 1/2",
+        "en": "Red (Half a Serving)",
+        "ja": "キョチョン・レッドウィング(手羽先)1/2",
+        "zh_CN": "校村辣味炸鸡翅1/2",
+        "zh_TW": "校村紅色炸雞翅1/2",
+        "price": "11000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0004_978123_10-tf_4",
+      "ocr": {
+        "x": 46.6696269982238,
+        "y": 47.95000000000001,
+        "text": "교촌레드윙1/2",
+        "width": 11.101243339253996,
+        "height": 1.3,
+        "rotation": 0
+      }
+    }
+  ]
+}

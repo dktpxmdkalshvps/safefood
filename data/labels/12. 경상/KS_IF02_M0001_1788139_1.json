@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "file_name": "KS_IF02_M0001_1788139_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:14 16:00:12",
+    "store_id": "1788139",
+    "store_region": "KS",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          97.1291866028708,
+          0.2691790040376851
+        ],
+        [
+          0.7177033492822966,
+          0
+        ],
+        [
+          0.9569377990430622,
+          97.57738896366084
+        ],
+        [
+          97.84688995215313,
+          95.5585464333782
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "탕",
+        "ko": "해물짬뽕국물",
+        "en.ROMAN": "haemuljjampponggungmul",
+        "en": "Spicy Seafood Soup",
+        "ja": "海鮮チャンポンスープ",
+        "zh_CN": "海鲜炒码面汤",
+        "zh_TW": "海鮮炒碼湯",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기",
+          "해물",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Seafood",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "海鮮",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "海鲜",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "海鮮",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기",
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_1788139_1-tf-0",
+      "ocr": {
+        "x": 23.411400166215053,
+        "y": 63.25326873097141,
+        "text": "해물짬뽕국물",
+        "width": 30.706447053715898,
+        "height": 2.931140345246757,
+        "rotation": 357.6438197890581
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "군만두",
+        "en.ROMAN": "gunmandu",
+        "en": "Pan-fried Mandu",
+        "ja": "焼き餃子",
+        "zh_CN": "煎饺",
+        "zh_TW": "煎餃",
+        "price": "5000",
+        "ingredients.ko": [
+          "밀가루",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "豬肉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_1788139_1-tf-1",
+      "ocr": {
+        "x": 23.353517806393818,
+        "y": 75.20187847355865,
+        "text": "군만두",
+        "width": 21.192802873333804,
+        "height": 3.0183720853479548,
+        "rotation": 357.6798070788285
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "물만두",
+        "en.ROMAN": "mulmandu",
+        "en": "Boiled Mandu",
+        "ja": "水餃子",
+        "zh_CN": "水饺",
+        "zh_TW": "水餃",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF02_M0001_1788139_1-tf-2",
+      "ocr": {
+        "x": 23.499427403449854,
+        "y": 81.23073064322743,
+        "text": "물만두",
+        "width": 21.310624052723124,
+        "height": 3.152506083875877,
+        "rotation": 358.00520802296853
+      }
+    }
+  ]
+}

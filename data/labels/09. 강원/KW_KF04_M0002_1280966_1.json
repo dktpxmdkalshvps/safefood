@@ -1,0 +1,725 @@
+{
+  "meta": {
+    "file_name": "KW_KF04_M0002_1280966_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:20 17:49:58",
+    "store_id": "1280966",
+    "store_region": "KW",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          20.22653721682848,
+          30.218446601941746
+        ],
+        [
+          79.12621359223301,
+          29.49029126213592
+        ],
+        [
+          79.93527508090615,
+          88.47087378640776
+        ],
+        [
+          20.87378640776699,
+          88.3495145631068
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "닭갈비",
+        "en.ROMAN": "dakgalbi",
+        "en": "Spicy Stir-fried Chicken",
+        "ja": "タッカルビ",
+        "zh_CN": "辣炒鸡排",
+        "zh_TW": "辣炒雞排",
+        "price": "13000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_2",
+      "ocr": {
+        "x": 27.62252598177296,
+        "y": 39.07499999999992,
+        "text": "닭갈비",
+        "width": 12.58222959457341,
+        "height": 2.399999999999996,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "치즈닭갈비",
+        "en.ROMAN": "cheese dakgalbi",
+        "en": "Spicy Stir-fried Chicken and Cheese",
+        "ja": "チーズタッカルビ",
+        "zh_CN": "奶酪辣炒鸡排",
+        "zh_TW": "起司辣炒雞排",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "치즈",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Cheese",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "チーズ",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "奶酪",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "起司",
+          "雞肉"
+        ],
+        "allergy": [
+          "우유",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_6",
+      "ocr": {
+        "x": 27.666666666666643,
+        "y": 41.67499999999982,
+        "text": "치즈닭갈비",
+        "width": 12.448243891654169,
+        "height": 2.3249999999999944,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "닭내장",
+        "en.ROMAN": "dangnaejang",
+        "en": "Spicy Stir-fried Chicken Offal",
+        "ja": "鶏内臓",
+        "zh_CN": "鸡内脏",
+        "zh_TW": "雞內臟",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "내장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Offal"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "内臓"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "内脏"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "內臟"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_7",
+      "ocr": {
+        "x": 27.750251913508134,
+        "y": 44.24999999999989,
+        "text": "닭내장",
+        "width": 12.735496911386935,
+        "height": 2.3249999999999913,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_12",
+      "ocr": {
+        "x": 27.816918580174775,
+        "y": 48.978172294252204,
+        "text": "볶음밥",
+        "width": 10.60758496994022,
+        "height": 1.9126891770096344,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "치즈볶음밥",
+        "en.ROMAN": "cheese bokkeumbap",
+        "en": "Cheese Fried Rice",
+        "ja": "チーズチャーハン",
+        "zh_CN": "奶酪炒饭",
+        "zh_TW": "起司炒飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "米"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_15",
+      "ocr": {
+        "x": 27.76666666666664,
+        "y": 51.35317229425229,
+        "text": "치즈볶음밥",
+        "width": 10.57115398920837,
+        "height": 2.0218277057475773,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김치볶음밥",
+        "en.ROMAN": "kimchibokkeumbap",
+        "en": "Kimchi Fried Rice",
+        "ja": "キムチチャーハン",
+        "zh_CN": "辛奇炒饭",
+        "zh_TW": "辛奇炒飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "채소",
+          "김치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_17",
+      "ocr": {
+        "x": 27.827986028084386,
+        "y": 53.712689177009416,
+        "text": "김치볶음밥",
+        "width": 10.538938316080204,
+        "height": 2.0000000000000133,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동사리",
+        "en.ROMAN": "udon sari",
+        "en": "Extra Udon Noodles",
+        "ja": "うどん追加",
+        "zh_CN": "另加乌冬面",
+        "zh_TW": "加點烏龍麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_19",
+      "ocr": {
+        "x": 27.827986028084574,
+        "y": 56.124999999999964,
+        "text": "우동사리",
+        "width": 10.355652285191937,
+        "height": 2.0249999999999937,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "떡추가",
+        "en.ROMAN": "tteok chuga",
+        "en": "Add rice cake",
+        "ja": "トク追加",
+        "zh_CN": "另加年糕",
+        "zh_TW": "加點年糕",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀",
+          "떡"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Rice Cake"
+        ],
+        "ingredients.ja": [
+          "米",
+          "トク"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "糕"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "年糕"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_22",
+      "ocr": {
+        "x": 27.792044536928863,
+        "y": 58.550000000000004,
+        "text": "떡추가",
+        "width": 10.674622129737834,
+        "height": 1.9249999999999978,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고구마추가",
+        "en.ROMAN": "gogumachuga",
+        "en": "Extra Serving of Sweet Potatoes",
+        "ja": "さつまいも追加",
+        "zh_CN": "另加红薯",
+        "zh_TW": "加點地瓜",
+        "price": "2000",
+        "ingredients.ko": [
+          "고구마"
+        ],
+        "ingredients.en": [
+          "Sweet Potato"
+        ],
+        "ingredients.ja": [
+          "サツマイモ"
+        ],
+        "ingredients.zh_CN": [
+          "红薯"
+        ],
+        "ingredients.zh_TW": [
+          "地瓜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_24",
+      "ocr": {
+        "x": 27.79204453692888,
+        "y": 60.93134458850485,
+        "text": "고구마추가",
+        "width": 10.574622129737802,
+        "height": 1.9345168827572279,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "아기밥",
+        "en.ROMAN": "agibap",
+        "en": "Steamed Rice for a Baby",
+        "ja": "お子様用ご飯",
+        "zh_CN": "小孩米饭",
+        "zh_TW": "嬰兒飯",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_25",
+      "ocr": {
+        "x": 27.903725818027453,
+        "y": 63.3555878804662,
+        "text": "아기밥",
+        "width": 10.604849562332207,
+        "height": 1.958803249285081,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "Gu37iIHtkA",
+      "ocr": {
+        "x": 27.845518441448196,
+        "y": 65.73205822197693,
+        "text": "공기밥",
+        "width": 10.663056938911486,
+        "height": 1.980630955032732,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JTfZNvHVKB",
+      "ocr": {
+        "x": 27.970954356846438,
+        "y": 69.73451688275713,
+        "text": "소주",
+        "width": 6.416918580174786,
+        "height": 1.915483117242731,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "백세주",
+        "en.ROMAN": "baekseju",
+        "en": "Bekseju",
+        "ja": "百歳酒",
+        "zh_CN": "百岁酒",
+        "zh_TW": "百歲酒",
+        "price": "8000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_31",
+      "ocr": {
+        "x": 50.85448155855183,
+        "y": 69.73451688275715,
+        "text": "백세주",
+        "width": 6.678851774781493,
+        "height": 1.9154831172427556,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "gNfc8VMulU",
+      "ocr": {
+        "x": 27.996314983495495,
+        "y": 71.80267228870046,
+        "text": "맥주",
+        "width": 6.446022268464423,
+        "height": 1.8499999999999992,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF04_M0002_1280966_1-tf_34",
+      "ocr": {
+        "x": 50.88358524684146,
+        "y": 71.84999999999984,
+        "text": "음료수",
+        "width": 6.649748086491882,
+        "height": 1.9249999999999956,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "adrp8Ry3yv",
+      "ocr": {
+        "x": 28.05452236007476,
+        "y": 73.79989046719847,
+        "text": "청하",
+        "width": 6.53333333333333,
+        "height": 1.9154831172427589,
+        "rotation": 0
+      }
+    }
+  ]
+}

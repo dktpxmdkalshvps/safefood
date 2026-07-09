@@ -1,0 +1,623 @@
+{
+  "meta": {
+    "file_name": "IN_KF06_M0001_9000159_5.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:27 20:41:28",
+    "store_id": "9000159",
+    "store_region": "IN",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.483606557377048,
+          1.0752688172043012
+        ],
+        [
+          93.85245901639344,
+          0.4608294930875576
+        ],
+        [
+          98.5655737704918,
+          98.15668202764977
+        ],
+        [
+          1.024590163934426,
+          98.00307219662061
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "버섯샐러드",
+        "en.ROMAN": "beoseot salad",
+        "en": "Mushroom Salad",
+        "ja": "きのこサラダ",
+        "zh_CN": "蘑菇沙拉",
+        "zh_TW": "蘑菇沙拉",
+        "price": "12500",
+        "ingredients.ko": [
+          "야채",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蘑菇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_3",
+      "ocr": {
+        "x": 23.961902956492523,
+        "y": 22.45811339555119,
+        "text": "버섯샐러드",
+        "width": 10.354478147648393,
+        "height": 1.77228547578161,
+        "rotation": 1.0176337505596962
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "알리오올리오",
+        "en.ROMAN": "aglio olio",
+        "en": "Aglio e Olio Pasta",
+        "ja": "アーリオオーリオ",
+        "zh_CN": "蒜香橄榄油意大利面",
+        "zh_TW": "蒜香橄欖油義大利麵",
+        "price": "10000",
+        "ingredients.ko": [
+          "마늘",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_4",
+      "ocr": {
+        "x": 56.387462152430835,
+        "y": 22.554111518478244,
+        "text": "알리오올리오",
+        "width": 12.387249359614932,
+        "height": 1.8500000000000036,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "리코타샐러드",
+        "en.ROMAN": "ricotta salad",
+        "en": "Ricotta salad",
+        "ja": "リコッタサラダ",
+        "zh_CN": "里科塔奶酪沙拉",
+        "zh_TW": "瑞可塔莎拉",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_9",
+      "ocr": {
+        "x": 22.88051470060064,
+        "y": 29.355370526993706,
+        "text": "리코타샐러드",
+        "width": 12.25168946764991,
+        "height": 1.7968821683326233,
+        "rotation": 1.0176337505571382
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "해산물파스타",
+        "en.ROMAN": "haesanmul pasta",
+        "en": "Seafood Pasta",
+        "ja": "シーフードパスタ",
+        "zh_CN": "海鲜意大利面",
+        "zh_TW": "海鮮義大利麵",
+        "price": "16500",
+        "ingredients.ko": [
+          "해산물",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀",
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_10",
+      "ocr": {
+        "x": 56.36666666666649,
+        "y": 29.499999999999932,
+        "text": "해산물파스타",
+        "width": 12.484638675427355,
+        "height": 1.8865784295652421,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "텐더샐러드",
+        "en.ROMAN": "tender salad",
+        "en": "Chicken Tender Salad",
+        "ja": "チキンテンダーサラダ",
+        "zh_CN": "鸡柳沙拉",
+        "zh_TW": "雞柳沙拉",
+        "price": "15500",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_15",
+      "ocr": {
+        "x": 23.095264164553956,
+        "y": 36.355872823770774,
+        "text": "텐더샐러드",
+        "width": 11.181709166561827,
+        "height": 1.8020611163039275,
+        "rotation": 0.99424255590651
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "아마트리치아나",
+        "en.ROMAN": "amatriciana",
+        "en": "Amatriciana",
+        "ja": "アマトリチャーナ",
+        "zh_CN": "培根番茄辣酱意大利面",
+        "zh_TW": "辣味培根番茄義大利麵",
+        "price": "12500",
+        "ingredients.ko": [
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_16",
+      "ocr": {
+        "x": 55.32089680068317,
+        "y": 36.55491491230212,
+        "text": "아마트리치아나",
+        "width": 14.585067596241998,
+        "height": 1.9186200501130701,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "등심샐러드",
+        "en.ROMAN": "deungsim salad",
+        "en": "Sirloin Salad",
+        "ja": "ロースサラダ",
+        "zh_CN": "外脊沙拉",
+        "zh_TW": "里肌沙拉",
+        "price": "16500",
+        "ingredients.ko": [
+          "소고기",
+          "채소",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜",
+          "蘑菇"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_21",
+      "ocr": {
+        "x": 22.72396606937039,
+        "y": 43.47159083775569,
+        "text": "등심샐러드",
+        "width": 11.411897893819622,
+        "height": 1.8505713354688986,
+        "rotation": 0.9998373900019715
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "아라비아따파스타",
+        "en.ROMAN": "arrabbiata pasta",
+        "en": "Arrabbiata Pasta",
+        "ja": "アラビアータパスタ",
+        "zh_CN": "辣味茄汁意大利面",
+        "zh_TW": "香辣茄醬義大利麵",
+        "price": "15500",
+        "ingredients.ko": [
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_22",
+      "ocr": {
+        "x": 57.260702269741344,
+        "y": 43.737759899773835,
+        "text": "아라비아따",
+        "width": 10.655710527525526,
+        "height": 1.9357750626413213,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "명란로제파스타",
+        "en.ROMAN": "myeongnan rosé pasta",
+        "en": "Pollack Roe Rosé Pasta",
+        "ja": "明太子入りロゼパスタ",
+        "zh_CN": "明太鱼子番茄奶油酱意大利面",
+        "zh_TW": "明太子番茄奶油義大利麵",
+        "price": "16000",
+        "ingredients.ko": [
+          "명란젓",
+          "로제소스",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Salted Pollack Roe",
+          "Rosé Sauce",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "明太子の塩辛",
+          "ロゼソース",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼子酱",
+          "番茄奶油酱",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "明太子醬",
+          "番茄奶油醬",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_27",
+      "ocr": {
+        "x": 58.219896282498866,
+        "y": 50.98081796695347,
+        "text": "명란로제",
+        "width": 8.539469553033964,
+        "height": 1.8619344256051782,
+        "rotation": 1.0073515825594086
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "버섯크림파스타",
+        "en.ROMAN": "beoseot cream pasta",
+        "en": "Mushroom Cream Pasta",
+        "ja": "きのこクリームパスタ",
+        "zh_CN": "蘑菇奶油意大利面",
+        "zh_TW": "蘑菇奶油義大利麵",
+        "price": "13000",
+        "ingredients.ko": [
+          "버섯",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Mushroom",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "きのこ",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "蘑菇",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "蘑菇",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_30",
+      "ocr": {
+        "x": 55.11344350204008,
+        "y": 58.33074278694461,
+        "text": "버섯크림파스타",
+        "width": 14.970007554867864,
+        "height": 2.005879382349367,
+        "rotation": 0.7143536517176585
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "까르보나라",
+        "en.ROMAN": "carbonara",
+        "en": "Carbonara",
+        "ja": "カルボナーラ",
+        "zh_CN": "奶油培根意大利面",
+        "zh_TW": "奶油培根蛋汁義大利麵",
+        "price": "14500",
+        "ingredients.ko": [
+          "베이컨",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Bacon",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "ベーコン",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "培根",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "培根",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_33",
+      "ocr": {
+        "x": 57.06767699907007,
+        "y": 65.94959889038222,
+        "text": "까르보나라",
+        "width": 10.945976926305315,
+        "height": 1.9238194860453053,
+        "rotation": 0.7143536517181701
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "새우날치알파스타",
+        "en.ROMAN": "saeunalchial pasta",
+        "en": "Shrimp and Flying Fish Roe Pasta",
+        "ja": "海老トビコパスタ",
+        "zh_CN": "虾仁飞鱼子意大利面",
+        "zh_TW": "鮮蝦飛魚卵義大利麵",
+        "price": "15000",
+        "ingredients.ko": [
+          "새우",
+          "날치알",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Flying Fish Roe",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "トビコ",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "飞鱼子",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "飛魚卵",
+          "番茄"
+        ],
+        "allergy": [
+          "새우",
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_36",
+      "ocr": {
+        "x": 56.97475885659297,
+        "y": 73.59137970214985,
+        "text": "새우날치알",
+        "width": 11.05982383641352,
+        "height": 2.040220045536491,
+        "rotation": 0.49165551411658726
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈추가(그라탕변환)",
+        "en.ROMAN": "cheese chuga(gratin byeonhwan)",
+        "en": "Extra Serving of Cheese (Change to Gratin)",
+        "ja": "チーズ追加(グラタン変更)",
+        "zh_CN": "另加奶酪（意式焗烤变更）",
+        "zh_TW": "加點起司（變更為焗烤）",
+        "price": "1500",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF06_M0001_9000159_5-tf_45",
+      "ocr": {
+        "x": 54.143621531013856,
+        "y": 82.49182408205408,
+        "text": "치즈추가(그라탕변환)",
+        "width": 17.218101742785468,
+        "height": 1.8232900765065438,
+        "rotation": 1.3406820200856941
+      }
+    }
+  ]
+}

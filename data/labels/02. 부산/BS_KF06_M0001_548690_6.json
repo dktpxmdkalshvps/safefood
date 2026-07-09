@@ -1,0 +1,386 @@
+{
+  "meta": {
+    "file_name": "BS_KF06_M0001_548690_6.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:16 19:34:20",
+    "store_id": "548690",
+    "store_region": "BS",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          11.497326203208557
+        ],
+        [
+          93.23843416370107,
+          12.29946524064171
+        ],
+        [
+          95.72953736654804,
+          80.21390374331551
+        ],
+        [
+          0.3558718861209964,
+          82.35294117647057
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뼈닭한마리",
+        "en.ROMAN": "ppyeodakhanmari",
+        "en": "Whole Chicken with Bones",
+        "ja": "骨付きチキン1羽",
+        "zh_CN": "有骨炸鸡一只",
+        "zh_TW": "帶骨雞一隻",
+        "price": "19900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_548690_6-tf_13",
+      "ocr": {
+        "x": 53.689156969925605,
+        "y": 47.86197170743434,
+        "text": "뼈닭한마리",
+        "width": 13.1048695434491,
+        "height": 2.2034167858791327,
+        "rotation": 359.43633263771613
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "맛있는윙만",
+        "en.ROMAN": "masinneun wing man",
+        "en": "Delicious Wings Only",
+        "ja": "おいしい手羽先のみ",
+        "zh_CN": "美味鸡翅中",
+        "zh_TW": "美味雞翅",
+        "price": "11800",
+        "ingredients.ko": [
+          "닭날개",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken Wing",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "手羽先",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡翅",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞翅",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_548690_6-tf_15",
+      "ocr": {
+        "x": 7.821091464072143,
+        "y": 48.19266379203046,
+        "text": "맛있는윙만",
+        "width": 13.525581804026055,
+        "height": 2.233385129834332,
+        "rotation": 359.4168551906137
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "순살한마리",
+        "en.ROMAN": "sunsalhanmari",
+        "en": "Whole Boneless Chicken",
+        "ja": "骨なしチキン一羽",
+        "zh_CN": "无骨鸡一只",
+        "zh_TW": "無骨雞一隻",
+        "price": "20900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_548690_6-tf_20",
+      "ocr": {
+        "x": 53.77438350987224,
+        "y": 53.1412935982753,
+        "text": "순살한마리",
+        "width": 13.194444444444441,
+        "height": 2.181877446087317,
+        "rotation": 358.89421712857524
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "맛있는봉만",
+        "en.ROMAN": "masinneun bongman",
+        "en": "Delicious Drumsticks Only",
+        "ja": "おいしい手羽元のみ",
+        "zh_CN": "美味鸡翅跟",
+        "zh_TW": "美味雞腿",
+        "price": "11800",
+        "ingredients.ko": [
+          "고추",
+          "닭날개",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken Wing",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "手羽先",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡翅",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞翅",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_548690_6-tf_22",
+      "ocr": {
+        "x": 7.821527280601793,
+        "y": 53.59629768919181,
+        "text": "맛있는봉만",
+        "width": 13.525438299293057,
+        "height": 2.309236195091093,
+        "rotation": 359.43621015584984
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "콤보쌀국수",
+        "en.ROMAN": "combo ssalguksu",
+        "en": "Combo Rice Noodles",
+        "ja": "コンボフォー",
+        "zh_CN": "牛肉牛胸肉米线",
+        "zh_TW": "綜合河粉",
+        "price": "21500",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_548690_6-tf_28",
+      "ocr": {
+        "x": 53.839403934171045,
+        "y": 58.434221187406756,
+        "text": "콤보",
+        "width": 5.000678256772669,
+        "height": 2.1278085286154664,
+        "rotation": 358.305444502457
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "맛있는다리만",
+        "en.ROMAN": "masinneun dariman",
+        "en": "Tasty Legs Only",
+        "ja": "鶏のもも肉だけ",
+        "zh_CN": "炸鸡腿",
+        "zh_TW": "風味炸雞腿",
+        "price": "11800",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_548690_6-tf_30",
+      "ocr": {
+        "x": 7.839370155914337,
+        "y": 59.07186014837809,
+        "text": "맛있는다리만",
+        "width": 16.070694534022955,
+        "height": 2.285009014950937,
+        "rotation": 358.8797133667141
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "미니쫀득볼",
+        "en.ROMAN": "mini jjondeukbol",
+        "en": "Mini Cheese Balls",
+        "ja": "ミニもちもちチーズボール",
+        "zh_CN": "迷你糯米球",
+        "zh_TW": "迷你糯米球",
+        "price": "1000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_548690_6-tf_36",
+      "ocr": {
+        "x": 54.04548455284697,
+        "y": 63.43753733778985,
+        "text": "미니쫀득볼",
+        "width": 12.118059137778175,
+        "height": 2.2560375440864533,
+        "rotation": 359.4398031414617
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "윙봉세트",
+        "en.ROMAN": "wing bong set",
+        "en": "Wings and Drumettes Set",
+        "ja": "手羽先セット",
+        "zh_CN": "翅中+翅根套餐",
+        "zh_TW": "雞翅套餐",
+        "price": "21500",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF06_M0001_548690_6-tf_38",
+      "ocr": {
+        "x": 7.660639514784705,
+        "y": 64.37945562494673,
+        "text": "윙봉세트",
+        "width": 10.519573883334866,
+        "height": 2.263400391957571,
+        "rotation": 358.3278856221776
+      }
+    }
+  ]
+}

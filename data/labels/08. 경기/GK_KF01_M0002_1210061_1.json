@@ -1,0 +1,910 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_1210061_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:10:01 18:10:08",
+    "store_id": "1210061",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.483282674772037,
+          3.3738191632928474
+        ],
+        [
+          74.16413373860182,
+          5.53306342780027
+        ],
+        [
+          73.6322188449848,
+          93.11740890688259
+        ],
+        [
+          2.7355623100303945,
+          92.71255060728745
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "두부돼지보쌈",
+        "en.ROMAN": "dubudwaejibossam",
+        "en": "Napa Wraps with Bean Curd and Pork",
+        "ja": "豆腐と豚肉のポサム",
+        "zh_CN": "豆腐菜包猪肉",
+        "zh_TW": "豆腐菜包豬肉",
+        "price": "42000",
+        "ingredients.ko": [
+          "돼지고기",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "豆腐"
+        ],
+        "allergy": [
+          "돼지고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_2",
+      "ocr": {
+        "x": 53.33698303409975,
+        "y": 18.71942336122392,
+        "text": "두부돼지보쌈",
+        "width": 5.5142465937545095,
+        "height": 1.9123714009022075,
+        "rotation": 0.8565938310229626
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생두부",
+        "en.ROMAN": "saengdubu",
+        "en": "Bean Curd",
+        "ja": "豆腐",
+        "zh_CN": "鲜豆腐",
+        "zh_TW": "鮮豆腐",
+        "price": "6000",
+        "ingredients.ko": [
+          "두부"
+        ],
+        "ingredients.en": [
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_6",
+      "ocr": {
+        "x": 53.35200608267405,
+        "y": 24.68038629722195,
+        "text": "생두부",
+        "width": 2.7600666374891136,
+        "height": 1.877412509582733,
+        "rotation": 0.20802109117323653
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전",
+        "ko": "들기름부침두부",
+        "en.ROMAN": "deulgireumbuchimdubu",
+        "en": "Pan-Deep-fried Bean Curd in Perilla Oil",
+        "ja": "豆腐のエゴマ油焼き",
+        "zh_CN": "紫苏籽油香煎豆腐",
+        "zh_TW": "紫蘇油香煎豆腐",
+        "price": "7000",
+        "ingredients.ko": [
+          "들기름",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Perilla Oil",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "エゴマ油",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "紫苏籽油",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "紫蘇油",
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_10",
+      "ocr": {
+        "x": 53.31155873043413,
+        "y": 27.63364587031083,
+        "text": "들기름부침두부",
+        "width": 6.340932365667485,
+        "height": 1.8566795412602366,
+        "rotation": 0.32679511090202595
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살가마구이",
+        "en.ROMAN": "samgyeopsalgamagui",
+        "en": "Kiln-grilled Pork Belly",
+        "ja": "サムギョプサル釜焼き",
+        "zh_CN": "烤五花肉锅",
+        "zh_TW": "炭窯烤五花肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_12",
+      "ocr": {
+        "x": 9.483708071538995,
+        "y": 30.6495407730045,
+        "text": "삼겹살가마구이",
+        "width": 6.805301320907941,
+        "height": 1.9249079141237126,
+        "rotation": 0.7194913297550443
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "두부한정식",
+        "en.ROMAN": "dubuhanjeongsik",
+        "en": "Korean Table D'hote of Bean Curd",
+        "ja": "豆腐韓定食",
+        "zh_CN": "豆腐韩定食",
+        "zh_TW": "豆腐韓定食",
+        "price": "17000",
+        "ingredients.ko": [
+          "두부"
+        ],
+        "ingredients.en": [
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_16",
+      "ocr": {
+        "x": 32.093093666535374,
+        "y": 36.43551985512345,
+        "text": "두부한정식",
+        "width": 4.690455616646545,
+        "height": 1.9508273820049387,
+        "rotation": 0.8418530857811106
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "목살가마구이",
+        "en.ROMAN": "moksalgamagui",
+        "en": "Kiln-grilled Pork Shoulder",
+        "ja": "肩肉釜焼き",
+        "zh_CN": "烤猪肩肉锅",
+        "zh_TW": "炭窯烤豬肩肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "목살"
+        ],
+        "ingredients.en": [
+          "Pork Shoulder"
+        ],
+        "ingredients.ja": [
+          "豚の肩肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肩肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肩肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_17",
+      "ocr": {
+        "x": 9.381542751051565,
+        "y": 36.615831458692206,
+        "text": "목살가마구이",
+        "width": 5.8896102515382225,
+        "height": 1.888861610181346,
+        "rotation": 0.6910765729418813
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "해물순두부정식",
+        "en.ROMAN": "haemulsundubujeongsik",
+        "en": "Seafood and Soft Bean Curd Jjigae Set Menu",
+        "ja": "海鮮スンドゥブチゲ定食",
+        "zh_CN": "海鲜嫩豆腐锅套餐",
+        "zh_TW": "海鮮嫩豆腐鍋套餐",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_21",
+      "ocr": {
+        "x": 31.96330848414616,
+        "y": 39.877934277014454,
+        "text": "해물순두부정식",
+        "width": 6.4111514389374795,
+        "height": 1.912611521324038,
+        "rotation": 0.7285391826717955
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "순두부정식",
+        "en.ROMAN": "sundubujeongsik",
+        "en": "Soft Bean Curd Jjigae Set Menu",
+        "ja": "スンドゥブ定食",
+        "zh_CN": "嫩豆腐套餐",
+        "zh_TW": "嫩豆腐套餐",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_23",
+      "ocr": {
+        "x": 31.909145677919643,
+        "y": 42.78585058217111,
+        "text": "순두부정식",
+        "width": 4.592777555059371,
+        "height": 1.9302813612481082,
+        "rotation": 0.8640307220492218
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "하얀순두부정식",
+        "en.ROMAN": "hayansundubujeongsik",
+        "en": "Mild Soft Bean Curd Set Menu",
+        "ja": "白いスンドゥブ定食",
+        "zh_CN": "清汤嫩豆腐锅套餐",
+        "zh_TW": "白嫩豆腐套餐",
+        "price": "11000",
+        "ingredients.ko": [
+          "두부"
+        ],
+        "ingredients.en": [
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_26",
+      "ocr": {
+        "x": 31.88200159246162,
+        "y": 45.79686206189446,
+        "text": "하얀순두부정식",
+        "width": 6.418820883113208,
+        "height": 1.9306489302930523,
+        "rotation": 0.7180517611906794
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "들깨순두부정식",
+        "en.ROMAN": "deulkkaesundubujeongsik",
+        "en": "Perilla Seed and Soft Bean Curd Jjigae Set Menu",
+        "ja": "エゴマ入りスンドゥブチゲ定食",
+        "zh_CN": "紫苏子嫩豆腐锅套餐",
+        "zh_TW": "紫蘇嫩豆腐鍋套餐",
+        "price": "11000",
+        "ingredients.ko": [
+          "두부",
+          "들깨"
+        ],
+        "ingredients.en": [
+          "Bean Curd",
+          "Perilla Seeds"
+        ],
+        "ingredients.ja": [
+          "豆腐",
+          "エゴマ"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐",
+          "紫苏"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐",
+          "紫蘇"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_29",
+      "ocr": {
+        "x": 31.83169402960444,
+        "y": 48.766192994840004,
+        "text": "들깨순두부정식",
+        "width": 6.430980076615583,
+        "height": 1.8718430663862453,
+        "rotation": 0.7786556196421657
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "비지찌개정식",
+        "en.ROMAN": "bijijjigaejeongsik",
+        "en": "Pureed Soybean Jjigae Set Menu",
+        "ja": "おからチゲ定食",
+        "zh_CN": "黄豆渣锅套餐",
+        "zh_TW": "黃豆渣鍋套餐",
+        "price": "11000",
+        "ingredients.ko": [
+          "두부"
+        ],
+        "ingredients.en": [
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_31",
+      "ocr": {
+        "x": 31.832896814333534,
+        "y": 51.662602260001265,
+        "text": "비지찌개정식",
+        "width": 5.48511371019153,
+        "height": 1.9463656704964134,
+        "rotation": 1.023173617360385
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "탕추가순두부",
+        "en.ROMAN": "tangchugasundubu",
+        "en": "Extra Serving of Soft Bean Curd",
+        "ja": "スープ追加スンドゥブ",
+        "zh_CN": "另加汤嫩豆腐",
+        "zh_TW": "加湯嫩豆腐",
+        "price": "5000",
+        "ingredients.ko": [
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_34",
+      "ocr": {
+        "x": 31.777279094249888,
+        "y": 54.71436790136961,
+        "text": "탕추가순두부",
+        "width": 5.921137049862675,
+        "height": 1.901079788082288,
+        "rotation": 0.4104846763523824
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소세지가마구이",
+        "en.ROMAN": "sausage gamagui",
+        "en": "Kiln-grilled Sausages",
+        "ja": "ソーセージ釜焼き",
+        "zh_CN": "烤香肠锅",
+        "zh_TW": "炭窯烤香腸",
+        "price": "7000",
+        "ingredients.ko": [
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_36",
+      "ocr": {
+        "x": 53.10733658667578,
+        "y": 56.34924745927203,
+        "text": "소세지가마구이",
+        "width": 6.293986141260106,
+        "height": 1.9077959039306394,
+        "rotation": 0.7242358240865769
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "새송이가마구이",
+        "en.ROMAN": "saesongigamagui",
+        "en": "Kiln-grilled King Oyster Mushrooms",
+        "ja": "エリンギ釜焼き",
+        "zh_CN": "烤杏鲍菇锅",
+        "zh_TW": "炭窯烤杏鮑菇",
+        "price": "6000",
+        "ingredients.ko": [
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "蘑菇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_38",
+      "ocr": {
+        "x": 53.096973895453516,
+        "y": 59.23563708108998,
+        "text": "새송이가마구이",
+        "width": 6.305246741166482,
+        "height": 1.9482538957466367,
+        "rotation": 0.9316350132382354
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "제육쌈밥",
+        "en.ROMAN": "jeyukssambap",
+        "en": "Spicy Stir-fried Pork, Leaf Wraps and Rice",
+        "ja": "豚肉炒め野菜包みご飯",
+        "zh_CN": "辣炒猪肉蔬菜包饭套餐",
+        "zh_TW": "辣炒豬肉菜包飯",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "쌀",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Rice",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "米",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "大米",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "米",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_44",
+      "ocr": {
+        "x": 9.113827923515647,
+        "y": 64.30693868855958,
+        "text": "제육쌈밥",
+        "width": 3.839370433378641,
+        "height": 1.7978374716746188,
+        "rotation": 0.3396351382104399
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "고등어가마구이정식",
+        "en.ROMAN": "godeungeogamaguijeongsik",
+        "en": "Kiln-grilled Mackerel Set Menu",
+        "ja": "サバ釜焼き定食",
+        "zh_CN": "烤青花鱼锅套餐",
+        "zh_TW": "炭窯烤鯖魚套餐",
+        "price": "14000",
+        "ingredients.ko": [
+          "고등어",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Mackerel",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "サバ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "青花鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鯖魚",
+          "米"
+        ],
+        "allergy": [
+          "고등어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_47",
+      "ocr": {
+        "x": 31.628040788704045,
+        "y": 66.03667939525792,
+        "text": "고등어가마구이정식",
+        "width": 8.27739712590335,
+        "height": 1.934079041008812,
+        "rotation": 0.5170471379395281
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "쭈꾸미쌈밥",
+        "en.ROMAN": "jjukkumissambap",
+        "en": "Webfoot Octopus, Leaf Wraps and Rice",
+        "ja": "イイダコ入り野菜包みご飯",
+        "zh_CN": "八爪鱼菜包饭",
+        "zh_TW": "小章魚菜包飯",
+        "price": "14000",
+        "ingredients.ko": [
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_49",
+      "ocr": {
+        "x": 9.038167606645517,
+        "y": 67.26925011136787,
+        "text": "쭈꾸미쌈밥",
+        "width": 4.806254708120534,
+        "height": 1.8899288295312262,
+        "rotation": 0.5839958181636007
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "보쌈쌈밥",
+        "en.ROMAN": "bossamssambap",
+        "en": "Napa Wraps with Pork and Leaf Wraps and Rice",
+        "ja": "ポサム入り野菜包みご飯",
+        "zh_CN": "菜包肉+蔬菜包饭",
+        "zh_TW": "菜包肉飯",
+        "price": "14000",
+        "ingredients.ko": [
+          "보쌈",
+          "채소",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Napa Wraps with Pork",
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "ポサム",
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "菜包肉",
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "菜包肉",
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_54",
+      "ocr": {
+        "x": 9.003943433465334,
+        "y": 70.35847270214953,
+        "text": "보쌈쌈밥",
+        "width": 3.834712620570291,
+        "height": 1.8097819156629862,
+        "rotation": 0.19768585177638442
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "보쌈고기추가",
+        "en.ROMAN": "bossamgogi chuga",
+        "en": "Extra Serving of Pork",
+        "ja": "ポサム追加",
+        "zh_CN": "另加菜包肉",
+        "zh_TW": "加點菜包肉",
+        "price": "14000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_56",
+      "ocr": {
+        "x": 8.943358130040641,
+        "y": 73.36551552507603,
+        "text": "보쌈고기추가",
+        "width": 5.730385029626781,
+        "height": 1.8861442849387926,
+        "rotation": 0.3791585914764255
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "오리훈제추가",
+        "en.ROMAN": "orihunjechuga",
+        "en": "Extra Serving of Smoke Duck",
+        "ja": "鴨の燻製追加",
+        "zh_CN": "另加熏鸭",
+        "zh_TW": "加點煙燻鴨肉",
+        "price": "14000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1210061_1-tf.jpg_58",
+      "ocr": {
+        "x": 8.874405198992633,
+        "y": 76.45498851780596,
+        "text": "오리훈제추가",
+        "width": 5.752692514813384,
+        "height": 1.8857600869465696,
+        "rotation": 0
+      }
+    }
+  ]
+}

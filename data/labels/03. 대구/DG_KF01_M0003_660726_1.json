@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "file_name": "DG_KF01_M0003_660726_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:28 15:36:42",
+    "store_id": "660726",
+    "store_region": "DG",
+    "store_type": "KF01",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.13793103448276,
+          12.21264367816092
+        ],
+        [
+          98.70689655172413,
+          85.63218390804597
+        ],
+        [
+          0.7543103448275862,
+          86.7816091954023
+        ],
+        [
+          1.1853448275862069,
+          14.942528735632186
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "곤드레정식",
+        "en.ROMAN": "gondeurejeongsik",
+        "en": "Thistle Set Menu",
+        "ja": "コンドゥレナムル定食",
+        "zh_CN": "山蓟菜套餐",
+        "zh_TW": "山薊菜套餐",
+        "price": "17000",
+        "ingredients.ko": [
+          "쌀",
+          "곤드레"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Thistles"
+        ],
+        "ingredients.ja": [
+          "米",
+          "コンドゥレ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "山蓟菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "山薊菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0003_660726_1-tf_9",
+      "ocr": {
+        "x": 50.538916405076606,
+        "y": 26.409902290795564,
+        "text": "곤드레정식",
+        "width": 6.646324306063273,
+        "height": 2.4136871035131753,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "굴밥정식",
+        "en.ROMAN": "gulbapjeongsik",
+        "en": "Oyster Rice Set Menu",
+        "ja": "カキご飯定食",
+        "zh_CN": "牡蛎饭套餐",
+        "zh_TW": "牡蠣飯套餐",
+        "price": "18000",
+        "ingredients.ko": [
+          "굴",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Oyster",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "カキ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牡蛎",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牡蠣",
+          "米"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0003_660726_1-tf_10",
+      "ocr": {
+        "x": 26.42755180508756,
+        "y": 26.766240482431826,
+        "text": "굴밥정식",
+        "width": 5.681381681795769,
+        "height": 2.3985154864179714,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "흑태찜",
+        "en.ROMAN": "heuktaejjim",
+        "en": "Braised Patagonian Toothfish",
+        "ja": "メロの蒸し物",
+        "zh_CN": "炖黑干明太鱼",
+        "zh_TW": "辣燉黑斑明太魚乾",
+        "price": "50000",
+        "ingredients.ko": [
+          "명태"
+        ],
+        "ingredients.en": [
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "明太子"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0003_660726_1-tf_16",
+      "ocr": {
+        "x": 17.265569855962028,
+        "y": 31.753821267344726,
+        "text": "흑태찜",
+        "width": 5.549713414570797,
+        "height": 3.050117563640995,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "엄마상차림",
+        "en.ROMAN": "eommasangcharim",
+        "en": "Eomma Set Menu",
+        "ja": "オムマ御膳",
+        "zh_CN": "妈妈套餐",
+        "zh_TW": "媽媽擺桌套餐",
+        "price": "15000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF01_M0003_660726_1-tf_28",
+      "ocr": {
+        "x": 26.79481649471362,
+        "y": 55.9854497354497,
+        "text": "엄마상차림",
+        "width": 7.994174318036983,
+        "height": 2.448067305505206,
+        "rotation": 0
+      }
+    }
+  ]
+}

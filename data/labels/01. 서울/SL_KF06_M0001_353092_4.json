@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "file_name": "SL_KF06_M0001_353092_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:26 18:22:28",
+    "store_id": "353092",
+    "store_region": "SL",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          13.975155279503106
+        ],
+        [
+          0.8298755186721992,
+          90.6832298136646
+        ],
+        [
+          98.7551867219917,
+          85.7142857142857
+        ],
+        [
+          95.43568462103133,
+          11.801242236024843
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "순살",
+        "en.ROMAN": "sunsal",
+        "en": "Boneless Meat",
+        "ja": "骨無し",
+        "zh_CN": "无骨",
+        "zh_TW": "無骨",
+        "price": "19500",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IJTQ9bz2PJ",
+      "ocr": {
+        "x": 34.41338516510439,
+        "y": 39.546802284176266,
+        "text": "순살",
+        "width": 4.080296676912383,
+        "height": 1.841890415152434,
+        "rotation": 358.4925643499311
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "리얼후라이드",
+        "en.ROMAN": "real fried",
+        "en": "Fried Chicken",
+        "ja": "リアルフライド",
+        "zh_CN": "原味炸鸡",
+        "zh_TW": "炸雞",
+        "price": "17500",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_353092_4-tf_4",
+      "ocr": {
+        "x": 9.425192119156705,
+        "y": 39.894886956525255,
+        "text": "교촌리얼후라이드",
+        "width": 15.013216477250385,
+        "height": 1.8983034284666,
+        "rotation": 358.64598904657083
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "라이스세트",
+        "en.ROMAN": "rice set",
+        "en": "Rice Set Menu",
+        "ja": "ライスセット",
+        "zh_CN": "盖饭套餐",
+        "zh_TW": "米飯套餐",
+        "price": "20000",
+        "ingredients.ko": [
+          "쌀",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "米",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF06_M0001_353092_4-tf_8",
+      "ocr": {
+        "x": 10.569505677857723,
+        "y": 59.61190619388774,
+        "text": "교촌라이스세트",
+        "width": 14.009131398843964,
+        "height": 2.0049266971550637,
+        "rotation": 357.9220244471492
+      }
+    }
+  ]
+}

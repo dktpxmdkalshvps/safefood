@@ -1,0 +1,604 @@
+{
+  "meta": {
+    "file_name": "JJ_IF03_M0001_9006470_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "9006470",
+    "store_region": "JJ",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          8.672261166165358,
+          -3.383536836952858e-15
+        ],
+        [
+          79.5617490367853,
+          0.2024291497975675
+        ],
+        [
+          69.85824499365862,
+          99.79757085020242
+        ],
+        [
+          13.254471408752961,
+          98.98785425101214
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "전복물회",
+        "en.ROMAN": "jeonbongmulhoe",
+        "en": "Cold Raw Abalone Soup",
+        "ja": "アワビと刺身入り冷やしスープ",
+        "zh_CN": "水拌鲍鱼",
+        "zh_TW": "水拌生鮑魚",
+        "price": "15000",
+        "ingredients.ko": [
+          "전복",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "蔬菜"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_2",
+      "ocr": {
+        "x": 20.316692629170742,
+        "y": 27.25153984235882,
+        "text": "전복물회",
+        "width": 18.62821706118831,
+        "height": 2.662925576581948,
+        "rotation": 1.7206406154695628
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "한치물회",
+        "en.ROMAN": "hanchimulhoe",
+        "en": "Cold Raw Swordtip Squid Soup",
+        "ja": "ヤリイカ入り冷やしスープ",
+        "zh_CN": "水拌小鱿鱼",
+        "zh_TW": "水拌鎖管",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "해산물",
+          "한치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Seafood",
+          "Swordtip Squid"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "海鮮",
+          "ヤリイカ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "海鲜",
+          "小鱿鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "海鮮",
+          "鎖管"
+        ],
+        "allergy": [
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_4",
+      "ocr": {
+        "x": 20.369687903174356,
+        "y": 31.257047720015578,
+        "text": "한치물회",
+        "width": 18.576098829138754,
+        "height": 2.596721646925418,
+        "rotation": 2.1855346921503838
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "어린이초밥",
+        "en.ROMAN": "eorinichobap",
+        "en": "Sushi (Kids' Menu)",
+        "ja": "お子様寿司",
+        "zh_CN": "儿童寿司",
+        "zh_TW": "兒童壽司",
+        "price": "12000",
+        "ingredients.ko": [
+          "생선",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_10",
+      "ocr": {
+        "x": 21.103250775717548,
+        "y": 43.39886621023475,
+        "text": "어린이초밥",
+        "width": 18.006788379994873,
+        "height": 2.413901804014432,
+        "rotation": 2.3239316696494257
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "돈까스",
+        "en.ROMAN": "dongaseu",
+        "en": "Pork Cutlet",
+        "ja": "豚カツ",
+        "zh_CN": "炸猪排",
+        "zh_TW": "炸豬排",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_15",
+      "ocr": {
+        "x": 21.18251542089416,
+        "y": 49.8044046771876,
+        "text": "돈까스",
+        "width": 17.81729840504136,
+        "height": 2.383378636301095,
+        "rotation": 2.288523391698618
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "장어롤",
+        "en.ROMAN": "jangeo roll",
+        "en": "Eel Rolls",
+        "ja": "ウナギロール",
+        "zh_CN": "鳗鱼寿司卷",
+        "zh_TW": "鰻魚壽司捲",
+        "price": "18000",
+        "ingredients.ko": [
+          "장어",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Eel",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "ウナギ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鳗鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鰻魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_21",
+      "ocr": {
+        "x": 21.390251792349726,
+        "y": 60.31693333295084,
+        "text": "장어롤",
+        "width": 17.29909683860269,
+        "height": 2.2563731071189386,
+        "rotation": 3.061801497434203
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "연어롤",
+        "en.ROMAN": "yeoneo roll",
+        "en": "Salmon Rolls",
+        "ja": "サーモンロール",
+        "zh_CN": "三文鱼寿司卷",
+        "zh_TW": "鮭魚壽司捲",
+        "price": "18000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "연어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Salmon"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "鮭"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "三文鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "鮭魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_24",
+      "ocr": {
+        "x": 21.669181727853882,
+        "y": 63.84747299171152,
+        "text": "연어롤",
+        "width": 16.906779207578193,
+        "height": 2.265661711705039,
+        "rotation": 3.1584197226305832
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "캘리포니아롤",
+        "en.ROMAN": "California roll",
+        "en": "California Rolls",
+        "ja": "カリフォルニアロール",
+        "zh_CN": "加州寿司卷",
+        "zh_TW": "加州壽司捲",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "날치알",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Flying Fish Roe",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "トビコ",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "飞鱼子",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "飛魚卵",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_29",
+      "ocr": {
+        "x": 21.57768386125285,
+        "y": 67.28588651406513,
+        "text": "캘리포니아롤",
+        "width": 16.891045971172588,
+        "height": 2.2445300424705006,
+        "rotation": 3.7724887943986687
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "새우튀김",
+        "en.ROMAN": "saeutwigim",
+        "en": "Deep-fried Shrimp",
+        "ja": "海老天ぷら",
+        "zh_CN": "炸虾",
+        "zh_TW": "炸蝦",
+        "price": "10000",
+        "ingredients.ko": [
+          "새우",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_35",
+      "ocr": {
+        "x": 21.621608261298274,
+        "y": 78.45111035776303,
+        "text": "새우튀김",
+        "width": 16.47645981816453,
+        "height": 2.093775632924062,
+        "rotation": 4.415524475019936
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "대게튀김",
+        "en.ROMAN": "daegetwigim",
+        "en": "Deep-fried Snow Crab",
+        "ja": "ズワイガニ天ぷら",
+        "zh_CN": "炸雪蟹",
+        "zh_TW": "炸松葉蟹",
+        "price": "10000",
+        "ingredients.ko": [
+          "게",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Crab",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "ガニ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "螃蟹",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "螃蟹",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "게"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_38",
+      "ocr": {
+        "x": 21.73074500779536,
+        "y": 81.61721754709791,
+        "text": "대게튀김",
+        "width": 16.38074237580823,
+        "height": 2.096032914733697,
+        "rotation": 3.623560783408834
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "구이/적",
+        "ko": "메로구이",
+        "en.ROMAN": "merogui",
+        "en": "Grilled Patagonian Toothfish",
+        "ja": "メロ焼き",
+        "zh_CN": "烤智利鲈鱼",
+        "zh_TW": "烤圓鱈",
+        "price": "15000",
+        "ingredients.ko": [
+          "메로"
+        ],
+        "ingredients.en": [
+          "Patagonian Toothfish"
+        ],
+        "ingredients.ja": [
+          "メロ"
+        ],
+        "ingredients.zh_CN": [
+          "智利鲈鱼"
+        ],
+        "ingredients.zh_TW": [
+          "圓鱈"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_42",
+      "ocr": {
+        "x": 21.867438849326284,
+        "y": 84.7169424554329,
+        "text": "메로구이",
+        "width": 16.196773606083216,
+        "height": 2.043104288967639,
+        "rotation": 3.5413295265051374
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "알밥추가",
+        "en.ROMAN": "albap chuga",
+        "en": "Extra Serving of Fish Roe Rice",
+        "ja": "魚の卵ご飯追加",
+        "zh_CN": "另加鱼子饭",
+        "zh_TW": "加點魚卵飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "날치알",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Flying Fish Roe",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "トビコ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "飞鱼子",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "飛魚卵",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JJ_IF03_M0001_9006470_3-tf_43",
+      "ocr": {
+        "x": 22.017496156434877,
+        "y": 87.7381486232319,
+        "text": "알밥추가",
+        "width": 16.215991680065297,
+        "height": 2.042572509784538,
+        "rotation": 3.3984625312670005
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "우동추가",
+        "en.ROMAN": "udon chuga",
+        "en": "Extra Serving of Udon",
+        "ja": "うどん追加",
+        "zh_CN": "另加乌冬面",
+        "zh_TW": "加點烏龍麵",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "7MkcC2H4JY",
+      "ocr": {
+        "x": 22.046725159773217,
+        "y": 90.78585029426993,
+        "text": "우동추가",
+        "width": 16.181830814396797,
+        "height": 2.0803313736261115,
+        "rotation": 3.356233697817686
+      }
+    }
+  ]
+}

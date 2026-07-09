@@ -1,0 +1,452 @@
+{
+  "meta": {
+    "file_name": "IN_KF04_M0003_758685_5.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:28 14:10:18",
+    "store_id": "758685",
+    "store_region": "IN",
+    "store_type": "KF04",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          15.714285714285714,
+          0.35714285714285715
+        ],
+        [
+          80.23809523809524,
+          0.7142857142857143
+        ],
+        [
+          74.2857142857143,
+          99.28571428571429
+        ],
+        [
+          15.952380952380947,
+          97.32142857142857
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_3",
+      "ocr": {
+        "x": 26.42373663411958,
+        "y": 20.08810500213175,
+        "text": "소주",
+        "width": 11.010180321714607,
+        "height": 2.5045570957890395,
+        "rotation": 358.6261997604994
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_5",
+      "ocr": {
+        "x": 26.592305183286253,
+        "y": 24.483645962705527,
+        "text": "맥주",
+        "width": 10.847619047619023,
+        "height": 2.4948424895455505,
+        "rotation": 359.3322203585149
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_8",
+      "ocr": {
+        "x": 26.594867241242817,
+        "y": 28.972828799908367,
+        "text": "막걸리",
+        "width": 10.805686833848336,
+        "height": 2.6000000000000107,
+        "rotation": 359.3247067516757
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_9",
+      "ocr": {
+        "x": 26.664470632261835,
+        "y": 33.37500000000022,
+        "text": "청하",
+        "width": 10.851497942357554,
+        "height": 2.635329405160764,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "매화수",
+        "en.ROMAN": "maehwasu",
+        "en": "Maehwasoo (Green Plum Liquor)",
+        "ja": "梅花秀",
+        "zh_CN": "梅花秀",
+        "zh_TW": "梅花秀",
+        "price": "7000",
+        "ingredients.ko": [
+          "매실",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Green Plum",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "梅",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "青梅",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "梅子",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_11",
+      "ocr": {
+        "x": 26.81157650580944,
+        "y": 37.93098821548236,
+        "text": "매화수",
+        "width": 10.710180321714592,
+        "height": 2.4940117845178023,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_13",
+      "ocr": {
+        "x": 26.856486344952213,
+        "y": 42.40598821548223,
+        "text": "콜라",
+        "width": 10.679043022786171,
+        "height": 2.369011784517814,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_15",
+      "ocr": {
+        "x": 26.916337168025073,
+        "y": 46.374999999999986,
+        "text": "사이다",
+        "width": 10.58366283197491,
+        "height": 2.3749999999999996,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "옛날도시락",
+        "en.ROMAN": "yennaldosirak",
+        "en": "Old-fashioned Lunch Box",
+        "ja": "昔ながらのお弁当",
+        "zh_CN": "老式盒饭",
+        "zh_TW": "古早味便當",
+        "price": "5000",
+        "ingredients.ko": [
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_19",
+      "ocr": {
+        "x": 26.99490297922266,
+        "y": 73.08545692539103,
+        "text": "옛날도시락",
+        "width": 12.866666666666633,
+        "height": 2.539319493171759,
+        "rotation": 1.9108619994476612
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "주먹밥",
+        "en.ROMAN": "jumeokbap",
+        "en": "Riceball",
+        "ja": "おにぎり",
+        "zh_CN": "饭团",
+        "zh_TW": "飯糰",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_21",
+      "ocr": {
+        "x": 26.947250488368446,
+        "y": 77.4512904622443,
+        "text": "주먹밥",
+        "width": 12.902844359285158,
+        "height": 2.349224946939037,
+        "rotation": 1.3363345128800006
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF04_M0003_758685_5-tf_28",
+      "ocr": {
+        "x": 27.22957028479198,
+        "y": 88.5123073105105,
+        "text": "공기밥",
+        "width": 12.687470305525709,
+        "height": 2.4116637745471876,
+        "rotation": 2.0040476646720435
+      }
+    }
+  ]
+}

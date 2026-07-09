@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "file_name": "JR_KF04_M0002_1559956_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:12 17:23:35",
+    "store_id": "1559956",
+    "store_region": "JR",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 0,
+        "width": 99.99999999999996,
+        "height": 100.00000000000001,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "냉면+왕만두",
+        "en.ROMAN": "naengmyeon+wangmandu",
+        "en": "Cold Buckwheat Noodles + Jumbo Mandu",
+        "ja": "冷麺+王餃子",
+        "zh_CN": "冷面+大包子",
+        "zh_TW": "冷麵+大包子",
+        "price": "9500",
+        "ingredients.ko": [
+          "메밀",
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Buckwheat",
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "そば",
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦",
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥",
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "메밀",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1559956_1-tf_3",
+      "ocr": {
+        "x": 6.619710065855678,
+        "y": 26.13315908157124,
+        "text": "냉면+왕만두",
+        "width": 43.874189816132706,
+        "height": 11.109670590210955,
+        "rotation": 357.94485252055756
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "짚회관냉면",
+        "en.ROMAN": "jipoegwannaengmyeon",
+        "en": "Cold Noodles in Straw House",
+        "ja": "わら会館冷麺",
+        "zh_CN": "秸秆会馆冷面",
+        "zh_TW": "秸稈會館冷麪",
+        "price": "7000",
+        "ingredients.ko": [
+          "메밀"
+        ],
+        "ingredients.en": [
+          "Buckwheat"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1559956_1-tf_4",
+      "ocr": {
+        "x": 5.662170945189384,
+        "y": 39.51033240400737,
+        "text": "짚회관냉면",
+        "width": 41.97042237434838,
+        "height": 11.474999999999985,
+        "rotation": 357.8906022153923
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "매운냉면",
+        "en.ROMAN": "maeunnaengmyeon",
+        "en": "Spicy Cold Buckwheat Noodles",
+        "ja": "辛味冷麺",
+        "zh_CN": "辣味冷面",
+        "zh_TW": "辣冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1559956_1-tf_7",
+      "ocr": {
+        "x": 5.20398125119277,
+        "y": 53.24022939266531,
+        "text": "매운냉면",
+        "width": 31.833333333333204,
+        "height": 11.540389017279685,
+        "rotation": 358.752775098388
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "고기양파볶음밥",
+        "en.ROMAN": "gogiyangpabokkeumbap",
+        "en": "Meat and Onions Fried Rice",
+        "ja": "肉入り玉ねぎチャーハン",
+        "zh_CN": "肉洋葱炒饭",
+        "zh_TW": "豬肉洋蔥炒飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "고기",
+          "양파",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Meat",
+          "Onion",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "肉",
+          "玉ねぎ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "肉",
+          "洋葱",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "肉",
+          "洋蔥",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1559956_1-tf_8",
+      "ocr": {
+        "x": 3.666590557278547,
+        "y": 67.57034222624485,
+        "text": "고기양파볶음밥",
+        "width": 58.330013293055956,
+        "height": 12.524999999999958,
+        "rotation": 358.40843777318435
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "고추다대기밥",
+        "en.ROMAN": "gochudadaegibap",
+        "en": "Chili Pepper Condiment with Rice",
+        "ja": "唐辛子ソース入りご飯",
+        "zh_CN": "辣椒酱料饭",
+        "zh_TW": "辣椒泥飯",
+        "price": "5000",
+        "ingredients.ko": [
+          "고추",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF04_M0002_1559956_1-tf_9",
+      "ocr": {
+        "x": 3.0036324501055556,
+        "y": 82.5930139256606,
+        "text": "고추다대기밥",
+        "width": 51.25179375506469,
+        "height": 12.67499999999997,
+        "rotation": 358.83193319504284
+      }
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "file_name": "GK_KF02_M0001_1015736_3.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:08:29 14:30:04",
+    "store_id": "1015736",
+    "store_region": "GK",
+    "store_type": "KF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          100,
+          100
+        ],
+        [
+          0,
+          100
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          100,
+          0
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_KF02_M0001_1015736_3-tf-0",
+      "ocr": {
+        "x": 54.76708347476715,
+        "y": 16.05370428094626,
+        "text": "생면국수",
+        "width": 8.935070224558778,
+        "height": 1.4494050254098076,
+        "rotation": 358.7568685396472
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "생면국수",
+        "en.ROMAN": "saengmyeonguksu",
+        "en": "Fresh Noodles",
+        "ja": "生麺の素麺",
+        "zh_CN": "现擀面条",
+        "zh_TW": "生麵麵條",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "생면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fresh Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "生麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "生面"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "生麵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0001_1015736_3-tf-1",
+      "ocr": {
+        "x": 13.92949984149788,
+        "y": 38.744666886093505,
+        "text": "국치정식",
+        "width": 9.246933386344226,
+        "height": 1.5629659691986948,
+        "rotation": 0.34914667454148685
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "국치정식",
+        "en.ROMAN": "gukchijeongsik",
+        "en": "Noodles and Cheese Stuffed Pork Cutlet Set Menu",
+        "ja": "ククチ定食",
+        "zh_CN": "面炸套餐",
+        "zh_TW": "套餐",
+        "price": "6200",
+        "ingredients.ko": [
+          "돼지고기",
+          "치즈",
+          "계란",
+          "면"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Cheese",
+          "Eggs",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "チーズ",
+          "卵",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "奶酪",
+          "鸡蛋",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "起司",
+          "雞蛋",
+          "麵"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0001_1015736_3-tf-2",
+      "ocr": {
+        "x": 55.983541624584234,
+        "y": 38.89529839430559,
+        "text": "국만정식",
+        "width": 9.194475529316044,
+        "height": 1.5731072442234812,
+        "rotation": 359.4443541525811
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "국만정식",
+        "en.ROMAN": "gungmanjeongsik",
+        "en": "Noodles and Mandu Set Menu",
+        "ja": "ククマン定食",
+        "zh_CN": "面饺套餐",
+        "zh_TW": "套餐",
+        "price": "6200",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0001_1015736_3-tf-3",
+      "ocr": {
+        "x": 12.34092259239499,
+        "y": 58.09824994748156,
+        "text": "새우튀김우동",
+        "width": 14.519582121926591,
+        "height": 1.69042171004693,
+        "rotation": 0.22562942032635647
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "새우튀김우동",
+        "en.ROMAN": "saeutwigim udon",
+        "en": "Deep-fried Shrimp Udon",
+        "ja": "海老天ぷらうどん",
+        "zh_CN": "炸虾乌冬面",
+        "zh_TW": "炸蝦烏龍麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "밀가루",
+          "야채",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜",
+          "蝦"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0001_1015736_3-tf-4",
+      "ocr": {
+        "x": 55.89339389360238,
+        "y": 58.18691820182971,
+        "text": "국수나무우동",
+        "width": 14.585333971524433,
+        "height": 1.7193462809929825,
+        "rotation": 0.5792271635900761
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "국수나무우동",
+        "en.ROMAN": "guksunamu udon",
+        "en": "Noodle Wood Udon",
+        "ja": "菊の木うどん",
+        "zh_CN": "面条树乌冬面",
+        "zh_TW": "麪條樹烏冬面",
+        "price": "5500",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0001_1015736_3-tf-5",
+      "ocr": {
+        "x": 11.426522055404098,
+        "y": 80.13067102767907,
+        "text": "베트남소고기쌀국수",
+        "width": 22.522631331890306,
+        "height": 1.861308329688085,
+        "rotation": 0.39968872541021483
+      },
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "베트남소고기쌀국수",
+        "en.ROMAN": "Vietnam sogogissalguksu",
+        "en": "Vietnamese Beef Rice Noodles",
+        "ja": "牛肉フォー",
+        "zh_CN": "越南牛肉米线",
+        "zh_TW": "越南牛肉河粉",
+        "price": "7000",
+        "ingredients.ko": [
+          "소고기",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "河粉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF02_M0001_1015736_3-tf-6",
+      "ocr": {
+        "x": 55.937324828150864,
+        "y": 80.44362183855908,
+        "text": "진국정식",
+        "width": 9.981874426128774,
+        "height": 1.7739649612662471,
+        "rotation": 0.9103141225222657
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "진국정식",
+        "en.ROMAN": "jingukjeongsik",
+        "en": "Jinguk Set Menu",
+        "ja": "チングク定食",
+        "zh_CN": "珍国套餐",
+        "zh_TW": "套餐",
+        "price": "8700",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "소고기",
+          "밀가루",
+          "쌀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Beef",
+          "Wheat Flour",
+          "Rice Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "牛肉",
+          "小麦粉",
+          "米麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "牛肉",
+          "面粉",
+          "米线"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "牛肉",
+          "麵粉",
+          "河粉"
+        ],
+        "allergy": [
+          "새우",
+          "쇠고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "file_name": "SL_IF01_M0004_417380_6.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:10:18 14:01:59",
+    "store_id": "417380",
+    "store_region": "SL",
+    "store_type": "IF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.394526795895097,
+          0.303951367781155
+        ],
+        [
+          98.63169897377423,
+          0.4559270516717324
+        ],
+        [
+          98.2896237172178,
+          99.69604863221885
+        ],
+        [
+          0.34207525655644244,
+          96.20060790273554
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "치즈시즈닝감자튀김",
+        "en.ROMAN": "cheese seasoning gamjatwigim",
+        "en": "Seasoned, Soy Sauce Garlic Deep-fried Pork Shoulder",
+        "ja": "フライドポテトのチーズシーズニングがけ",
+        "zh_CN": "奶酪调味炸薯条",
+        "zh_TW": "起司调料品炸馬鈴薯",
+        "price": "3000",
+        "ingredients.ko": [
+          "치즈",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "馬鈴薯"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0004_417380_6-tf_3",
+      "ocr": {
+        "x": 33.09143128416056,
+        "y": 27.10789649927757,
+        "text": "치즈시즈닝감자튀김",
+        "width": 12.484767010369831,
+        "height": 2.4442969877236176,
+        "rotation": 0.8349753277104242
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "샘플러",
+        "en.ROMAN": "sampler",
+        "en": "Sampler",
+        "ja": "サンプラー",
+        "zh_CN": "配菜拼盘",
+        "zh_TW": "什錦套餐",
+        "price": "5900",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF01_M0004_417380_6-tf_4",
+      "ocr": {
+        "x": 58.00983187445527,
+        "y": 27.672758883181533,
+        "text": "포38샘플러",
+        "width": 7.451625583463088,
+        "height": 2.3100888112975935,
+        "rotation": 0
+      }
+    }
+  ]
+}

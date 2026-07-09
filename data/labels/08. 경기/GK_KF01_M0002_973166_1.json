@@ -1,0 +1,624 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_973166_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:03 18:05:19",
+    "store_id": "973166",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.4150672768253525,
+          9.659174831824844
+        ],
+        [
+          95.62188375110988,
+          12.362769759311583
+        ],
+        [
+          94.67325395199171,
+          61.3120673938083
+        ],
+        [
+          2.845889397354461,
+          60.74288951433742
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "정식(5가지산나물)",
+        "en.ROMAN": "jeongsik(5gajisannamul)",
+        "en": "Bibimbap Set Menu (5 Wild Vegetable Side Dishes)",
+        "ja": "定食(5種の山菜ナムル)",
+        "zh_CN": "套餐（野菜5拼）",
+        "zh_TW": "套餐(5種山菜)",
+        "price": "11000",
+        "ingredients.ko": [
+          "채소"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_10",
+      "ocr": {
+        "x": 11.543893009129029,
+        "y": 18.282568901761454,
+        "text": "정식(5가지산나물)",
+        "width": 9.845657622848877,
+        "height": 1.4368122771769307,
+        "rotation": 1.4436148324805913
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "청매실안심구이",
+        "en.ROMAN": "cheongmaesiransimgui",
+        "en": "Grilled Tenderloin with Green Plum",
+        "ja": "梅ソースのヒレ焼き",
+        "zh_CN": "青梅烤牛里脊",
+        "zh_TW": "青梅烤牛腰內肉",
+        "price": "25000",
+        "ingredients.ko": [
+          "매실",
+          "쇠고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Green Plum",
+          "Beef",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "梅",
+          "牛肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "青梅",
+          "牛肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "梅子",
+          "牛肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_20",
+      "ocr": {
+        "x": 62.276329703892536,
+        "y": 21.88155770559967,
+        "text": "청매실안심구이",
+        "width": 8.101446157107775,
+        "height": 1.1811791300528602,
+        "rotation": 2.6097062323754585
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "산나물보쌈",
+        "en.ROMAN": "sannamulbossam",
+        "en": "Napa Wraps and Wild Vegetable with Pork",
+        "ja": "山菜ナムルポサム",
+        "zh_CN": "野菜包肉",
+        "zh_TW": "山菜包肉",
+        "price": "18000",
+        "ingredients.ko": [
+          "채소"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_22",
+      "ocr": {
+        "x": 81.6305869074925,
+        "y": 22.417532760173124,
+        "text": "산나물보쌈",
+        "width": 5.919312169312157,
+        "height": 1.137357944540486,
+        "rotation": 1.987332354658463
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "특정식(8가지산나물+문어샐러드+동태전+매실짱아찌)",
+        "en.ROMAN": "teukjeongsik(8gajisannamul+muneo salad +dongtaejeon+maesiljjangajji)",
+        "en": "Bibimbap Set Menu Special (8 Wild vegetable Octopus Salad+Pan-fried Battered Pollack Fillet+Pickled Green Plum)",
+        "ja": "特定食(8種の山菜ナムル+タコサラダ+スケトウダラのチヂミ+梅干し)",
+        "zh_CN": "特级套餐（8种野菜+章鱼沙拉+香煎冻明太鱼片+青梅酱菜)",
+        "zh_TW": "特級套餐(8種山菜+大章魚沙拉+香煎凍明太魚片+梅子醬菜)",
+        "price": "17000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_31",
+      "ocr": {
+        "x": 11.449849561758006,
+        "y": 26.06087812332964,
+        "text": "특정식(8가지산나물+문어샐러드+동태전+매실짱아찌)",
+        "width": 24.566932057590705,
+        "height": 1.4353424755274877,
+        "rotation": 1.3667730318657618
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "표고버섯강정",
+        "en.ROMAN": "pyogobeoseotgangjeong",
+        "en": "Deep-fried and Braised Golden Oak Mushrooms",
+        "ja": "シイタケカンジョン",
+        "zh_CN": "甜辣香菇块",
+        "zh_TW": "甜辣香菇",
+        "price": "17000",
+        "ingredients.ko": [
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "蘑菇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_51",
+      "ocr": {
+        "x": 62.07804204943411,
+        "y": 32.17283362809148,
+        "text": "표고버섯강정",
+        "width": 6.927647541003679,
+        "height": 1.0986182453648263,
+        "rotation": 0.9795079539395033
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전",
+        "ko": "횡성더덕전",
+        "en.ROMAN": "Hoengseongdeodeokjeon",
+        "en": "Hoengseong Deodeok Pancake",
+        "ja": "フェンソン蔓人参のチヂミ",
+        "zh_CN": "横城沙参煎饼",
+        "zh_TW": "橫城沙蔘煎餅",
+        "price": "18000",
+        "ingredients.ko": [
+          "더덕",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Deodeok",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "蔓人参",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "沙参",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "沙蔘",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_52",
+      "ocr": {
+        "x": 81.55669137581742,
+        "y": 32.42940694440911,
+        "text": "횡성더덕전",
+        "width": 5.437098715157877,
+        "height": 1.080288162597056,
+        "rotation": 1.7076882325050065
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "미나리해물탕",
+        "en.ROMAN": "minarihaemultang",
+        "en": "Spicy Seafood Stew with Water Parsley",
+        "ja": "セリ入り海鮮鍋",
+        "zh_CN": "水芹海鲜汤",
+        "zh_TW": "水芹海鮮湯",
+        "price": "13000",
+        "ingredients.ko": [
+          "미나리",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Water Parsley",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "セリ",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "水芹",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "水芹",
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_55",
+      "ocr": {
+        "x": 11.492428031143552,
+        "y": 33.80738258856016,
+        "text": "미나리해물탕",
+        "width": 9.833239784602522,
+        "height": 1.489654106979994,
+        "rotation": 1.3160523627933003
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "미나리해물탕",
+        "en.ROMAN": "minarihaemultang",
+        "en": "Spicy Seafood Stew with Water Parsley",
+        "ja": "セリ入り海鮮鍋",
+        "zh_CN": "水芹海鲜汤",
+        "zh_TW": "水芹海鮮湯",
+        "price": "27000",
+        "ingredients.ko": [
+          "미나리",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Water Parsley",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "セリ",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "水芹",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "水芹",
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "Jnex_q9yLQ",
+      "ocr": {
+        "x": 25.928458018823207,
+        "y": 39.53095743062754,
+        "text": "안주용미나리해물탕",
+        "width": 9.015971980097802,
+        "height": 0.9246546562882741,
+        "rotation": 1.237837222978328
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "수제낙지볶음",
+        "en.ROMAN": "sujenakjibokkeum",
+        "en": "Stir-fried Spicy Octopus",
+        "ja": "手作りテナガダコ炒め",
+        "zh_CN": "辣炒长爪章鱼",
+        "zh_TW": "手工辣炒章魚",
+        "price": "18000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_74",
+      "ocr": {
+        "x": 61.79300371395667,
+        "y": 42.385912698412675,
+        "text": "수제낙지볶음",
+        "width": 7.050892568668587,
+        "height": 1.0905422531773474,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전",
+        "ko": "해물산나물전",
+        "en.ROMAN": "haemulsannamuljeon",
+        "en": "Seafood and Wild Vegetable Pancake",
+        "ja": "海鮮入り山菜ナムルのチヂミ",
+        "zh_CN": "海鲜山野菜煎饼",
+        "zh_TW": "海鮮山菜煎餅",
+        "price": "19000",
+        "ingredients.ko": [
+          "해산물",
+          "채소",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Vegetables",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "野菜",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "蔬菜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "蔬菜",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_75",
+      "ocr": {
+        "x": 81.25761111611358,
+        "y": 42.43345135384772,
+        "text": "해물산나물전",
+        "width": 7.010582010581982,
+        "height": 1.089093471850008,
+        "rotation": 0.5861516435944623
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "2인분식사+요리(소)1개선택",
+        "en.ROMAN": "2inbunsiksa+Yo-ri(so)1gaeseontaek",
+        "en": "2 Servings Meal + Dish (Small) Choose 1",
+        "ja": "2人分お食事+お料理(小)1つ選択",
+        "zh_CN": "2人套餐+料理（小）选一",
+        "zh_TW": "2人份主食+料理(小)1個選擇",
+        "price": "44000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_76",
+      "ocr": {
+        "x": 21.534042891706797,
+        "y": 43.372199369526875,
+        "text": "2인분식사+요리(소)1개선택",
+        "width": 12.49166436514367,
+        "height": 0.9606480262098872,
+        "rotation": 0.7168166943490633
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "동태전",
+        "en.ROMAN": "dongtaejeon",
+        "en": "Pan-fried Battered Pollack Fillet",
+        "ja": "スケトウダラのチヂミ",
+        "zh_CN": "香煎冻明太鱼片",
+        "zh_TW": "香煎凍明太魚片",
+        "price": "12000",
+        "ingredients.ko": [
+          "계란",
+          "밀가루",
+          "동태"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Wheat Flour",
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "小麦粉",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "面粉",
+          "冻明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "麵粉",
+          "凍明太魚"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_113",
+      "ocr": {
+        "x": 61.64021164021163,
+        "y": 49.826388888888886,
+        "text": "동태전",
+        "width": 3.538359788359789,
+        "height": 1.0168650793650793,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "제철생굴",
+        "en.ROMAN": "jecheolsaenggul",
+        "en": "Raw Oyster",
+        "ja": "旬の生カキ",
+        "zh_CN": "时令生牡蛎",
+        "zh_TW": "應時生牡蠣",
+        "price": "12000",
+        "ingredients.ko": [
+          "굴"
+        ],
+        "ingredients.en": [
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_112",
+      "ocr": {
+        "x": 81.08200105136488,
+        "y": 49.904233707088835,
+        "text": "제철생굴",
+        "width": 4.672578168053315,
+        "height": 1.0273639478451728,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "3인분식사+요리(중)1개선택",
+        "en.ROMAN": "3inbunsiksa+Yo-ri(jung)1gaeseontaek",
+        "en": "3 Servings Meal + Dish (Medium) Choose 1",
+        "ja": "3人分お食事+お料理(中)1つ選択",
+        "zh_CN": "3人套餐+料理（中）选一",
+        "zh_TW": "3人份主食+料理(中)1個選擇",
+        "price": "67000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_973166_1-tf.jpg_114",
+      "ocr": {
+        "x": 21.444516720775216,
+        "y": 51.42594726880099,
+        "text": "3인분식사+요리(중)1개선택",
+        "width": 12.486539092468526,
+        "height": 0.9363118144253768,
+        "rotation": 0.7258977848575796
+      }
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0002_510820_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:17 12:17:29",
+    "store_id": "510820",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          5.772495755517825,
+          29.171974522292995
+        ],
+        [
+          96.60441426146011,
+          29.171974522292995
+        ],
+        [
+          99.830220713073,
+          75.03184713375796
+        ],
+        [
+          1.3582342954159592,
+          74.3949044585987
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "해물두부찜",
+        "en.ROMAN": "haemuldubujjim",
+        "en": "Steamed seafood tofu.",
+        "ja": "海鮮と豆腐の蒸し物",
+        "zh_CN": "辣炖海鲜豆腐",
+        "zh_TW": "辣燉海鮮豆腐",
+        "price": "22000",
+        "ingredients.ko": [
+          "해산물",
+          "두부",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Bean Curd",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "豆腐",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "豆腐",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "豆腐",
+          "蔬菜"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_510820_1-tf_0",
+      "ocr": {
+        "x": 74.3702822528223,
+        "y": 32.71955308642288,
+        "text": "해물두부찜",
+        "width": 14.207231172311321,
+        "height": 2.4081703703656876,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "순두부정식",
+        "en.ROMAN": "sundubujeongsik",
+        "en": "Soft Bean Curd Jjigae Set Menu",
+        "ja": "スンドゥブ定食",
+        "zh_CN": "嫩豆腐套餐",
+        "zh_TW": "嫩豆腐套餐",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_510820_1-tf_1",
+      "ocr": {
+        "x": 36.07830648306611,
+        "y": 32.76682962963429,
+        "text": "순두부정식",
+        "width": 15.499206942067591,
+        "height": 2.3413407407313027,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "청국장정식",
+        "en.ROMAN": "cheonggukjangjeongsik",
+        "en": "Rich Soybean Paste Jjigae Set Menu",
+        "ja": "チョングクチャン定食",
+        "zh_CN": "清麴酱套餐",
+        "zh_TW": "清麴醬套餐",
+        "price": "9000",
+        "ingredients.ko": [
+          "청국장"
+        ],
+        "ingredients.en": [
+          "Rich Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "チョングクチャン"
+        ],
+        "ingredients.zh_CN": [
+          "清麴酱"
+        ],
+        "ingredients.zh_TW": [
+          "清麴醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_510820_1-tf_6",
+      "ocr": {
+        "x": 36.28915324153302,
+        "y": 41.739106172845766,
+        "text": "청국장정식",
+        "width": 15.884744597444948,
+        "height": 2.46634074073135,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "한우두부찜",
+        "en.ROMAN": "hanudubujjim",
+        "en": "Braised Korean beef tofu.",
+        "ja": "韓牛と豆腐の蒸し物",
+        "zh_CN": "韩牛炖豆腐",
+        "zh_TW": "韓牛燉豆腐",
+        "price": "22000",
+        "ingredients.ko": [
+          "쇠고기",
+          "두부",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Bean Curd",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "豆腐",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "豆腐",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "豆腐",
+          "蔬菜"
+        ],
+        "allergy": [
+          "쇠고기",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_510820_1-tf_7",
+      "ocr": {
+        "x": 74.9449731497326,
+        "y": 42.11410617284579,
+        "text": "한우두부찜",
+        "width": 14.539771447712216,
+        "height": 2.53861728394276,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "콩나물밥순두부",
+        "en.ROMAN": "kongnamulbapsundubu",
+        "en": "Bean sprout rice soft tofu.",
+        "ja": "もやしご飯入りスンドゥブチゲ",
+        "zh_CN": "豆芽饭嫩豆腐",
+        "zh_TW": "豆芽飯嫩豆腐",
+        "price": "11000",
+        "ingredients.ko": [
+          "콩나물",
+          "순두부",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Bean Sprout",
+          "Soft Bean Curd",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豆もやし",
+          "スンドゥブ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "黄豆芽",
+          "嫩豆腐",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "黃豆芽",
+          "嫩豆腐",
+          "米"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_510820_1-tf_12",
+      "ocr": {
+        "x": 36.22610216102198,
+        "y": 51.59182962963434,
+        "text": "콩나물밥순두부",
+        "width": 16.35864243642294,
+        "height": 2.519064197519871,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "참치두부찜",
+        "en.ROMAN": "chamchidubujjim",
+        "en": "Steamed tuna tofu.",
+        "ja": "ツナと豆腐の蒸し物",
+        "zh_CN": "金枪鱼豆腐汤",
+        "zh_TW": "金槍魚豆腐湯",
+        "price": "22000",
+        "ingredients.ko": [
+          "참치",
+          "두부",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Tuna",
+          "Bean Curd",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "ツナ",
+          "豆腐",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "金枪鱼",
+          "豆腐",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "鮪魚",
+          "豆腐",
+          "蔬菜"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_510820_1-tf_13",
+      "ocr": {
+        "x": 75.22610216102187,
+        "y": 51.70000000000011,
+        "text": "참치두부찜",
+        "width": 14.851411264111627,
+        "height": 2.5891061728457148,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "콩나물밥청국장",
+        "en.ROMAN": "kongnamulbapcheonggukjang",
+        "en": "Bean sprout soup with rice.",
+        "ja": "もやしご飯のチョングクチャン",
+        "zh_CN": "豆芽饭清鞠酱",
+        "zh_TW": "豆芽飯清鞠醬",
+        "price": "11000",
+        "ingredients.ko": [
+          "콩나물",
+          "청국장",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Bean Sprout",
+          "Rich Soybean Paste",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豆もやし",
+          "チョングクチャン",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "黄豆芽",
+          "清麴酱",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "黃豆芽",
+          "清麴醬",
+          "米"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_510820_1-tf_19",
+      "ocr": {
+        "x": 36.48915324153304,
+        "y": 61.89727654321137,
+        "text": "콩나물밥청국장",
+        "width": 16.355026850267254,
+        "height": 2.5304469135770944,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "두부찜",
+        "en.ROMAN": "dubujjim",
+        "en": "Braised Bean Curd",
+        "ja": "豆腐の蒸し物",
+        "zh_CN": "炖豆腐",
+        "zh_TW": "燉豆腐",
+        "price": "18000",
+        "ingredients.ko": [
+          "두부"
+        ],
+        "ingredients.en": [
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_510820_1-tf_20",
+      "ocr": {
+        "x": 76.17830648306602,
+        "y": 62.06682962963435,
+        "text": "두부찜",
+        "width": 10.373104781045551,
+        "height": 2.566340740731323,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "콩나물밥",
+        "en.ROMAN": "kongnamulbap",
+        "en": "Bean Sprout Rice",
+        "ja": "豆もやしご飯",
+        "zh_CN": "黄豆芽饭",
+        "zh_TW": "黃豆芽飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "파",
+          "콩나물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Green Onions",
+          "Bean Sprout"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ネギ",
+          "豆もやし"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "葱",
+          "黄豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蔥",
+          "黃豆芽"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "Lq_VljedSb",
+      "ocr": {
+        "x": 12.873042556295502,
+        "y": 69.56322468214086,
+        "text": "콩나물밥",
+        "width": 10.030080676890845,
+        "height": 3.1384008652398583,
+        "rotation": 0.495563537074986
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "X3gkV-ngpW",
+      "ocr": {
+        "x": 32.486616767198804,
+        "y": 69.66400835671146,
+        "text": "공기밥",
+        "width": 7.603118992225781,
+        "height": 3.2220675928965234,
+        "rotation": 0.47306027178223076
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동사리",
+        "en.ROMAN": "udon sari",
+        "en": "Extra Udon Noodles",
+        "ja": "うどん追加",
+        "zh_CN": "另加乌冬面",
+        "zh_TW": "加點烏龍麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "9iDAju4bbA",
+      "ocr": {
+        "x": 49.753278081674345,
+        "y": 69.8590981520625,
+        "text": "우동사리",
+        "width": 9.942151376102956,
+        "height": 3.20051125269625,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "당면사리",
+        "en.ROMAN": "dangmyeonsari",
+        "en": "Extra Glass Noodles",
+        "ja": "春雨追加",
+        "zh_CN": "另加粉条",
+        "zh_TW": "加點粉條",
+        "price": "2000",
+        "ingredients.ko": [
+          "당면"
+        ],
+        "ingredients.en": [
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "粉條"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "HtF4KaWWRN",
+      "ocr": {
+        "x": 69.62540166419768,
+        "y": 69.958763230306,
+        "text": "당면사리",
+        "width": 10.052069420958187,
+        "height": 3.1615590469967874,
+        "rotation": 0
+      }
+    }
+  ]
+}

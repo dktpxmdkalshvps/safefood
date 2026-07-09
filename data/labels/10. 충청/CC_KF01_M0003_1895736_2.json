@@ -1,0 +1,654 @@
+{
+  "meta": {
+    "file_name": "CC_KF01_M0003_1895736_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:28 12:56:35",
+    "store_id": "1895736",
+    "store_region": "CC",
+    "store_type": "KF01",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          5.565529622980251,
+          8.47913862718708
+        ],
+        [
+          91.38240574506284,
+          9.421265141318974
+        ],
+        [
+          84.91921005385996,
+          94.34724091520862
+        ],
+        [
+          7.719928186714542,
+          93.67429340511443
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "미니보쌈",
+        "en.ROMAN": "mini bossam",
+        "en": "Mini Bossam (Boiled pork",
+        "ja": "ミニポサム",
+        "zh_CN": "迷你菜包肉",
+        "zh_TW": "迷你菜包肉",
+        "price": "16000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_5",
+      "ocr": {
+        "x": 26.671004540703503,
+        "y": 26.563539157721145,
+        "text": "미니보쌈",
+        "width": 16.587159016880324,
+        "height": 2.505164720089959,
+        "rotation": 1.4683845279317325
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "두부보쌈",
+        "en.ROMAN": "dububossam",
+        "en": "Napa Wraps with Pork and Bean Curd",
+        "ja": "豆腐とゆで肉ポサム",
+        "zh_CN": "豆腐菜包肉",
+        "zh_TW": "豆腐菜包肉",
+        "price": "32000",
+        "ingredients.ko": [
+          "두부",
+          "돼지고기",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Bean Curd",
+          "Pork",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "豆腐",
+          "豚肉",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐",
+          "猪肉",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐",
+          "豬肉",
+          "辛奇"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_7",
+      "ocr": {
+        "x": 17.01069136653556,
+        "y": 30.3357134449203,
+        "text": "두부보쌈",
+        "width": 16.76445721537179,
+        "height": 2.517842664386158,
+        "rotation": 1.4683845279325283
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "고기추가",
+        "en.ROMAN": "gogi chuga",
+        "en": "Extra Serving of Meat",
+        "ja": "肉追加",
+        "zh_CN": "另加肉",
+        "zh_TW": "加點肉類",
+        "price": "12000",
+        "ingredients.ko": [
+          "고기"
+        ],
+        "ingredients.en": [
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_11",
+      "ocr": {
+        "x": 18.19209857978022,
+        "y": 38.44566592101416,
+        "text": "고기추가",
+        "width": 13.250598815883947,
+        "height": 2.0620628579442486,
+        "rotation": 1.4683845279327556
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "매콤)두부(만두)전골",
+        "en.ROMAN": "maekom)Dubu(Mandu)jeongol",
+        "en": "Spicy) Bean Curd (Mandu) Hot Pot",
+        "ja": "辛味)豆腐(餃子)の寄せ鍋",
+        "zh_CN": "辣味豆腐饺子火锅",
+        "zh_TW": "辣味）豆腐（餃子）火鍋",
+        "price": "26000",
+        "ingredients.ko": [
+          "두부",
+          "돼지고기",
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Bean Curd",
+          "Pork",
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豆腐",
+          "豚肉",
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐",
+          "猪肉",
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐",
+          "豬肉",
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_21",
+      "ocr": {
+        "x": 13.107536611319112,
+        "y": 56.98731757661326,
+        "text": "매콤)두부(만두)전골",
+        "width": 33.157927500350326,
+        "height": 2.400695471377216,
+        "rotation": 0.81326096067653
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "들깨)두부(만두)전골",
+        "en.ROMAN": "deulkkae)Dubu(Mandu)jeongol",
+        "en": "Perilla Seeds) Bean Curd (Mandu) Hot Pot",
+        "ja": "エゴマ)豆腐(餃子)の寄せ鍋",
+        "zh_CN": "紫苏豆腐饺子火锅",
+        "zh_TW": "紫蘇）豆腐（餃子）火鍋",
+        "price": "26000",
+        "ingredients.ko": [
+          "들깨",
+          "두부",
+          "돼지고기",
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Perilla Seeds",
+          "Bean Curd",
+          "Pork",
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "エゴマ",
+          "豆腐",
+          "豚肉",
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "紫苏",
+          "豆腐",
+          "猪肉",
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "紫蘇",
+          "豆腐",
+          "豬肉",
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_25",
+      "ocr": {
+        "x": 13.224500025988576,
+        "y": 60.766656233058875,
+        "text": "들깨)두부(만두)전골",
+        "width": 33.00035769656133,
+        "height": 2.3483484183240537,
+        "rotation": 0.8132609606752226
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "지리)두부(만두)전골",
+        "en.ROMAN": "Ji-ri)Dubu(Mandu)jeongol",
+        "en": "White) Bean Curd (Mandu) Hot Pot",
+        "ja": "白濁スープ)豆腐(餃子)の寄せ鍋",
+        "zh_CN": "清汤豆腐饺子火锅",
+        "zh_TW": "清湯）豆腐（餃子）火鍋",
+        "price": "24000",
+        "ingredients.ko": [
+          "두부",
+          "돼지고기",
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Bean Curd",
+          "Pork",
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豆腐",
+          "豚肉",
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐",
+          "猪肉",
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐",
+          "豬肉",
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_29",
+      "ocr": {
+        "x": 13.229411233893249,
+        "y": 64.4432993465399,
+        "text": "지리)두부(만두)전골",
+        "width": 32.86838409083647,
+        "height": 2.424125119454084,
+        "rotation": 0.8132609606743131
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "김치",
+        "ko": "생두부김치",
+        "en.ROMAN": "saengdubukimchi",
+        "en": "Bean Curd with Stir-fried Kimchi",
+        "ja": "豆腐キムチ",
+        "zh_CN": "炒辛奇佐鲜豆腐",
+        "zh_TW": "炒辛奇佐鮮豆腐",
+        "price": "7000",
+        "ingredients.ko": [
+          "두부",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Bean Curd",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "豆腐",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐",
+          "辛奇"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_34",
+      "ocr": {
+        "x": 13.444206955491289,
+        "y": 75.21170492774658,
+        "text": "생두부김치",
+        "width": 32.23516713874585,
+        "height": 2.3877359488011756,
+        "rotation": 0.7877867984649924
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "왕만두",
+        "en.ROMAN": "wangmandu",
+        "en": "Jumbo Mandu",
+        "ja": "王餃子",
+        "zh_CN": "大包子",
+        "zh_TW": "大包子",
+        "price": "10000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_36",
+      "ocr": {
+        "x": 13.580428088356241,
+        "y": 78.76448730106105,
+        "text": "왕만두",
+        "width": 13.698303961513183,
+        "height": 2.310687625269996,
+        "rotation": 0.7877867984654472
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "3500",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_40",
+      "ocr": {
+        "x": 16.40101961887978,
+        "y": 85.42870764182402,
+        "text": "막걸리",
+        "width": 7.599133929713348,
+        "height": 2.0817312678810054,
+        "rotation": 0.4748273207545708
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2500",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_41",
+      "ocr": {
+        "x": 48.79389331928212,
+        "y": 85.9043297284654,
+        "text": "콜라",
+        "width": 5.2211562780884355,
+        "height": 1.9681399621377154,
+        "rotation": 0.5627026066899248
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2500",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "T9lTitGKbN",
+      "ocr": {
+        "x": 55.256181004082826,
+        "y": 85.9168343685701,
+        "text": "사이다",
+        "width": 7.897644016820694,
+        "height": 2.0319060514262293,
+        "rotation": 0.7760410999571263
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_44",
+      "ocr": {
+        "x": 17.77999070526626,
+        "y": 88.05865146275723,
+        "text": "소주",
+        "width": 5.077066374489024,
+        "height": 1.9956091791200175,
+        "rotation": 0.4748273207599141
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF01_M0003_1895736_2-tf_45",
+      "ocr": {
+        "x": 53.267354206507726,
+        "y": 88.53539423166366,
+        "text": "맥주",
+        "width": 5.156558917055856,
+        "height": 1.9880325525747045,
+        "rotation": 0.770543947725173
+      }
+    }
+  ]
+}

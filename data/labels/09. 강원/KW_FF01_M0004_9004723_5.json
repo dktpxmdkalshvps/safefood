@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "file_name": "KW_FF01_M0004_9004723_5.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:19 16:30:44",
+    "store_id": "9004723",
+    "store_region": "KW",
+    "store_type": "FF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          98.14242381161893,
+          14.485165794066317
+        ],
+        [
+          2.1671826625387,
+          12.739965095986038
+        ],
+        [
+          6.811145510835913,
+          98.77835951134381
+        ],
+        [
+          95.6656346749226,
+          98.95287958115183
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "츄러스",
+        "en.ROMAN": "churros",
+        "en": "Churros",
+        "ja": "チュロス",
+        "zh_CN": "吉事果",
+        "zh_TW": "吉拿棒",
+        "price": "1800",
+        "ingredients.ko": [
+          "버터",
+          "계란",
+          "밀가루",
+          "설탕"
+        ],
+        "ingredients.en": [
+          "Butter",
+          "Eggs",
+          "Wheat Flour",
+          "Sugar"
+        ],
+        "ingredients.ja": [
+          "バター",
+          "卵",
+          "小麦粉",
+          "ソルロンタン"
+        ],
+        "ingredients.zh_CN": [
+          "黄油",
+          "鸡蛋",
+          "面粉",
+          "白糖"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "雞蛋",
+          "麵粉",
+          "糖"
+        ],
+        "allergy": [
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_FF01_M0004_9004723_5-tf_31",
+      "ocr": {
+        "x": 36.21278347552921,
+        "y": 40.45966873979694,
+        "text": "츄러스",
+        "width": 3.8183679449597254,
+        "height": 0.8604749729904055,
+        "rotation": 0.22275403111609648
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치킨토마토스낵랩",
+        "en.ROMAN": "chicken tomato snack raep",
+        "en": "Chicken Tomato Snack Wrap",
+        "ja": "貯金トマトスナックラップ",
+        "zh_CN": "炸鸡番茄快餐卷",
+        "zh_TW": "雞肉番茄點心捲餅",
+        "price": "2200",
+        "ingredients.ko": [
+          "닭고기",
+          "토마토",
+          "양상추",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Tomato",
+          "Lettuce",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "トマト",
+          "レタス",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "番茄",
+          "圆生菜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "番茄",
+          "結球萵苣",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "토마토",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_FF01_M0004_9004723_5-tf_21",
+      "ocr": {
+        "x": 52.81831303117285,
+        "y": 40.62585388854222,
+        "text": "치킨토마토스낵랩",
+        "width": 10.13955585094615,
+        "height": 0.8467431358225217,
+        "rotation": 0.7978803011725972
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "불고기버거",
+        "en.ROMAN": "bulgogi burger",
+        "en": "Bulgogi Burger",
+        "ja": "プルゴギバーガー",
+        "zh_CN": "烤牛肉汉堡",
+        "zh_TW": "烤牛肉堡",
+        "price": "2200",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "빵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Bread"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "パン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "面包"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "麵包"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_FF01_M0004_9004723_5-tf_22",
+      "ocr": {
+        "x": 69.44555217265352,
+        "y": 40.706257912198105,
+        "text": "불고기버거",
+        "width": 6.410312563454421,
+        "height": 0.8874322861830711,
+        "rotation": 1.639355111634302
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "필레오피쉬",
+        "en.ROMAN": "fillet o fish",
+        "en": "Filet-O-Fish Burger",
+        "ja": "フィレオフィッシュ",
+        "zh_CN": "炸鱼排汉堡",
+        "zh_TW": "麥香魚堡",
+        "price": "3200",
+        "ingredients.ko": [
+          "밀가루",
+          "치즈",
+          "생선살"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Cheese",
+          "Fish Fillet"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "チーズ",
+          "魚の身"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "奶酪",
+          "鱼肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "起司",
+          "魚肉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_FF01_M0004_9004723_5-tf_29",
+      "ocr": {
+        "x": 36.305976887917666,
+        "y": 52.419790239598335,
+        "text": "필레오피쉬",
+        "width": 6.4594253486612745,
+        "height": 0.8610399710110194,
+        "rotation": 0.819845348397962
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "맥너겟",
+        "en.ROMAN": "maek nugget",
+        "en": "Chicken Tenders",
+        "ja": "マックナゲット",
+        "zh_CN": "麦乐鸡",
+        "zh_TW": "麥當勞雞塊",
+        "price": "2800",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_FF01_M0004_9004723_5-tf_30",
+      "ocr": {
+        "x": 52.38940423597878,
+        "y": 52.564164372664926,
+        "text": "맥너겟",
+        "width": 3.651170451009405,
+        "height": 0.8716642010064539,
+        "rotation": 0.8430539037991593
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "아메리카노",
+        "en.ROMAN": "Americano",
+        "en": "Americano",
+        "ja": "アメリカーノ",
+        "zh_CN": "美式咖啡",
+        "zh_TW": "美式咖啡",
+        "price": "2600",
+        "ingredients.ko": [
+          "커피"
+        ],
+        "ingredients.en": [
+          "Coffee"
+        ],
+        "ingredients.ja": [
+          "コーヒー"
+        ],
+        "ingredients.zh_CN": [
+          "咖啡"
+        ],
+        "ingredients.zh_TW": [
+          "咖啡"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_FF01_M0004_9004723_5-tf_32",
+      "ocr": {
+        "x": 68.50595474349882,
+        "y": 52.723927337396645,
+        "text": "아메리카노",
+        "width": 5.940081419616142,
+        "height": 0.8493181106580486,
+        "rotation": 1.6244545301178732
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "카페라떼",
+        "en.ROMAN": "cafe latte",
+        "en": "Café Latte",
+        "ja": "カフェラテ",
+        "zh_CN": "拿铁",
+        "zh_TW": "拿鐵",
+        "price": "3100",
+        "ingredients.ko": [
+          "우유",
+          "에스프레소"
+        ],
+        "ingredients.en": [
+          "Milk",
+          "Espresso"
+        ],
+        "ingredients.ja": [
+          "牛乳",
+          "エスプレッソ"
+        ],
+        "ingredients.zh_CN": [
+          "牛奶",
+          "意式浓缩咖啡"
+        ],
+        "ingredients.zh_TW": [
+          "牛奶",
+          "義式濃縮咖啡"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_FF01_M0004_9004723_5-tf_42",
+      "ocr": {
+        "x": 36.16056509469435,
+        "y": 63.95550986612816,
+        "text": "카페라떼",
+        "width": 4.706927175843738,
+        "height": 0.8169408032312787,
+        "rotation": 0
+      }
+    }
+  ]
+}

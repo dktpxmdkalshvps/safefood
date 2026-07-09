@@ -1,0 +1,613 @@
+{
+  "meta": {
+    "file_name": "KW_IF03_M0004_1307900_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:21 19:14:36",
+    "store_id": "1307900",
+    "store_region": "KW",
+    "store_type": "IF03",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.74811083123426,
+          0.3780718336483932
+        ],
+        [
+          -0.2518891687657431,
+          0
+        ],
+        [
+          10.327455919395465,
+          99.8109640831758
+        ],
+        [
+          90.17632241813602,
+          99.62192816635161
+        ],
+        [
+          99.74811083123426,
+          22.306238185255197
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "마제소바",
+        "en.ROMAN": "maze soba",
+        "en": "Maze Soba Noodles",
+        "ja": "混ぜそば",
+        "zh_CN": "台湾干拌面",
+        "zh_TW": "台灣乾拌麵",
+        "price": "10900",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "豬肉"
+        ],
+        "allergy": [
+          "메밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_10",
+      "ocr": {
+        "x": 79.09320964894256,
+        "y": 32.76307982742402,
+        "text": "마제소바",
+        "width": 8.583155956973656,
+        "height": 1.9811728820478594,
+        "rotation": 1.7784161736478268
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "카라돈코츠라멘",
+        "en.ROMAN": "karadonkocheu ramen",
+        "en": "Karai Tonkotsu Ramen",
+        "ja": "辛味豚骨ラーメン",
+        "zh_CN": "香辣豚骨拉面",
+        "zh_TW": "辣味豚骨拉麵",
+        "price": "9900",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_7",
+      "ocr": {
+        "x": 31,
+        "y": 32.775,
+        "text": "카라돈코츠라멘",
+        "width": 14.316489290306983,
+        "height": 1.918724294015951,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "돈코츠라멘",
+        "en.ROMAN": "donkocheu ramen",
+        "en": "Tonkotsu Ramen",
+        "ja": "豚骨ラーメン",
+        "zh_CN": "豚骨拉面",
+        "zh_TW": "豚骨拉麵",
+        "price": "9500",
+        "ingredients.ko": [
+          "밀가루",
+          "채소",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_8",
+      "ocr": {
+        "x": 11.900000000000007,
+        "y": 32.80000000000001,
+        "text": "돈코츠라멘",
+        "width": 9.383155956973647,
+        "height": 1.962448588031906,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "미소라멘",
+        "en.ROMAN": "miso ramen",
+        "en": "Miso Ramen",
+        "ja": "味噌ラーメン",
+        "zh_CN": "味噌拉面",
+        "zh_TW": "味噌拉麵",
+        "price": "9900",
+        "ingredients.ko": [
+          "야채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "面"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_9",
+      "ocr": {
+        "x": 56.300000000000004,
+        "y": 32.85000000000004,
+        "text": "미소라멘",
+        "width": 8.183155956973645,
+        "height": 1.8374485880318834,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "쿠로마유라멘",
+        "en.ROMAN": "kuromayu ramen",
+        "en": "Pork Based Soup Ramen",
+        "ja": "くろまゆラーメン",
+        "zh_CN": "日式熊本拉面",
+        "zh_TW": "黑蒜油拉麵",
+        "price": "10500",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "마늘",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Garlic",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "にんにく",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "大蒜",
+          "面"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "大蒜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_15",
+      "ocr": {
+        "x": 12.853534194634802,
+        "y": 54.61166250596526,
+        "text": "쿠로마유라멘",
+        "width": 10.716465683238233,
+        "height": 1.8227932568131278,
+        "rotation": 0.9199258088391389
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "카라차돌라멘",
+        "en.ROMAN": "karachadol ramen",
+        "en": "Kara Beef Brisket Ramen",
+        "ja": "辛味牛のともばら肉ラーメン",
+        "zh_CN": "辣味牛胸肉拉面",
+        "zh_TW": "香辣牛胸肉拉麵",
+        "price": "11500",
+        "ingredients.ko": [
+          "쇠고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_16",
+      "ocr": {
+        "x": 32.93333333333332,
+        "y": 55.04999999999999,
+        "text": "카라차돌라멘",
+        "width": 11.53297858061397,
+        "height": 1.9187242940159654,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "매생이해물라멘",
+        "en.ROMAN": "maesaengihaemul ramen",
+        "en": "Fulvescens Seafood Ramen",
+        "ja": "カプサアオノリ入り海鮮ラーメン",
+        "zh_CN": "海藻海鲜拉面",
+        "zh_TW": "海藻海鮮拉麵",
+        "price": "13900",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_17",
+      "ocr": {
+        "x": 53.02314538300185,
+        "y": 55.247960916817156,
+        "text": "매생이해물라멘",
+        "width": 13.33333333333333,
+        "height": 2.0375677635513707,
+        "rotation": 0.8837953248426516
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "규동",
+        "en.ROMAN": "gyudong",
+        "en": "Grilled Beef with Rice",
+        "ja": "牛丼",
+        "zh_CN": "日式牛肉盖饭",
+        "zh_TW": "牛肉丼飯",
+        "price": "9900",
+        "ingredients.ko": [
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_18",
+      "ocr": {
+        "x": 79.53333333333337,
+        "y": 56.05000000000002,
+        "text": "규동",
+        "width": 4.2080672687937755,
+        "height": 1.7624485880319114,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "차슈동",
+        "en.ROMAN": "char siu dong",
+        "en": "Char Siu with Rice",
+        "ja": "チャーシュー丼",
+        "zh_CN": "叉烧盖饭",
+        "zh_TW": "叉燒丼",
+        "price": "9900",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "五花肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_24",
+      "ocr": {
+        "x": 16.9686169727934,
+        "y": 74.36563003070033,
+        "text": "차슈동",
+        "width": 5.366666666666663,
+        "height": 1.7250000000000014,
+        "rotation": 1.7003113692422858
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "붓카케우동(냉우동)",
+        "en.ROMAN": "bukkake udon (naeng udon)",
+        "en": "Cold Udon",
+        "ja": "ぶっかけうどん(冷し)",
+        "zh_CN": "冷乌冬面",
+        "zh_TW": "日式醬油拌烏龍麵（冷烏龍麵）",
+        "price": "10900",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_25",
+      "ocr": {
+        "x": 31.478039056502492,
+        "y": 74.84259372677505,
+        "text": "붓카케우동(냉우동)",
+        "width": 15.263203978388361,
+        "height": 2.0770719619890468,
+        "rotation": 1.8009742208688522
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "바질소바",
+        "en.ROMAN": "basil soba",
+        "en": "Basil Soba Noodles",
+        "ja": "バジルそば",
+        "zh_CN": "日式罗勒荞麦面",
+        "zh_TW": "日式羅勒蕎麥麵",
+        "price": "10900",
+        "ingredients.ko": [
+          "바질",
+          "메밀"
+        ],
+        "ingredients.en": [
+          "Basil",
+          "Buckwheat"
+        ],
+        "ingredients.ja": [
+          "バジル",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "罗勒",
+          "荞麦"
+        ],
+        "ingredients.zh_TW": [
+          "羅勒",
+          "蕎麥"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_26",
+      "ocr": {
+        "x": 55.442774854544616,
+        "y": 75.68370449241871,
+        "text": "바질소바",
+        "width": 7.400000000000005,
+        "height": 1.8500000000000054,
+        "rotation": 1.894650799412318
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "가라아게",
+        "en.ROMAN": "karaage",
+        "en": "Deep-fried Chicken",
+        "ja": "唐揚げ",
+        "zh_CN": "日式炸鸡块",
+        "zh_TW": "日式炸物",
+        "price": "5000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_IF03_M0004_1307900_1-tf_27",
+      "ocr": {
+        "x": 75.87284500926931,
+        "y": 76.35904525002915,
+        "text": "가라아게",
+        "width": 7.666666666666676,
+        "height": 1.7750000000000026,
+        "rotation": 1.8207891417569044
+      }
+    }
+  ]
+}

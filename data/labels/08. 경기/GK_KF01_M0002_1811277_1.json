@@ -1,0 +1,665 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_1811277_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 2268,
+    "captured_date": "2022:11:11 16:27:16",
+    "store_id": "1811277",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.9474196689386567,
+          10.899653979238755
+        ],
+        [
+          96.78675754625121,
+          15.397923875432525
+        ],
+        [
+          99.22103213242454,
+          83.39100346020761
+        ],
+        [
+          0.09737098344693282,
+          85.12110726643598
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "뼈해장국",
+        "en.ROMAN": "ppyeohaejangguk",
+        "en": "Pork Backbone Hangover Soup",
+        "ja": "豚の背骨酔い覚ましスープ",
+        "zh_CN": "腔骨醒酒汤",
+        "zh_TW": "豬骨醒酒湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_0",
+      "ocr": {
+        "x": 7.862939113526726,
+        "y": 14.83647873123684,
+        "text": "뼈해장국",
+        "width": 12.302886480113294,
+        "height": 4.792852797801565,
+        "rotation": 1.1653537193171815
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "능이감자탕",
+        "en.ROMAN": "neungigamjatang",
+        "en": "Shingled Hedgehog and Pork Backbone Stew",
+        "ja": "コウタケ入りカムジャタン",
+        "zh_CN": "虎掌菇土豆龙骨汤",
+        "zh_TW": "虎掌菇馬鈴薯排骨湯",
+        "price": "48000",
+        "ingredients.ko": [
+          "버섯",
+          "감자",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Mushroom",
+          "Potato",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "きのこ",
+          "じゃがいも",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蘑菇",
+          "土豆",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蘑菇",
+          "馬鈴薯",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_3",
+      "ocr": {
+        "x": 40.753706939331266,
+        "y": 16.780438276828978,
+        "text": "능이감자탕",
+        "width": 11.79312754580201,
+        "height": 4.69129966754789,
+        "rotation": 1.8440525767015856
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "능이뼈해장국",
+        "en.ROMAN": "neungippyeohaejangguk",
+        "en": "Shingled Hedgehog and Pork Backbone Hangover Soup",
+        "ja": "コウタケ入り豚の背骨酔い覚ましスープ",
+        "zh_CN": "虎掌菇腔骨醒酒汤",
+        "zh_TW": "虎掌菇豬骨醒酒湯",
+        "price": "12000",
+        "ingredients.ko": [
+          "버섯",
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Mushroom",
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "きのこ",
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蘑菇",
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蘑菇",
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_10",
+      "ocr": {
+        "x": 7.623451150540335,
+        "y": 22.75427176777503,
+        "text": "능이뼈해장국",
+        "width": 12.396159792260175,
+        "height": 4.932212946381151,
+        "rotation": 1.1653537193178067
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "감자탕",
+        "en.ROMAN": "gamjatang",
+        "en": "Pork Backbone Stew",
+        "ja": "カムジャタン",
+        "zh_CN": "脊骨土豆汤",
+        "zh_TW": "馬鈴薯排骨湯",
+        "price": "40000",
+        "ingredients.ko": [
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "7L6qEJ1rv6",
+      "ocr": {
+        "x": 40.864833992364915,
+        "y": 28.749455711176402,
+        "text": "감자탕",
+        "width": 11.665702452527682,
+        "height": 4.678879933731676,
+        "rotation": 1.540818155861757
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "소내장탕",
+        "en.ROMAN": "sonaejangtang",
+        "en": "Beef Offal Soup",
+        "ja": "牛ネジャンタン",
+        "zh_CN": "牛内脏汤",
+        "zh_TW": "牛雜湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "소내장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef Offal"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛内臓"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛内脏"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛內臟"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_16",
+      "ocr": {
+        "x": 7.25502206427426,
+        "y": 30.822576304607686,
+        "text": "소내장탕",
+        "width": 12.59796132733104,
+        "height": 4.93427238551916,
+        "rotation": 0.9181498912677739
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "순대국",
+        "en.ROMAN": "sundaeguk",
+        "en": "Sundae Soup",
+        "ja": "スンデスープ",
+        "zh_CN": "血肠汤",
+        "zh_TW": "血腸湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_21",
+      "ocr": {
+        "x": 7.052954607950653,
+        "y": 39.325184881195355,
+        "text": "순대국",
+        "width": 12.523312100323105,
+        "height": 5.056055798718769,
+        "rotation": 0.9181498912693087
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "뼈추가",
+        "en.ROMAN": "ppyeo chuga",
+        "en": "Extra Serving of Pork Backbone",
+        "ja": "豚の背骨追加",
+        "zh_CN": "另加腔骨",
+        "zh_TW": "加點豬骨",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_28",
+      "ocr": {
+        "x": 40.99950042900014,
+        "y": 46.68484286949376,
+        "text": "뼈추가",
+        "width": 11.609078037117106,
+        "height": 4.872181180285581,
+        "rotation": 2.3215886537864208
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "얼큰이순대국",
+        "en.ROMAN": "eolkeunisundaeguk",
+        "en": "Spicy Sundae Soup",
+        "ja": "ピリ辛スンデスープ",
+        "zh_CN": "辣爽血肠汤",
+        "zh_TW": "香辣血腸湯",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_32",
+      "ocr": {
+        "x": 6.76672227458861,
+        "y": 53.441674420471735,
+        "text": "얼큰이순대국",
+        "width": 12.276785714285712,
+        "height": 5.070546737213404,
+        "rotation": 0.2232665033141643
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "옛날순대",
+        "en.ROMAN": "yennalsundae",
+        "en": "Old sundae",
+        "ja": "昔ながらのスンデ",
+        "zh_CN": "老式血肠",
+        "zh_TW": "古早味血腸",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지내장",
+          "순대",
+          "당면"
+        ],
+        "ingredients.en": [
+          "Pork Offal",
+          "Sundae",
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "豚内臓",
+          "スンデ",
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "猪内脏",
+          "血肠",
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "豬內臟",
+          "血腸",
+          "粉條"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_33",
+      "ocr": {
+        "x": 40.84412302567162,
+        "y": 54.58244864211129,
+        "text": "옛날순대",
+        "width": 11.641273102915628,
+        "height": 5.006766761043935,
+        "rotation": 2.3215886537860797
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "고기안주",
+        "en.ROMAN": "gogianju",
+        "en": "a side dish of meat",
+        "ja": "肉の肴",
+        "zh_CN": "荤菜",
+        "zh_TW": "葷菜",
+        "price": "25000",
+        "ingredients.ko": [
+          "고기"
+        ],
+        "ingredients.en": [
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_38",
+      "ocr": {
+        "x": 40.59508174795807,
+        "y": 62.537582650454546,
+        "text": "고기안주",
+        "width": 11.959563361129975,
+        "height": 4.885760573032144,
+        "rotation": 1.7918104220996156
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "선지해장국",
+        "en.ROMAN": "seonjihaejangguk",
+        "en": "Seonji Hangover Soup",
+        "ja": "ソンジ酔い覚ましスープ",
+        "zh_CN": "牛血醒酒汤",
+        "zh_TW": "牛血醒酒湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "파",
+          "콩나물",
+          "사골육수",
+          "시래기",
+          "소선지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Green Onions",
+          "Bean Sprout",
+          "Ox Bone Broth",
+          "Dried Radish Leaf",
+          "Beef Seonji"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "ネギ",
+          "豆もやし",
+          "牛骨のだし汁",
+          "干し菜っ葉",
+          "ソンジ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "葱",
+          "黄豆芽",
+          "牛骨肉汤",
+          "干萝卜缨",
+          "牛血"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "蔥",
+          "黃豆芽",
+          "牛骨高湯",
+          "乾蘿蔔纓",
+          "牛血"
+        ],
+        "allergy": [
+          "콩",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_41",
+      "ocr": {
+        "x": 6.197896318317144,
+        "y": 67.22237728762862,
+        "text": "선지해장국",
+        "width": 12.779149651842836,
+        "height": 5.061962912437518,
+        "rotation": 359.416070151066
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "우거지해장국",
+        "en.ROMAN": "ugeojihaejangguk",
+        "en": "Napa Cabbage Hangover Soup",
+        "ja": "白菜酔い覚ましスープ",
+        "zh_CN": "干白菜醒酒汤",
+        "zh_TW": "乾白菜醒酒湯",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "우거지",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Napa Cabbage",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "白菜",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "干白菜",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "乾白菜",
+          "高湯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1811277_1-tf_47",
+      "ocr": {
+        "x": 5.782947218277381,
+        "y": 75.83073019564868,
+        "text": "우거지해장국",
+        "width": 12.862799171492693,
+        "height": 5.221960135943814,
+        "rotation": 359.20873551550307
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "편육",
+        "en.ROMAN": "pyeonyuk",
+        "en": "Boiled Pork Slices",
+        "ja": "薄切りゆで肉",
+        "zh_CN": "白切肉",
+        "zh_TW": "白切肉",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "Ly8vqo4LFB",
+      "ocr": {
+        "x": 40.55490622821622,
+        "y": 75.9652588088813,
+        "text": "편육",
+        "width": 12.154040914994559,
+        "height": 5.134413688929245,
+        "rotation": 0.8363753254206472
+      }
+    }
+  ]
+}

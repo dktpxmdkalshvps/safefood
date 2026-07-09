@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "file_name": "DJ_KF04_M0002_860785_1.jpg",
+    "image_original_width": 4624,
+    "image_original_height": 3468,
+    "captured_date": "2022:11:29 16:45:51",
+    "store_id": "860785",
+    "store_region": "DJ",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.33774834437084,
+          86.31346578366445
+        ],
+        [
+          97.18543046357618,
+          22.516556291390728
+        ],
+        [
+          7.119205298013245,
+          15.894039735099343
+        ],
+        [
+          1.8211920529801324,
+          88.52097130242825
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "꿀양념갈비",
+        "en.ROMAN": "kkuryangnyeomgalbi",
+        "en": "Grilled Honey Marinated Pork Galbi",
+        "ja": "蜂蜜入り味付けカルビ",
+        "zh_CN": "蜂蜜调味排骨",
+        "zh_TW": "蜂蜜調味排骨",
+        "price": "13900",
+        "ingredients.ko": [
+          "돼지고기",
+          "꿀",
+          "파",
+          "마늘"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Honey",
+          "Green Onions",
+          "Garlic"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "蜂蜜",
+          "ネギ",
+          "にんにく"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蜂蜜",
+          "葱",
+          "大蒜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蜂蜜",
+          "蔥",
+          "大蒜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_860785_1-tf_0",
+      "ocr": {
+        "x": 52.51033907844543,
+        "y": 27.88686031982239,
+        "text": "꿀양념갈비",
+        "width": 18.80080322994189,
+        "height": 6.87007505436967,
+        "rotation": 2.191804739736199
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "곰갈비",
+        "en.ROMAN": "gomgalbi",
+        "en": "Gom Grilled Pork Galbi",
+        "ja": "コムカルビ",
+        "zh_CN": "骨汤排骨",
+        "zh_TW": "豬肋條肉",
+        "price": "14900",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_860785_1-tf_1",
+      "ocr": {
+        "x": 77.55412721419758,
+        "y": 29.177261973635837,
+        "text": "곰갈비",
+        "width": 12.569040833779095,
+        "height": 6.6428463402985,
+        "rotation": 1.7991910660059034
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉면(물,비빔)",
+        "en.ROMAN": "naengmyeon(mul, bibim)",
+        "en": "Cold Buckwheat Noodles/Spicy Buckwheat Noodles",
+        "ja": "冷麺(水、混ぜ)",
+        "zh_CN": "冷面（汤、拌）",
+        "zh_TW": "冷麵（水、拌）",
+        "price": "5000",
+        "ingredients.ko": [
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_860785_1-tf_18",
+      "ocr": {
+        "x": 75.74560933907166,
+        "y": 65.4105916774126,
+        "text": "냉면(물,비빔)",
+        "width": 11.622627788268646,
+        "height": 4.3737612999420215,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "누룽지탕",
+        "en.ROMAN": "nurungjitang",
+        "en": "Scorched Rice Soup",
+        "ja": "おこげのあんかけ",
+        "zh_CN": "锅巴汤",
+        "zh_TW": "鍋粑湯",
+        "price": "4000",
+        "ingredients.ko": [
+          "누룽지"
+        ],
+        "ingredients.en": [
+          "Scorched Rice"
+        ],
+        "ingredients.ja": [
+          "おこげ"
+        ],
+        "ingredients.zh_CN": [
+          "锅巴"
+        ],
+        "ingredients.zh_TW": [
+          "鍋粑"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_860785_1-tf_19",
+      "ocr": {
+        "x": 77.92479936222573,
+        "y": 70.21687892891174,
+        "text": "누룽지탕",
+        "width": 9.520586996671453,
+        "height": 4.72545094421393,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "봉지라면",
+        "en.ROMAN": "bong jeera myeon",
+        "en": "Ramyeon",
+        "ja": "袋ラーメン",
+        "zh_CN": "袋装方便面",
+        "zh_TW": "袋裝泡麵",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_860785_1-tf_22",
+      "ocr": {
+        "x": 70.76150811038474,
+        "y": 79.70031793991264,
+        "text": "봉지라면",
+        "width": 4.246223615050741,
+        "height": 1.8883927556441333,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "컵라면",
+        "en.ROMAN": "cup ramyeon",
+        "en": "Cup Noodles",
+        "ja": "カップラーメン",
+        "zh_CN": "桶装方便面",
+        "zh_TW": "杯麵",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DJ_KF04_M0002_860785_1-tf_25",
+      "ocr": {
+        "x": 71.04843990406002,
+        "y": 82.03575547866208,
+        "text": "컵라면",
+        "width": 3.2705596468538833,
+        "height": 1.9319492502883329,
+        "rotation": 0
+      }
+    }
+  ]
+}

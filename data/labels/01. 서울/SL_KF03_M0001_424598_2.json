@@ -1,0 +1,636 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_424598_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "424598",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.295942720763722,
+          3.5842293906810028
+        ],
+        [
+          99.0453460620525,
+          1.7921146953405014
+        ],
+        [
+          96.18138424821002,
+          96.59498207885302
+        ],
+        [
+          10.26252983293556,
+          98.02867383512545
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "프라임채끝스테이크",
+        "en.ROMAN": "prime chaekkeut steak",
+        "en": "Prime Beef Sirloin Steak",
+        "ja": "プライムアロワイヨーステーキ",
+        "zh_CN": "高级\t纽约客牛排",
+        "zh_TW": "優質紐約客牛排",
+        "price": "69000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_3",
+      "ocr": {
+        "x": 57.703148806415385,
+        "y": 32.62472767843589,
+        "text": "프라임채끝스테이크",
+        "width": 14.191918938077949,
+        "height": 1.4674438965501302,
+        "rotation": 357.6654658246332
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "랍스터&씨푸드",
+        "en.ROMAN": "lobster & seafood",
+        "en": "Lobster and Seafood",
+        "ja": "ロブスター＆シーフード",
+        "zh_CN": "龙虾&海鲜",
+        "zh_TW": "龍蝦&海鮮",
+        "price": "69000",
+        "ingredients.ko": [
+          "랍스터",
+          "해물",
+          "파프리카",
+          "로제소스"
+        ],
+        "ingredients.en": [
+          "Lobster",
+          "Seafood",
+          "Sweet Pepper",
+          "Rosé Sauce"
+        ],
+        "ingredients.ja": [
+          "ロブスター",
+          "海鮮",
+          "パプリカ",
+          "ロゼソース"
+        ],
+        "ingredients.zh_CN": [
+          "龙虾",
+          "海鲜",
+          "彩椒",
+          "番茄奶油酱"
+        ],
+        "ingredients.zh_TW": [
+          "龍蝦",
+          "海鮮",
+          "甜椒",
+          "番茄奶油醬"
+        ],
+        "allergy": [
+          "게",
+          "새우",
+          "오징어",
+          "조개",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_5",
+      "ocr": {
+        "x": 12.746696885330957,
+        "y": 33.50242634828889,
+        "text": "랍스터&씨푸드",
+        "width": 10.735743314641851,
+        "height": 1.383821646140135,
+        "rotation": 359.2381554309525
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "비프부르기뇽",
+        "en.ROMAN": "beef bourguignon",
+        "en": "Beef Bourguignon",
+        "ja": "ビーフブルギニョン",
+        "zh_CN": "法式红酒炖牛肉",
+        "zh_TW": "紅酒燉牛肉",
+        "price": "45000",
+        "ingredients.ko": [
+          "쇠고기",
+          "와인"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Wine"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "ワイン"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "红酒"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "葡萄酒"
+        ],
+        "allergy": [
+          "쇠고기",
+          "아황산함유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_15",
+      "ocr": {
+        "x": 57.96162267999445,
+        "y": 43.29336988617244,
+        "text": "비프부르기뇽",
+        "width": 9.06031534435135,
+        "height": 1.3785207877727075,
+        "rotation": 358.84511104221974
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "씨블루감바스",
+        "en.ROMAN": "ssi blue gambas",
+        "en": "Gambas",
+        "ja": "シーブルーガンバス",
+        "zh_CN": "蓝色海洋奶酪蒜油虾",
+        "zh_TW": "Sibleu西班牙香蒜蝦",
+        "price": "39000",
+        "ingredients.ko": [
+          "새우",
+          "마늘",
+          "페페론치노"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Garlic",
+          "Peperoncino"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "にんにく",
+          "ペペロンチーノ"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "大蒜",
+          "意大利红辣椒"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "大蒜",
+          "辣椒"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_17",
+      "ocr": {
+        "x": 13.419809677932788,
+        "y": 44.02399552429614,
+        "text": "씨블루감바스",
+        "width": 9.18532342255526,
+        "height": 1.3768273564813063,
+        "rotation": 358.8233950790768
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "허브로스트치킨",
+        "en.ROMAN": "herb roast chicken",
+        "en": "Herb Roast Chicken",
+        "ja": "ハブローストチキン",
+        "zh_CN": "香草烤鸡",
+        "zh_TW": "烤香料雞",
+        "price": "29000",
+        "ingredients.ko": [
+          "닭고기",
+          "쑥페스토",
+          "토마토소스",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Mugwort Pesto",
+          "Tomato Sauce",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "よもぎペースト",
+          "トマトソース",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "艾草青酱",
+          "番茄酱",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "艾草香蒜醬",
+          "番茄醬",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_25",
+      "ocr": {
+        "x": 58.04879103283337,
+        "y": 53.46991009870361,
+        "text": "허브로스트치킨",
+        "width": 10.771674815025264,
+        "height": 1.3486002470708334,
+        "rotation": 359.99634198960007
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "씨블루중화식해산물볶음",
+        "en.ROMAN": "ssi blue junghwasikaesanmulbokkeum",
+        "en": "Chinese-style Stir-fried Seafood",
+        "ja": "シーブルー中華風海鮮炒め",
+        "zh_CN": "蒜油虾中式炒海鲜",
+        "zh_TW": "Sibleu中華式炒海鮮",
+        "price": "35000",
+        "ingredients.ko": [
+          "해산물",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "蔬菜"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_27",
+      "ocr": {
+        "x": 14.020609618014815,
+        "y": 54.29659450792244,
+        "text": "씨블루중화식해산물볶음",
+        "width": 16.82855784116,
+        "height": 1.3777533960456478,
+        "rotation": 358.49522273283054
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "돼지목살갈비",
+        "en.ROMAN": "dwaejimoksalgalbi",
+        "en": "Pork Neck Galbi",
+        "ja": "豚肩ロースカルビ",
+        "zh_CN": "烤猪肩肉排骨",
+        "zh_TW": "烤豬肩肉排骨",
+        "price": "30000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_34",
+      "ocr": {
+        "x": 58.25504929730575,
+        "y": 63.50121379456835,
+        "text": "돼지목살갈비",
+        "width": 9.226190476190423,
+        "height": 1.3059961545324352,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "관자율무리조또",
+        "en.ROMAN": "gwanjayulmu risotto",
+        "en": "Scallop and Job's Tears Risotto",
+        "ja": "貝柱入りハトムギリゾット",
+        "zh_CN": "鲜贝薏仁意式焗饭",
+        "zh_TW": "干貝薏仁燉飯",
+        "price": "30000",
+        "ingredients.ko": [
+          "관자",
+          "율무",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Scallops",
+          "Job's Tears",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "貝柱",
+          "ハトムギ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "仙贝",
+          "薏米",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "干貝",
+          "薏仁",
+          "米"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_37",
+      "ocr": {
+        "x": 14.545677994567509,
+        "y": 64.43440733532968,
+        "text": "관자율무리조또",
+        "width": 10.833669458547194,
+        "height": 1.3236840371485366,
+        "rotation": 357.75465015480574
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "씨블루해산물탕",
+        "en.ROMAN": "ssi blue haesanmultang",
+        "en": "Seafood Soup",
+        "ja": "シーブルー海鮮スープ",
+        "zh_CN": "蓝色海洋海鲜汤",
+        "zh_TW": "Sibleu海鮮湯",
+        "price": "29000",
+        "ingredients.ko": [
+          "콩나물",
+          "해산물",
+          "바지락"
+        ],
+        "ingredients.en": [
+          "Bean Sprout",
+          "Seafood",
+          "Clams"
+        ],
+        "ingredients.ja": [
+          "豆もやし",
+          "海鮮",
+          "アサリ"
+        ],
+        "ingredients.zh_CN": [
+          "黄豆芽",
+          "海鲜",
+          "蛤蜊"
+        ],
+        "ingredients.zh_TW": [
+          "黃豆芽",
+          "海鮮",
+          "蛤蜊"
+        ],
+        "allergy": [
+          "콩",
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_46",
+      "ocr": {
+        "x": 58.52156159495224,
+        "y": 73.52521988616138,
+        "text": "씨블루해산물탕",
+        "width": 10.160764667379027,
+        "height": 1.3329543320852013,
+        "rotation": 359.61895113063645
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "문어스테이크",
+        "en.ROMAN": "muneo steak",
+        "en": "Octopus Steak",
+        "ja": "タコステーキ",
+        "zh_CN": "章鱼排",
+        "zh_TW": "盤烤大章魚",
+        "price": "28000",
+        "ingredients.ko": [
+          "문어"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "タコ"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_49",
+      "ocr": {
+        "x": 15.167049765600606,
+        "y": 74.34352442085928,
+        "text": "문어스테이크",
+        "width": 8.896943748058483,
+        "height": 1.3024132140138722,
+        "rotation": 357.65225477942346
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "레몬갈릭바지락술찜",
+        "en.ROMAN": "lemon garlic bajiraksuljjim",
+        "en": "Rice Wine Braised Clams with Lemon and Garlic",
+        "ja": "レモンガーリックアサリの酒蒸し",
+        "zh_CN": "酒蒸柠檬蒜蓉蛤蜊",
+        "zh_TW": "檸檬蒜蓉蛤蜊蒸酒",
+        "price": "25000",
+        "ingredients.ko": [
+          "레몬",
+          "마늘",
+          "조개",
+          "알콜"
+        ],
+        "ingredients.en": [
+          "Lemon",
+          "Garlic",
+          "Clam",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "レモン",
+          "にんにく",
+          "貝",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "柠檬",
+          "大蒜",
+          "蛤蜊",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "檸檬",
+          "大蒜",
+          "蛤蜊",
+          "酒精"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_60",
+      "ocr": {
+        "x": 58.738672385140895,
+        "y": 83.46241888644768,
+        "text": "레몬갈릭바지락술찜",
+        "width": 12.967150090682113,
+        "height": 1.3160991399913367,
+        "rotation": 358.62032101500995
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "피쉬필렛",
+        "en.ROMAN": "fish fillet",
+        "en": "Fish Fillet",
+        "ja": "フィッシュフィレ",
+        "zh_CN": "去骨鱼片",
+        "zh_TW": "魚排",
+        "price": "32000",
+        "ingredients.ko": [
+          "생선살",
+          "대파",
+          "어간장",
+          "정종오일"
+        ],
+        "ingredients.en": [
+          "Fish Fillet",
+          "Green Onion",
+          "Fish Sauce",
+          "Sake"
+        ],
+        "ingredients.ja": [
+          "魚の身",
+          "長ネギ",
+          "魚醤",
+          "正宗"
+        ],
+        "ingredients.zh_CN": [
+          "鱼肉",
+          "大葱",
+          "鱼酱油",
+          "正宗"
+        ],
+        "ingredients.zh_TW": [
+          "魚肉",
+          "大蔥",
+          "魚醬",
+          "正宗酒"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_424598_2-tf.jpg_63",
+      "ocr": {
+        "x": 15.633479068936364,
+        "y": 84.21201258375487,
+        "text": "피쉬필렛",
+        "width": 6.118494809558299,
+        "height": 1.2893776809942605,
+        "rotation": 356.661514717418
+      }
+    }
+  ]
+}

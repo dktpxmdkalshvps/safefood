@@ -1,0 +1,922 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_425900_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:10:16 14:03:15",
+    "store_id": "425900",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          92.27748691099477,
+          3.8394415357766145
+        ],
+        [
+          2.74869109947644,
+          8.55148342059337
+        ],
+        [
+          1.8324607329842928,
+          76.26527050610821
+        ],
+        [
+          93.717277486911,
+          77.66143106457243
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "오리로스",
+        "en.ROMAN": "oriroseu",
+        "en": "Grilled Duck",
+        "ja": "鴨肉焼き",
+        "zh_CN": "烤鸭肉",
+        "zh_TW": "烤鴨肉",
+        "price": "45000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_5",
+      "ocr": {
+        "x": 45.063426822558576,
+        "y": 15.933727387440381,
+        "text": "오리로스",
+        "width": 11.577364752152585,
+        "height": 3.833940801234066,
+        "rotation": 358.1121257579559
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "오리탕",
+        "en.ROMAN": "oritang",
+        "en": "Duck Soup",
+        "ja": "鴨肉スープ",
+        "zh_CN": "鸭肉汤",
+        "zh_TW": "鴨肉湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_6",
+      "ocr": {
+        "x": 3.2132160764973112,
+        "y": 17.476027326301782,
+        "text": "오리탕",
+        "width": 10.793101219794504,
+        "height": 3.800435740000772,
+        "rotation": 358.1992613600874
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "육개장",
+        "en.ROMAN": "yukgaejang",
+        "en": "Spicy Beef Soup",
+        "ja": "ユッケジャン",
+        "zh_CN": "香辣牛肉汤",
+        "zh_TW": "香辣牛肉湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "숙주",
+          "고사리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Mung Bean Sprout",
+          "Bracken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "緑豆もやし",
+          "ワラビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "绿豆芽",
+          "蕨菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "綠豆芽",
+          "蕨菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_9",
+      "ocr": {
+        "x": 3.2388819277202785,
+        "y": 21.892231044969773,
+        "text": "육개장",
+        "width": 10.74014234619684,
+        "height": 3.8806141397973892,
+        "rotation": 358.15510443029103
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "오리주물럭",
+        "en.ROMAN": "orijumulleok",
+        "en": "Spicy Stir-fried Marinated Duck",
+        "ja": "鴨肉コチュジャン炒め",
+        "zh_CN": "调味炒鸭肉",
+        "zh_TW": "調味炒鴨肉",
+        "price": "47000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_11",
+      "ocr": {
+        "x": 45.119596221782665,
+        "y": 23.44974472344338,
+        "text": "오리주물럭",
+        "width": 11.607168756863864,
+        "height": 4.173268312745034,
+        "rotation": 358.7936051715662
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "제육",
+        "en.ROMAN": "jeyuk",
+        "en": "Spicy Stir-fried Pork",
+        "ja": "豚肉炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_16",
+      "ocr": {
+        "x": 3.270887263473741,
+        "y": 26.438749366761645,
+        "text": "제육",
+        "width": 10.697791234647308,
+        "height": 3.7536625637719765,
+        "rotation": 358.7157899639785
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김치볶음밥",
+        "en.ROMAN": "kimchibokkeumbap",
+        "en": "Kimchi Fried Rice",
+        "ja": "キムチチャーハン",
+        "zh_CN": "辛奇炒饭",
+        "zh_TW": "辛奇炒飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "김치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_19",
+      "ocr": {
+        "x": 3.215008415856462,
+        "y": 30.87355409188722,
+        "text": "김치볶음밥",
+        "width": 10.771673098489194,
+        "height": 3.7350015138953983,
+        "rotation": 358.74116409550595
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오리훈제",
+        "en.ROMAN": "orihunje",
+        "en": "Smoked Duck",
+        "ja": "鴨の燻製焼き",
+        "zh_CN": "熏鸭肉",
+        "zh_TW": "煙燻鴨肉",
+        "price": "52000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_22",
+      "ocr": {
+        "x": 45.21023054032358,
+        "y": 31.126443619300396,
+        "text": "오리훈제",
+        "width": 11.664484586790616,
+        "height": 4.0881892392253425,
+        "rotation": 359.37298447123
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "김치전골",
+        "en.ROMAN": "kimchijeongol",
+        "en": "Kimchi Hot Pot",
+        "ja": "キムチの寄せ鍋",
+        "zh_CN": "辛奇火锅",
+        "zh_TW": "辛奇火鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_25",
+      "ocr": {
+        "x": 3.214700567275607,
+        "y": 35.22563418417401,
+        "text": "김치전골",
+        "width": 10.77640348318023,
+        "height": 3.844994214515195,
+        "rotation": 358.75103523437605
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "유동골뱅이",
+        "en.ROMAN": "yudong golbaengi",
+        "en": "Yudong Sea Snails",
+        "ja": "ユドンのつぶ貝",
+        "zh_CN": "海螺",
+        "zh_TW": "柳洞海螺",
+        "price": "30000",
+        "ingredients.ko": [
+          "골뱅이"
+        ],
+        "ingredients.en": [
+          "Sea Snail"
+        ],
+        "ingredients.ja": [
+          "つぶ貝"
+        ],
+        "ingredients.zh_CN": [
+          "海螺"
+        ],
+        "ingredients.zh_TW": [
+          "海螺"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_29",
+      "ocr": {
+        "x": 45.175244623512846,
+        "y": 38.843436535782565,
+        "text": "유동골뱅이",
+        "width": 11.598735133112273,
+        "height": 4.0862187778482975,
+        "rotation": 359.38980144801485
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "순두부",
+        "en.ROMAN": "sundubu",
+        "en": "Soft Bean Curd",
+        "ja": "スンドゥブ",
+        "zh_CN": "嫩豆腐",
+        "zh_TW": "嫩豆腐",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_31",
+      "ocr": {
+        "x": 3.184633221244251,
+        "y": 39.77777338255828,
+        "text": "순두부",
+        "width": 10.780794671973638,
+        "height": 3.8005566720875668,
+        "rotation": 358.7843978450374
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "카레덮밥",
+        "en.ROMAN": "curry deopbap",
+        "en": "Curry with Rice",
+        "ja": "カレー丼",
+        "zh_CN": "咖喱盖饭",
+        "zh_TW": "咖哩蓋飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_36",
+      "ocr": {
+        "x": 3.1986444088505044,
+        "y": 44.1494861318837,
+        "text": "카레덮밥",
+        "width": 10.877213969032981,
+        "height": 3.7869569326699746,
+        "rotation": 359.26297149180357
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "비빔밥",
+        "en.ROMAN": "bibimbap",
+        "en": "Bibimbap",
+        "ja": "ビビンバ",
+        "zh_CN": "拌饭",
+        "zh_TW": "拌飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_45",
+      "ocr": {
+        "x": 3.176887053260792,
+        "y": 48.47779714863195,
+        "text": "비빔밥",
+        "width": 10.756768838952517,
+        "height": 3.910522949397544,
+        "rotation": 359.86760508043415
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "무국",
+        "en.ROMAN": "muguk",
+        "en": "Radish Soup",
+        "ja": "大根スープ",
+        "zh_CN": "萝卜汤",
+        "zh_TW": "白蘿蔔湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "무"
+        ],
+        "ingredients.en": [
+          "Radish"
+        ],
+        "ingredients.ja": [
+          "大根"
+        ],
+        "ingredients.zh_CN": [
+          "白萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "白蘿蔔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "bl4kb4yGSf",
+      "ocr": {
+        "x": 3.136537028822274,
+        "y": 52.964199855750174,
+        "text": "무국",
+        "width": 10.926179291612122,
+        "height": 3.860353338990766,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "처음처럼",
+        "en.ROMAN": "chumchurum",
+        "en": "Chum Churum",
+        "ja": "チョウムチョロム(焼酎)",
+        "zh_CN": "初饮初乐",
+        "zh_TW": "初飲初樂",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_43",
+      "ocr": {
+        "x": 45.31924349696455,
+        "y": 55.768554087738984,
+        "text": "처음처럼",
+        "width": 11.559188380920675,
+        "height": 4.039986550597918,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "북어국",
+        "en.ROMAN": "bugeoguk",
+        "en": "Dried Pollack Soup",
+        "ja": "干しスケトウダラスープ",
+        "zh_CN": "干明太鱼汤",
+        "zh_TW": "明太魚乾湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "북어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Dried Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "河豚"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "明太魚乾"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "Va5DtTkhyN",
+      "ocr": {
+        "x": 3.136537353861819,
+        "y": 57.51390215527928,
+        "text": "북어국",
+        "width": 10.926178844682747,
+        "height": 3.7684402884988724,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "우거지",
+        "en.ROMAN": "ugeoji",
+        "en": "Napa Cabbage",
+        "ja": "白菜",
+        "zh_CN": "干白菜",
+        "zh_TW": "乾白菜",
+        "price": "8000",
+        "ingredients.ko": [
+          "우거지"
+        ],
+        "ingredients.en": [
+          "Napa Cabbage"
+        ],
+        "ingredients.ja": [
+          "白菜"
+        ],
+        "ingredients.zh_CN": [
+          "干白菜"
+        ],
+        "ingredients.zh_TW": [
+          "乾白菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_46",
+      "ocr": {
+        "x": 3.1060511178472443,
+        "y": 61.94512360471598,
+        "text": "우거지",
+        "width": 10.900102210584995,
+        "height": 4.0326936337125625,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "클라우드",
+        "en.ROMAN": "kloud",
+        "en": "Kloud",
+        "ja": "クラウド",
+        "zh_CN": "Kloud啤酒",
+        "zh_TW": "Kloud啤酒",
+        "price": "6000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_48",
+      "ocr": {
+        "x": 45.36465057389485,
+        "y": 63.52683017581109,
+        "text": "클라우드",
+        "width": 11.582716268576487,
+        "height": 4.032693633712714,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "콩나물",
+        "en.ROMAN": "kongnamul",
+        "en": "Bean Sprouts",
+        "ja": "豆もやし",
+        "zh_CN": "黄豆芽",
+        "zh_TW": "黃豆芽",
+        "price": "8000",
+        "ingredients.ko": [
+          "콩나물"
+        ],
+        "ingredients.en": [
+          "Bean Sprout"
+        ],
+        "ingredients.ja": [
+          "豆もやし"
+        ],
+        "ingredients.zh_CN": [
+          "黄豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "黃豆芽"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "eI7MX1Vyxx",
+      "ocr": {
+        "x": 3.0676022267559615,
+        "y": 66.47543660585603,
+        "text": "콩나물",
+        "width": 10.857244164506264,
+        "height": 3.9063104369803745,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "미역국",
+        "en.ROMAN": "miyeokguk",
+        "en": "Seaweed Soup",
+        "ja": "ワカメスープ",
+        "zh_CN": "海带汤",
+        "zh_TW": "海帶湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "소고기",
+          "미역"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Seaweed"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "ワカメ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "海带"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "海帶"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_55",
+      "ocr": {
+        "x": 3.126956384047325,
+        "y": 70.96944401791525,
+        "text": "미역국",
+        "width": 10.779295519385457,
+        "height": 3.8577871242802186,
+        "rotation": 0.043386905192676295
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "15000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_425900_1-tf_56",
+      "ocr": {
+        "x": 45.52351761750382,
+        "y": 71.33362213118217,
+        "text": "복분자",
+        "width": 11.321457932104645,
+        "height": 3.8958244402426505,
+        "rotation": 0.5987283212219268
+      }
+    }
+  ]
+}

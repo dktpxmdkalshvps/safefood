@@ -1,0 +1,687 @@
+{
+  "meta": {
+    "file_name": "US_KF04_M0002_881579_1.jpg",
+    "image_original_width": 6528,
+    "image_original_height": 4896,
+    "captured_date": "2022:11:07 22:15:14",
+    "store_id": "881579",
+    "store_region": "US",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.085085593023527,
+          11.408696740013978
+        ],
+        [
+          98.3561350972621,
+          8.278056176881883
+        ],
+        [
+          97.48876875229159,
+          72.58083319439724
+        ],
+        [
+          4.242930727928572,
+          74.54083751319077
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "홍어삼합",
+        "en.ROMAN": "hongeosamhap",
+        "en": "Skate, Pork, and Kimchi Combo",
+        "ja": "ガンギエイのサムハプ",
+        "zh_CN": "斑鳐三合(辛奇、斑鳐、五花肉）",
+        "zh_TW": "斑甕鰩三合（辛奇、斑甕鰩、五花肉）",
+        "price": "45000",
+        "ingredients.ko": [
+          "돼지고기",
+          "묵은지",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Aged Kimchi",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "熟成キムチ",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "酸辛奇",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "酸辛奇",
+          "斑甕鰩"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_4",
+      "ocr": {
+        "x": 39.76109258451495,
+        "y": 30.321564999285457,
+        "text": "홍어삼합",
+        "width": 18.502489303166207,
+        "height": 7.116035754844185,
+        "rotation": 359.32616891149786
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "대가보쌈",
+        "en.ROMAN": "daegabossam",
+        "en": "Daega Napa Wraps with Pork",
+        "ja": "大家ポサム",
+        "zh_CN": "大家蔬菜包肉",
+        "zh_TW": "Daega菜包肉",
+        "price": "40000",
+        "ingredients.ko": [
+          "굴",
+          "김치",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Oyster",
+          "Kimchi",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "カキ",
+          "キムチ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "牡蛎",
+          "辛奇",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "牡蠣",
+          "辛奇",
+          "豬肉"
+        ],
+        "allergy": [
+          "굴",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_5",
+      "ocr": {
+        "x": 9.143762643816384,
+        "y": 30.97629114844005,
+        "text": "대가보쌈",
+        "width": 18.60966971134758,
+        "height": 7.260073228243084,
+        "rotation": 358.7346923009867
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_7",
+      "ocr": {
+        "x": 83.87393849668973,
+        "y": 32.47344792519997,
+        "text": "소주",
+        "width": 4.741936499653419,
+        "height": 2.4703833840466283,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "돼지수육",
+        "en.ROMAN": "dwaejisuyuk",
+        "en": "Boiled Pork Slices",
+        "ja": "ゆで豚肉",
+        "zh_CN": "白切猪肉",
+        "zh_TW": "白切豬肉",
+        "price": "20000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_9",
+      "ocr": {
+        "x": 66.6132202685642,
+        "y": 32.95004253550648,
+        "text": "돼지수육",
+        "width": 6.323718738309917,
+        "height": 2.5823162929994767,
+        "rotation": 359.2004314944291
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_10",
+      "ocr": {
+        "x": 83.86323127810347,
+        "y": 36.19281045751637,
+        "text": "맥주",
+        "width": 4.715168453187118,
+        "height": 2.64297371435465,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "홍어",
+        "en.ROMAN": "hongeo",
+        "en": "Skate",
+        "ja": "ガンギエイ",
+        "zh_CN": "斑鳐",
+        "zh_TW": "斑甕鰩",
+        "price": "20000",
+        "ingredients.ko": [
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "斑甕鰩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_13",
+      "ocr": {
+        "x": 66.61315031404932,
+        "y": 37.54329347842419,
+        "text": "홍어",
+        "width": 5.925164069503205,
+        "height": 2.5750870957871754,
+        "rotation": 359.19083793448317
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "태화루",
+        "en.ROMAN": "taehwaru",
+        "en": "Taehwaru Unrefined Rice Wine",
+        "ja": "テファル",
+        "zh_CN": "太和楼",
+        "zh_TW": "太和樓",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_17",
+      "ocr": {
+        "x": 83.83646323163737,
+        "y": 40.02389698080359,
+        "text": "태화루",
+        "width": 4.858389709539122,
+        "height": 2.57352941176468,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "홍어전",
+        "en.ROMAN": "hongsojeon",
+        "en": "Pan-fried Battered Skate Fillet",
+        "ja": "ガンギエイのチヂミ",
+        "zh_CN": "香煎斑鳐片",
+        "zh_TW": "香煎斑甕鰩片",
+        "price": "25000",
+        "ingredients.ko": [
+          "계란",
+          "밀가루",
+          "홍어"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Wheat Flour",
+          "Skate"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "小麦粉",
+          "ガンギエイ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "面粉",
+          "斑鳐"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "麵粉",
+          "斑甕鰩"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_19",
+      "ocr": {
+        "x": 66.58003075752364,
+        "y": 42.030194766157905,
+        "text": "홍어전",
+        "width": 6.083860505856443,
+        "height": 2.5965729163537645,
+        "rotation": 359.2141201888102
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "백세주",
+        "en.ROMAN": "baekseju",
+        "en": "Bekseju",
+        "ja": "百歳酒",
+        "zh_CN": "百岁酒",
+        "zh_TW": "百歲酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_21",
+      "ocr": {
+        "x": 83.79701243478856,
+        "y": 43.84098316960428,
+        "text": "백세주",
+        "width": 4.852544969307245,
+        "height": 2.573529411764706,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "굴무침",
+        "en.ROMAN": "gulmuchim",
+        "en": "Oyster Salad",
+        "ja": "カキの和え物",
+        "zh_CN": "凉拌牡蛎",
+        "zh_TW": "涼拌牡蠣",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "牡蠣"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_25",
+      "ocr": {
+        "x": 66.59865105826766,
+        "y": 46.667489856898285,
+        "text": "굴무침",
+        "width": 6.047279112437447,
+        "height": 2.5562939146364396,
+        "rotation": 358.3810233146659
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "설중매",
+        "en.ROMAN": "seoljungmae",
+        "en": "Seoljungmae (Green Plum Wine)",
+        "ja": "雪中梅(梅酒)",
+        "zh_CN": "雪中梅",
+        "zh_TW": "雪中梅",
+        "price": "10000",
+        "ingredients.ko": [
+          "매실",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Green Plum",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "梅",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "青梅",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "梅子",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_28",
+      "ocr": {
+        "x": 83.75987009438242,
+        "y": 47.68586594214456,
+        "text": "설중매",
+        "width": 4.770390577246286,
+        "height": 2.617442491284964,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "김치",
+        "en.ROMAN": "kimchi",
+        "en": "Kimchi",
+        "ja": "キムチ",
+        "zh_CN": "辛奇",
+        "zh_TW": "辛奇",
+        "price": "15000",
+        "ingredients.ko": [
+          "김치"
+        ],
+        "ingredients.en": [
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_30",
+      "ocr": {
+        "x": 66.62847151686753,
+        "y": 51.06054081718921,
+        "text": "김치",
+        "width": 6.021184169239716,
+        "height": 2.5257951739318587,
+        "rotation": 359.31004121507624
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "12000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_31",
+      "ocr": {
+        "x": 83.72033524370737,
+        "y": 51.37310596388685,
+        "text": "복분자",
+        "width": 4.85140753073126,
+        "height": 2.627376579300609,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "1000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_35",
+      "ocr": {
+        "x": 83.66606465303695,
+        "y": 55.19719231993104,
+        "text": "음료수",
+        "width": 4.8171270912071105,
+        "height": 2.5373216501616214,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "US_KF04_M0002_881579_1-tf_38",
+      "ocr": {
+        "x": 66.61539508356442,
+        "y": 55.51961507510218,
+        "text": "공기밥",
+        "width": 6.127472708747052,
+        "height": 2.503157839521585,
+        "rotation": 359.3373841646943
+      }
+    }
+  ]
+}

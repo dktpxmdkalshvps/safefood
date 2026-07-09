@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_282629_2.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:08:03 17:59:31",
+    "store_id": "282629",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.209944751381215,
+          15.085536547433902
+        ],
+        [
+          96.68508287292819,
+          10.10886469673406
+        ],
+        [
+          99.4475138121547,
+          95.3343701399689
+        ],
+        [
+          0.2762430939226519,
+          92.37947122861583
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0001_282629_2-tf-0",
+      "ocr": {
+        "x": 8.472463632967674,
+        "y": 21.87923598453544,
+        "text": "숙성양념고기생각세트",
+        "width": 45.06463851582353,
+        "height": 3.0492816996947005,
+        "rotation": 354.63577203995584
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념고기생각세트",
+        "en.ROMAN": "yangnyeomgogisaenggak set",
+        "en": "Seasoned Meat Thinking Set",
+        "ja": "味付け肉考えセット",
+        "zh_CN": "调料肉思考套餐",
+        "zh_TW": "調料肉思考套餐",
+        "price": "33000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

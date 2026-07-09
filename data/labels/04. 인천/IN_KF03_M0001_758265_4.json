@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "file_name": "IN_KF03_M0001_758265_4.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:23 14:31:17",
+    "store_id": "758265",
+    "store_region": "IN",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.4545454545454546,
+          1.2278308321964533
+        ],
+        [
+          94.7272727272727,
+          1.0914051841746248
+        ],
+        [
+          94.9090909090909,
+          96.72578444747613
+        ],
+        [
+          4.909090909090909,
+          97.40791268758527
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "바게트추가시",
+        "en.ROMAN": "baguette chugasi",
+        "en": "Extra Serving of Baguette",
+        "ja": "バゲット追加の際",
+        "zh_CN": "另加法国长棍面包时",
+        "zh_TW": "加點法國麵包",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_4-tf_4",
+      "ocr": {
+        "x": 37.280890456263336,
+        "y": 24.93807706796258,
+        "text": "바게트추가시",
+        "width": 11.674288556619564,
+        "height": 1.4809658132930978,
+        "rotation": 359.2144705340502
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "에그인헬",
+        "en.ROMAN": "egg in hell",
+        "en": "Egg in Hell",
+        "ja": "エッグインヘル",
+        "zh_CN": "地狱之蛋",
+        "zh_TW": "地獄烤蛋",
+        "price": "13900",
+        "ingredients.ko": [
+          "야채",
+          "계란",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Eggs",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "卵",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡蛋",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞蛋",
+          "番茄"
+        ],
+        "allergy": [
+          "계란",
+          "토마토"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "IN_KF03_M0001_758265_4-tf_5",
+      "ocr": {
+        "x": 13.488292942488318,
+        "y": 25.0712239415528,
+        "text": "에그인헬",
+        "width": 8.871937634814039,
+        "height": 1.4983559681776093,
+        "rotation": 359.26782611415905
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "감바스",
+        "en.ROMAN": "gambas",
+        "en": "Gambas",
+        "ja": "ガンバス・アル・アヒージョ",
+        "zh_CN": "蒜油虾",
+        "zh_TW": "西班牙蒜味蝦",
+        "price": "15900",
+        "ingredients.ko": [
+          "새우",
+          "마늘",
+          "페페론치노"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Garlic",
+          "Peperoncino"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "にんにく",
+          "ペペロンチーノ"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "大蒜",
+          "意大利红辣椒"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "大蒜",
+          "辣椒"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_4-tf_10",
+      "ocr": {
+        "x": 13.512768304129773,
+        "y": 31.449337681410494,
+        "text": "감바스",
+        "width": 5.521190872359407,
+        "height": 1.4769752163914718,
+        "rotation": 359.24527241951085
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "브리치즈",
+        "en.ROMAN": "brie cheese",
+        "en": "Brie Cheese",
+        "ja": "ブリーチーズ",
+        "zh_CN": "布里奶酪",
+        "zh_TW": "布里起司",
+        "price": "13900",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_4-tf_14",
+      "ocr": {
+        "x": 13.281531052248857,
+        "y": 41.93805315338768,
+        "text": "브리치즈",
+        "width": 8.06873334827645,
+        "height": 1.4449114110206922,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "치즈플레이트",
+        "en.ROMAN": "cheese plate",
+        "en": "Cheese Platter",
+        "ja": "チーズプレート",
+        "zh_CN": "奶酪拼盘",
+        "zh_TW": "起司拼盤",
+        "price": "15900",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_4-tf_18",
+      "ocr": {
+        "x": 13.217502806689494,
+        "y": 47.338053153387634,
+        "text": "치즈플레이트",
+        "width": 11.638154069049916,
+        "height": 1.4879692842867855,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "하우스샐러드",
+        "en.ROMAN": "house salad",
+        "en": "House Salad",
+        "ja": "ハウスサラダ",
+        "zh_CN": "招牌沙拉",
+        "zh_TW": "家常沙拉",
+        "price": "6900",
+        "ingredients.ko": [
+          "야채"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_4-tf_24",
+      "ocr": {
+        "x": 12.85875140334475,
+        "y": 65.80398228220426,
+        "text": "하우스샐러드",
+        "width": 12.022739413193744,
+        "height": 1.524999999999934,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "리코타샐러드",
+        "en.ROMAN": "ricotta salad",
+        "en": "Ricotta salad",
+        "ja": "リコッタサラダ",
+        "zh_CN": "里科塔奶酪沙拉",
+        "zh_TW": "瑞可塔莎拉",
+        "price": "8900",
+        "ingredients.ko": [
+          "야채"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF03_M0001_758265_4-tf_28",
+      "ocr": {
+        "x": 12.594723157785413,
+        "y": 73.58694684661245,
+        "text": "리코타샐러드",
+        "width": 12.043887017762648,
+        "height": 1.5570797300814012,
+        "rotation": 0
+      }
+    }
+  ]
+}

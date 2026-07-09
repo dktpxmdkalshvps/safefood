@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0001_501729_2.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:06 16:02:11",
+    "store_id": "501729",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0.13458950201884254
+        ],
+        [
+          95.51166965888689,
+          0
+        ],
+        [
+          98.20466786355476,
+          95.82772543741588
+        ],
+        [
+          0.3590664272890485,
+          96.90444145356662
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "세트메뉴A",
+        "en.ROMAN": "set menu A",
+        "en": "Set A",
+        "ja": "セットメニューA",
+        "zh_CN": "套餐A",
+        "zh_TW": "套餐菜單A",
+        "price": "40000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0001_501729_2-tf_1",
+      "ocr": {
+        "x": 31.002396388962968,
+        "y": 26.09999999999998,
+        "text": "세트메뉴A",
+        "width": 19.833981669780847,
+        "height": 3.303817286637251,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "세트메뉴B",
+        "en.ROMAN": "set menu B",
+        "en": "Set B",
+        "ja": "セットメニューB",
+        "zh_CN": "套餐B",
+        "zh_TW": "套餐菜單B",
+        "price": "55000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0001_501729_2-tf_6",
+      "ocr": {
+        "x": 30.752069484264656,
+        "y": 43.1623502657017,
+        "text": "세트메뉴B",
+        "width": 20.04792504278612,
+        "height": 3.479116755233885,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "세트메뉴C",
+        "en.ROMAN": "set menu C",
+        "en": "Set Menu C",
+        "ja": "セットメニューC",
+        "zh_CN": "C套餐",
+        "zh_TW": "套餐菜單C",
+        "price": "78000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0001_501729_2-tf_11",
+      "ocr": {
+        "x": 30.45511968262435,
+        "y": 60.68764973429835,
+        "text": "세트메뉴C",
+        "width": 20.24901381295581,
+        "height": 3.3247005314033538,
+        "rotation": 0
+      }
+    }
+  ]
+}

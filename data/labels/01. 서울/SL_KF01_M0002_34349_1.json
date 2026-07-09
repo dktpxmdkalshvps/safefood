@@ -1,0 +1,542 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_34349_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:08:04 17:22:08",
+    "store_id": "34349",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          95.2914798206278,
+          0.3361344537815127
+        ],
+        [
+          94.17040358744396,
+          99.83193277310924
+        ],
+        [
+          3.1390134529147984,
+          100
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0002_34349_1-tf-0",
+      "ocr": {
+        "x": 2.9951470804647857,
+        "y": 22.197420634920643,
+        "text": "한우투뿔꽃등심",
+        "width": 21.540275148078937,
+        "height": 2.6785714285714426,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "한우투뿔꽃등심",
+        "en.ROMAN": "hanutuppulkkotdeungsim",
+        "en": "Grilled 1++ Korean Beef Rib Eye",
+        "ja": "韓牛トゥップルロース",
+        "zh_CN": "韩牛斗角牛里脊",
+        "zh_TW": "韓牛鬥角牛裏脊",
+        "price": "43000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_34349_1-tf-1",
+      "ocr": {
+        "x": 51.05820105820105,
+        "y": 25.719246031746035,
+        "text": "뚝배기불고기",
+        "width": 17.625661375661377,
+        "height": 3.7698412698412693,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "뚝배기불고기",
+        "en.ROMAN": "ttukbaegibulgogi",
+        "en": "Bulgogi Hot Pot",
+        "ja": "土鍋プルゴギ",
+        "zh_CN": "砂锅烤牛肉",
+        "zh_TW": "砂鍋烤牛肉",
+        "price": "10000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_34349_1-tf-2",
+      "ocr": {
+        "x": 72.56072545601404,
+        "y": 25.852937029603957,
+        "text": "불고기샤브샤브",
+        "width": 20.556317841943184,
+        "height": 3.6976074191835773,
+        "rotation": 359.3934062090371
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "샤브샤브",
+        "en.ROMAN": "shabu shabu",
+        "en": "Shabu-Shabu",
+        "ja": "しゃぶしゃぶ",
+        "zh_CN": "涮涮锅",
+        "zh_TW": "涮涮鍋",
+        "price": "15000",
+        "ingredients.ko": [
+          "쇠고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_34349_1-tf-3",
+      "ocr": {
+        "x": 26.752645502645574,
+        "y": 39.87970026973332,
+        "text": "제주오겹살",
+        "width": 15.534644883963509,
+        "height": 2.5570677145015295,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "제주오겹살",
+        "en.ROMAN": "Jejuogyeopsal",
+        "en": "Grilled Jeju Skin-on Pork Belly",
+        "ja": "チェジュ産豚の皮付サムギョプサル",
+        "zh_CN": "济州带皮五花肉",
+        "zh_TW": "濟州帶皮五花肉",
+        "price": "17000",
+        "ingredients.ko": [
+          "오겹살"
+        ],
+        "ingredients.en": [
+          "Skin-on Pork Belly"
+        ],
+        "ingredients.ja": [
+          "皮付サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "带皮五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "帶皮五花肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_34349_1-tf-4",
+      "ocr": {
+        "x": 73.87566137566138,
+        "y": 56.44672831609157,
+        "text": "차돌된장찌개",
+        "width": 17.328042328042333,
+        "height": 3.5979145410513227,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "차돌된장찌개",
+        "en.ROMAN": "chadoldoenjangjjigae",
+        "en": "Beef Brisket Soybean Paste Jjigae",
+        "ja": "牛のともばら肉入りテンジャンチゲ",
+        "zh_CN": "牛胸肉大酱汤",
+        "zh_TW": "牛胸肉大醬鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "차돌박이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Beef Brisket"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "牛のともばら肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "牛胸肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "牛胸肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_34349_1-tf-5",
+      "ocr": {
+        "x": 49.9106618651644,
+        "y": 56.63264348695151,
+        "text": "양푼김치찌개",
+        "width": 19.80820105820105,
+        "height": 3.561340074611569,
+        "rotation": 359.4223459528201
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "양푼김치찌개",
+        "en.ROMAN": "yangpunkimchijjigae",
+        "en": "Kimchi Jjigae in a Large Brass Bowl",
+        "ja": "ボウルキムチチゲ",
+        "zh_CN": "大盆辛奇汤",
+        "zh_TW": "大盆辛奇鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_34349_1-tf-6",
+      "ocr": {
+        "x": 5.951213942120384,
+        "y": 57.68425999467212,
+        "text": "소와규갈비살",
+        "width": 18.440275209497546,
+        "height": 2.6109232877953876,
+        "rotation": 358.53306078576486
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소와규갈비살",
+        "en.ROMAN": "so wagyu galbisal",
+        "en": "Beef and beef ribs.",
+        "ja": "牛和牛カルビ",
+        "zh_CN": "牛和牛排骨",
+        "zh_TW": "牛和牛排骨",
+        "price": "24000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_34349_1-tf-7",
+      "ocr": {
+        "x": 75.52910052910045,
+        "y": 86.73115079365078,
+        "text": "메밀막국수",
+        "width": 14.4163746094962,
+        "height": 3.547879095345981,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "메밀막국수",
+        "en.ROMAN": "memilmakguksu",
+        "en": "Buckwheat Noodles",
+        "ja": "混ぜそば",
+        "zh_CN": "荞麦凉面",
+        "zh_TW": "蕎麥麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "오이",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Cucumber",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "キュウリ",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "黄瓜",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "小黃瓜",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_34349_1-tf-8",
+      "ocr": {
+        "x": 54.805774222517236,
+        "y": 86.96443924941882,
+        "text": "제육볶음",
+        "width": 11.622867425152934,
+        "height": 3.5054274361381546,
+        "rotation": 359.42945330367604
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "제육볶음",
+        "en.ROMAN": "jeyukbokkeum",
+        "en": "Spicy Stir-fried Pork",
+        "ja": "豚肉炒め",
+        "zh_CN": "辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "돼지고기",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Pork",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "豚肉",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "猪肉",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "豬肉",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BPqc4GgbET",
+      "ocr": {
+        "x": 26.48134908543664,
+        "y": 74.39130224939551,
+        "text": "진짜돼지갈비",
+        "width": 17.66294094461478,
+        "height": 2.523785994472898,
+        "rotation": 358.67547808770894
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "진짜돼지갈비",
+        "en.ROMAN": "jinjjadwaejigalbi",
+        "en": "Real Pork Galbi",
+        "ja": "豚カルビ",
+        "zh_CN": "猪排骨",
+        "zh_TW": "豬排骨",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "_ZcnpVQn16",
+      "ocr": {
+        "x": 7.277563624297633,
+        "y": 90.60956461346908,
+        "text": "버섯생불고기",
+        "width": 18.005092645134834,
+        "height": 2.4531017174396714,
+        "rotation": 357.84901040478275
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "버섯생불고기",
+        "en.ROMAN": "beoseotsaengbulgogi",
+        "en": "Mushroom Bulgogi",
+        "ja": "きのこプルゴギ",
+        "zh_CN": "蘑菇烤鲜牛肉",
+        "zh_TW": "蘑菇烤鮮牛肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "蘑菇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "file_name": "IN_IF03_M0001_720467_3.jpg",
+    "image_original_width": 8160,
+    "image_original_height": 6120,
+    "captured_date": "2022:09:24 19:35:24",
+    "store_id": "720467",
+    "store_region": "IN",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          5.979381469246529,
+          0
+        ],
+        [
+          100,
+          0.15455378983546794
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          1.8131507480118707,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "어묵탕",
+        "en.ROMAN": "eomuktang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "16000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_IF03_M0001_720467_3-tf-0",
+      "ocr": {
+        "x": 14.59030407044236,
+        "y": 21.399451199510285,
+        "text": "주인장의어묵탕",
+        "width": 22.41769864138154,
+        "height": 3.026124255083591,
+        "rotation": 1.0214099402230659
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "해물누룽지탕",
+        "en.ROMAN": "haemullurungjitang",
+        "en": "Scorched Rice Soup with Seafood",
+        "ja": "海鮮おこげのあんかけ",
+        "zh_CN": "海鲜锅巴汤",
+        "zh_TW": "海鮮鍋粑湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "누룽지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Scorched Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "おこげ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "锅巴"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "鍋粑"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF03_M0001_720467_3-tf-1",
+      "ocr": {
+        "x": 14.089350695830362,
+        "y": 32.68427441209659,
+        "text": "해물누룽지탕",
+        "width": 18.92185595197678,
+        "height": 3.227882733409196,
+        "rotation": 0.760675242588718
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "해물탄탄라멘",
+        "en.ROMAN": "haemultantan ramen",
+        "en": "Seafood Dandan Ramen",
+        "ja": "海鮮入り坦々ラーメン",
+        "zh_CN": "海鲜担担面",
+        "zh_TW": "日式海鮮擔擔麵",
+        "price": "15000",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF03_M0001_720467_3-tf-2",
+      "ocr": {
+        "x": 13.771781795811544,
+        "y": 44.24428731976345,
+        "text": "해물탄탄라멘",
+        "width": 18.830964244112344,
+        "height": 3.1220295918145062,
+        "rotation": 1.0037458720772179
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "숯불차돌라멘",
+        "en.ROMAN": "sutbulchadol ramen",
+        "en": "Charcoal-grilled Beef Brisket Ramen",
+        "ja": "炭火牛のともばら肉入りラーメン",
+        "zh_CN": "炭烤牛胸肉拉面",
+        "zh_TW": "炭烤牛胸肉拉麵",
+        "price": "15000",
+        "ingredients.ko": [
+          "쇠고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF03_M0001_720467_3-tf-3",
+      "ocr": {
+        "x": 13.29398922444917,
+        "y": 55.97812242380408,
+        "text": "숯불차돌라멘",
+        "width": 19.070774836652955,
+        "height": 3.108515032276774,
+        "rotation": 0.3628214339274223
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "전골",
+        "ko": "카레우동나베",
+        "en.ROMAN": "curry udon nabe",
+        "en": "Curry Udon Hot Pot",
+        "ja": "カレーうどん鍋",
+        "zh_CN": "咖喱锅烧乌冬面",
+        "zh_TW": "咖哩烏龍麵火鍋",
+        "price": "15000",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_IF03_M0001_720467_3-tf-4",
+      "ocr": {
+        "x": 12.920064924778195,
+        "y": 67.73365626746607,
+        "text": "카레우동나베",
+        "width": 19.01084652633934,
+        "height": 3.19927453776909,
+        "rotation": 0.6006851966625391
+      }
+    }
+  ]
+}

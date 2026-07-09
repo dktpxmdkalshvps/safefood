@@ -1,0 +1,718 @@
+{
+  "meta": {
+    "file_name": "GK_KF02_M0004_9002271_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:09 20:22:15",
+    "store_id": "9002271",
+    "store_region": "GK",
+    "store_type": "KF02",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.6172839506172839,
+          0.23148148148148145
+        ],
+        [
+          100,
+          0.23148148148148145
+        ],
+        [
+          99.69135802469135,
+          99.84567783496998
+        ],
+        [
+          0,
+          98.14814814814815
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "냉모밀",
+        "en.ROMAN": "naengmomil",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷そば",
+        "zh_CN": "荞麦凉面",
+        "zh_TW": "冷蕎麥麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_29",
+      "ocr": {
+        "x": 73.0498519120877,
+        "y": 32.54870751698299,
+        "text": "냉모밀",
+        "width": 2.8600120255330923,
+        "height": 0.918663142136297,
+        "rotation": 358.7434198165725
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "우볶이",
+        "en.ROMAN": "ubokki",
+        "en": "Beef Tteokbokki",
+        "ja": "うどん入りトッポッキ",
+        "zh_CN": "辣炒年糕乌冬面",
+        "zh_TW": "烏龍麵辣炒年糕",
+        "price": "5500",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "떡",
+          "면",
+          "가쓰오부시",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Rice Cake",
+          "Noodles",
+          "Dried Bonito",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "トク",
+          "麺",
+          "鰹節",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "糕",
+          "大豆",
+          "鲣节",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "年糕",
+          "麵",
+          "鰹魚乾",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_31",
+      "ocr": {
+        "x": 60.57078252263461,
+        "y": 32.69276843308126,
+        "text": "우볶이",
+        "width": 2.837676213296417,
+        "height": 0.9504068152492536,
+        "rotation": 358.7434198165725
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "오뎅우동",
+        "en.ROMAN": "odeng udon",
+        "en": "Fishcake Udon",
+        "ja": "練り物うどん",
+        "zh_CN": "鱼糕乌冬面",
+        "zh_TW": "魚板烏龍麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_32",
+      "ocr": {
+        "x": 48.08260333210406,
+        "y": 32.93605454646787,
+        "text": "오뎅우동",
+        "width": 3.748306507953458,
+        "height": 0.9398455705647615,
+        "rotation": 358.7434198165725
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "김치우동",
+        "en.ROMAN": "kimchi udon",
+        "en": "Kimchi Udon",
+        "ja": "キムチうどん",
+        "zh_CN": "辛奇乌冬面",
+        "zh_TW": "辛奇烏龍麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "밀가루",
+          "야채",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_33",
+      "ocr": {
+        "x": 35.55342197539367,
+        "y": 33.117071182488814,
+        "text": "김치우동",
+        "width": 3.7440823993728256,
+        "height": 0.9602682037829345,
+        "rotation": 358.7434198165725
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "옛날우동",
+        "en.ROMAN": "yennal udon",
+        "en": "Old-fashioned Udon",
+        "ja": "昔ながらのうどん",
+        "zh_CN": "老式乌冬面",
+        "zh_TW": "古早味烏龍麵",
+        "price": "4500",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_34",
+      "ocr": {
+        "x": 23.047205749678042,
+        "y": 33.360705654942414,
+        "text": "옛날우동",
+        "width": 3.721746587136256,
+        "height": 0.9176071149911058,
+        "rotation": 358.74341981657307
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "카레우동",
+        "en.ROMAN": "curry udon",
+        "en": "Curry Udon",
+        "ja": "カレーうどん",
+        "zh_CN": "咖喱乌冬面",
+        "zh_TW": "咖哩烏龍麵",
+        "price": "6500",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_47",
+      "ocr": {
+        "x": 73.29952241849506,
+        "y": 46.518138195958585,
+        "text": "카레우동",
+        "width": 3.759411693844748,
+        "height": 0.9116037771317019,
+        "rotation": 358.7434198165725
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "소불고기우동",
+        "en.ROMAN": "sobulgogi udon",
+        "en": "Beef Bulgogi Udon",
+        "ja": "牛肉プルゴギうどん",
+        "zh_CN": "烤牛肉乌冬面",
+        "zh_TW": "烤牛肉烏龍麵",
+        "price": "6500",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_48",
+      "ocr": {
+        "x": 60.84764379928974,
+        "y": 46.738860872229914,
+        "text": "소불고기우동",
+        "width": 5.49017924193428,
+        "height": 0.9105161932773735,
+        "rotation": 358.7434198165725
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "매운모둠어묵우동",
+        "en.ROMAN": "maeunmodumeomuk udon",
+        "en": "Spicy Assorted Fishcake Udon",
+        "ja": "辛味練り物の盛り合わせうどん",
+        "zh_CN": "辣味什锦鱼糕乌冬面",
+        "zh_TW": "辣味綜合魚板烏龍麵",
+        "price": "6500",
+        "ingredients.ko": [
+          "어묵",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fishcake",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "練り天",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚板",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_50",
+      "ocr": {
+        "x": 48.497814715817015,
+        "y": 46.964608294672146,
+        "text": "매운모둠어묵우동",
+        "width": 7.197430439465063,
+        "height": 0.8712339082566254,
+        "rotation": 358.7434198165728
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "새우튀김우동",
+        "en.ROMAN": "saeutwigim udon",
+        "en": "Deep-fried Shrimp Udon",
+        "ja": "海老天ぷらうどん",
+        "zh_CN": "炸虾乌冬面",
+        "zh_TW": "炸蝦烏龍麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "밀가루",
+          "야채",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜",
+          "蝦"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_51",
+      "ocr": {
+        "x": 36.00734747404876,
+        "y": 47.15457423159751,
+        "text": "새우튀김우동",
+        "width": 5.500134010944587,
+        "height": 0.8974900784027697,
+        "rotation": 358.74341981657335
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "얼큰우동",
+        "en.ROMAN": "eolkeun udon",
+        "en": "Spicy Udon",
+        "ja": "辛味うどん",
+        "zh_CN": "辣爽乌冬面",
+        "zh_TW": "香辣烏龍麵",
+        "price": "6000",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_52",
+      "ocr": {
+        "x": 23.513979477859,
+        "y": 47.311687021040406,
+        "text": "얼큰우동",
+        "width": 3.811356687370447,
+        "height": 0.9407582771606577,
+        "rotation": 358.74341981657335
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "치킨미니덮밥",
+        "en.ROMAN": "chicken mini deopbap",
+        "en": "Fried Chicken with Rice (Small Serving)",
+        "ja": "ミニチキン丼",
+        "zh_CN": "炸鸡迷你盖饭",
+        "zh_TW": "炸雞迷你蓋飯",
+        "price": "3500",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_59",
+      "ocr": {
+        "x": 8.30780888211096,
+        "y": 49.9496656922858,
+        "text": "치킨미니덮밥",
+        "width": 8.374452797083139,
+        "height": 1.3128329853046876,
+        "rotation": 358.7434198165716
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "불만두",
+        "en.ROMAN": "bulmandu",
+        "en": "Spicy Mandu",
+        "ja": "辛味餃子",
+        "zh_CN": "劲辣饺子",
+        "zh_TW": "勁辣餃子",
+        "price": "2000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_72",
+      "ocr": {
+        "x": 13.733079224218399,
+        "y": 70.50358484524133,
+        "text": "불만두",
+        "width": 3.09838122424551,
+        "height": 0.9727559754594769,
+        "rotation": 358.64960589458815
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "매콤김말이",
+        "en.ROMAN": "maekomgimmari",
+        "en": "Spicy Deep-fried Laver Rolls",
+        "ja": "ピリ辛春雨のり巻き天ぷら",
+        "zh_CN": "香辣紫菜卷",
+        "zh_TW": "辣味海苔捲",
+        "price": "2000",
+        "ingredients.ko": [
+          "계란",
+          "김"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_80",
+      "ocr": {
+        "x": 1.6000120631258856,
+        "y": 79.2788430911811,
+        "text": "매콤김말이",
+        "width": 5.0897562499091435,
+        "height": 1.0299892056069646,
+        "rotation": 358.6077869517302
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "카레덮밥",
+        "en.ROMAN": "curry deopbap",
+        "en": "Curry with Rice",
+        "ja": "カレー丼",
+        "zh_CN": "咖喱盖饭",
+        "zh_TW": "咖哩蓋飯",
+        "price": "6500",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF02_M0004_9002271_4-tf_81",
+      "ocr": {
+        "x": 89.73086377267812,
+        "y": 79.58829365079364,
+        "text": "카레덮밥",
+        "width": 3.7488535093071826,
+        "height": 0.8570761619576058,
+        "rotation": 0
+      }
+    }
+  ]
+}

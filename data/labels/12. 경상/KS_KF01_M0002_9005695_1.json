@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "file_name": "KS_KF01_M0002_9005695_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:12:10 12:29:00",
+    "store_id": "9005695",
+    "store_region": "KS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 7.741935483870968,
+        "y": 0,
+        "width": 72.25806451612904,
+        "height": 99.61832061068702,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "월남쌈샤브",
+        "en.ROMAN": "wollamssam shabu",
+        "en": "Vietnamese Spring Rolls and Shabu-shabu",
+        "ja": "生春巻きとしゃぶしゃぶ",
+        "zh_CN": "越南春卷涮涮锅",
+        "zh_TW": "越南春捲涮涮鍋",
+        "price": "19000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "라이스페이퍼"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice Paper"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "ライスペーパー"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "春卷皮"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米紙"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_0",
+      "ocr": {
+        "x": 14.554224666613901,
+        "y": 15.757152618989373,
+        "text": "월남쌈샤브",
+        "width": 16.935048021445294,
+        "height": 6.335344815560429,
+        "rotation": 0.8427072205004151
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "명태조림",
+        "en.ROMAN": "myeongtaejorim",
+        "en": "Braised Pollack",
+        "ja": "スケトウダラの煮付け",
+        "zh_CN": "炖明太鱼",
+        "zh_TW": "醬燒明太魚",
+        "price": "26000",
+        "ingredients.ko": [
+          "명태"
+        ],
+        "ingredients.en": [
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "明太子"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_1",
+      "ocr": {
+        "x": 46.088117699336635,
+        "y": 16.753004191407527,
+        "text": "명태조림",
+        "width": 13.010646901990018,
+        "height": 6.119265720415448,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "고기추가",
+        "en.ROMAN": "gogi chuga",
+        "en": "Extra Serving of Meat",
+        "ja": "肉追加",
+        "zh_CN": "另加肉",
+        "zh_TW": "加點肉類",
+        "price": "13000",
+        "ingredients.ko": [
+          "고기"
+        ],
+        "ingredients.en": [
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_11",
+      "ocr": {
+        "x": 14.684260742073846,
+        "y": 39.75248604468254,
+        "text": "고기추가",
+        "width": 8.644183633588682,
+        "height": 4.033103246857387,
+        "rotation": 0.4408893293602887
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "점심특선명태조림",
+        "en.ROMAN": "jeomsimteukseonmyeongtaejorim",
+        "en": "Lunch Special Braised Pollack",
+        "ja": "スケトウダラの煮付け(ランチ特選)",
+        "zh_CN": "午餐精选炖明太鱼",
+        "zh_TW": "特選午餐燉明太魚",
+        "price": "11000",
+        "ingredients.ko": [
+          "명태"
+        ],
+        "ingredients.en": [
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "明太子"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_20",
+      "ocr": {
+        "x": 14.644431730509437,
+        "y": 51.7877990384316,
+        "text": "점심특선명태조림",
+        "width": 27.636136538981013,
+        "height": 6.476328336425102,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_25",
+      "ocr": {
+        "x": 45.93271280779063,
+        "y": 73.14373861067337,
+        "text": "소주",
+        "width": 4.119353467334621,
+        "height": 3.685612788632312,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_23",
+      "ocr": {
+        "x": 14.774999999999967,
+        "y": 73.26598230058612,
+        "text": "공기밥",
+        "width": 6.394091610551044,
+        "height": 3.7344652389697264,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_27",
+      "ocr": {
+        "x": 45.974999999999994,
+        "y": 78.22918306372341,
+        "text": "맥주",
+        "width": 4.049999999999999,
+        "height": 3.7562602369934783,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_29",
+      "ocr": {
+        "x": 14.801417116770262,
+        "y": 78.48537391474531,
+        "text": "라면사리",
+        "width": 8.24858288322975,
+        "height": 3.763946232677754,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "3500",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_31",
+      "ocr": {
+        "x": 45.94793372487477,
+        "y": 83.39617246414697,
+        "text": "막걸리",
+        "width": 6.006198825375723,
+        "height": 3.722752762648134,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF01_M0002_9005695_1-tf_34",
+      "ocr": {
+        "x": 14.725000000000007,
+        "y": 83.6726901736245,
+        "text": "음료수",
+        "width": 6.3,
+        "height": 3.8551670581687256,
+        "rotation": 0
+      }
+    }
+  ]
+}

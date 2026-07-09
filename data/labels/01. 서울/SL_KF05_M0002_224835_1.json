@@ -1,0 +1,484 @@
+{
+  "meta": {
+    "file_name": "SL_KF05_M0002_224835_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:11 17:41:15",
+    "store_id": "224835",
+    "store_region": "SL",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          28.292682926829265,
+          2.7472527472527473
+        ],
+        [
+          62.4390243902439,
+          3.159340659340659
+        ],
+        [
+          61.707317073170735,
+          97.39010989010988
+        ],
+        [
+          28.292682926829265,
+          97.93956043956044
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "사시미",
+        "en.ROMAN": "sashimi",
+        "en": "Sliced Raw Fish",
+        "ja": "刺身",
+        "zh_CN": "生鱼片",
+        "zh_TW": "生魚片",
+        "price": "56000",
+        "ingredients.ko": [
+          "생선",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_1",
+      "ocr": {
+        "x": 32.79792470350487,
+        "y": 17.81468233617726,
+        "text": "사시미",
+        "width": 25.28378044747204,
+        "height": 2.7108471035273043,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "회정식",
+        "en.ROMAN": "hoejeongsik",
+        "en": "Sliced Raw Fish Set Menu",
+        "ja": "刺身定食",
+        "zh_CN": "生鱼片套餐",
+        "zh_TW": "生魚片套餐",
+        "price": "36000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_4",
+      "ocr": {
+        "x": 32.95661632598389,
+        "y": 24.447696020126116,
+        "text": "회정식",
+        "width": 25.178753089269033,
+        "height": 2.5814875406079505,
+        "rotation": 0.6116073215165443
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "생선초밥",
+        "en.ROMAN": "saengseonchobap",
+        "en": "Fish Sushi",
+        "ja": "寿司",
+        "zh_CN": "生鱼片寿司",
+        "zh_TW": "生魚片壽司",
+        "price": "16000",
+        "ingredients.ko": [
+          "생선",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_11",
+      "ocr": {
+        "x": 32.85019817931406,
+        "y": 36.30506138439563,
+        "text": "생선초밥",
+        "width": 25.25567101725255,
+        "height": 2.5255377652203865,
+        "rotation": 0.6047381758463644
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "광남수사정식",
+        "en.ROMAN": "gwangnamsusajeongsik",
+        "en": "Gwangnam Susa Set",
+        "ja": "広南修辞定食",
+        "zh_CN": "广南水师定式",
+        "zh_TW": "廣南水師定式",
+        "price": "18000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_15",
+      "ocr": {
+        "x": 32.87466324804803,
+        "y": 42.870307458335525,
+        "text": "광남수사정식",
+        "width": 25.763557029989535,
+        "height": 2.510243444233931,
+        "rotation": 0.5906835219832374
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "농어",
+        "en.ROMAN": "nongeo",
+        "en": "Sea Bass",
+        "ja": "スズキ",
+        "zh_CN": "鲈鱼",
+        "zh_TW": "鱸魚",
+        "price": "16000",
+        "ingredients.ko": [
+          "농어"
+        ],
+        "ingredients.en": [
+          "Sea Bass"
+        ],
+        "ingredients.ja": [
+          "スズキ"
+        ],
+        "ingredients.zh_CN": [
+          "鲈鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鱸魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_19",
+      "ocr": {
+        "x": 32.887763105251075,
+        "y": 51.30052943970482,
+        "text": "농어",
+        "width": 25.18518189260154,
+        "height": 2.4744705602954538,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "도미초밥",
+        "en.ROMAN": "domichobap",
+        "en": "Sea Bream Sushi",
+        "ja": "鯛寿司",
+        "zh_CN": "鲷鱼寿司",
+        "zh_TW": "鯛魚壽司",
+        "price": "16000",
+        "ingredients.ko": [
+          "도미"
+        ],
+        "ingredients.en": [
+          "Sea Bream"
+        ],
+        "ingredients.ja": [
+          "鯛"
+        ],
+        "ingredients.zh_CN": [
+          "鲷鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯛魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_22",
+      "ocr": {
+        "x": 33.04700393631706,
+        "y": 57.83531766382277,
+        "text": "도미",
+        "width": 24.91978050749157,
+        "height": 2.4141528964726984,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "생대구탕",
+        "en.ROMAN": "saengdaegutang",
+        "en": "Spicy Codfish Stew",
+        "ja": "たらスープ",
+        "zh_CN": "鲜鳕鱼汤",
+        "zh_TW": "鮮鱈魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "대구"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Codfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳕鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鱈魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_24",
+      "ocr": {
+        "x": 33.01127426662497,
+        "y": 64.29457644823626,
+        "text": "생대구탕",
+        "width": 25.434345974873033,
+        "height": 2.52605887940912,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "민어탕",
+        "en.ROMAN": "mineotang",
+        "en": "Freshwater Fish Stew",
+        "ja": "ニベスープ",
+        "zh_CN": "黄姑鱼汤",
+        "zh_TW": "鮸魚湯",
+        "price": "0",
+        "ingredients.ko": [
+          "야채",
+          "민어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Croaker"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ニベ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鮸鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮸魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_27",
+      "ocr": {
+        "x": 33.10008421333894,
+        "y": 70.76521177588182,
+        "text": "민어탕",
+        "width": 24.89106861605055,
+        "height": 2.4298941120590865,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "우럭탕",
+        "en.ROMAN": "ureoktang",
+        "en": "Spicy Rockfish Stew",
+        "ja": "クロソイスープ",
+        "zh_CN": "石斑鱼汤",
+        "zh_TW": "石斑魚湯",
+        "price": "16000",
+        "ingredients.ko": [
+          "야채",
+          "우럭"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rockfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "クロソイ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "石斑鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "石斑魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_29",
+      "ocr": {
+        "x": 32.85968028419178,
+        "y": 77.23478822411819,
+        "text": "우럭탕",
+        "width": 25.15924083106595,
+        "height": 2.575529439704527,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "알탕",
+        "en.ROMAN": "altang",
+        "en": "Spicy Fish Roe Soup",
+        "ja": "魚の卵スープ",
+        "zh_CN": "鱼子汤",
+        "zh_TW": "魚卵湯",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "생선알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_32",
+      "ocr": {
+        "x": 33.028624873954925,
+        "y": 83.74021177588153,
+        "text": "알탕",
+        "width": 25.203560954963642,
+        "height": 2.434788224118156,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "회덮밥",
+        "en.ROMAN": "hoedeopbap",
+        "en": "Raw Fish Bibimbap",
+        "ja": "刺身丼",
+        "zh_CN": "生鱼片盖饭",
+        "zh_TW": "生魚片蓋飯",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF05_M0002_224835_1-tf_35",
+      "ocr": {
+        "x": 32.925295800869925,
+        "y": 90.27610069532504,
+        "text": "회덮밥",
+        "width": 24.95300560371167,
+        "height": 2.5482138403258645,
+        "rotation": 359.3946256555563
+      }
+    }
+  ]
+}

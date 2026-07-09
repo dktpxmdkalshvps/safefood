@@ -1,0 +1,711 @@
+{
+  "meta": {
+    "file_name": "BS_KF04_M0002_511556_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:12:02 15:26:30",
+    "store_id": "511556",
+    "store_region": "BS",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.695652173913043,
+          11.600928074245939
+        ],
+        [
+          94.43478260869566,
+          9.28074245939675
+        ],
+        [
+          95.65217391304348,
+          95.1276102088167
+        ],
+        [
+          3.6521739130434776,
+          94.89559164733178
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_3",
+      "ocr": {
+        "x": 65.86842708376987,
+        "y": 32.2402818432234,
+        "text": "맥주",
+        "width": 12.084077674976111,
+        "height": 4.239930828164751,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생오리불고기",
+        "en.ROMAN": "saengoribulgogi",
+        "en": "Duck Bulgogi",
+        "ja": "鴨肉プルゴギ",
+        "zh_CN": "烤鲜鸭肉",
+        "zh_TW": "烤鮮鴨肉",
+        "price": "18000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_5",
+      "ocr": {
+        "x": 13.328083450839955,
+        "y": 33.11571377012606,
+        "text": "생오리불고기",
+        "width": 14.533176701913465,
+        "height": 4.469630660806099,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_7",
+      "ocr": {
+        "x": 65.84033687513056,
+        "y": 38.29419894600516,
+        "text": "소주",
+        "width": 12.121926220330975,
+        "height": 3.9561736988199,
+        "rotation": 359.29420266223644
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생오리소금구이",
+        "en.ROMAN": "saengorisogeumgui",
+        "en": "Grilled Salted Duck",
+        "ja": "鴨肉の塩焼き",
+        "zh_CN": "盐烤鲜鸭肉",
+        "zh_TW": "鹽烤鮮鴨肉",
+        "price": "20000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_9",
+      "ocr": {
+        "x": 13.295198973797186,
+        "y": 38.935819590231866,
+        "text": "생오리소금구이",
+        "width": 14.588398071774993,
+        "height": 4.252011097598818,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오리훈제",
+        "en.ROMAN": "orihunje",
+        "en": "Smoked Duck",
+        "ja": "鴨の燻製焼き",
+        "zh_CN": "熏鸭肉",
+        "zh_TW": "煙燻鴨肉",
+        "price": "20000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_11",
+      "ocr": {
+        "x": 13.313283065732964,
+        "y": 44.50523706406164,
+        "text": "오리훈제",
+        "width": 14.405721565802997,
+        "height": 4.605469090761481,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_14",
+      "ocr": {
+        "x": 65.84407007671022,
+        "y": 49.890593542202254,
+        "text": "청하",
+        "width": 12.248173402307838,
+        "height": 4.22072396337014,
+        "rotation": 359.23484389294197
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "오리불고기정식",
+        "en.ROMAN": "oribulgogijeongsik",
+        "en": "Duck Bulgogi Set Menu",
+        "ja": "鴨肉プルゴギ定食",
+        "zh_CN": "烤鸭肉套餐",
+        "zh_TW": "烤鴨肉套餐",
+        "price": "9000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_16",
+      "ocr": {
+        "x": 40.602709394403945,
+        "y": 50.35472570703088,
+        "text": "오리불고기정식",
+        "width": 13.817062074418951,
+        "height": 4.464285714285718,
+        "rotation": 359.4605495469103
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "닭갈비",
+        "en.ROMAN": "dakgalbi",
+        "en": "Spicy Stir-fried Chicken",
+        "ja": "タッカルビ",
+        "zh_CN": "辣炒鸡排",
+        "zh_TW": "辣炒雞排",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_17",
+      "ocr": {
+        "x": 13.238878303828198,
+        "y": 50.459399665282724,
+        "text": "닭갈비",
+        "width": 14.444862439962646,
+        "height": 4.500917795034757,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "10000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_20",
+      "ocr": {
+        "x": 65.93761330159562,
+        "y": 55.71133349963195,
+        "text": "복분자",
+        "width": 12.26231600751937,
+        "height": 4.252011097598811,
+        "rotation": 359.23484389294197
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "닭갈비정식",
+        "en.ROMAN": "dakgalbijeongsik",
+        "en": "Spicy Stir-fried Chicken Set Menu",
+        "ja": "タッカルビ定食",
+        "zh_CN": "辣炒鸡排套餐",
+        "zh_TW": "辣炒雞排套餐",
+        "price": "9000",
+        "ingredients.ko": [
+          "닭고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_21",
+      "ocr": {
+        "x": 40.71736229219599,
+        "y": 56.239789816123455,
+        "text": "닭갈비정식",
+        "width": 13.763807130532106,
+        "height": 4.563492063492066,
+        "rotation": 359.4605495469096
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "닭도리탕",
+        "en.ROMAN": "dakdoritang",
+        "en": "Spicy Braised Chicken",
+        "ja": "鶏肉の炒め煮",
+        "zh_CN": "辣炖鸡块汤",
+        "zh_TW": "辣燒雞",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "닭고기",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉",
+          "馬鈴薯"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_22",
+      "ocr": {
+        "x": 13.214468777042725,
+        "y": 56.313746208068096,
+        "text": "닭도리탕",
+        "width": 14.567578047665739,
+        "height": 4.314622073258798,
+        "rotation": 0.013883945712393597
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "설중매스피클링",
+        "en.ROMAN": "seoljungmae seu pickle ring",
+        "en": "Seoljungmae Sparkling (Green Plum Wine)",
+        "ja": "ソルチュンメ・スパークリング",
+        "zh_CN": "雪中梅起泡酒",
+        "zh_TW": "雪中梅氣泡酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_25",
+      "ocr": {
+        "x": 65.99637350939685,
+        "y": 61.628553008849664,
+        "text": "설중매스피클링",
+        "width": 12.078373015873018,
+        "height": 4.298941798941803,
+        "rotation": 359.613395966677
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "닭도리탕정식",
+        "en.ROMAN": "dakdoritangjeongsik",
+        "en": "Spicy Chicken Stew Set Menu",
+        "ja": "鶏肉の炒め煮定食",
+        "zh_CN": "辣炖鸡块汤套餐",
+        "zh_TW": "辣燒雞套餐",
+        "price": "9000",
+        "ingredients.ko": [
+          "닭고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_26",
+      "ocr": {
+        "x": 40.757969151460685,
+        "y": 61.993503039594714,
+        "text": "닭도리탕정식",
+        "width": 13.69752196773665,
+        "height": 4.761904761904763,
+        "rotation": 359.46054954691095
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "닭찜",
+        "en.ROMAN": "dakjjim",
+        "en": "Braised Chicken",
+        "ja": "鶏肉入り野菜の蒸し物",
+        "zh_CN": "炖鸡",
+        "zh_TW": "燉雞",
+        "price": "30000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_27",
+      "ocr": {
+        "x": 13.01307936050417,
+        "y": 62.132680088563134,
+        "text": "닭찜",
+        "width": 14.604429528365404,
+        "height": 4.290424827187978,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "1000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_30",
+      "ocr": {
+        "x": 65.97132202486684,
+        "y": 67.45053133376891,
+        "text": "음료수",
+        "width": 12.18235298223511,
+        "height": 4.24863801934229,
+        "rotation": 359.61339596667983
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "옻닭백숙",
+        "en.ROMAN": "otdakbaeksuk",
+        "en": "Whole Chicken Soup with Sumac",
+        "ja": "漆エキス入り鶏肉の水炊き",
+        "zh_CN": "漆木清炖鸡",
+        "zh_TW": "漆木藥膳燉雞",
+        "price": "45000",
+        "ingredients.ko": [
+          "야채",
+          "마늘",
+          "닭고기",
+          "옻"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Garlic",
+          "Chicken",
+          "Sumac"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "にんにく",
+          "鶏肉",
+          "漆"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大蒜",
+          "鸡肉",
+          "漆木"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "大蒜",
+          "雞肉",
+          "漆"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_511556_1-tf_35",
+      "ocr": {
+        "x": 12.971315442510678,
+        "y": 79.79497354497352,
+        "text": "옻닭백숙",
+        "width": 15.123861222654295,
+        "height": 4.3320105820105805,
+        "rotation": 0
+      }
+    }
+  ]
+}

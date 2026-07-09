@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0002_527266_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:11 20:14:57",
+    "store_id": "527266",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          83.5314091680815,
+          16.305732484076433
+        ],
+        [
+          81.66383701188455,
+          54.01273885350319
+        ],
+        [
+          22.410865874363328,
+          53.37579617834395
+        ],
+        [
+          21.052631578947366,
+          17.07006369426751
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "순대내장전골",
+        "en.ROMAN": "sundaenaejangjeongol",
+        "en": "Sundae and Offal Hot Pot",
+        "ja": "スンデと内臓の寄せ鍋",
+        "zh_CN": "血肠内脏火锅",
+        "zh_TW": "血腸內臟火鍋",
+        "price": "30000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_527266_2-tf_0",
+      "ocr": {
+        "x": 23.200952685397326,
+        "y": 20.187803896117458,
+        "text": "순대내장전골",
+        "width": 57.57907783977384,
+        "height": 8.467655930641255,
+        "rotation": 359.52546930834
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "사리추가",
+        "en.ROMAN": "sari chuga",
+        "en": "Extras",
+        "ja": "麺追加",
+        "zh_CN": "另加面条",
+        "zh_TW": "加點麵條",
+        "price": "1000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_527266_2-tf_7",
+      "ocr": {
+        "x": 56.44815462044875,
+        "y": 46.175571049096554,
+        "text": "사리추가",
+        "width": 11.957895625240798,
+        "height": 3.050625474343642,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_423859_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "423859",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          7.010402532790592,
+          5.924313338737173
+        ],
+        [
+          93.17051108095885,
+          6.772345903187649
+        ],
+        [
+          91.5875169606513,
+          90.55796327089458
+        ],
+        [
+          6.558118498417005,
+          90.55796327089458
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_6",
+      "ocr": {
+        "x": 19.212962962962962,
+        "y": 35.11904761904762,
+        "text": "건강",
+        "width": 4.761904761904762,
+        "height": 1.8353174603174605,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "건강삼계탕",
+        "en.ROMAN": "geongangsamgyetang",
+        "en": "Ginseng Chicken Soup for Health",
+        "ja": "健康サムゲタン",
+        "zh_CN": "营养参鸡汤",
+        "zh_TW": "健康蔘雞湯",
+        "price": "17000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_7",
+      "ocr": {
+        "x": 33.597883597883595,
+        "y": 35.11904761904762,
+        "text": "미용",
+        "width": 4.761904761904762,
+        "height": 1.9345238095238095,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "미용삼계탕",
+        "en.ROMAN": "miyongsamgyetang",
+        "en": "Ginseng Chicken Soup for Beauty",
+        "ja": "美容サムゲタン",
+        "zh_CN": "美容参鸡汤",
+        "zh_TW": "美容蔘雞湯",
+        "price": "17000",
+        "ingredients.ko": [
+          "닭고기",
+          "인삼"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Ginseng"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "高麗人参"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "人参"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "人蔘"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_8",
+      "ocr": {
+        "x": 48.90873015873016,
+        "y": 35.19345238095238,
+        "text": "죽",
+        "width": 2.3478835978835977,
+        "height": 1.8601190476190477,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "죽",
+        "en.ROMAN": "juk",
+        "en": "Porridge",
+        "ja": "粥",
+        "zh_CN": "粥",
+        "zh_TW": "粥",
+        "price": "18000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_9",
+      "ocr": {
+        "x": 61.93783068783068,
+        "y": 35.44146825396825,
+        "text": "얼큰",
+        "width": 4.62962962962963,
+        "height": 1.9841269841269846,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "얼큰삼계탕",
+        "en.ROMAN": "eolkeunsamgyetang",
+        "en": "Spicy Ginseng Chicken Soup",
+        "ja": "辛味サムゲタン",
+        "zh_CN": "辣爽参鸡汤",
+        "zh_TW": "香辣蔘雞湯",
+        "price": "18000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_10",
+      "ocr": {
+        "x": 77.1494708994709,
+        "y": 35.44146825396825,
+        "text": "옻",
+        "width": 2.447089947089947,
+        "height": 2.0833333333333335,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "옻",
+        "en.ROMAN": "onggiganjang chicken +nunkkotgal lychee kin+onggigochujangmaneul chicken",
+        "en": "lacquer",
+        "ja": "漆",
+        "zh_CN": "漆",
+        "zh_TW": "漆",
+        "price": "19000",
+        "ingredients.ko": [
+          "옻"
+        ],
+        "ingredients.en": [
+          "Sumac"
+        ],
+        "ingredients.ja": [
+          "漆"
+        ],
+        "ingredients.zh_CN": [
+          "漆木"
+        ],
+        "ingredients.zh_TW": [
+          "漆"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_20",
+      "ocr": {
+        "x": 19.212962962962962,
+        "y": 50.124007936507944,
+        "text": "헛개",
+        "width": 4.861111111111111,
+        "height": 2.0089285714285716,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "헛개삼계탕",
+        "en.ROMAN": "heotgaesamgyetang",
+        "en": "Ginseng Chicken Soup with Hovenia",
+        "ja": "ケンポナシサムゲタン",
+        "zh_CN": "北枳椇参鸡汤",
+        "zh_TW": "枳椇蔘雞湯",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "헛개나무"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Hovenia"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "ケンポナシ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "北枳椇"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "枳椇"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_21",
+      "ocr": {
+        "x": 33.597883597883595,
+        "y": 50.19841269841269,
+        "text": "들깨",
+        "width": 4.662698412698413,
+        "height": 2.0089285714285716,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "들깨한방삼계탕",
+        "en.ROMAN": "deulkkaehanbangsamgyetang",
+        "en": "Ginseng Chicken Soup with Medicinal Herbs and Perilla Seed",
+        "ja": "漢方エゴマ入りサムゲタン",
+        "zh_CN": "紫苏药膳参鸡汤",
+        "zh_TW": "紫蘇藥膳蔘雞湯",
+        "price": "22000",
+        "ingredients.ko": [
+          "들깨"
+        ],
+        "ingredients.en": [
+          "Perilla Seeds"
+        ],
+        "ingredients.ja": [
+          "エゴマ"
+        ],
+        "ingredients.zh_CN": [
+          "紫苏"
+        ],
+        "ingredients.zh_TW": [
+          "紫蘇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_22",
+      "ocr": {
+        "x": 47.75132275132275,
+        "y": 50.19841269841269,
+        "text": "녹두",
+        "width": 4.662698412698413,
+        "height": 1.8353174603174605,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전",
+        "ko": "녹두",
+        "en.ROMAN": "nokdu",
+        "en": "Mung Bean Pancake",
+        "ja": "緑豆のチヂミ",
+        "zh_CN": "绿豆",
+        "zh_TW": "綠豆",
+        "price": "22000",
+        "ingredients.ko": [
+          "녹두"
+        ],
+        "ingredients.en": [
+          "Mung Beans"
+        ],
+        "ingredients.ja": [
+          "緑豆"
+        ],
+        "ingredients.zh_CN": [
+          "绿豆芽"
+        ],
+        "ingredients.zh_TW": [
+          "綠豆"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_23",
+      "ocr": {
+        "x": 60.681216931216916,
+        "y": 50.19841269841269,
+        "text": "흑마늘",
+        "width": 6.944444444444446,
+        "height": 2.0089285714285716,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "흑마늘한방삼계탕",
+        "en.ROMAN": "heungmaneulhanbangsamgyetang",
+        "en": "Ginseng Chicken Soup with Medicinal Herbs and Black Garlic",
+        "ja": "漢方黒ニンニク入りサムゲタン",
+        "zh_CN": "黑蒜药膳参鸡汤",
+        "zh_TW": "黑蒜藥膳蔘雞湯",
+        "price": "23000",
+        "ingredients.ko": [
+          "마늘"
+        ],
+        "ingredients.en": [
+          "Garlic"
+        ],
+        "ingredients.ja": [
+          "にんにく"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_24",
+      "ocr": {
+        "x": 75.9920634920635,
+        "y": 50.272817460317455,
+        "text": "흑삼",
+        "width": 4.431216931216931,
+        "height": 1.9345238095238095,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "흑삼삼계탕",
+        "en.ROMAN": "heuksamsamgyetang",
+        "en": "Black Ginseng Chicken Soup",
+        "ja": "黒参サムゲタン",
+        "zh_CN": "黑参参鸡汤",
+        "zh_TW": "黑蔘蔘雞湯",
+        "price": "29000",
+        "ingredients.ko": [
+          "인삼"
+        ],
+        "ingredients.en": [
+          "Ginseng"
+        ],
+        "ingredients.ja": [
+          "高麗人参"
+        ],
+        "ingredients.zh_CN": [
+          "人参"
+        ],
+        "ingredients.zh_TW": [
+          "人蔘"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_32",
+      "ocr": {
+        "x": 17.228835978835978,
+        "y": 70.58531746031746,
+        "text": "오리닭가슴살떡갈비",
+        "width": 21.230158730158728,
+        "height": 2.0833333333333335,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오리닭가슴살떡갈비",
+        "en.ROMAN": "oridakgaseumsaltteokgalbi",
+        "en": "Grilled Duck Breast",
+        "ja": "鴨と鶏ささみの粗挽きカルビ焼き",
+        "zh_CN": "鸭肉鸡胸肉饼",
+        "zh_TW": "烤鴨肉雞胸肉餅",
+        "price": "15000",
+        "ingredients.ko": [
+          "소고기",
+          "오리고기",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Duck Meat",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "鴨肉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "鸭肉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "鴨肉",
+          "豬肉"
+        ],
+        "allergy": [
+          "쇠고기",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_33",
+      "ocr": {
+        "x": 62.56613756613756,
+        "y": 70.58531746031746,
+        "text": "오리고추장불고기",
+        "width": 18.58465608465609,
+        "height": 2.0833333333333335,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오리고추장불고기",
+        "en.ROMAN": "origochujangbulgogi",
+        "en": "Duck Red Chili Paste Bulgogi",
+        "ja": "鴨肉のコチュジャンプルゴギ",
+        "zh_CN": "辣椒酱烤鸭肉",
+        "zh_TW": "辣椒醬烤鴨肉",
+        "price": "25000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_34",
+      "ocr": {
+        "x": 46.395502645502646,
+        "y": 70.65972222222223,
+        "text": "불닭발",
+        "width": 7.0436507936507935,
+        "height": 1.9345238095238095,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "불닭발",
+        "en.ROMAN": "buldakbal",
+        "en": "Spicy Grilled Chicken Feet",
+        "ja": "辛味鶏足炒め",
+        "zh_CN": "劲辣鸡爪",
+        "zh_TW": "勁辣雞爪",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_40",
+      "ocr": {
+        "x": 63.657407407407405,
+        "y": 85.83829365079364,
+        "text": "천마오리보양탕",
+        "width": 16.203703703703706,
+        "height": 2.3313492063492065,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "천마오리보양탕",
+        "en.ROMAN": "cheonmaoriboyangtang",
+        "en": "Nutritious Yam and Duck Soup",
+        "ja": "천마鴨肉スープ",
+        "zh_CN": "天麻养身鸭肉汤",
+        "zh_TW": "天麻鴨肉滋補湯",
+        "price": "80000",
+        "ingredients.ko": [
+          "오리고기",
+          "인삼"
+        ],
+        "ingredients.en": [
+          "Duck Meat",
+          "Ginseng"
+        ],
+        "ingredients.ja": [
+          "鴨肉",
+          "高麗人参"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉",
+          "人参"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉",
+          "人蔘"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_41",
+      "ocr": {
+        "x": 41.69973544973545,
+        "y": 85.91269841269842,
+        "text": "능이전복보양찜",
+        "width": 16.26984126984127,
+        "height": 2.232142857142857,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "능이전복보양찜",
+        "en.ROMAN": "neungijeonbokboyangjjim",
+        "en": "Nutritious Steamed Abalone with Shingled Hedgehog",
+        "ja": "コウタケとアワビ入りの蒸し物",
+        "zh_CN": "养生虎掌菇炖鲍鱼",
+        "zh_TW": "滋養虎掌菇燉鮑魚",
+        "price": "70000",
+        "ingredients.ko": [
+          "능이버섯",
+          "전복"
+        ],
+        "ingredients.en": [
+          "Shingled Hedgehog",
+          "Abalone"
+        ],
+        "ingredients.ja": [
+          "コウタケ",
+          "アワビ"
+        ],
+        "ingredients.zh_CN": [
+          "虎掌菇",
+          "鲍鱼"
+        ],
+        "ingredients.zh_TW": [
+          "虎掌菇",
+          "鮑魚"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_423859_1-tf_42",
+      "ocr": {
+        "x": 17.228835978835978,
+        "y": 85.96230158730158,
+        "text": "영월묵은지닭도리탕",
+        "width": 21.13095238095238,
+        "height": 2.232142857142857,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "영월묵은지닭도리탕",
+        "en.ROMAN": "yeongwolmugeunjidakdoritang",
+        "en": "Youngwol Braised Chicken and Aged Kimchi",
+        "ja": "寧越熟成キムチ入り鶏肉の炒め煮\nor\nヨンウォル熟成キムチ入り鶏肉の炒め煮",
+        "zh_CN": "宁越酸辛奇辣炖鸡块",
+        "zh_TW": "寧越酸辛奇辣燒雞",
+        "price": "45000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

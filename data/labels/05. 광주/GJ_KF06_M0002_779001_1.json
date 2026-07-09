@@ -1,0 +1,1477 @@
+{
+  "meta": {
+    "file_name": "GJ_KF06_M0002_779001_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:12 18:29:00",
+    "store_id": "779001",
+    "store_region": "GJ",
+    "store_type": "KF06",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          6.540447504302928,
+          11.096774193548388
+        ],
+        [
+          91.73838209982789,
+          8.645161290322584
+        ],
+        [
+          97.07401032702238,
+          53.54838709677419
+        ],
+        [
+          89.67297762478485,
+          55.483870967741936
+        ],
+        [
+          96.21342512908775,
+          99.74193548387096
+        ],
+        [
+          1.2048192771084338,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "순살",
+        "en.ROMAN": "sunsal",
+        "en": "Boneless Meat",
+        "ja": "骨無し",
+        "zh_CN": "无骨",
+        "zh_TW": "無骨",
+        "price": "21000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "Mz14TvI9Il",
+      "ocr": {
+        "x": 26.227208447028687,
+        "y": 20.26661706230431,
+        "text": "순살",
+        "width": 1.3264262243032228,
+        "height": 0.5647997738679819,
+        "rotation": 357.47725478802414
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "청양마요치킨",
+        "en.ROMAN": "cheongyang mayo chicken",
+        "en": "Extra Spicy Chili Pepper Mayo Chicken",
+        "ja": "激辛唐辛子マヨチキン",
+        "zh_CN": "青阳辣椒蛋黄酱炸鸡",
+        "zh_TW": "青陽辣椒美乃滋炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "마요네즈",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Mayonnaise",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "マヨネーズ",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蛋黄酱",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "美乃滋",
+          "雞肉"
+        ],
+        "allergy": [
+          "계란",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_5",
+      "ocr": {
+        "x": 69.3871121729059,
+        "y": 27.46875029134423,
+        "text": "청양마요치킨",
+        "width": 10.224180993076324,
+        "height": 1.4734107102488465,
+        "rotation": 359.4170826514925
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "소이갈릭치킨",
+        "en.ROMAN": "soy garlic chicken",
+        "en": "Soy Garlic Fried Chicken",
+        "ja": "ソイガーリックチキン",
+        "zh_CN": "酱油蒜香炸鸡",
+        "zh_TW": "醬油蒜香炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "마늘",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_6",
+      "ocr": {
+        "x": 50.613856006326635,
+        "y": 27.738990284467285,
+        "text": "소이갈릭치킨",
+        "width": 10.269913556377942,
+        "height": 1.479645780726885,
+        "rotation": 358.88238413746626
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "레드마요치킨",
+        "en.ROMAN": "red mayo chicken",
+        "en": "Red Mayonnaise Fried Chicken",
+        "ja": "レッドマヨチキン",
+        "zh_CN": "香辣黄酱炸鸡",
+        "zh_TW": "香辣美乃滋炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "마요네즈",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Mayonnaise",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "マヨネーズ",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蛋黄酱",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "美乃滋",
+          "雞肉"
+        ],
+        "allergy": [
+          "계란",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_8",
+      "ocr": {
+        "x": 32.210337460803615,
+        "y": 28.2872849743646,
+        "text": "레드마요치킨",
+        "width": 10.196424159685298,
+        "height": 1.4693249288158525,
+        "rotation": 357.16313231398397
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "코찡마요치킨",
+        "en.ROMAN": "kojjing mayo chicken",
+        "en": "Spicy Mayonnaise Chicken",
+        "ja": "ハナジイン・マヨチキン",
+        "zh_CN": "鼻酸黄酱炸鸡",
+        "zh_TW": "山葵美乃滋炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "마요네즈",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Mayonnaise",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "マヨネーズ",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蛋黄酱",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "美乃滋",
+          "雞肉"
+        ],
+        "allergy": [
+          "계란",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_10",
+      "ocr": {
+        "x": 13.57402310947663,
+        "y": 28.828434510524236,
+        "text": "코찡마요치킨",
+        "width": 10.297710344027745,
+        "height": 1.4669791173574918,
+        "rotation": 358.28391870472785
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "소이크런치윙봉",
+        "en.ROMAN": "soy crunchy wing bong",
+        "en": "Soy Crunch Wing and Drumettes",
+        "ja": "手羽先のソイクランチチキン",
+        "zh_CN": "酥脆炸鸡翅",
+        "zh_TW": "醬油香脆雞翅",
+        "price": "20000",
+        "ingredients.ko": [
+          "닭날개",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken Wing",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "手羽先",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡翅",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞翅",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_23",
+      "ocr": {
+        "x": 70.1081723741752,
+        "y": 39.6495367102298,
+        "text": "소이크런치윙봉",
+        "width": 12.533333333333333,
+        "height": 1.5927867794475001,
+        "rotation": 358.76530269976695
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "소이크런치콤보",
+        "en.ROMAN": "soy crunchy combo",
+        "en": "Soy Crunch Combo",
+        "ja": "ソイクランチチキンコンボ",
+        "zh_CN": "酥脆炸鸡翅鸡腿套餐",
+        "zh_TW": "醬油香脆拼盤",
+        "price": "20000",
+        "ingredients.ko": [
+          "간장",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Soy Sauce",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "カンジャン",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "酱油",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "醬油",
+          "雞肉"
+        ],
+        "allergy": [
+          "콩",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_24",
+      "ocr": {
+        "x": 51.10800101876112,
+        "y": 39.99643412858005,
+        "text": "소이크런치콤보",
+        "width": 12.525331834106229,
+        "height": 1.613499793657126,
+        "rotation": 358.0968644817897
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "스노윙치킨",
+        "en.ROMAN": "snowing chicken",
+        "en": "Fried Chicken with Grated Cheese",
+        "ja": "スノーイングチキン",
+        "zh_CN": "奶酪粉炸鸡",
+        "zh_TW": "起司粉炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_26",
+      "ocr": {
+        "x": 32.12509538575807,
+        "y": 40.464084955017135,
+        "text": "스노윙치킨",
+        "width": 8.949272726113836,
+        "height": 1.6081317067746108,
+        "rotation": 357.7118130172811
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "쇼킹핫치킨",
+        "en.ROMAN": "shocking hot chicken",
+        "en": "Shocking Hot Chicken",
+        "ja": "激辛チキン",
+        "zh_CN": "变态辣炸鸡",
+        "zh_TW": "驚辣炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_44",
+      "ocr": {
+        "x": 71.40014377824542,
+        "y": 52.58625819923747,
+        "text": "쇼킹핫치킨",
+        "width": 8.977826705804272,
+        "height": 1.695185888778187,
+        "rotation": 359.37159826057234
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "크리미언치킨",
+        "en.ROMAN": "creamion chicken",
+        "en": "Onion and Cream Sauce Glazed Fried Chicken",
+        "ja": "クリーミーオニオンチキン",
+        "zh_CN": "奶油洋葱炸鸡",
+        "zh_TW": "奶油洋蔥炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_43",
+      "ocr": {
+        "x": 32.11151404013036,
+        "y": 52.84940724627922,
+        "text": "크리미언치킨",
+        "width": 10.858527775043262,
+        "height": 1.6774139569202087,
+        "rotation": 358.3095385297591
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "네네마늘치킨",
+        "en.ROMAN": "nenemaneul chicken",
+        "en": "Nene Garlic Chicken",
+        "ja": "ネネガーリックチキン",
+        "zh_CN": "蒜蓉炸鸡",
+        "zh_TW": "Nene蒜香炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "마늘",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_45",
+      "ocr": {
+        "x": 51.63561544238318,
+        "y": 52.95021570166216,
+        "text": "네네마늘치킨",
+        "width": 10.857585305864717,
+        "height": 1.654830834849381,
+        "rotation": 358.76468242051
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "오리엔탈파닭",
+        "en.ROMAN": "oriental padak",
+        "en": "Oriental Spring Onion Chicken",
+        "ja": "オリエンタルねぎチキン",
+        "zh_CN": "葱丝炸鸡",
+        "zh_TW": "醬汁大蔥炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "야채",
+          "닭고기",
+          "밀가루",
+          "파"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken",
+          "Wheat Flour",
+          "Green Onions"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉",
+          "小麦粉",
+          "ネギ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉",
+          "面粉",
+          "葱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉",
+          "麵粉",
+          "蔥"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_47",
+      "ocr": {
+        "x": 12.425316057276778,
+        "y": 53.76061508955808,
+        "text": "오리엔탈파닭",
+        "width": 11.517291883148326,
+        "height": 1.7197418048676816,
+        "rotation": 358.7647171328148
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드반양념반",
+        "en.ROMAN": "fried bannyangnyeom ban",
+        "en": "Half and Half Chicken (Fried/Seasoned Fried)",
+        "ja": "フライドチキン＆ヤンニョムチキン(ハーフ＆ハーフ)",
+        "zh_CN": "脆皮炸鸡+调味炸鸡双拼",
+        "zh_TW": "脆皮及調味炸雞雙拼",
+        "price": "18000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_65",
+      "ocr": {
+        "x": 72.53992475749732,
+        "y": 66.32426848247988,
+        "text": "후라이드반양념반",
+        "width": 15.188471573364343,
+        "height": 1.8406464455102085,
+        "rotation": 358.0790557763255
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨",
+        "en.ROMAN": "fried chicken",
+        "en": "Fried Chicken",
+        "ja": "フライドチキン",
+        "zh_CN": "脆皮炸鸡",
+        "zh_TW": "炸雞",
+        "price": "16000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_66",
+      "ocr": {
+        "x": 52.27527883456637,
+        "y": 66.64851488470445,
+        "text": "후라이드치킨",
+        "width": 11.289875055247157,
+        "height": 1.7924527001754713,
+        "rotation": 358.8302706523358
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념치킨",
+        "en.ROMAN": "yangnyeom chicken",
+        "en": "Seasoned Fried Chicken",
+        "ja": "ヤンニョムチキン",
+        "zh_CN": "调味炸鸡",
+        "zh_TW": "調味炸雞",
+        "price": "18000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_67",
+      "ocr": {
+        "x": 31.99749708905914,
+        "y": 67.07374950171469,
+        "text": "양념치킨",
+        "width": 7.481816052205846,
+        "height": 1.8168290714833755,
+        "rotation": 358.21206159916477
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매운맛변경시",
+        "en.ROMAN": "gukbabeolkeunbyeongyeong",
+        "en": "Change to Spicy Taste",
+        "ja": "辛味変更する場合",
+        "zh_CN": "换成辣味时",
+        "zh_TW": "換辣味時",
+        "price": "17000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JpNcxBXIcE",
+      "ocr": {
+        "x": 64.37919150788433,
+        "y": 67.2709707043446,
+        "text": "핫",
+        "width": 0.9394351658223253,
+        "height": 0.8330355218441174,
+        "rotation": 356.73142917546477
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "포테이토짜용치킨",
+        "en.ROMAN": "potato jjayong chicken",
+        "en": "Chicken with Deep-fried Potato and Sweet Garlic Sauce",
+        "ja": "ポテトチャヨンチキン",
+        "zh_CN": "炸薯条蒜香炸鸡",
+        "zh_TW": "炸薯片炸雞",
+        "price": "19000",
+        "ingredients.ko": [
+          "닭고기",
+          "감자",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "じゃがいも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "土豆",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "馬鈴薯",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_69",
+      "ocr": {
+        "x": 12.047937246535506,
+        "y": 67.48932644609239,
+        "text": "포테이토짜용치킨",
+        "width": 14.962190526031655,
+        "height": 1.7826792602816486,
+        "rotation": 358.8506027839465
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "청양마요반쇼킹핫반",
+        "en.ROMAN": "Cheongyang mayo ban shocking hot ban",
+        "en": "Half Extra Spicy Chili Pepper Mayonnaise and Half Shocking Hot Chicken",
+        "ja": "激辛唐辛子マヨとショッキングホットのハーフ＆ハーフ",
+        "zh_CN": "青阳椒蛋黄酱炸鸡+香辣刺激炸鸡双拼",
+        "zh_TW": "青陽美乃滋炸雞和特辣炸雞雙拼",
+        "price": "21500",
+        "ingredients.ko": [
+          "고추",
+          "닭고기",
+          "마요네즈"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken",
+          "Mayonnaise"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏肉",
+          "マヨネーズ"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡肉",
+          "蛋黄酱"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞肉",
+          "美乃滋"
+        ],
+        "allergy": [
+          "닭고기",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_100",
+      "ocr": {
+        "x": 32.016910612181384,
+        "y": 81.77136632126222,
+        "text": "청양마요반쇼킹핫반",
+        "width": 14.654359075470493,
+        "height": 1.728962211380124,
+        "rotation": 358.13539944677075
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "스노윙치즈반핫블링반",
+        "en.ROMAN": "snowing cheese ban hot bling ban",
+        "en": "Half Snowing Cheese and Half Hot Bling Chicken",
+        "ja": "スノーウィングチーズとホットブリングのハーフ＆ハーフ",
+        "zh_CN": "奶酪粉炸鸡+调味炸鸡双拼",
+        "zh_TW": "起司粉炸雞和勁辣炸雞雙拼",
+        "price": "21000",
+        "ingredients.ko": [
+          "닭고기",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "起司"
+        ],
+        "allergy": [
+          "닭고기",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_101",
+      "ocr": {
+        "x": 10.809969766532621,
+        "y": 82.31464380162036,
+        "text": "스노윙치즈반핫블링반",
+        "width": 16.429416018775793,
+        "height": 1.7289924468800277,
+        "rotation": 357.69854527178114
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "스위틱",
+        "en.ROMAN": "seuwitik",
+        "en": "Sweeticks",
+        "ja": "さつまいもチーズスティック",
+        "zh_CN": "香甜奶酪条",
+        "zh_TW": "甜心條",
+        "price": "3000",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루",
+          "고구마무스"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour",
+          "Sweet Potato Mousse"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉",
+          "さつまいもムース"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉",
+          "红薯慕斯"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉",
+          "地瓜泥"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_115",
+      "ocr": {
+        "x": 87.50498686057159,
+        "y": 90.58056944366484,
+        "text": "네네스위틱",
+        "width": 4.933112235716821,
+        "height": 1.0092789261885602,
+        "rotation": 355.95008766968857
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "미니핫도그",
+        "en.ROMAN": "mini hot dog",
+        "en": "Mini Hotdogs",
+        "ja": "ミニハットグ",
+        "zh_CN": "迷你热狗",
+        "zh_TW": "小熱狗",
+        "price": "3000",
+        "ingredients.ko": [
+          "소세지",
+          "밀가루",
+          "튀김가루"
+        ],
+        "ingredients.en": [
+          "Sausages",
+          "Wheat Flour",
+          "Frying Powder"
+        ],
+        "ingredients.ja": [
+          "ソーセージ",
+          "小麦粉",
+          "天ぷら粉"
+        ],
+        "ingredients.zh_CN": [
+          "香肠",
+          "面粉",
+          "炸粉"
+        ],
+        "ingredients.zh_TW": [
+          "香腸",
+          "麵粉",
+          "炸粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_116",
+      "ocr": {
+        "x": 76.77739909831686,
+        "y": 90.97058790827111,
+        "text": "네네미니핫도그",
+        "width": 7.201704309454509,
+        "height": 1.0419341222202532,
+        "rotation": 357.5300132097322
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "네네볼",
+        "en.ROMAN": "nenebol",
+        "en": "Nene Balls",
+        "ja": "ネネチーズボール",
+        "zh_CN": "奶酪球",
+        "zh_TW": "起司球",
+        "price": "2500",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_117",
+      "ocr": {
+        "x": 68.97670373188198,
+        "y": 91.10751237647938,
+        "text": "네네볼",
+        "width": 3.233333333333498,
+        "height": 1.024999999999984,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "연유볼",
+        "en.ROMAN": "yeonyubol",
+        "en": "Condensed Milk Ball",
+        "ja": "練乳ボール",
+        "zh_CN": "炼乳球",
+        "zh_TW": "煉乳球",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루",
+          "우유"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Milk"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "牛乳"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "牛奶"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "牛奶"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_118",
+      "ocr": {
+        "x": 57.765055597823974,
+        "y": 91.24999999999994,
+        "text": "네네연유볼",
+        "width": 5.2349444021760245,
+        "height": 1.074999999999999,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "맥앤치즈볼",
+        "en.ROMAN": "mac and cheese bol",
+        "en": "Mac and Cheese Balls",
+        "ja": "マカロニアンドチーズボール",
+        "zh_CN": "奶酪球",
+        "zh_TW": "起司通心粉球",
+        "price": "3000",
+        "ingredients.ko": [
+          "마카로니",
+          "모짜렐라치즈",
+          "체다치즈",
+          "할라피뇨",
+          "튀김가루"
+        ],
+        "ingredients.en": [
+          "Macaroni",
+          "Mozzarella",
+          "Cheddar Cheese",
+          "Jalapeno",
+          "Frying Powder"
+        ],
+        "ingredients.ja": [
+          "マカロニ",
+          "モッツァレラチーズ",
+          "チェダーチーズ",
+          "ハラペーニョ",
+          "天ぷら粉"
+        ],
+        "ingredients.zh_CN": [
+          "通心粉",
+          "马苏里拉奶酪",
+          "切达奶酪",
+          "墨西哥辣椒",
+          "炸粉"
+        ],
+        "ingredients.zh_TW": [
+          "通心粉",
+          "莫札瑞拉起司",
+          "切達起司",
+          "墨西哥辣椒",
+          "炸粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_119",
+      "ocr": {
+        "x": 46.766666666666666,
+        "y": 91.4,
+        "text": "네네맥앤치즈볼",
+        "width": 7.266666666666667,
+        "height": 1.1,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "초코볼",
+        "en.ROMAN": "choco ball",
+        "en": "Choco Balls",
+        "ja": "チョコボール",
+        "zh_CN": "巧克力球",
+        "zh_TW": "巧克球",
+        "price": "3000",
+        "ingredients.ko": [
+          "초컬릿",
+          "튀김가루"
+        ],
+        "ingredients.en": [
+          "Chocolate",
+          "Frying Powder"
+        ],
+        "ingredients.ja": [
+          "チョコレート",
+          "天ぷら粉"
+        ],
+        "ingredients.zh_CN": [
+          "巧克力",
+          "炸粉"
+        ],
+        "ingredients.zh_TW": [
+          "巧克力",
+          "炸粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_120",
+      "ocr": {
+        "x": 37.8,
+        "y": 91.475,
+        "text": "네네초코볼",
+        "width": 5.2,
+        "height": 1,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "나쵸팩",
+        "en.ROMAN": "nacho pack",
+        "en": "Nacho Pack",
+        "ja": "ナチョスパック",
+        "zh_CN": "炸玉米片",
+        "zh_TW": "墨西哥玉米片",
+        "price": "3000",
+        "ingredients.ko": [
+          "나쵸"
+        ],
+        "ingredients.en": [
+          "Nacho"
+        ],
+        "ingredients.ja": [
+          "ナチョス"
+        ],
+        "ingredients.zh_CN": [
+          "墨西哥玉米片"
+        ],
+        "ingredients.zh_TW": [
+          "墨西哥玉米片"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_127",
+      "ocr": {
+        "x": 87.7821339905684,
+        "y": 97.36453674250474,
+        "text": "네네나쵸팩",
+        "width": 5.299999999999982,
+        "height": 1.0139637753592143,
+        "rotation": 355.7355407094749
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "소떡",
+        "en.ROMAN": "sotteok",
+        "en": "Sausage and Rice Cake Skewers",
+        "ja": "ソットク(ソーセージとトクの串)",
+        "zh_CN": "香肠年糕串",
+        "zh_TW": "香腸年糕串",
+        "price": "3000",
+        "ingredients.ko": [
+          "닭고기",
+          "소시지",
+          "떡"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Sausages",
+          "Rice Cake"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "ソーセージ",
+          "トク"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "香肠",
+          "糕"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "香腸",
+          "年糕"
+        ],
+        "allergy": [
+          "닭고기",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_128",
+      "ocr": {
+        "x": 78.64885425244893,
+        "y": 97.72485516767308,
+        "text": "네네소떡",
+        "width": 4.45140065247457,
+        "height": 1.1057603284332598,
+        "rotation": 357.34114081387446
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "감자튀김",
+        "en.ROMAN": "gamjatwigim",
+        "en": "French Fries",
+        "ja": "フライドポテト",
+        "zh_CN": "炸薯条",
+        "zh_TW": "炸薯條",
+        "price": "3000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_129",
+      "ocr": {
+        "x": 67.73813999177807,
+        "y": 97.89636547111746,
+        "text": "네네감자튀김",
+        "width": 6.335980985970836,
+        "height": 1.1597260641376221,
+        "rotation": 358.27763063272334
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "네네칩",
+        "en.ROMAN": "nene chip",
+        "en": "Nene Chips",
+        "ja": "ネネチップス",
+        "zh_CN": "薯片",
+        "zh_TW": "Nene薯片",
+        "price": "2500",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_130",
+      "ocr": {
+        "x": 59.03333333333334,
+        "y": 98.025,
+        "text": "네네칩",
+        "width": 3.3333333333333335,
+        "height": 1.1,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "네네볶이",
+        "en.ROMAN": "nenebokki",
+        "en": "Tteokbokki",
+        "ja": "ネネトッポッキ",
+        "zh_CN": "好好辣炒年糕",
+        "zh_TW": "辣炒年糕",
+        "price": "3500",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF06_M0002_779001_1-tf_131",
+      "ocr": {
+        "x": 48.73333333333328,
+        "y": 98.16267528475346,
+        "text": "네네볶이",
+        "width": 4.4415820318268375,
+        "height": 1.1123247152463636,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_263344_6.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:07 19:33:49",
+    "store_id": "263344",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.7194244604316549,
+          8.519269776876268
+        ],
+        [
+          98.56115107913669,
+          8.113590263691684
+        ],
+        [
+          99.6402877697842,
+          86.61257606490872
+        ],
+        [
+          3.237410071942446,
+          88.03245436105477
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "찹스테이크",
+        "en.ROMAN": "chop steak",
+        "en": "Chop Steak",
+        "ja": "チョップステーキ",
+        "zh_CN": "酱炒牛排肉",
+        "zh_TW": "醬炒牛排肉",
+        "price": "17000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_263344_6-tf_2",
+      "ocr": {
+        "x": 49.998789630005234,
+        "y": 32.8989223782062,
+        "text": "찹스테이크",
+        "width": 16.67240217126751,
+        "height": 2.1383957033898175,
+        "rotation": 357.9254874079203
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "수제함박스테이크",
+        "en.ROMAN": "suje hamburg steak",
+        "en": "Handmade Hamburger Steak",
+        "ja": "手作りハンバーグステーキ",
+        "zh_CN": "手工汉堡排",
+        "zh_TW": "手工漢堡排",
+        "price": "17000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_263344_6-tf_9",
+      "ocr": {
+        "x": 50.873364359737906,
+        "y": 58.46633250478167,
+        "text": "수제함박스테이크",
+        "width": 27.8907517423331,
+        "height": 2.198245062230782,
+        "rotation": 358.64933142545254
+      }
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "file_name": "GJ_KF05_M0002_9006033_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:12:16 12:15:22",
+    "store_id": "9006033",
+    "store_region": "GJ",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.209643605870021,
+          5.785123966942149
+        ],
+        [
+          99.37106918238993,
+          6.8476977567886665
+        ],
+        [
+          98.74213836477988,
+          85.24203069657615
+        ],
+        [
+          0.209643605870021,
+          84.53364817001183
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼색생선구이",
+        "en.ROMAN": "samsaeksaengseongui",
+        "en": "Grilled Tricolor Fish",
+        "ja": "三色焼き魚",
+        "zh_CN": "烤三色海鲜",
+        "zh_TW": "烤三色魚",
+        "price": "15000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_1",
+      "ocr": {
+        "x": 12.86386129169922,
+        "y": 15.966629417286745,
+        "text": "삼색생선구이",
+        "width": 23.84486269348131,
+        "height": 3.247999175802569,
+        "rotation": 1.0606529632729007
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "갈치조림",
+        "en.ROMAN": "galchijorim",
+        "en": "Braised Cutlassfish",
+        "ja": "太刀魚の煮付け",
+        "zh_CN": "炖带鱼",
+        "zh_TW": "燉白帶魚",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "갈치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cutlassfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "太刀魚"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "带鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "白帶魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_3",
+      "ocr": {
+        "x": 12.662871868389468,
+        "y": 19.327517070945603,
+        "text": "갈치조림",
+        "width": 15.582216345546613,
+        "height": 3.1331875238366695,
+        "rotation": 1.8365685727428058
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "병어조림",
+        "en.ROMAN": "byeongeojorim",
+        "en": "Braised Pomfret",
+        "ja": "マナガツオの煮付け",
+        "zh_CN": "炖平鱼",
+        "zh_TW": "燉銀鯧",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "병어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Promfret"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "マナガツオ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "银鲳"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "銀鯧"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_5",
+      "ocr": {
+        "x": 12.61676370420407,
+        "y": 22.754465495171726,
+        "text": "병어조림",
+        "width": 15.775062403965938,
+        "height": 3.0618538061412393,
+        "rotation": 1.8365685727432037
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "조기매운탕",
+        "en.ROMAN": "jogimaeuntang",
+        "en": "Spicy Yellow Croaker Stew",
+        "ja": "イシモチの辛味スープ",
+        "zh_CN": "鲜辣黄花鱼汤",
+        "zh_TW": "鮮辣黃花魚湯",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "조기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Yellow Croaker"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イシモチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "黄花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "黃花魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_7",
+      "ocr": {
+        "x": 12.492481446043334,
+        "y": 26.19896008868782,
+        "text": "조기매운탕",
+        "width": 19.61663066092425,
+        "height": 3.0330070399397697,
+        "rotation": 1.153958097657494
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "상차림",
+        "ko": "고등어구이백반",
+        "en.ROMAN": "godeungeoguibaekban",
+        "en": "Grilled Mackerel Set Menu",
+        "ja": "サバ焼き定食",
+        "zh_CN": "烤青花鱼家常套餐",
+        "zh_TW": "烤鯖魚家常套餐",
+        "price": "12000",
+        "ingredients.ko": [
+          "쌀",
+          "고등어"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Mackerel"
+        ],
+        "ingredients.ja": [
+          "米",
+          "サバ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "青花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "鯖魚"
+        ],
+        "allergy": [
+          "고등어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_9",
+      "ocr": {
+        "x": 12.693888979737103,
+        "y": 29.60680775435558,
+        "text": "고등어구이백반",
+        "width": 27.968026175966948,
+        "height": 2.96412470558731,
+        "rotation": 1.1539580976565844
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "백반",
+        "en.ROMAN": "baekban",
+        "en": "Set Menu",
+        "ja": "定食",
+        "zh_CN": "家常套餐",
+        "zh_TW": "家常套餐",
+        "price": "9000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_12",
+      "ocr": {
+        "x": 12.513969592194888,
+        "y": 32.91784000791828,
+        "text": "백반",
+        "width": 8.912430612259142,
+        "height": 2.9638475133238242,
+        "rotation": 1.7831834355368983
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "계절회",
+        "en.ROMAN": "gyejeolhoe",
+        "en": "Seasonal Sliced Raw Fish",
+        "ja": "季節の刺身",
+        "zh_CN": "时令生鱼片",
+        "zh_TW": "時令生魚片",
+        "price": "35000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_15",
+      "ocr": {
+        "x": 12.308412308753521,
+        "y": 42.945034277641554,
+        "text": "계절회",
+        "width": 12.344124799644245,
+        "height": 2.9680139638103182,
+        "rotation": 0.8088166147134075
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "흑산홍어삼합",
+        "en.ROMAN": "heuksanhongeosamhap",
+        "en": "Heuksan Skate, Pork, and Kimchi Combo",
+        "ja": "ガンギエイのサムハブ",
+        "zh_CN": "黑山斑鳐三合",
+        "zh_TW": "黑山斑鰩三合",
+        "price": "40000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_20",
+      "ocr": {
+        "x": 11.850727693384645,
+        "y": 52.92187234846547,
+        "text": "흑산홍어삼합",
+        "width": 24.39677385023672,
+        "height": 3.1552653907659245,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "대방어",
+        "en.ROMAN": "daebangeo",
+        "en": "Yellow Tail",
+        "ja": "ブリ",
+        "zh_CN": "大鰤鱼",
+        "zh_TW": "大鰤魚",
+        "price": "0",
+        "ingredients.ko": [
+          "방어"
+        ],
+        "ingredients.en": [
+          "Yellow Tail"
+        ],
+        "ingredients.ja": [
+          "ブリ"
+        ],
+        "ingredients.zh_CN": [
+          "鰤鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鰤魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_22",
+      "ocr": {
+        "x": 11.660853839290123,
+        "y": 56.31973460923411,
+        "text": "대방어",
+        "width": 12.556721470258767,
+        "height": 2.982898086148871,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_26",
+      "ocr": {
+        "x": 11.111918652660627,
+        "y": 66.19687234846522,
+        "text": "소주",
+        "width": 12.408720657354793,
+        "height": 2.9574031299975396,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_28",
+      "ocr": {
+        "x": 11.09202160063651,
+        "y": 69.48618365230853,
+        "text": "맥주",
+        "width": 12.592694028628197,
+        "height": 3.122862260768609,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_30",
+      "ocr": {
+        "x": 10.882250694517875,
+        "y": 72.93141321769417,
+        "text": "막걸리",
+        "width": 12.188438399106298,
+        "height": 3.07713773923135,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료",
+        "en.ROMAN": "eumnyo",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GJ_KF05_M0002_9006033_1-tf_32",
+      "ocr": {
+        "x": 10.69237684042336,
+        "y": 76.3771377392314,
+        "text": "음료",
+        "width": 12.386744668188399,
+        "height": 3.0430918261542095,
+        "rotation": 0
+      }
+    }
+  ]
+}

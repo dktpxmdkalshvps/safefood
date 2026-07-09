@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "file_name": "KW_KF02_M0002_9001919_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:08 16:05:45",
+    "store_id": "9001919",
+    "store_region": "KW",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.195804195804195,
+          16.568280204643848
+        ],
+        [
+          94.58041958041959,
+          16.46989374262102
+        ],
+        [
+          91.43356643356641,
+          90.06296733569461
+        ],
+        [
+          5.594405594405595,
+          89.66942148760333
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "막국수",
+        "en.ROMAN": "makguksu",
+        "en": "Buckwheat Noodles",
+        "ja": "混ぜそば",
+        "zh_CN": "荞麦凉面",
+        "zh_TW": "蕎麥麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "오이",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Cucumber",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "キュウリ",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "黄瓜",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "小黃瓜",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_2",
+      "ocr": {
+        "x": 17.29016424620587,
+        "y": 27.974135514581512,
+        "text": "막국수",
+        "width": 34.66843133266157,
+        "height": 6.489661213546206,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "편육",
+        "en.ROMAN": "pyeonyuk",
+        "en": "Boiled Pork Slices",
+        "ja": "薄切りゆで肉",
+        "zh_CN": "白切肉",
+        "zh_TW": "白切肉",
+        "price": "18000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_10",
+      "ocr": {
+        "x": 19.757028643099588,
+        "y": 40.17327102916303,
+        "text": "편육",
+        "width": 27.79698929585253,
+        "height": 3.4543224270925097,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "메밀전병",
+        "en.ROMAN": "memiljeonbyeong",
+        "en": "Buckwheat Crepe",
+        "ja": "そば粉の薄皮巻き",
+        "zh_CN": "荞麦煎饼",
+        "zh_TW": "蕎麥煎餅",
+        "price": "10000",
+        "ingredients.ko": [
+          "메밀가루",
+          "배추",
+          "무"
+        ],
+        "ingredients.en": [
+          "Buckwheat Powder",
+          "Napa Cabbage",
+          "Radish"
+        ],
+        "ingredients.ja": [
+          "そば粉",
+          "白菜",
+          "大根"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦粉",
+          "白菜",
+          "白萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥粉",
+          "白菜",
+          "白蘿蔔"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_15",
+      "ocr": {
+        "x": 19.780027254971248,
+        "y": 44.11206775729076,
+        "text": "메밀전병",
+        "width": 26.872970132925897,
+        "height": 3.486203271872247,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "감자부침",
+        "en.ROMAN": "gamjabuchim",
+        "en": "Potato Pancake",
+        "ja": "じゃがいものチヂミ",
+        "zh_CN": "土豆煎饼",
+        "zh_TW": "馬鈴薯煎餅",
+        "price": "9000",
+        "ingredients.ko": [
+          "감자",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Potato",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "じゃがいも",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "土豆",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯",
+          "澱粉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_20",
+      "ocr": {
+        "x": 19.715808170515096,
+        "y": 48.050000000000004,
+        "text": "감자부침",
+        "width": 26.69057348833909,
+        "height": 3.624999999999999,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "메밀부침",
+        "en.ROMAN": "memilbuchim",
+        "en": "Buckwheat Pancake",
+        "ja": "そば粉チヂミ",
+        "zh_CN": "荞麦煎饼",
+        "zh_TW": "蕎麥煎餅",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "메밀가루",
+          "고기",
+          "배추",
+          "무"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Powder",
+          "Meat",
+          "Napa Cabbage",
+          "Radish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば粉",
+          "肉",
+          "白菜",
+          "大根"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦粉",
+          "肉",
+          "白菜",
+          "白萝卜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥粉",
+          "肉",
+          "白菜",
+          "白蘿蔔"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_24",
+      "ocr": {
+        "x": 19.98223801065719,
+        "y": 52.225,
+        "text": "메밀부침",
+        "width": 26.470140871940266,
+        "height": 3.4241355145815167,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "도토리묵",
+        "en.ROMAN": "dotorimuk",
+        "en": "Acorn Jelly Salad",
+        "ja": "どんぐりこんにゃくの和え物",
+        "zh_CN": "橡子凉粉",
+        "zh_TW": "橡子涼粉",
+        "price": "7000",
+        "ingredients.ko": [
+          "도토리"
+        ],
+        "ingredients.en": [
+          "Acorn"
+        ],
+        "ingredients.ja": [
+          "どんぐり"
+        ],
+        "ingredients.zh_CN": [
+          "橡子"
+        ],
+        "ingredients.zh_TW": [
+          "橡子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_28",
+      "ocr": {
+        "x": 19.60081511115695,
+        "y": 56.225,
+        "text": "도토리묵",
+        "width": 27.160806334553342,
+        "height": 3.4499999999999993,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자음",
+        "en.ROMAN": "bokbunjaeum",
+        "en": "Bokbunjaeum (Korean Black Raspberry Wine)",
+        "ja": "覆盆子ウム(木いちご酒)",
+        "zh_CN": "覆盆子饮酒",
+        "zh_TW": "覆盆子酒",
+        "price": "10000",
+        "ingredients.ko": [
+          "복분자"
+        ],
+        "ingredients.en": [
+          "Black Raspberry"
+        ],
+        "ingredients.ja": [
+          "覆盆子"
+        ],
+        "ingredients.zh_CN": [
+          "覆盆子"
+        ],
+        "ingredients.zh_TW": [
+          "覆盆子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_32",
+      "ocr": {
+        "x": 17.066547129034564,
+        "y": 65.4232710291631,
+        "text": "복분자음",
+        "width": 19.145970656431718,
+        "height": 2.848271029163005,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_33",
+      "ocr": {
+        "x": 54.05407430730118,
+        "y": 65.72142387599871,
+        "text": "청하",
+        "width": 16.737139423273856,
+        "height": 2.810832713701819,
+        "rotation": 1.897234747500761
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "지평막걸리",
+        "en.ROMAN": "jipyeong makgeolli",
+        "en": "Jipyeong Unrefined Rice Wine",
+        "ja": "チピョンマッコリ",
+        "zh_CN": "砥平马格利酒",
+        "zh_TW": "砥平馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_35",
+      "ocr": {
+        "x": 16.425063390937186,
+        "y": 68.99827102916302,
+        "text": "지평막걸리",
+        "width": 20.12182193227323,
+        "height": 3.151728970836969,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_34",
+      "ocr": {
+        "x": 53.948324015628565,
+        "y": 69.38630838757605,
+        "text": "맥주",
+        "width": 16.72493048919038,
+        "height": 2.9387967281277234,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "민들레대포",
+        "en.ROMAN": "mindeulledaepo",
+        "en": "Mindeulledaepo",
+        "ja": "ミンドゥルレテポ酒",
+        "zh_CN": "蒲公英大匏",
+        "zh_TW": "蒲公英大匏",
+        "price": "5000",
+        "ingredients.ko": [
+          "민들레"
+        ],
+        "ingredients.en": [
+          "Dandelion"
+        ],
+        "ingredients.ja": [
+          "タンポポ"
+        ],
+        "ingredients.zh_CN": [
+          "蒲公英"
+        ],
+        "ingredients.zh_TW": [
+          "蒲公英"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_39",
+      "ocr": {
+        "x": 17.092730241678673,
+        "y": 72.48620327187226,
+        "text": "민들레대포",
+        "width": 18.520058390648142,
+        "height": 2.8267289708369985,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_36",
+      "ocr": {
+        "x": 53.81564320793093,
+        "y": 73.01735978550523,
+        "text": "소주",
+        "width": 16.834617728383343,
+        "height": 2.7929790009479185,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "동동주",
+        "en.ROMAN": "dongdongju",
+        "en": "Rice Wine",
+        "ja": "濁り酒",
+        "zh_CN": "冬冬酒",
+        "zh_TW": "冬冬酒",
+        "price": "6000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_42",
+      "ocr": {
+        "x": 16.956330820835134,
+        "y": 75.94827102916301,
+        "text": "동동주",
+        "width": 19.06087932286357,
+        "height": 2.851728970836972,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "1000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_43",
+      "ocr": {
+        "x": 53.83704956941634,
+        "y": 76.375864485418,
+        "text": "음료수",
+        "width": 16.862388048046746,
+        "height": 3.060338786453792,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF02_M0002_9001919_1-tf_45",
+      "ocr": {
+        "x": 17.201354299491854,
+        "y": 79.39999999999999,
+        "text": "막걸리",
+        "width": 18.302810275021802,
+        "height": 2.938796728127727,
+        "rotation": 0
+      }
+    }
+  ]
+}

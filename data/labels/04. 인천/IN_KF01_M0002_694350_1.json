@@ -1,0 +1,599 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0002_694350_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:12:06 15:50:15",
+    "store_id": "694350",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.0168776371308,
+          41.74454828660438
+        ],
+        [
+          80.52653786364648,
+          42.367601246105934
+        ],
+        [
+          80.70175438596492,
+          86.60436137071653
+        ],
+        [
+          11.491228070175433,
+          85.82554517133963
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "부대찌개",
+        "en.ROMAN": "budaejjigae",
+        "en": "Sausage Jjigae",
+        "ja": "プデチゲ",
+        "zh_CN": "部队锅",
+        "zh_TW": "部隊鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_2",
+      "ocr": {
+        "x": 16.60000000000002,
+        "y": 46.59804702714835,
+        "text": "부대찌개",
+        "width": 4.60558046886666,
+        "height": 2.7123458515570524,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "등심부대전골",
+        "en.ROMAN": "deungsimbudaejeongol",
+        "en": "Sirloin and Sausage Hot Pot",
+        "ja": "牛ロース入りソーセージの寄せ鍋",
+        "zh_CN": "猪外脊肉部队火锅",
+        "zh_TW": "里肌肉部隊火鍋",
+        "price": "38000",
+        "ingredients.ko": [
+          "소등심",
+          "채소",
+          "햄"
+        ],
+        "ingredients.en": [
+          "Beef Sirloin",
+          "Vegetables",
+          "Ham"
+        ],
+        "ingredients.ja": [
+          "牛ロース",
+          "野菜",
+          "ハム"
+        ],
+        "ingredients.zh_CN": [
+          "牛外脊",
+          "蔬菜",
+          "午餐肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛後腰脊肉",
+          "蔬菜",
+          "火腿"
+        ],
+        "allergy": [
+          "돼지고기",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_4",
+      "ocr": {
+        "x": 38.725000000000016,
+        "y": 46.847246891651864,
+        "text": "등심부대전골",
+        "width": 6.72706464835,
+        "height": 2.73952084927571,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "부대전골",
+        "en.ROMAN": "budaejeongol",
+        "en": "Sausage Hot Pot",
+        "ja": "ソーセージの寄せ鍋",
+        "zh_CN": "部队火锅",
+        "zh_TW": "部隊火鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "햄"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_11",
+      "ocr": {
+        "x": 16.530580468866667,
+        "y": 52.2646536412079,
+        "text": "부대전골",
+        "width": 4.696484179483334,
+        "height": 2.708703374777979,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "우삼겹부대볶음",
+        "en.ROMAN": "usamgyeopbudaebokkeum",
+        "en": "Stir-fried Beef Loin and Sausages",
+        "ja": "牛バラとソーセージ入りハム炒め",
+        "zh_CN": "牛五花肉炒部队锅",
+        "zh_TW": "炒牛五花部隊鍋",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "우삼겹"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef Loin"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛バラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛五花肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_12",
+      "ocr": {
+        "x": 60.38470976556697,
+        "y": 52.38792353919875,
+        "text": "우삼겹부대볶음",
+        "width": 7.909709765566671,
+        "height": 2.7186483968581894,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "등심모둠철판구이",
+        "en.ROMAN": "deungsimmodumcheolpangui",
+        "en": "Assorted Griddled Sirloin",
+        "ja": "ロースの盛り合わせの鉄板焼き",
+        "zh_CN": "铁板烤外脊拼盘",
+        "zh_TW": "鐵板烤里肌豬拼盤",
+        "price": "35000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_16",
+      "ocr": {
+        "x": 38.70764511721675,
+        "y": 54.515719783556484,
+        "text": "등심모둠철판구이",
+        "width": 8.82293535165002,
+        "height": 2.811100820351414,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "모둠소시지돌판구이",
+        "en.ROMAN": "modum sausage dolpangui",
+        "en": "Stone-grilled Assorted Sausage",
+        "ja": "ソーセージの盛り合わせの石焼き",
+        "zh_CN": "石板烤香肠拼盘",
+        "zh_TW": "石板烤香腸拼盤",
+        "price": "24000",
+        "ingredients.ko": [
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_18",
+      "ocr": {
+        "x": 60.39029023443404,
+        "y": 57.566075446331446,
+        "text": "모둠소시지돌판구이",
+        "width": 9.988792392116771,
+        "height": 2.824688319210665,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "나가사끼부대찌개",
+        "en.ROMAN": "Nagasaki budaejjigae",
+        "en": "Nagasaki Sausage Jjigae",
+        "ja": "長崎プデチゲ",
+        "zh_CN": "长崎部队锅",
+        "zh_TW": "長崎部隊鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_20",
+      "ocr": {
+        "x": 16.525,
+        "y": 57.94849023090586,
+        "text": "나가사끼부대찌개",
+        "width": 9.025,
+        "height": 2.708703374777975,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "돈까스",
+        "en.ROMAN": "dongaseu",
+        "en": "Pork Cutlet",
+        "ja": "豚カツ",
+        "zh_CN": "炸猪排",
+        "zh_TW": "炸豬排",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_22",
+      "ocr": {
+        "x": 60.38470976556666,
+        "y": 62.75781485232296,
+        "text": "돈까스",
+        "width": 3.4597097655666595,
+        "height": 2.6063059292046664,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "우삼겹모둠철판구이",
+        "en.ROMAN": "usamgyeommodumcheolpangui",
+        "en": "Griddled Assorted Beef Loin",
+        "ja": "牛バラの盛り合わせの鉄板焼き",
+        "zh_CN": "铁板烤牛五花肉拼盘",
+        "zh_TW": "鐵板燒牛五花肉拼盤",
+        "price": "35000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_23",
+      "ocr": {
+        "x": 38.62500000000035,
+        "y": 63.11669711595939,
+        "text": "우삼겹모둠철판구이",
+        "width": 9.93321192325026,
+        "height": 2.821045842431372,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "우삼겹부대찌개",
+        "en.ROMAN": "usamgyeopbudaejjigae",
+        "en": "Beef Loin and Sausage Jjigae",
+        "ja": "牛バラ肉入りプデチゲ",
+        "zh_CN": "牛五花肉部队锅",
+        "zh_TW": "牛五花肉部隊鍋",
+        "price": "11000",
+        "ingredients.ko": [
+          "채소",
+          "햄",
+          "소시지",
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ham",
+          "Sausages",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ハム",
+          "ソーセージ",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "午餐肉",
+          "香肠",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "火腿",
+          "香腸",
+          "牛肉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_25",
+      "ocr": {
+        "x": 16.39793535165002,
+        "y": 63.59156432402614,
+        "text": "우삼겹부대찌개",
+        "width": 8.002064648350009,
+        "height": 2.749465871355853,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "왕만두",
+        "en.ROMAN": "wangmandu",
+        "en": "Jumbo Mandu",
+        "ja": "王餃子",
+        "zh_CN": "大包子",
+        "zh_TW": "大包子",
+        "price": "6000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_30",
+      "ocr": {
+        "x": 60.34999999999997,
+        "y": 67.9396092362346,
+        "text": "왕만두",
+        "width": 3.529129296700009,
+        "height": 2.616250951284762,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "고기추가",
+        "en.ROMAN": "gogi chuga",
+        "en": "Extra Serving of Meat",
+        "ja": "肉追加",
+        "zh_CN": "另加肉",
+        "zh_TW": "加點肉類",
+        "price": "7000",
+        "ingredients.ko": [
+          "고기"
+        ],
+        "ingredients.en": [
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_694350_1-tf_34",
+      "ocr": {
+        "x": 45.41005026848624,
+        "y": 72.65835526633099,
+        "text": "고기추가",
+        "width": 3.4429623409816625,
+        "height": 2.1124159603758272,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,1395 @@
+{
+  "meta": {
+    "file_name": "GK_FF01_M0002_1133861_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "1133861",
+    "store_region": "GK",
+    "store_type": "FF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          2.4456521739130435,
+          3.054989816700611
+        ],
+        [
+          96.19565217391305,
+          2.6476578411405294
+        ],
+        [
+          95.1086956521739,
+          98.37067209775967
+        ],
+        [
+          7.065217391304348,
+          98.98167006109979
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-0",
+      "ocr": {
+        "x": 11.002752742978975,
+        "y": 30.728528976382837,
+        "text": "프랭크버거",
+        "width": 8.640658997518619,
+        "height": 1.9312797948105125,
+        "rotation": 358.1113104881982
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "프랭크버거",
+        "en.ROMAN": "Frank burger",
+        "en": "Frank Burger",
+        "ja": "フランクバーガー",
+        "zh_CN": "FRANK汉堡",
+        "zh_TW": "弗蘭克·伯格",
+        "price": "3900",
+        "ingredients.ko": [
+          "밀가루",
+          "양상추"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Lettuce"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "レタス"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "圆生菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "結球萵苣"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-1",
+      "ocr": {
+        "x": 11.408730158730156,
+        "y": 35.81349206349206,
+        "text": "치즈버거",
+        "width": 6.9444444444444455,
+        "height": 1.8601190476190477,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "치즈버거",
+        "en.ROMAN": "cheeseburger",
+        "en": "Cheeseburger",
+        "ja": "チーズバーガー",
+        "zh_CN": "奶酪汉堡",
+        "zh_TW": "起司漢堡",
+        "price": "4900",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-2",
+      "ocr": {
+        "x": 11.607142857142858,
+        "y": 40.89781746031746,
+        "text": "베이컨치즈버거",
+        "width": 12.070105820105821,
+        "height": 1.9345238095238093,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "베이컨치즈버거",
+        "en.ROMAN": "bacon cheese burger",
+        "en": "Bacon Cheeseburger",
+        "ja": "ベーコンチーズバーガー",
+        "zh_CN": "培根奶酪汉堡",
+        "zh_TW": "培根起司堡",
+        "price": "6300",
+        "ingredients.ko": [
+          "치즈",
+          "베이컨"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Bacon"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "ベーコン"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "培根"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "培根"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-3",
+      "ocr": {
+        "x": 11.838624338624342,
+        "y": 45.734126984127,
+        "text": "더블치즈버거",
+        "width": 10.350529100529101,
+        "height": 1.8761280985143258,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "더블치즈버거",
+        "en.ROMAN": "double cheese burger",
+        "en": "Double Cheeseburger",
+        "ja": "ダブル・チーズバーガー",
+        "zh_CN": "双层奶酪汉堡",
+        "zh_TW": "雙份起司漢堡",
+        "price": "7300",
+        "ingredients.ko": [
+          "소고기",
+          "모짜렐라치즈",
+          "토마토",
+          "밀가루",
+          "피클"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Mozzarella",
+          "Tomato",
+          "Wheat Flour",
+          "Pickles"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "モッツァレラチーズ",
+          "トマト",
+          "小麦粉",
+          "ピクルス"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "马苏里拉奶酪",
+          "番茄",
+          "面粉",
+          "酸黄瓜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "莫札瑞拉起司",
+          "番茄",
+          "麵粉",
+          "酸黃瓜"
+        ],
+        "allergy": [
+          "밀",
+          "토마토",
+          "우유",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-4",
+      "ocr": {
+        "x": 12.235449735449743,
+        "y": 55.65476190476194,
+        "text": "프랭크버거세트",
+        "width": 10.448893571408489,
+        "height": 1.6121031746031689,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "프랭크버거세트",
+        "en.ROMAN": "Frank burger set",
+        "en": "Frank Burger Set Menu",
+        "ja": "フランクバーガーセット",
+        "zh_CN": "弗兰克汉堡套餐",
+        "zh_TW": "漢堡套餐",
+        "price": "7400",
+        "ingredients.ko": [
+          "밀가루",
+          "양상추",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Lettuce",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "レタス",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "圆生菜",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "結球萵苣",
+          "牛肉"
+        ],
+        "allergy": [
+          "밀",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-5",
+      "ocr": {
+        "x": 12.313070683244371,
+        "y": 57.79605188459962,
+        "text": "쉬림프버거세트",
+        "width": 10.416245727503203,
+        "height": 1.5245350768402455,
+        "rotation": 358.6182932638643
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "쉬림프버거세트",
+        "en.ROMAN": "shrimp burger set",
+        "en": "Shrimp Burger Set Menu",
+        "ja": "シュリンプバーガーセット",
+        "zh_CN": "鲜虾汉堡套餐",
+        "zh_TW": "鮮蝦堡套餐",
+        "price": "7400",
+        "ingredients.ko": [
+          "밀가루",
+          "양상추",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Lettuce",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "レタス",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "圆生菜",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "結球萵苣",
+          "海鮮"
+        ],
+        "allergy": [
+          "밀",
+          "새우",
+          "오징어"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-6",
+      "ocr": {
+        "x": 12.541052057454428,
+        "y": 61.76656622242778,
+        "text": "베이컨치즈버거세트",
+        "width": 13.146038689572686,
+        "height": 1.5821434361041726,
+        "rotation": 358.484722999795
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "베이컨치즈버거세트",
+        "en.ROMAN": "bacon cheeseburger set",
+        "en": "Bacon Cheeseburger Set Menu",
+        "ja": "ベーコンチーズバーガーセット",
+        "zh_CN": "培根奶酪汉堡套餐",
+        "zh_TW": "培根起司漢堡套餐",
+        "price": "9800",
+        "ingredients.ko": [
+          "치즈",
+          "베이컨"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Bacon"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "ベーコン"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "培根"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "培根"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-7",
+      "ocr": {
+        "x": 12.566137566137584,
+        "y": 59.722222222222264,
+        "text": "치즈버거세트",
+        "width": 8.992183359728092,
+        "height": 1.5376984126984146,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "치즈버거세트",
+        "en.ROMAN": "cheeseburger set",
+        "en": "Cheeseburger Set Menu",
+        "ja": "チーズバーガーセット",
+        "zh_CN": "奶酪汉堡套餐",
+        "zh_TW": "起司堡套餐",
+        "price": "8400",
+        "ingredients.ko": [
+          "밀가루",
+          "양상추",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Lettuce",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "レタス",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "圆生菜",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "結球萵苣",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-8",
+      "ocr": {
+        "x": 12.764550264550266,
+        "y": 67.70833333333333,
+        "text": "JG버거세트",
+        "width": 7.9356660581809715,
+        "height": 1.512896825396826,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "JG버거세트",
+        "en.ROMAN": "JG burger set",
+        "en": "JB Burger Set Menu",
+        "ja": "JGバーガーセット",
+        "zh_CN": "JG汉堡套餐",
+        "zh_TW": "JG漢堡套餐",
+        "price": "12400",
+        "ingredients.ko": [
+          "밀가루",
+          "양상추",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Lettuce",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "レタス",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "圆生菜",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "結球萵苣",
+          "牛肉"
+        ],
+        "allergy": [
+          "밀",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-9",
+      "ocr": {
+        "x": 12.76455026455027,
+        "y": 63.64087301587303,
+        "text": "더블치즈버거세트",
+        "width": 11.539321534351352,
+        "height": 1.5376984126984146,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "더블치즈버거세트",
+        "en.ROMAN": "double cheeseburger set",
+        "en": "Double Cheese Burger Set",
+        "ja": "ダブルチーズバーガーセット",
+        "zh_CN": "双层奶酪汉堡套餐",
+        "zh_TW": "雙倍起司漢堡套餐",
+        "price": "10800",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-10",
+      "ocr": {
+        "x": 12.863756613756617,
+        "y": 65.67460317460316,
+        "text": "머쉬룸버거세트",
+        "width": 10.085978835978837,
+        "height": 1.5376984126984126,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "머쉬룸버거세트",
+        "en.ROMAN": "mushroom burger set",
+        "en": "Mushroom Burger Set Menu",
+        "ja": "マッシュルームバーガーセット",
+        "zh_CN": "蘑菇汉堡套餐",
+        "zh_TW": "蘑菇漢堡套餐",
+        "price": "11400",
+        "ingredients.ko": [
+          "밀가루",
+          "양상추",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Lettuce",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "レタス",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "圆生菜",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "結球萵苣",
+          "蘑菇"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-11",
+      "ocr": {
+        "x": 38.69047619047619,
+        "y": 37.92162698412698,
+        "text": "쉬림프버거",
+        "width": 8.630952380952381,
+        "height": 1.9345238095238093,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "쉬림프버거",
+        "en.ROMAN": "shrimp burger",
+        "en": "Shrimp Burger",
+        "ja": "シュリンプバーガー",
+        "zh_CN": "鲜虾汉堡",
+        "zh_TW": "鮮蝦堡",
+        "price": "3900",
+        "ingredients.ko": [
+          "야채",
+          "새우",
+          "빵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Shrimp",
+          "Bread"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海老",
+          "パン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "虾",
+          "面包"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蝦",
+          "麵包"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-12",
+      "ocr": {
+        "x": 38.92195767195767,
+        "y": 43.154761904761905,
+        "text": "머쉬룸버거",
+        "width": 8.498677248677248,
+        "height": 1.9345238095238093,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "머쉬룸버거",
+        "en.ROMAN": "mushroom burger",
+        "en": "Mushroom burger",
+        "ja": "マッシュルームバーガー",
+        "zh_CN": "蘑菇汉堡",
+        "zh_TW": "蘑菇漢堡",
+        "price": "7900",
+        "ingredients.ko": [
+          "소고기",
+          "양파",
+          "버섯",
+          "트러플",
+          "루꼴라"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Onion",
+          "Mushroom",
+          "Truffle",
+          "Arugula"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "玉ねぎ",
+          "きのこ",
+          "トリュフ",
+          "ルッコラ"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "洋葱",
+          "蘑菇",
+          "松露",
+          "芝麻菜"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "洋蔥",
+          "蘑菇",
+          "松露",
+          "芝麻菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-13",
+      "ocr": {
+        "x": 38.92195767195767,
+        "y": 48.16468253968254,
+        "text": "JG버거",
+        "width": 5.787037037037037,
+        "height": 1.8601190476190477,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "JG버거",
+        "en.ROMAN": "JG burger",
+        "en": "JG burger",
+        "ja": "JGバーガー",
+        "zh_CN": "JG汉堡",
+        "zh_TW": "JG漢堡",
+        "price": "8900",
+        "ingredients.ko": [
+          "밀가루",
+          "양상추"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Lettuce"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "レタス"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "圆生菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "結球萵苣"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-14",
+      "ocr": {
+        "x": 65.47979948633991,
+        "y": 40.13900379774878,
+        "text": "JG치즈스틱(체다/크림中택1)",
+        "width": 16.573237415289256,
+        "height": 1.5059130476929357,
+        "rotation": 358.7066071585128
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈스틱",
+        "en.ROMAN": "cheese stick",
+        "en": "Cheese Sticks",
+        "ja": "チーズスティック",
+        "zh_CN": "奶酪条",
+        "zh_TW": "起司條",
+        "price": "2500",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-15",
+      "ocr": {
+        "x": 65.54232804232805,
+        "y": 30.059523809523807,
+        "text": "프렌치프라이",
+        "width": 8.267195767195767,
+        "height": 1.711309523809524,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "프렌치프라이",
+        "en.ROMAN": "French fries",
+        "en": "French fries",
+        "ja": "フライドポテト",
+        "zh_CN": "炸薯条",
+        "zh_TW": "炸薯條",
+        "price": "2000",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-16",
+      "ocr": {
+        "x": 65.5431998943177,
+        "y": 37.25961361969987,
+        "text": "치즈스틱",
+        "width": 5.41220562948797,
+        "height": 1.4632936507936511,
+        "rotation": 357.9602534468298
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈스틱",
+        "en.ROMAN": "cheese stick",
+        "en": "Cheese Sticks",
+        "ja": "チーズスティック",
+        "zh_CN": "奶酪条",
+        "zh_TW": "起司條",
+        "price": "2500",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-17",
+      "ocr": {
+        "x": 65.5650339006888,
+        "y": 33.12583194767391,
+        "text": "치즈프렌치프라이",
+        "width": 10.91269841269841,
+        "height": 1.6121031746031744,
+        "rotation": 359.43329923388626
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "치즈프렌치프라이",
+        "en.ROMAN": "cheese French fry",
+        "en": "Cheese Deep-fried Potatoes",
+        "ja": "チーズフレンチフライ",
+        "zh_CN": "奶酪炸薯条",
+        "zh_TW": "炸起司薯條",
+        "price": "3500",
+        "ingredients.ko": [
+          "치즈",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "馬鈴薯"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-18",
+      "ocr": {
+        "x": 65.56557361267382,
+        "y": 57.43193121935003,
+        "text": "통가슴살후라이드",
+        "width": 11.111111111111107,
+        "height": 1.5376984126984123,
+        "rotation": 359.43591243840154
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "통가슴살후라이드",
+        "en.ROMAN": "tonggaseumsal fried",
+        "en": "Fried Whole Chicken Breast",
+        "ja": "丸ごと鶏むね肉フライド",
+        "zh_CN": "炸整块胸肉",
+        "zh_TW": "炸整塊雞胸肉",
+        "price": "3200",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-19",
+      "ocr": {
+        "x": 65.65781136614453,
+        "y": 44.15814571864691,
+        "text": "버팔로윙봉순한맛",
+        "width": 11.471516189233364,
+        "height": 1.4057189070132725,
+        "rotation": 358.79338350746116
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "버팔로윙봉순한맛",
+        "en.ROMAN": "Buffalo wing bong sunhanmat",
+        "en": "Mild Buffalo Wings",
+        "ja": "バッファローウィングと手羽元まろやか味",
+        "zh_CN": "原味布法罗辣鸡翅翅根",
+        "zh_TW": "原味水牛城辣雞翅與翅小腿",
+        "price": "4900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-20",
+      "ocr": {
+        "x": 65.79968111507235,
+        "y": 61.41792211977752,
+        "text": "바닐라밀크쉐이크",
+        "width": 10.54872489555967,
+        "height": 1.397935791688563,
+        "rotation": 359.51158886891994
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "바닐라밀크쉐이크",
+        "en.ROMAN": "vanilla milk shake",
+        "en": "Vanilla Milkshake",
+        "ja": "バニラミルクセーキ",
+        "zh_CN": "香草奶昔",
+        "zh_TW": "香草奶昔",
+        "price": "3800",
+        "ingredients.ko": [
+          "우유",
+          "바닐라"
+        ],
+        "ingredients.en": [
+          "Milk",
+          "Vanilla"
+        ],
+        "ingredients.ja": [
+          "牛乳",
+          "バニラ"
+        ],
+        "ingredients.zh_CN": [
+          "牛奶",
+          "香草"
+        ],
+        "ingredients.zh_TW": [
+          "牛奶",
+          "香草"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-21",
+      "ocr": {
+        "x": 65.67460317460305,
+        "y": 54.623319648024435,
+        "text": "더치즈볼",
+        "width": 5.360931976547369,
+        "height": 1.4034660662609932,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "더치즈볼",
+        "en.ROMAN": "the cheese ball",
+        "en": "The Cheese Balls",
+        "ja": "ザチーズボール",
+        "zh_CN": "奶酪球",
+        "zh_TW": "起司球",
+        "price": "2500",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-22",
+      "ocr": {
+        "x": 65.6640348989029,
+        "y": 50.861561596013786,
+        "text": "스파이시텐더",
+        "width": 8.501297158442183,
+        "height": 1.4379927447211764,
+        "rotation": 359.32240202902113
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "스파이시텐더",
+        "en.ROMAN": "spicy tender",
+        "en": "Spicy Chicken Tender",
+        "ja": "スパイシーテンダー",
+        "zh_CN": "香辣炸鸡柳",
+        "zh_TW": "香辣雞柳",
+        "price": "2300",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-23",
+      "ocr": {
+        "x": 65.66335603396388,
+        "y": 47.979867349128725,
+        "text": "버팔로윙봉매운맛",
+        "width": 11.533142701409222,
+        "height": 1.447182113447826,
+        "rotation": 359.30567763494076
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "버팔로윙봉매운맛",
+        "en.ROMAN": "Buffalo wing bong maeunmat",
+        "en": "Spicy Buffalo Wings",
+        "ja": "バッファローウィングと手羽元辛味",
+        "zh_CN": "香辣味布法罗辣鸡翅翅根",
+        "zh_TW": "辣味水牛城辣雞翅與翅小腿",
+        "price": "5300",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_FF01_M0002_1133861_1-tf-24",
+      "ocr": {
+        "x": 65.7751396519553,
+        "y": 64.21741989310321,
+        "text": "커피(아메리카노)",
+        "width": 10.164572819162952,
+        "height": 1.5200332362611682,
+        "rotation": 358.8965091045465
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "커피(아메리카노)",
+        "en.ROMAN": "coffee (Americano)",
+        "en": "Coffee (Americano)",
+        "ja": "コーヒー(アメリカーノ)",
+        "zh_CN": "美式咖啡",
+        "zh_TW": "咖啡（美式咖啡）",
+        "price": "2000",
+        "ingredients.ko": [
+          "커피"
+        ],
+        "ingredients.en": [
+          "Coffee"
+        ],
+        "ingredients.ja": [
+          "コーヒー"
+        ],
+        "ingredients.zh_CN": [
+          "咖啡"
+        ],
+        "ingredients.zh_TW": [
+          "咖啡"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "t2CfKGBQ81",
+      "ocr": {
+        "x": 80.90825938330687,
+        "y": 66.92279297701393,
+        "text": "오렌지맛",
+        "width": 3.8608734551725585,
+        "height": 0.9893488228879678,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "오렌지맛",
+        "en.ROMAN": "orange mat",
+        "en": "Orange Flavor",
+        "ja": "オレンジ味",
+        "zh_CN": "橙子味",
+        "zh_TW": "橘子味",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "CxixwwJBMh",
+      "ocr": {
+        "x": 77.75521272824923,
+        "y": 66.92279297701396,
+        "text": "사이다",
+        "width": 2.9921769277587797,
+        "height": 1.0376097410775922,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "사이다",
+        "en.ROMAN": "cider",
+        "en": "Cider",
+        "ja": "サイダー",
+        "zh_CN": "汽水",
+        "zh_TW": "汽水",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "AjTk6OsGt5",
+      "ocr": {
+        "x": 73.78157728200922,
+        "y": 67.03545391198045,
+        "text": "제로콜라",
+        "width": 3.8617219893453325,
+        "height": 0.9892966714718399,
+        "rotation": 358.3153156821052
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "제로콜라",
+        "en.ROMAN": "zero cola",
+        "en": "Coke Zero",
+        "ja": "ゼロコーラ",
+        "zh_CN": "无糖可乐",
+        "zh_TW": "零卡可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "llMjLjtnhp",
+      "ocr": {
+        "x": 71.55092636999099,
+        "y": 67.12484815739916,
+        "text": "콜라",
+        "width": 1.9626106730460493,
+        "height": 0.9410879046983119,
+        "rotation": 357.45519562018666
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "콜라",
+        "en.ROMAN": "cola",
+        "en": "Coke",
+        "ja": "コーラ",
+        "zh_CN": "可乐",
+        "zh_TW": "可樂",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

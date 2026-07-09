@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_378339_3.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:27 12:04:17",
+    "store_id": "378339",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 0,
+        "width": 99.99999999999996,
+        "height": 99.99999999999994,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "함박스테이크",
+        "en.ROMAN": "hamburg steak",
+        "en": "Hamburger Steak",
+        "ja": "ハンバーグステーキ",
+        "zh_CN": "汉堡牛排",
+        "zh_TW": "漢堡排",
+        "price": "20000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_378339_3-tf.jpg_0",
+      "ocr": {
+        "x": 8.294449587652721,
+        "y": 27.68873599993003,
+        "text": "함박스테이크",
+        "width": 13.584033552941113,
+        "height": 1.7339876491680493,
+        "rotation": 0.7604635223614764
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "문어라구파스타",
+        "en.ROMAN": "muneo ragu pasta",
+        "en": "Octopus Ragu Pasta",
+        "ja": "タコ入りラグーソースパスタ",
+        "zh_CN": "章鱼烧意大利面",
+        "zh_TW": "墨魚肉醬義大利麵",
+        "price": "23000",
+        "ingredients.ko": [
+          "문어",
+          "밀가루",
+          "토마토",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Wheat Flour",
+          "Tomato",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "タコ",
+          "小麦粉",
+          "トマト",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼",
+          "面粉",
+          "番茄",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "麵粉",
+          "番茄",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_378339_3-tf.jpg_1",
+      "ocr": {
+        "x": 55.172121440013136,
+        "y": 27.941445563226058,
+        "text": "문어라구파스타",
+        "width": 14.830974480499787,
+        "height": 1.582287561776948,
+        "rotation": 0.7527553993525657
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "쉬림프알프레도파스타",
+        "en.ROMAN": "shrimp alfredo pasta",
+        "en": "Shrimp Alfredo Pasta",
+        "ja": "シュリンプアルフレッドパスタ",
+        "zh_CN": "虾仁白酱鸡肉意大利面",
+        "zh_TW": "白醬鮮蝦義大利麵",
+        "price": "23000",
+        "ingredients.ko": [
+          "새우",
+          "밀가루",
+          "토마토",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Wheat Flour",
+          "Tomato",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "小麦粉",
+          "トマト",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "面粉",
+          "番茄",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "麵粉",
+          "番茄",
+          "起司"
+        ],
+        "allergy": [
+          "새우",
+          "밀",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_378339_3-tf.jpg_10",
+      "ocr": {
+        "x": 6.924814146429118,
+        "y": 49.50814818946114,
+        "text": "쉬림프알프레도파스타",
+        "width": 22.57556762114263,
+        "height": 1.6791475507812905,
+        "rotation": 1.4675763346240274
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "해산물아라비아타파스타",
+        "en.ROMAN": "haesanmul arrabbiata pasta",
+        "en": "Seafood Arrabiata Pasta",
+        "ja": "海鮮入りアラビアータパスタ",
+        "zh_CN": "香辣海鲜番茄意大利面",
+        "zh_TW": "海鮮香辣番茄義大利麵",
+        "price": "19000",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루",
+          "토마토",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour",
+          "Tomato",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉",
+          "トマト",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉",
+          "番茄",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉",
+          "番茄",
+          "起司"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_378339_3-tf.jpg_11",
+      "ocr": {
+        "x": 52.57516083881607,
+        "y": 50.084809800183194,
+        "text": "해산물아라비아타파스타",
+        "width": 24.975487158193083,
+        "height": 1.6612899976303723,
+        "rotation": 1.4354975776736296
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "컴비네이션피자",
+        "en.ROMAN": "combination pizza",
+        "en": "Combination Pizza",
+        "ja": "コンビネーションピザ",
+        "zh_CN": "什锦披萨",
+        "zh_TW": "組合披薩",
+        "price": "20000",
+        "ingredients.ko": [
+          "채소",
+          "모짜렐라치즈",
+          "밀가루",
+          "페페로니",
+          "올리브"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mozzarella",
+          "Wheat Flour",
+          "Pepperoni",
+          "Olive"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "モッツァレラチーズ",
+          "小麦粉",
+          "ペパロニ",
+          "オリーブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "马苏里拉奶酪",
+          "面粉",
+          "意大利辣香肠",
+          "橄榄"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "莫札瑞拉起司",
+          "麵粉",
+          "義大利辣味香腸",
+          "橄欖油"
+        ],
+        "allergy": [
+          "우유",
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_378339_3-tf.jpg_17",
+      "ocr": {
+        "x": 5.193352763105816,
+        "y": 71.70366515606345,
+        "text": "컴비네이션피자",
+        "width": 14.80730923467219,
+        "height": 1.6618334614411692,
+        "rotation": 1.462805013921411
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "독일식커리피자",
+        "en.ROMAN": "dogilsik curry pizza",
+        "en": "German Curry Pizza",
+        "ja": "ドイツ風カレーピザ",
+        "zh_CN": "德式咖喱披萨",
+        "zh_TW": "德式咖哩披薩",
+        "price": "28000",
+        "ingredients.ko": [
+          "밀가루",
+          "토마토",
+          "치즈",
+          "카레"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Tomato",
+          "Cheese",
+          "Curry"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "トマト",
+          "チーズ",
+          "カレー"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "番茄",
+          "奶酪",
+          "咖喱"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "番茄",
+          "起司",
+          "咖哩"
+        ],
+        "allergy": [
+          "밀",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_378339_3-tf.jpg_19",
+      "ocr": {
+        "x": 51.10368414468697,
+        "y": 72.44738223638899,
+        "text": "독일식커리피자",
+        "width": 15.527639816563804,
+        "height": 1.6297110421897887,
+        "rotation": 1.491171295394338
+      }
+    }
+  ]
+}

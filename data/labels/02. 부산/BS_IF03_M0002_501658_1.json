@@ -1,0 +1,489 @@
+{
+  "meta": {
+    "file_name": "BS_IF03_M0002_501658_1.jpg",
+    "image_original_width": 2250,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:03 10:55:26",
+    "store_id": "501658",
+    "store_region": "BS",
+    "store_type": "IF03",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          27.610514555020348,
+          18.72543909211322
+        ],
+        [
+          76.26064563850456,
+          18.633474406543574
+        ],
+        [
+          72.55608522667869,
+          85.90101161119719
+        ],
+        [
+          28.14930556566173,
+          84.37429405394529
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-0",
+      "ocr": {
+        "x": 32.04654960445536,
+        "y": 20.38609318662191,
+        "text": "아나고회",
+        "width": 15.14140598256406,
+        "height": 2.621883065001199,
+        "rotation": 0.31379861472845505
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "아나고회",
+        "en.ROMAN": "anagohoe",
+        "en": "Sliced Raw Conger Eel",
+        "ja": "アナゴの刺身",
+        "zh_CN": "星鳗生鱼片",
+        "zh_TW": "星鰻生魚片",
+        "price": "30000",
+        "ingredients.ko": [
+          "생선회",
+          "붕장어"
+        ],
+        "ingredients.en": [
+          "Sliced Raw Fish",
+          "Conger Eel"
+        ],
+        "ingredients.ja": [
+          "刺身",
+          "アナゴ"
+        ],
+        "ingredients.zh_CN": [
+          "生鱼片",
+          "星鳗"
+        ],
+        "ingredients.zh_TW": [
+          "生魚片",
+          "星鰻"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-1",
+      "ocr": {
+        "x": 31.974293596087765,
+        "y": 28.975237802077466,
+        "text": "장어구이",
+        "width": 14.969269138434724,
+        "height": 2.579383323696247,
+        "rotation": 1.0000995881080144
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "장어구이",
+        "en.ROMAN": "jangeogui",
+        "en": "Grilled Eel",
+        "ja": "ウナギ焼き",
+        "zh_CN": "烤鳗鱼",
+        "zh_TW": "烤鰻魚",
+        "price": "30000",
+        "ingredients.ko": [
+          "장어"
+        ],
+        "ingredients.en": [
+          "Eel"
+        ],
+        "ingredients.ja": [
+          "ウナギ"
+        ],
+        "ingredients.zh_CN": [
+          "鳗鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鰻魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-2",
+      "ocr": {
+        "x": 32.1606956697189,
+        "y": 34.623830494602046,
+        "text": "모듬회",
+        "width": 11.123075097765282,
+        "height": 2.51432714483257,
+        "rotation": 0.9080167449394594
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "모듬회",
+        "en.ROMAN": "modeumhoe",
+        "en": "Assorted Sliced Raw Fish",
+        "ja": "刺身の盛り合わせ",
+        "zh_CN": "生鱼片拼盘",
+        "zh_TW": "綜合生魚片",
+        "price": "30000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-3",
+      "ocr": {
+        "x": 32.14688434868157,
+        "y": 42.80445047492015,
+        "text": "해삼",
+        "width": 7.724201947654401,
+        "height": 2.4171589946474725,
+        "rotation": 1.915226197021184
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "해삼",
+        "en.ROMAN": "haesam",
+        "en": "Sea Cucumber",
+        "ja": "ナマコ",
+        "zh_CN": "海参",
+        "zh_TW": "海參",
+        "price": "20000",
+        "ingredients.ko": [
+          "해삼"
+        ],
+        "ingredients.en": [
+          "Sea Cucumber"
+        ],
+        "ingredients.ja": [
+          "ナマコ"
+        ],
+        "ingredients.zh_CN": [
+          "海参"
+        ],
+        "ingredients.zh_TW": [
+          "海參"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-4",
+      "ocr": {
+        "x": 32.240642341231684,
+        "y": 48.20307606953441,
+        "text": "멍게",
+        "width": 7.284485237949507,
+        "height": 2.4029163469285435,
+        "rotation": 1.3701561437495684
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "멍게",
+        "en.ROMAN": "meongge",
+        "en": "Sea Pineapple",
+        "ja": "ホヤ",
+        "zh_CN": "海鞘",
+        "zh_TW": "海鞘",
+        "price": "20000",
+        "ingredients.ko": [
+          "멍게"
+        ],
+        "ingredients.en": [
+          "Sea Pineapple"
+        ],
+        "ingredients.ja": [
+          "ホヤ"
+        ],
+        "ingredients.zh_CN": [
+          "海鞘"
+        ],
+        "ingredients.zh_TW": [
+          "海鞘"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-5",
+      "ocr": {
+        "x": 32.07717950460905,
+        "y": 53.435169442410306,
+        "text": "산낙지",
+        "width": 10.913709751177926,
+        "height": 2.3802309331564464,
+        "rotation": 1.952802623091543
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "산낙지",
+        "en.ROMAN": "sannakji",
+        "en": "Live Octopus",
+        "ja": "生テナガダコ",
+        "zh_CN": "活长爪章鱼",
+        "zh_TW": "活章魚",
+        "price": "20000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-6",
+      "ocr": {
+        "x": 32.457747493223245,
+        "y": 62.55648118754611,
+        "text": "생우럭탕",
+        "width": 11.660968647132533,
+        "height": 1.936026462758654,
+        "rotation": 2.1401725281295967
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "생우럭탕",
+        "en.ROMAN": "saengureoktang",
+        "en": "Rockfish Soup",
+        "ja": "クロソイスープ",
+        "zh_CN": "鲜石斑鱼汤",
+        "zh_TW": "鮮石斑魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "우럭"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rockfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "クロソイ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "石斑鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "石斑魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-7",
+      "ocr": {
+        "x": 32.43809176857249,
+        "y": 65.01172226532792,
+        "text": "장어탕",
+        "width": 8.824279906344008,
+        "height": 1.9289092765491682,
+        "rotation": 2.2686107593497695
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "장어탕",
+        "en.ROMAN": "jangeotang",
+        "en": "Eel Soup",
+        "ja": "ウナギスープ",
+        "zh_CN": "鳗鱼汤",
+        "zh_TW": "鰻魚湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "장어"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Eel"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ウナギ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鳗鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鰻魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-8",
+      "ocr": {
+        "x": 32.38052314409773,
+        "y": 67.46561411913906,
+        "text": "장어구이정식",
+        "width": 16.90614262795402,
+        "height": 1.9276021449734406,
+        "rotation": 2.3534189968478927
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "장어구이정식",
+        "en.ROMAN": "jangeoguijeongsik",
+        "en": "Grilled Eel Set Menu",
+        "ja": "ウナギ焼き定食",
+        "zh_CN": "烤鳗鱼套餐",
+        "zh_TW": "烤鰻魚套餐",
+        "price": "10000",
+        "ingredients.ko": [
+          "장어"
+        ],
+        "ingredients.en": [
+          "Eel"
+        ],
+        "ingredients.ja": [
+          "ウナギ"
+        ],
+        "ingredients.zh_CN": [
+          "鳗鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鰻魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-9",
+      "ocr": {
+        "x": 32.47655364811588,
+        "y": 69.89117217067928,
+        "text": "어탕수제비",
+        "width": 14.033192796632267,
+        "height": 1.8803048748705253,
+        "rotation": 2.712289369550831
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "어탕수제비",
+        "en.ROMAN": "eotangsujebi",
+        "en": "Hand-pulled Dough Fish Soup",
+        "ja": "魚入りすいとん",
+        "zh_CN": "鱼汤面片汤",
+        "zh_TW": "魚湯麵疙瘩",
+        "price": "10000",
+        "ingredients.ko": [
+          "생선",
+          " 채소",
+          " 밀가루"
+        ],
+        "ingredients.en": [
+          "Fish",
+          "Vegetables",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚",
+          "野菜",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼",
+          "蔬菜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚",
+          "蔬菜",
+          "麵粉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "BS_IF03_M0002_501658_1-tf-10",
+      "ocr": {
+        "x": 32.40841790002958,
+        "y": 72.25553299633303,
+        "text": "회비빔밥",
+        "width": 12.39463936661737,
+        "height": 1.9560474158128391,
+        "rotation": 2.6276822512623994
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "회비빔밥",
+        "en.ROMAN": "hoebibimbap",
+        "en": "Raw Fish Bibimbap",
+        "ja": "刺身ビビンバ",
+        "zh_CN": "生鱼片拌饭",
+        "zh_TW": "生魚片拌飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,929 @@
+{
+  "meta": {
+    "file_name": "KS_IF03_M0001_1888044_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "1888044",
+    "store_region": "KS",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          84.81781376518218,
+          9.878419452887538
+        ],
+        [
+          6.0728744939271255,
+          10.182370820668693
+        ],
+        [
+          0.6072874493927125,
+          97.56838905775076
+        ],
+        [
+          92.3076923076923,
+          97.26443768996963
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "로스카츠",
+        "en.ROMAN": "roseu katsu",
+        "en": "Pork Sirloin Cutlet",
+        "ja": "ロースカツ",
+        "zh_CN": "炸猪里脊排",
+        "zh_TW": "炸豬里肌排",
+        "price": "10000",
+        "ingredients.ko": [
+          "계란",
+          "돼지등심",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Pork Sirloin",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "豚ロース",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "猪外脊肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "豬里肌",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_1",
+      "ocr": {
+        "x": 37.13889862076868,
+        "y": 23.797473866399812,
+        "text": "로스카츠",
+        "width": 9.225284138111961,
+        "height": 1.6865079365079374,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "상로스카츠",
+        "en.ROMAN": "Sang roseu katsu",
+        "en": "Pork Sirloin Cutlet",
+        "ja": "上ロースカツ",
+        "zh_CN": "高级炸猪外脊排",
+        "zh_TW": "上等里脊豬排",
+        "price": "13000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "雞蛋"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_3",
+      "ocr": {
+        "x": 37.110394171890306,
+        "y": 25.835424885274055,
+        "text": "상로스카츠",
+        "width": 11.07330650578282,
+        "height": 1.7495519087895413,
+        "rotation": 358.5324757141349
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "히레카츠",
+        "en.ROMAN": "hire katsu",
+        "en": "Pork Tenderloin Cutlet",
+        "ja": "ヒレカツ",
+        "zh_CN": "炸猪里脊排",
+        "zh_TW": "炸豬里肌排",
+        "price": "10500",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_6",
+      "ocr": {
+        "x": 37.18179188930638,
+        "y": 27.703373015873044,
+        "text": "히레카츠",
+        "width": 9.080481406007877,
+        "height": 1.7268679722015192,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "에비카츠",
+        "en.ROMAN": "ebi katsu",
+        "en": "Shrimp Cutlet",
+        "ja": "海老カツ",
+        "zh_CN": "炸虾",
+        "zh_TW": "炸蝦",
+        "price": "10000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_7",
+      "ocr": {
+        "x": 37.13083715752322,
+        "y": 29.63930022750405,
+        "text": "에비카츠",
+        "width": 9.10063506412154,
+        "height": 1.7375145132183203,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "등심+안심+새우카츠",
+        "en.ROMAN": "deungsim+ansim+saeu katsu",
+        "en": "Pork Sirloin Cutlet+Pork Tenderloin Cutlet+Shrimp Cutlet",
+        "ja": "ロース+ヒレ+海老フライ",
+        "zh_CN": "炸猪外脊排+炸猪里脊排+炸虾",
+        "zh_TW": "里肌+腰內肉+炸蝦",
+        "price": "13000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_9",
+      "ocr": {
+        "x": 37.096867336334434,
+        "y": 31.510767517193475,
+        "text": "모듬카츠(등심+안심+새우)",
+        "width": 23.446067222252143,
+        "height": 1.7609126984126973,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "카츠샌드",
+        "en.ROMAN": "katsu sand",
+        "en": "Pork Cutlet Sandwich",
+        "ja": "カツサンド",
+        "zh_CN": "炸猪排三明治",
+        "zh_TW": "炸豬排三明治",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_12",
+      "ocr": {
+        "x": 37.13354027188355,
+        "y": 33.528939227531716,
+        "text": "카츠샌드",
+        "width": 9.205736226801688,
+        "height": 1.8182345846054808,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "카츠혼우동",
+        "en.ROMAN": "katsu hone udon",
+        "en": "Katsuhon Udon",
+        "ja": "カツホンうどん",
+        "zh_CN": "卡茨霍恩乌冬面",
+        "zh_TW": "卡茨霍恩烏冬面",
+        "price": "7900",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_15",
+      "ocr": {
+        "x": 36.968092771358826,
+        "y": 38.598792590086966,
+        "text": "카츠혼우동",
+        "width": 11.447412340880117,
+        "height": 1.8408028310568232,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "니꾸우동",
+        "en.ROMAN": "niku udon",
+        "en": "Niku udon",
+        "ja": "肉うどん",
+        "zh_CN": "牛肉乌冬面",
+        "zh_TW": "牛肉烏龍麵",
+        "price": "9500",
+        "ingredients.ko": [
+          "소고기",
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "쇠고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_17",
+      "ocr": {
+        "x": 36.97560971203472,
+        "y": 40.67460317460318,
+        "text": "니꾸우동",
+        "width": 9.36559597784149,
+        "height": 1.887153975770882,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "에비우동",
+        "en.ROMAN": "ebi udon",
+        "en": "Deep-fried Shrimp Udon",
+        "ja": "海老うどん",
+        "zh_CN": "炸虾乌冬面",
+        "zh_TW": "炸蝦龍麵麵",
+        "price": "9500",
+        "ingredients.ko": [
+          "새우",
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "새우",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_19",
+      "ocr": {
+        "x": 37.04282637797423,
+        "y": 42.708333333333336,
+        "text": "에비우동",
+        "width": 9.415000842413086,
+        "height": 1.8353174603174518,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "냉모밀",
+        "en.ROMAN": "naengmomil",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷そば",
+        "zh_CN": "荞麦凉面",
+        "zh_TW": "冷蕎麥麵",
+        "price": "7900",
+        "ingredients.ko": [
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_21",
+      "ocr": {
+        "x": 36.93824290872705,
+        "y": 44.75060492991933,
+        "text": "냉모밀",
+        "width": 7.2003729724415475,
+        "height": 1.8225053035335237,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "부타동",
+        "en.ROMAN": "buta dong",
+        "en": "Stir-fried Pork with Rice",
+        "ja": "豚丼",
+        "zh_CN": "猪肉盖饭",
+        "zh_TW": "豚丼",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_24",
+      "ocr": {
+        "x": 36.793096160914374,
+        "y": 50.337318592870076,
+        "text": "부타동",
+        "width": 7.593365386099733,
+        "height": 1.9115419530445505,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "규동",
+        "en.ROMAN": "gyudong",
+        "en": "Grilled Beef with Rice",
+        "ja": "牛丼",
+        "zh_CN": "日式牛肉盖饭",
+        "zh_TW": "牛肉丼飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_26",
+      "ocr": {
+        "x": 36.714183364581515,
+        "y": 52.48760770913334,
+        "text": "규동",
+        "width": 7.704628064815256,
+        "height": 1.9338888899688045,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "카레",
+        "en.ROMAN": "curry",
+        "en": "Curry",
+        "ja": "カレー",
+        "zh_CN": "咖喱",
+        "zh_TW": "咖哩",
+        "price": "2000",
+        "ingredients.ko": [
+          "카레"
+        ],
+        "ingredients.en": [
+          "Curry"
+        ],
+        "ingredients.ja": [
+          "カレー"
+        ],
+        "ingredients.zh_CN": [
+          "咖喱"
+        ],
+        "ingredients.zh_TW": [
+          "咖哩"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_27",
+      "ocr": {
+        "x": 36.61497701537513,
+        "y": 54.897086166874885,
+        "text": "카레",
+        "width": 6.064939753360307,
+        "height": 1.982222225461877,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치즈쿠시카츠",
+        "en.ROMAN": "cheese kushi katsu",
+        "en": "cheese kushikatsu",
+        "ja": "筑紫カツ",
+        "zh_CN": "芝士库西卡茨",
+        "zh_TW": "芝士庫西卡茨",
+        "price": "2500",
+        "ingredients.ko": [
+          "치즈",
+          "밀가루",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Wheat Flour",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "小麦粉",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "面粉",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "麵粉",
+          "雞蛋"
+        ],
+        "allergy": [
+          "우유",
+          "밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_31",
+      "ocr": {
+        "x": 36.52044433274251,
+        "y": 60.663368399084405,
+        "text": "모찌치즈쿠시카츠",
+        "width": 19.550020745241646,
+        "height": 2.118592350732115,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "추가새우",
+        "en.ROMAN": "chugasaeu",
+        "en": "Extra Serving of Shrimp",
+        "ja": "海老追加",
+        "zh_CN": "另加虾仁",
+        "zh_TW": "加點炸蝦",
+        "price": "2500",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_33",
+      "ocr": {
+        "x": 36.3760241515339,
+        "y": 62.979059307631175,
+        "text": "추가새우",
+        "width": 10.927847049491074,
+        "height": 2.0089285714285685,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "에비수프리미엄생맥주",
+        "en.ROMAN": "ebisu premium saengmaekju",
+        "en": "Ebisu Premium Draft Beer",
+        "ja": "エビスーププレミアム生ビール",
+        "zh_CN": "艾维苏高级生啤",
+        "zh_TW": "艾維蘇高級生啤",
+        "price": "6000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_36",
+      "ocr": {
+        "x": 36.36095354189049,
+        "y": 69.11349393584963,
+        "text": "에비수프리미엄생맥주",
+        "width": 24.032855465946557,
+        "height": 2.1577380952380927,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "국산맥주",
+        "en.ROMAN": "guksan maekju",
+        "en": "Korean Beer",
+        "ja": "国産ビール",
+        "zh_CN": "韩国产啤酒",
+        "zh_TW": "韓國產啤酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_39",
+      "ocr": {
+        "x": 36.24582165373758,
+        "y": 72.24702380952382,
+        "text": "국산맥주",
+        "width": 10.21460085272699,
+        "height": 2.0337301587301586,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "잔와인",
+        "en.ROMAN": "jan wine",
+        "en": "A Glass of Wine",
+        "ja": "グラスワイン",
+        "zh_CN": "杯装红酒",
+        "zh_TW": "葡萄酒杯",
+        "price": "7000",
+        "ingredients.ko": [
+          "와인"
+        ],
+        "ingredients.en": [
+          "Wine"
+        ],
+        "ingredients.ja": [
+          "ワイン"
+        ],
+        "ingredients.zh_CN": [
+          "红酒"
+        ],
+        "ingredients.zh_TW": [
+          "葡萄酒"
+        ],
+        "allergy": [
+          "아황산함유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_41",
+      "ocr": {
+        "x": 36.201324041253976,
+        "y": 74.6202343505232,
+        "text": "잔와인",
+        "width": 7.751585366690487,
+        "height": 2.1406783478895393,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "잔술",
+        "en.ROMAN": "jansul",
+        "en": "A Glass of Liquor",
+        "ja": "コップ酒",
+        "zh_CN": "杯酒",
+        "zh_TW": "杯酒",
+        "price": "7000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_IF03_M0001_1888044_1-tf_43",
+      "ocr": {
+        "x": 36.07476332368631,
+        "y": 77.06279668286899,
+        "text": "잔술",
+        "width": 8.060999979413475,
+        "height": 2.198811396167003,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료",
+        "en.ROMAN": "eumnyo",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "oA5-w0fXh9",
+      "ocr": {
+        "x": 36.015982866874204,
+        "y": 80.34996508800099,
+        "text": "음료",
+        "width": 6.488647245173283,
+        "height": 2.3042479457408405,
+        "rotation": 0
+      }
+    }
+  ]
+}

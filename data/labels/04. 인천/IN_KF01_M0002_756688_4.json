@@ -1,0 +1,394 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0002_756688_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "756688",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          5.255255255255255,
+          16.55405405405405
+        ],
+        [
+          93.09309309309309,
+          19.707207207207208
+        ],
+        [
+          98.94894894894895,
+          74.32432432432432
+        ],
+        [
+          0.45045045045045046,
+          75.56306306306307
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "등심돈까스",
+        "en.ROMAN": "deungsimdongaseu",
+        "en": "Pork cutlet with sirloin",
+        "ja": "ロースカツ",
+        "zh_CN": "炸猪外脊排",
+        "zh_TW": "炸豬里肌排",
+        "price": "8000",
+        "ingredients.ko": [
+          "계란",
+          "돼지등심",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Pork Sirloin",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "豚ロース",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "猪外脊肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "豬里肌",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756688_4-tf_0",
+      "ocr": {
+        "x": 16.73880698035711,
+        "y": 21.56807276938262,
+        "text": "등심돈까스",
+        "width": 25.910617594337303,
+        "height": 4.52570178276108,
+        "rotation": 2.750941252309417
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치즈돈까스",
+        "en.ROMAN": "cheese dongaseu",
+        "en": "Cheese Stuffed Pork Cutlet",
+        "ja": "チーズ豚カツ",
+        "zh_CN": "炸奶酪猪排",
+        "zh_TW": "起司炸豬排",
+        "price": "9000",
+        "ingredients.ko": [
+          "돼지고기",
+          "치즈",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Cheese",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "チーズ",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "奶酪",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "起司",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756688_4-tf_2",
+      "ocr": {
+        "x": 16.605726339927877,
+        "y": 26.99134054300408,
+        "text": "치즈돈까스",
+        "width": 26.248019355840697,
+        "height": 4.481236008748143,
+        "rotation": 2.750941252309417
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "치즈볶음밥",
+        "en.ROMAN": "cheese bokkeumbap",
+        "en": "Cheese Fried Rice",
+        "ja": "チーズチャーハン",
+        "zh_CN": "奶酪炒饭",
+        "zh_TW": "起司炒飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "米"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756688_4-tf_4",
+      "ocr": {
+        "x": 16.46584595111109,
+        "y": 32.41342373708528,
+        "text": "치즈볶음밥",
+        "width": 26.373359140365128,
+        "height": 4.63612807477926,
+        "rotation": 2.750941252310213
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756688_4-tf_6",
+      "ocr": {
+        "x": 16.012331850262896,
+        "y": 38.30333210467328,
+        "text": "공기밥",
+        "width": 16.506042936770882,
+        "height": 4.6871016420511875,
+        "rotation": 2.327839984518448
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756688_4-tf_8",
+      "ocr": {
+        "x": 15.928685837917993,
+        "y": 43.97827290397849,
+        "text": "라면사리",
+        "width": 21.539495256309312,
+        "height": 4.859991730007503,
+        "rotation": 2.263451710605807
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈사리",
+        "en.ROMAN": "cheese sari",
+        "en": "Extra Cheese",
+        "ja": "チーズ追加",
+        "zh_CN": "另加奶酪",
+        "zh_TW": "加點起司",
+        "price": "2000",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756688_4-tf_10",
+      "ocr": {
+        "x": 15.60638740820554,
+        "y": 49.92105294779898,
+        "text": "치즈사리",
+        "width": 21.688605630703318,
+        "height": 5.039916664310547,
+        "rotation": 1.8384552332534554
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "떡사리",
+        "en.ROMAN": "tteoksari",
+        "en": "Extra Rice Cake",
+        "ja": "トク追加",
+        "zh_CN": "另加年糕",
+        "zh_TW": "加點年糕",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀",
+          "떡"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Rice Cake"
+        ],
+        "ingredients.ja": [
+          "米",
+          "トク"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "糕"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "年糕"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756688_4-tf_12",
+      "ocr": {
+        "x": 15.45056963028001,
+        "y": 56.26100266307998,
+        "text": "떡사리",
+        "width": 16.274824646885733,
+        "height": 4.979979676888903,
+        "rotation": 0.9027518360677504
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "모듬사리",
+        "en.ROMAN": "modeumsari",
+        "en": "Assorted Extras",
+        "ja": "トッピングの盛り合わせ",
+        "zh_CN": "另加拼盘",
+        "zh_TW": "加點拼盤",
+        "price": "4000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0002_756688_4-tf_14",
+      "ocr": {
+        "x": 14.457648019313995,
+        "y": 62.562482327498145,
+        "text": "모듬사리",
+        "width": 22.6148284406765,
+        "height": 5.087318039864057,
+        "rotation": 0.11979947165440308
+      }
+    }
+  ]
+}

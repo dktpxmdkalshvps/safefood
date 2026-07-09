@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_230383_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:03 18:19:35",
+    "store_id": "230383",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 3.901734104046243,
+        "width": 99.48717948717949,
+        "height": 86.70520231213872,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0002_230383_1-tf-0",
+      "ocr": {
+        "x": 59.27088950909889,
+        "y": 7.286080142552794,
+        "text": "감자탕",
+        "width": 30.355206384920706,
+        "height": 5.426893143262805,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "감자탕",
+        "en.ROMAN": "gamjatang",
+        "en": "Pork Backbone Stew",
+        "ja": "カムジャタン",
+        "zh_CN": "脊骨土豆汤",
+        "zh_TW": "馬鈴薯排骨湯",
+        "price": "42000",
+        "ingredients.ko": [
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_230383_1-tf-1",
+      "ocr": {
+        "x": 59.02134693352247,
+        "y": 33.239873764952065,
+        "text": "등뼈찜",
+        "width": 28.784145052859383,
+        "height": 5.295252470095575,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "등뼈찜",
+        "en.ROMAN": "deungppyeojjim",
+        "en": "Braised Pork Backbones",
+        "ja": "豚の背骨の蒸し物",
+        "zh_CN": "炖腔骨",
+        "zh_TW": "燉豬骨",
+        "price": "45000",
+        "ingredients.ko": [
+          "야채",
+          "돼지등뼈",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork Backbone",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚の背骨",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪脊骨",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬脊骨",
+          "馬鈴薯"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_230383_1-tf-2",
+      "ocr": {
+        "x": 59.62833646673769,
+        "y": 57.95601702502864,
+        "text": "뼈해장국",
+        "width": 37.82014447516126,
+        "height": 5.211857916564099,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "뼈해장국",
+        "en.ROMAN": "ppyeohaejangguk",
+        "en": "Pork Backbone Hangover Soup",
+        "ja": "豚の背骨酔い覚ましスープ",
+        "zh_CN": "腔骨醒酒汤",
+        "zh_TW": "豬骨醒酒湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file_name": "GK_KF04_M0001_1225227_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:11 12:26:28",
+    "store_id": "1225227",
+    "store_region": "GK",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          8.148148148148149,
+          0.5555555555555556
+        ],
+        [
+          88.51851851851852,
+          6.111111111111111
+        ],
+        [
+          86.29629629629629,
+          94.16666666666667
+        ],
+        [
+          0.7407407407407409,
+          93.61111111111111
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "갈비",
+        "en.ROMAN": "galbi",
+        "en": "Galbi",
+        "ja": "カルビ",
+        "zh_CN": "排骨",
+        "zh_TW": "排骨",
+        "price": "39000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1225227_3-tf_3",
+      "ocr": {
+        "x": 15.52246024498275,
+        "y": 72.4520051528041,
+        "text": "송추갈비",
+        "width": 9.563820858993383,
+        "height": 2.274647413586183,
+        "rotation": 2.610325988393754
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "우대本갈비",
+        "en.ROMAN": "udaebongalbi",
+        "en": "Best beef ribs",
+        "ja": "優待本カルビ",
+        "zh_CN": "牛仔骨",
+        "zh_TW": "排骨",
+        "price": "38000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF04_M0001_1225227_3-tf_4",
+      "ocr": {
+        "x": 51.132722816260404,
+        "y": 73.91992218620805,
+        "text": "우대本갈비",
+        "width": 12.033337828532424,
+        "height": 2.195981690805728,
+        "rotation": 2.5809498586421
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0001_1129923_2.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "",
+    "store_id": "1129923",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          82.29183659713803,
+          0
+        ],
+        [
+          0.671093080707979,
+          0
+        ],
+        [
+          0.7514874919776536,
+          100
+        ],
+        [
+          80.2859813832723,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_KF01_M0001_1129923_2-tf-0",
+      "ocr": {
+        "x": 62.756632873222,
+        "y": 35.73958708850356,
+        "text": "찹쌀공기밥",
+        "width": 10.22582155514321,
+        "height": 2.9770145135027333,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "찹쌀공기밥",
+        "en.ROMAN": "chapssalgonggibap",
+        "en": "Steamed Sweet Rice",
+        "ja": "もち米ご飯",
+        "zh_CN": "糯米饭",
+        "zh_TW": "糯米飯",
+        "price": "2000",
+        "ingredients.ko": [
+          "찹쌀"
+        ],
+        "ingredients.en": [
+          "Sweet Rice"
+        ],
+        "ingredients.ja": [
+          "もち米"
+        ],
+        "ingredients.zh_CN": [
+          "糯米"
+        ],
+        "ingredients.zh_TW": [
+          "糯米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0001_1129923_2-tf-1",
+      "ocr": {
+        "x": 64.70615614737363,
+        "y": 43.782244745756415,
+        "text": "음료수",
+        "width": 6.112177721331998,
+        "height": 2.9039335758265863,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0001_1129923_2-tf-2",
+      "ocr": {
+        "x": 65.62841965825231,
+        "y": 51.744504057233705,
+        "text": "소주",
+        "width": 4.049041194580289,
+        "height": 2.6928322082095932,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF01_M0001_1129923_2-tf-3",
+      "ocr": {
+        "x": 65.61401275485845,
+        "y": 59.24537251618189,
+        "text": "맥주",
+        "width": 3.959044406813935,
+        "height": 2.7594197750986753,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

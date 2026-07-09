@@ -1,0 +1,559 @@
+{
+  "meta": {
+    "file_name": "DG_KF03_M0001_622288_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 3024,
+    "captured_date": "2022:10:08 13:25:14",
+    "store_id": "622288",
+    "store_region": "DG",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          92.24924012158063,
+          0.30395136778115495
+        ],
+        [
+          10.069866270852339,
+          0.15197568389057747
+        ],
+        [
+          25.23720037081898,
+          99.54407294832825
+        ],
+        [
+          85.63076705977701,
+          99.54407294832825
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "샐러드파스타",
+        "en.ROMAN": "salad pasta",
+        "en": "Salad Pasta",
+        "ja": "サラダパスタ",
+        "zh_CN": "沙拉意大利面",
+        "zh_TW": "沙拉義大利麵",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_1",
+      "ocr": {
+        "x": 43.4815800144996,
+        "y": 17.019509564118383,
+        "text": "샐러드파스타",
+        "width": 13.501539674180542,
+        "height": 2.4348113115626284,
+        "rotation": 357.3596072314406
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "까르보나라",
+        "en.ROMAN": "carbonara",
+        "en": "Carbonara",
+        "ja": "カルボナーラ",
+        "zh_CN": "奶油培根意大利面",
+        "zh_TW": "奶油培根蛋汁義大利麵",
+        "price": "10000",
+        "ingredients.ko": [
+          "베이컨",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Bacon",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "ベーコン",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "培根",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "培根",
+          "義大利麵"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_3",
+      "ocr": {
+        "x": 45.02787806775894,
+        "y": 24.846434758396327,
+        "text": "까르보나라",
+        "width": 11.134960694334326,
+        "height": 2.4042885522669537,
+        "rotation": 357.3596072314403
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "상하이파스타",
+        "en.ROMAN": "Shanghai pasta",
+        "en": "Shanghai Pasta",
+        "ja": "上海風パスタ",
+        "zh_CN": "上海意大利面",
+        "zh_TW": "上海義大利麵",
+        "price": "11000",
+        "ingredients.ko": [
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_5",
+      "ocr": {
+        "x": 44.546772063312254,
+        "y": 32.56931684919478,
+        "text": "상하이파스타",
+        "width": 12.843916491011878,
+        "height": 2.3392102156820673,
+        "rotation": 357.3596072314403
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치킨오이스터",
+        "en.ROMAN": "chicken oyster",
+        "en": "Chicken and Oyster Pasta",
+        "ja": "チキンオイスター",
+        "zh_CN": "蚝油炸鸡",
+        "zh_TW": "雞肉牡蠣",
+        "price": "11000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_7",
+      "ocr": {
+        "x": 45.14056373790258,
+        "y": 39.61800805204098,
+        "text": "치킨오이스터",
+        "width": 12.244588774200306,
+        "height": 2.1896803568456136,
+        "rotation": 358.81716871130993
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "해물토마토파스타",
+        "en.ROMAN": "haemul tomato pasta",
+        "en": "Seafood Tomato Pasta",
+        "ja": "海鮮トマトパスタ",
+        "zh_CN": "海鲜番茄意大利面",
+        "zh_TW": "海鮮番茄義大利麵",
+        "price": "10000",
+        "ingredients.ko": [
+          "해산물",
+          "토마토",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Tomato",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "トマト",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "番茄",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "番茄",
+          "義大利麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "토마토",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_9",
+      "ocr": {
+        "x": 43.518518518518555,
+        "y": 46.551408503762666,
+        "text": "해물토마토파스타",
+        "width": 16.16260670864571,
+        "height": 2.2250465226923475,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "봉골레파스타",
+        "en.ROMAN": "vongole pasta",
+        "en": "Clam Pasta",
+        "ja": "ボンゴレパスタ",
+        "zh_CN": "蛤蜊意大利面",
+        "zh_TW": "蛤蜊義大利麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "조개",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Clam",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "貝",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "蛤蜊",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "蛤蜊",
+          "義大利麵"
+        ],
+        "allergy": [
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_11",
+      "ocr": {
+        "x": 45.36768101429789,
+        "y": 53.2789748330026,
+        "text": "봉골레파스타",
+        "width": 12.848198002249909,
+        "height": 2.174777681787563,
+        "rotation": 1.7490884515276548
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "알리오올리오",
+        "en.ROMAN": "aglio olio",
+        "en": "Aglio e Olio Pasta",
+        "ja": "アーリオオーリオ",
+        "zh_CN": "蒜香橄榄油意大利面",
+        "zh_TW": "蒜香橄欖油義大利麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "마늘",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_13",
+      "ocr": {
+        "x": 45.55563335995234,
+        "y": 60.05958627826397,
+        "text": "알리오올리오",
+        "width": 12.782436196007975,
+        "height": 2.1676923908857835,
+        "rotation": 2.8950166145099843
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "레드오일파스타",
+        "en.ROMAN": "red oil pasta",
+        "en": "Red Oil Pasta",
+        "ja": "レッドオイルパスタ",
+        "zh_CN": "红橄榄油意大利面",
+        "zh_TW": "辣味橄欖油義大利麵",
+        "price": "10000",
+        "ingredients.ko": [
+          "오일",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Oil",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "オイル",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "橄榄油",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "油",
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_16",
+      "ocr": {
+        "x": 44.290508029772674,
+        "y": 66.71242416515575,
+        "text": "레드오일파스타",
+        "width": 15.70053678630113,
+        "height": 2.1467762827997694,
+        "rotation": 3.492674700160819
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "레드크림파스타",
+        "en.ROMAN": "red cream pasta",
+        "en": "Red Cream Pasta",
+        "ja": "レッドクリームパスタ",
+        "zh_CN": "红奶油意大利面",
+        "zh_TW": "辣味奶油義大利麵",
+        "price": "12000",
+        "ingredients.ko": [
+          "크림",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Cream",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "クリーム",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "奶油",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "義大利麵"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_18",
+      "ocr": {
+        "x": 44.36034159671519,
+        "y": 73.4329769778659,
+        "text": "레드크림파스타",
+        "width": 15.775401290389723,
+        "height": 2.2406212796979186,
+        "rotation": 3.797962461284385
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "면",
+        "ko": "해물크림파스타",
+        "en.ROMAN": "haemul cream pasta",
+        "en": "Seafood Cream Pasta",
+        "ja": "海鮮クリームパスタ",
+        "zh_CN": "海鲜奶油意大利面",
+        "zh_TW": "海鮮奶油義大利麵",
+        "price": "12000",
+        "ingredients.ko": [
+          "해산물",
+          "크림",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Cream",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "クリーム",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "奶油",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "奶油",
+          "義大利麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_20",
+      "ocr": {
+        "x": 44.430951351823296,
+        "y": 80.15563752935144,
+        "text": "해물크림파스타",
+        "width": 15.859732783175971,
+        "height": 2.253822820912278,
+        "rotation": 3.7979624612846123
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "새우로제파스타",
+        "en.ROMAN": "saeu rosé pasta",
+        "en": "Shrimp Rosé Pasta",
+        "ja": "海老ロゼパスタ",
+        "zh_CN": "鲜虾番茄奶油意大利面",
+        "zh_TW": "鮮蝦番茄奶油義大利麵",
+        "price": "12000",
+        "ingredients.ko": [
+          "왕새우",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Jumbo Shrimp",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "大正海老",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "大虾",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "明蝦",
+          "義大利麵"
+        ],
+        "allergy": [
+          "새우",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF03_M0001_622288_1-tf_22",
+      "ocr": {
+        "x": 44.623525687892055,
+        "y": 86.75781450082219,
+        "text": "새우로제파스타",
+        "width": 15.77994854918978,
+        "height": 2.092186908406898,
+        "rotation": 3.5391025245669994
+      }
+    }
+  ]
+}

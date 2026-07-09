@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "file_name": "GK_KF06_M0001_1164420_8.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:14 18:28:53",
+    "store_id": "1164420",
+    "store_region": "GK",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          3.6829156906940086,
+          18.7853608731279
+        ],
+        [
+          94.57727493702212,
+          17.34902375375723
+        ],
+        [
+          94.2826416817666,
+          85.74076812994498
+        ],
+        [
+          2.209749414416405,
+          84.1939435398535
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "피자(쉬림프베이컨)",
+        "en.ROMAN": "pizza(shrimp bacon)",
+        "en": "Pizza (Shrimp and Bacon)",
+        "ja": "ピザ(シュリンプベーコン)",
+        "zh_CN": "披萨（虾培根）",
+        "zh_TW": "披薩（鮮蝦培根）",
+        "price": "15900",
+        "ingredients.ko": [
+          "새우",
+          "베이컨",
+          "밀가루",
+          "토마토",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Bacon",
+          "Wheat Flour",
+          "Tomato",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "ベーコン",
+          "小麦粉",
+          "トマト",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "培根",
+          "面粉",
+          "番茄",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "培根",
+          "麵粉",
+          "番茄",
+          "起司"
+        ],
+        "allergy": [
+          "새우",
+          "돼지고기",
+          "밀",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1164420_8-tf_11",
+      "ocr": {
+        "x": 64.53497838234492,
+        "y": 44.81960184605684,
+        "text": "P-피자(쉬림프베이컨)",
+        "width": 16.29355183795749,
+        "height": 1.5829355980309303,
+        "rotation": 359.95831429659665
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "피자(파불고기)",
+        "en.ROMAN": "pizza(pabulgogi)",
+        "en": "Pizza (Green Onion and Bulgogi)",
+        "ja": "ピザ(ねぎプルゴギ)",
+        "zh_CN": "披萨（葱丝烤牛肉）",
+        "zh_TW": "披薩（蔥烤牛肉）",
+        "price": "15900",
+        "ingredients.ko": [
+          "파",
+          "밀가루",
+          "토마토",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Green Onions",
+          "Wheat Flour",
+          "Tomato",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "ネギ",
+          "小麦粉",
+          "トマト",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "葱",
+          "面粉",
+          "番茄",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "蔥",
+          "麵粉",
+          "番茄",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0001_1164420_8-tf_12",
+      "ocr": {
+        "x": 35.900676739109294,
+        "y": 44.899360713919855,
+        "text": "P-피자(파불고기)",
+        "width": 13.012997546800186,
+        "height": 1.5410228577281595,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "피자(콘마요)",
+        "en.ROMAN": "pizza(corn mayo)",
+        "en": "Pizza (Corn and Mayonnaise)",
+        "ja": "ピザ(コーンマヨ)",
+        "zh_CN": "披萨（玉米蛋黄酱）",
+        "zh_TW": "披薩（玉米美乃滋）",
+        "price": "15900",
+        "ingredients.ko": [
+          "마요네즈",
+          "밀가루",
+          "토마토",
+          "치즈",
+          "옥수수"
+        ],
+        "ingredients.en": [
+          "Mayonnaise",
+          "Wheat Flour",
+          "Tomato",
+          "Cheese",
+          "Corn"
+        ],
+        "ingredients.ja": [
+          "マヨネーズ",
+          "小麦粉",
+          "トマト",
+          "チーズ",
+          "トウモロコシ"
+        ],
+        "ingredients.zh_CN": [
+          "蛋黄酱",
+          "面粉",
+          "番茄",
+          "奶酪",
+          "玉米"
+        ],
+        "ingredients.zh_TW": [
+          "美乃滋",
+          "麵粉",
+          "番茄",
+          "起司",
+          "玉米"
+        ],
+        "allergy": [
+          "계란",
+          "밀",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": 1
+      },
+      "sn": "GK_KF06_M0001_1164420_8-tf_14",
+      "ocr": {
+        "x": 7.626387606663581,
+        "y": 44.964581409995276,
+        "text": "P-피자(콘마요)",
+        "width": 11.240260968569562,
+        "height": 1.5055581200060986,
+        "rotation": 0
+      }
+    }
+  ]
+}

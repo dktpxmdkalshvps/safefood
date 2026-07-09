@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "file_name": "IN_KF01_M0001_755818_5.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "755818",
+    "store_region": "IN",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          7.024793388429752,
+          1.0852713178294573
+        ],
+        [
+          85.53719008264463,
+          2.3255813953488373
+        ],
+        [
+          84.50413223140498,
+          84.49612403100775
+        ],
+        [
+          5.578512396694215,
+          86.51162790697674
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "한돈수제갈비",
+        "en.ROMAN": "handonsujegalbi",
+        "en": "Handmade Grilled Korean Pork Galbi",
+        "ja": "韓国産豚肉の手作りカルビ",
+        "zh_CN": "手工韩猪排骨",
+        "zh_TW": "韓豚手工排骨",
+        "price": "17000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "IN_KF01_M0001_755818_5-tf_3",
+      "ocr": {
+        "x": 17.12962962962967,
+        "y": 21.056547619047624,
+        "text": "한돈수제갈비",
+        "width": 13.286954529976255,
+        "height": 2.405753968253968,
+        "rotation": 0
+      }
+    }
+  ]
+}

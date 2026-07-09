@@ -1,0 +1,455 @@
+{
+  "meta": {
+    "file_name": "DG_KF05_M0002_625517_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 3744,
+    "captured_date": "2022:11:15 13:08:15",
+    "store_id": "625517",
+    "store_region": "DG",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.6504065040650406,
+          2.9947916666666665
+        ],
+        [
+          95.9349593495935,
+          2.9947916666666665
+        ],
+        [
+          95.44715447154472,
+          80.59895833333336
+        ],
+        [
+          0.4878048780487805,
+          78.90625
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "조돌",
+        "en.ROMAN": "jodol",
+        "en": "Clam and Octopus Soup",
+        "ja": "チョドル(タコ入り貝の寄せ鍋)",
+        "zh_CN": "蛤蜊章鱼",
+        "zh_TW": "蛤蜊+章魚",
+        "price": "50000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_1",
+      "ocr": {
+        "x": 30.399370679793215,
+        "y": 16.21918741820909,
+        "text": "조돌",
+        "width": 14.301268959235564,
+        "height": 3.3526105334802025,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "스페셜전복조돌탕",
+        "en.ROMAN": "special jeonbokjodoltang",
+        "en": "Special Octopus Soup with Clams and Abalone",
+        "ja": "スペシャル･アワビとタコ入り貝の寄せ鍋",
+        "zh_CN": "精选鲍鱼蛤蜊章鱼汤",
+        "zh_TW": "精選鮑魚蛤蜊章魚湯",
+        "price": "100000",
+        "ingredients.ko": [
+          "전복",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "蔬菜"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_12",
+      "ocr": {
+        "x": 30.241178224219773,
+        "y": 28.980113830508667,
+        "text": "스페셜전복조돌탕",
+        "width": 34.0804612978337,
+        "height": 3.6324786324786267,
+        "rotation": 0.5356079816304486
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "활문어",
+        "en.ROMAN": "hwalmuneo",
+        "en": "Raw Octopus",
+        "ja": "(活魚)タコ",
+        "zh_CN": "活章鱼",
+        "zh_TW": "活章魚",
+        "price": "25000",
+        "ingredients.ko": [
+          "문어"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "タコ"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_16",
+      "ocr": {
+        "x": 44.22717277928931,
+        "y": 35.38995726495724,
+        "text": "활문어",
+        "width": 10.008214072058658,
+        "height": 3.061814858013774,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "조개",
+        "en.ROMAN": "jogae",
+        "en": "Clams",
+        "ja": "貝",
+        "zh_CN": "蛤蜊",
+        "zh_TW": "蛤蜊",
+        "price": "25000",
+        "ingredients.ko": [
+          "크림",
+          "계란",
+          "설탕",
+          "아몬드"
+        ],
+        "ingredients.en": [
+          "Cream",
+          "Eggs",
+          "Sugar",
+          "Almond"
+        ],
+        "ingredients.ja": [
+          "クリーム",
+          "卵",
+          "ソルロンタン",
+          "アーモンド"
+        ],
+        "ingredients.zh_CN": [
+          "奶油",
+          "鸡蛋",
+          "白糖",
+          "杏仁"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "雞蛋",
+          "糖",
+          "杏仁"
+        ],
+        "allergy": [
+          "우유",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_19",
+      "ocr": {
+        "x": 44.29589296397067,
+        "y": 38.93416907683478,
+        "text": "조개",
+        "width": 9.518481662131931,
+        "height": 2.9445450804125186,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "전복",
+        "en.ROMAN": "jeonbok",
+        "en": "Abalone",
+        "ja": "アワビ",
+        "zh_CN": "鲍鱼",
+        "zh_TW": "鮑魚",
+        "price": "25000",
+        "ingredients.ko": [
+          "전복"
+        ],
+        "ingredients.en": [
+          "Abalone"
+        ],
+        "ingredients.ja": [
+          "アワビ"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_21",
+      "ocr": {
+        "x": 44.29383944595594,
+        "y": 42.43961159314467,
+        "text": "전복",
+        "width": 9.740406945334572,
+        "height": 2.994708437642201,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "활낙지",
+        "en.ROMAN": "hwallakji",
+        "en": "Live Octopus",
+        "ja": "活テナガダコ",
+        "zh_CN": "鲜长爪章鱼",
+        "zh_TW": "生章魚",
+        "price": "30000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_23",
+      "ocr": {
+        "x": 44.260506112622636,
+        "y": 45.916716984650606,
+        "text": "활낙지",
+        "width": 10.007964429060209,
+        "height": 3.0852688135340833,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "조개탕",
+        "en.ROMAN": "jogaetang",
+        "en": "Clam Soup",
+        "ja": "貝スープ",
+        "zh_CN": "蛤蜊汤",
+        "zh_TW": "蛤蜊湯",
+        "price": "40000",
+        "ingredients.ko": [
+          "조개"
+        ],
+        "ingredients.en": [
+          "Clam"
+        ],
+        "ingredients.ja": [
+          "貝"
+        ],
+        "ingredients.zh_CN": [
+          "蛤蜊"
+        ],
+        "ingredients.zh_TW": [
+          "蛤蜊"
+        ],
+        "allergy": [
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_26",
+      "ocr": {
+        "x": 29.791785927941326,
+        "y": 54.540598290598304,
+        "text": "조개탕",
+        "width": 14.926695734190595,
+        "height": 3.5288964718301634,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "칼국수사리",
+        "en.ROMAN": "kalguksusari",
+        "en": "Extra Noodles",
+        "ja": "カルグクス追加",
+        "zh_CN": "另加刀切面",
+        "zh_TW": "加點刀切麵",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_30",
+      "ocr": {
+        "x": 43.349504541730376,
+        "y": 64.05618492747296,
+        "text": "칼국수사리",
+        "width": 15.91057023537033,
+        "height": 3.258934804491411,
+        "rotation": 0.5009783323372403
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "먹물라면사리",
+        "en.ROMAN": "meongmullamyeonsari",
+        "en": "Black and white ramen noodles.",
+        "ja": "墨ラーメンの替え玉",
+        "zh_CN": "墨拉面丝",
+        "zh_TW": "墨拉麪絲",
+        "price": "2000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_32",
+      "ocr": {
+        "x": 43.375542774395115,
+        "y": 67.50463392898105,
+        "text": "먹물라면사리",
+        "width": 19.043284751100533,
+        "height": 3.174917754877946,
+        "rotation": 0.5009783323379224
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "전복죽",
+        "en.ROMAN": "jeonbokjuk",
+        "en": "Abalone Porridge",
+        "ja": "アワビ粥",
+        "zh_CN": "鲍鱼粥",
+        "zh_TW": "鮑魚粥",
+        "price": "10000",
+        "ingredients.ko": [
+          "전복",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "米"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF05_M0002_625517_1-tf_35",
+      "ocr": {
+        "x": 43.33879664620182,
+        "y": 70.86988989887635,
+        "text": "냄비전복죽",
+        "width": 16.116417322510017,
+        "height": 3.2298554565443536,
+        "rotation": 0.5009783323415604
+      }
+    }
+  ]
+}

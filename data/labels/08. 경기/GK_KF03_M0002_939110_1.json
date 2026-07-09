@@ -1,0 +1,859 @@
+{
+  "meta": {
+    "file_name": "GK_KF03_M0002_939110_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:08:21 16:45:25",
+    "store_id": "939110",
+    "store_region": "GK",
+    "store_type": "KF03",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.10090817356205853,
+          30.55181695827726
+        ],
+        [
+          99.69727547931383,
+          31.62853297442799
+        ],
+        [
+          100,
+          71.19784656796767
+        ],
+        [
+          0.20181634712411706,
+          72.40915208613728
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-0",
+      "ocr": {
+        "x": 0.8432539682539684,
+        "y": 46.560846560846564,
+        "text": "런던브로일스테이크콤보",
+        "width": 9.226190476190476,
+        "height": 1.4550264550264551,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "런던브로일스테이크콤보",
+        "en.ROMAN": "London broil steak combo",
+        "en": "London Broil Steak Combo",
+        "ja": "ロンドンブロイルステーキコンボ",
+        "zh_CN": "伦敦烤牛排套餐",
+        "zh_TW": "倫敦炙燒牛排套餐",
+        "price": "12900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-1",
+      "ocr": {
+        "x": 2.0089285714285716,
+        "y": 59.5568783068783,
+        "text": "부챗살스테이크콤보",
+        "width": 8.283730158730158,
+        "height": 1.5873015873015872,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "부챗살스테이크콤보",
+        "en.ROMAN": "buchaetsal steak combo",
+        "en": "Top Blade Steak Combo",
+        "ja": "ミスジステーキコンボ",
+        "zh_CN": "牛肩肉排套餐",
+        "zh_TW": "翼板牛排套餐",
+        "price": "15900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-2",
+      "ocr": {
+        "x": 13.963293650793648,
+        "y": 46.42857142857143,
+        "text": "프라임스테이크콤보",
+        "width": 7.911706349206349,
+        "height": 1.4880952380952381,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "프라임스테이크콤보",
+        "en.ROMAN": "prime steak combo",
+        "en": "Prime Steak Combo",
+        "ja": "プライムステーキコンボ",
+        "zh_CN": "精品牛排套餐",
+        "zh_TW": "頂級牛排套餐",
+        "price": "12900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-3",
+      "ocr": {
+        "x": 23.115079365079364,
+        "y": 59.160052910052904,
+        "text": "살치살스테이크콤보",
+        "width": 8.209325396825397,
+        "height": 1.5542328042328042,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "살치살스테이크콤보",
+        "en.ROMAN": "salchisal steak combo",
+        "en": "Chuck Flap Tail Steak Combo",
+        "ja": "サブトンステーキコンボ",
+        "zh_CN": "牛板腱肉排套餐",
+        "zh_TW": "板腱肉牛排套餐",
+        "price": "17900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-4",
+      "ocr": {
+        "x": 30.728452665951444,
+        "y": 46.38568706548796,
+        "text": "등심스테이크콤보",
+        "width": 6.7366458925536,
+        "height": 1.402326511928239,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "등심스테이크콤보",
+        "en.ROMAN": "deungsim steak combo",
+        "en": "Sirloin Steak Combo",
+        "ja": "ロースステーキコンボ",
+        "zh_CN": "牛外脊排套餐",
+        "zh_TW": "沙朗牛排套餐",
+        "price": "17900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-5",
+      "ocr": {
+        "x": 40.163869695463106,
+        "y": 45.93253968253961,
+        "text": "런던브로일스테이크",
+        "width": 6.162746396262799,
+        "height": 1.3558201058201043,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "런던브로일스테이크",
+        "en.ROMAN": "London broil steak",
+        "en": "London Broil Steak",
+        "ja": "ロンドンブロイルステーキ",
+        "zh_CN": "伦敦布罗牛排",
+        "zh_TW": "倫敦烤牛排",
+        "price": "9900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-6",
+      "ocr": {
+        "x": 40.625000000000014,
+        "y": 58.92857142857145,
+        "text": "부챗살스테이크",
+        "width": 5.064975624369849,
+        "height": 1.2566137566137565,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "부챗살스테이크",
+        "en.ROMAN": "buchaetsal steak",
+        "en": "Beef Top Blade Steak",
+        "ja": "牛肩肉ステーキ",
+        "zh_CN": "牛肩肉牛排",
+        "zh_TW": "牛肩胛肉排",
+        "price": "12900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-7",
+      "ocr": {
+        "x": 48.522004616098016,
+        "y": 46.03174603174595,
+        "text": "프라임스테이크",
+        "width": 5.157834062366928,
+        "height": 1.3558201058201043,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "프라임스테이크",
+        "en.ROMAN": "prime steak",
+        "en": "Prime Steak",
+        "ja": "プライムステーキ",
+        "zh_CN": "精品牛排",
+        "zh_TW": "頂級牛排",
+        "price": "9900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-8",
+      "ocr": {
+        "x": 53.759552011881375,
+        "y": 58.730158730158806,
+        "text": "살치살스테이크",
+        "width": 4.881689627030972,
+        "height": 1.3558201058201071,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "살치살스테이크",
+        "en.ROMAN": "salchisal steak",
+        "en": "Chuck Flap Tail Steak",
+        "ja": "サブトンステーキ",
+        "zh_CN": "牛板腱肉排",
+        "zh_TW": "板腱肉牛排",
+        "price": "15900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-9",
+      "ocr": {
+        "x": 59.91161325845294,
+        "y": 45.93253968253949,
+        "text": "등심스테이크",
+        "width": 4.276747569330762,
+        "height": 1.355820105820103,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "등심스테이크",
+        "en.ROMAN": "deungsim steak",
+        "en": "Sirloin Steak",
+        "ja": "サーロインステーキ",
+        "zh_CN": "里脊牛排",
+        "zh_TW": "沙朗牛排",
+        "price": "15900",
+        "ingredients.ko": [
+          "소등심"
+        ],
+        "ingredients.en": [
+          "Beef Sirloin"
+        ],
+        "ingredients.ja": [
+          "牛ロース"
+        ],
+        "ingredients.zh_CN": [
+          "牛外脊"
+        ],
+        "ingredients.zh_TW": [
+          "牛後腰脊肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-10",
+      "ocr": {
+        "x": 66.31944444444444,
+        "y": 47.585978835978835,
+        "text": "갈릭쉬림프스테이크",
+        "width": 8.110119047619047,
+        "height": 1.5542328042328042,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "갈릭쉬림프스테이크",
+        "en.ROMAN": "garlic shrimp steak",
+        "en": "Garlic Shrimp Steak",
+        "ja": "ガーリックシュリンプステーキ",
+        "zh_CN": "蒜蓉虾仁牛排",
+        "zh_TW": "香蒜鮮蝦牛排",
+        "price": "15900",
+        "ingredients.ko": [
+          "마늘",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-11",
+      "ocr": {
+        "x": 66.31944444444444,
+        "y": 59.78835978835979,
+        "text": "투움바쉬림프스테이크",
+        "width": 8.903769841269842,
+        "height": 1.5542328042328042,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "투움바쉬림프스테이크",
+        "en.ROMAN": "Toowoomba shrimp steak",
+        "en": "Toowoomba Shrimp Steak",
+        "ja": "トゥーンバシュリンプステーキ",
+        "zh_CN": "图翁巴虾仁牛排",
+        "zh_TW": "義式奶油起司鮮蝦牛排",
+        "price": "15900",
+        "ingredients.ko": [
+          "크림",
+          "새우",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Cream",
+          "Shrimp",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "クリーム",
+          "海老",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "奶油",
+          "虾",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "蝦",
+          "牛肉"
+        ],
+        "allergy": [
+          "우유",
+          "새우",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-12",
+      "ocr": {
+        "x": 76.82796659376325,
+        "y": 47.50021010981182,
+        "text": "투움바비프파스타",
+        "width": 7.579185860092415,
+        "height": 1.5407951811934522,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "투움바비프파스타",
+        "en.ROMAN": "Toowoomba beef pasta",
+        "en": "Toowoomba Beef Pasta",
+        "ja": "トゥーンバビーフパスタ",
+        "zh_CN": "图翁巴牛肉意大利面",
+        "zh_TW": "義式奶油起司牛肉義大利麵",
+        "price": "12900",
+        "ingredients.ko": [
+          "쇠고기",
+          "크림",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Cream",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "クリーム",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "奶油",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "奶油",
+          "義大利麵"
+        ],
+        "allergy": [
+          "쇠고기",
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-13",
+      "ocr": {
+        "x": 76.98835005550855,
+        "y": 59.62301587301588,
+        "text": "특제스테이크볶음밥",
+        "width": 7.9634805240696025,
+        "height": 1.6203703703703705,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "특제스테이크볶음밥",
+        "en.ROMAN": "teukje steak bokkeumbap",
+        "en": "Steak Fried Rice Special",
+        "ja": "特製ステーキチャーハン",
+        "zh_CN": "特制牛排炒饭",
+        "zh_TW": "特製牛排炒飯",
+        "price": "9900",
+        "ingredients.ko": [
+          "쇠고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-14",
+      "ocr": {
+        "x": 76.9949530586486,
+        "y": 61.4037492481975,
+        "text": "갈릭스테이크볶음밥",
+        "width": 8.018656260515343,
+        "height": 1.3590173388577844,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "갈릭스테이크볶음밥",
+        "en.ROMAN": "garlic steak bokkeumbap",
+        "en": "Garlic Steak Fried Rice",
+        "ja": "ガーリックステーキチャーハン",
+        "zh_CN": "蒜香牛排炒饭",
+        "zh_TW": "蒜香牛排炒飯",
+        "price": "9900",
+        "ingredients.ko": [
+          "마늘",
+          "쇠고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-15",
+      "ocr": {
+        "x": 87.32093707404285,
+        "y": 51.124338624338655,
+        "text": "등심스테이크세트",
+        "width": 6.974697846592124,
+        "height": 1.5542328042328049,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "등심스테이크세트",
+        "en.ROMAN": "deungsim steak set",
+        "en": "Sirloin Steak Set Menu",
+        "ja": "ロースステーキセット",
+        "zh_CN": "外脊牛排套餐",
+        "zh_TW": "莎朗牛排套餐",
+        "price": "29900",
+        "ingredients.ko": [
+          "소등심"
+        ],
+        "ingredients.en": [
+          "Beef Sirloin"
+        ],
+        "ingredients.ja": [
+          "牛ロース"
+        ],
+        "ingredients.zh_CN": [
+          "牛外脊"
+        ],
+        "ingredients.zh_TW": [
+          "牛後腰脊肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-16",
+      "ocr": {
+        "x": 87.3263888888889,
+        "y": 43.86852925201964,
+        "text": "부챗살스테이크세트",
+        "width": 7.589285714285716,
+        "height": 1.534909901419535,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "부챗살스테이크세트",
+        "en.ROMAN": "buchaetsal steak set",
+        "en": "Top Blade Steak Set",
+        "ja": "ミスジステーキセット",
+        "zh_CN": "牛肩肉排套餐",
+        "zh_TW": "牛肩胛肉排套餐",
+        "price": "25900",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-17",
+      "ocr": {
+        "x": 90.77380952380952,
+        "y": 62.07010582010582,
+        "text": "에이드",
+        "width": 2.2569444444444446,
+        "height": 1.3558201058201058,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "에이드",
+        "en.ROMAN": "ade",
+        "en": "Ade",
+        "ja": "エード",
+        "zh_CN": "汽水",
+        "zh_TW": "氣泡飲",
+        "price": "2900",
+        "ingredients.ko": [
+          "얼음",
+          "탄산수"
+        ],
+        "ingredients.en": [
+          "Ice",
+          "Carbonated Water"
+        ],
+        "ingredients.ja": [
+          "氷",
+          "炭酸水"
+        ],
+        "ingredients.zh_CN": [
+          "冰块",
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "冰",
+          "碳酸水"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_KF03_M0002_939110_1-tf-18",
+      "ocr": {
+        "x": 90.77380952380952,
+        "y": 64.88095238095238,
+        "text": "탄산음료",
+        "width": 2.876984126984127,
+        "height": 1.3558201058201058,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "탄산음료",
+        "en.ROMAN": "tansaneumnyo",
+        "en": "Soft Drinks",
+        "ja": "炭酸飲料",
+        "zh_CN": "碳酸饮料",
+        "zh_TW": "碳酸飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "탄산"
+        ],
+        "ingredients.en": [
+          "Carbonic Acid"
+        ],
+        "ingredients.ja": [
+          "炭酸"
+        ],
+        "ingredients.zh_CN": [
+          "碳酸"
+        ],
+        "ingredients.zh_TW": [
+          "碳酸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    }
+  ]
+}

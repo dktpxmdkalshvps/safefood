@@ -1,0 +1,656 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_295532_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:09:07 12:16:23",
+    "store_id": "295532",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.7605633802816902,
+          26.760563380281692
+        ],
+        [
+          89.43661971830986,
+          23.708920187793428
+        ],
+        [
+          94.01408450704223,
+          76.76056338028167
+        ],
+        [
+          0,
+          80.0469483568075
+        ],
+        [
+          0.17605633802816906,
+          58.920187793427225
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-0",
+      "ocr": {
+        "x": 13.523070567915267,
+        "y": 38.00252929179218,
+        "text": "생돼지김치찌개",
+        "width": 11.082209733177283,
+        "height": 2.5066436729490738,
+        "rotation": 358.2822328832894
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "생돼지김치찌개",
+        "en.ROMAN": "saengdwaejikimchijjigae",
+        "en": "Pork Kimchi Jjigae",
+        "ja": "豚肉入りキムチチゲ",
+        "zh_CN": "生猪肉辛奇汤",
+        "zh_TW": "鮮豬肉辛奇鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-1",
+      "ocr": {
+        "x": 52.41927825343257,
+        "y": 39.204836505238895,
+        "text": "녹돈생삼겹살",
+        "width": 9.508549458001449,
+        "height": 2.412078034467506,
+        "rotation": 358.3024958770079
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "녹돈생삼겹살",
+        "en.ROMAN": "nokdonsaengsamgyeopsal",
+        "en": "Grilled Pork Belly",
+        "ja": "緑茶豚のサムギョプサル焼き",
+        "zh_CN": "鲜绿茶猪五花肉",
+        "zh_TW": "鮮綠茶豬五花肉",
+        "price": "14000",
+        "ingredients.ko": [
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "五花肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-2",
+      "ocr": {
+        "x": 13.453561497792826,
+        "y": 41.11746325359429,
+        "text": "참치김치찌개",
+        "width": 9.529592780332008,
+        "height": 2.508188861393913,
+        "rotation": 358.2665716903917
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "참치김치찌개",
+        "en.ROMAN": "chamchikimchijjigae",
+        "en": "Tuna and Kimchi Jjigae",
+        "ja": "ツナ入りキムチチゲ",
+        "zh_CN": "金枪鱼辛奇汤",
+        "zh_TW": "鮪魚辛奇鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "참치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Tuna"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "ツナ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "金枪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "鮪魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-3",
+      "ocr": {
+        "x": 52.45986029544367,
+        "y": 42.13149655719855,
+        "text": "녹돈대패삼겹살",
+        "width": 11.142137273720913,
+        "height": 2.39955006191149,
+        "rotation": 358.3771547125451
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "녹돈대패삼겹살",
+        "en.ROMAN": "nokdondaepaesamgyeopsal",
+        "en": "Nokdon Grilled Sliced Pork Belly",
+        "ja": "緑茶豚の薄切りサムギョプサル",
+        "zh_CN": "绿茶鲜薄切五花肉",
+        "zh_TW": "鮮綠茶薄切五花肉",
+        "price": "10000",
+        "ingredients.ko": [
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "五花肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-4",
+      "ocr": {
+        "x": 13.321069515060803,
+        "y": 44.43936724819261,
+        "text": "동태탕",
+        "width": 4.760198397449087,
+        "height": 2.54029545463423,
+        "rotation": 357.46213441603174
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "동태탕",
+        "en.ROMAN": "dongtaetang",
+        "en": "Pollack Soup",
+        "ja": "スケトウダラスープ",
+        "zh_CN": "冻明太鱼汤",
+        "zh_TW": "凍明太魚湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "동태"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "冻明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "凍明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-6",
+      "ocr": {
+        "x": 13.295694645649913,
+        "y": 47.60639179296999,
+        "text": "알탕",
+        "width": 4.698117745399036,
+        "height": 2.5901074238768302,
+        "rotation": 357.3847744800219
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "알탕",
+        "en.ROMAN": "altang",
+        "en": "Spicy Fish Roe Soup",
+        "ja": "魚の卵スープ",
+        "zh_CN": "鱼子汤",
+        "zh_TW": "魚卵湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "생선알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-7",
+      "ocr": {
+        "x": 13.050503757434631,
+        "y": 50.76346768515403,
+        "text": "생돼지김치두루치기",
+        "width": 13.886613645241795,
+        "height": 2.642896361822084,
+        "rotation": 358.3562514511063
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "생돼지김치두루치기",
+        "en.ROMAN": "saengdwaeji kimchi duruchigi",
+        "en": "Stir-fried Kimchi and Fresh Pork",
+        "ja": "キムチと豚肉入り野菜炒め",
+        "zh_CN": "辣炒辛奇鲜猪肉",
+        "zh_TW": "辛奇辣炒鮮豬肉",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-8",
+      "ocr": {
+        "x": 53.09550923677804,
+        "y": 51.87669773074836,
+        "text": "햄사리",
+        "width": 4.61696327834904,
+        "height": 2.4710386136022273,
+        "rotation": 357.5064820811869
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "햄사리",
+        "en.ROMAN": "ham sari",
+        "en": "Extra Ham",
+        "ja": "ハム追加",
+        "zh_CN": "另加火腿",
+        "zh_TW": "加點火腿",
+        "price": "3000",
+        "ingredients.ko": [
+          "햄"
+        ],
+        "ingredients.en": [
+          "Ham"
+        ],
+        "ingredients.ja": [
+          "ハム"
+        ],
+        "ingredients.zh_CN": [
+          "午餐肉"
+        ],
+        "ingredients.zh_TW": [
+          "火腿"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-9",
+      "ocr": {
+        "x": 12.952967247592282,
+        "y": 54.06281426568116,
+        "text": "생돼지불고기",
+        "width": 9.745326866030474,
+        "height": 2.6594328232822115,
+        "rotation": 358.30759512982496
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생돼지불고기",
+        "en.ROMAN": "saengdwaejibulgogi",
+        "en": "Fresh Pork Bulgogi",
+        "ja": "豚肉プルゴギ",
+        "zh_CN": "烤鲜猪肉",
+        "zh_TW": "鮮烤豬肉",
+        "price": "8000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-10",
+      "ocr": {
+        "x": 53.22767452999539,
+        "y": 54.99131313343848,
+        "text": "두부사리",
+        "width": 6.150856608110018,
+        "height": 2.414925423426097,
+        "rotation": 358.39197020806176
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "두부사리",
+        "en.ROMAN": "dubusari",
+        "en": "Extra Bean Curd",
+        "ja": "豆腐追加",
+        "zh_CN": "另加豆腐",
+        "zh_TW": "加點豆腐",
+        "price": "2000",
+        "ingredients.ko": [
+          "두부"
+        ],
+        "ingredients.en": [
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-11",
+      "ocr": {
+        "x": 12.936077371229452,
+        "y": 57.30230398340996,
+        "text": "닭볶음탕",
+        "width": 6.295495585588717,
+        "height": 2.661504214784057,
+        "rotation": 359.135715281532
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "닭볶음탕",
+        "en.ROMAN": "dakbokkeumtang",
+        "en": "Spicy Braised Chicken",
+        "ja": "鶏肉の炒め煮",
+        "zh_CN": "辣炖鸡块",
+        "zh_TW": "辣燒雞",
+        "price": "21000",
+        "ingredients.ko": [
+          "닭고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-12",
+      "ocr": {
+        "x": 53.33338463262511,
+        "y": 58.101813928223166,
+        "text": "라면사리",
+        "width": 6.203452246319917,
+        "height": 2.477347709352027,
+        "rotation": 358.3492484312533
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "라면사리",
+        "en.ROMAN": "ramyeonsari",
+        "en": "Extra Instant Noodles",
+        "ja": "ラーメン追加",
+        "zh_CN": "另加方便面面条",
+        "zh_TW": "加點泡麵麵條",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-13",
+      "ocr": {
+        "x": 12.662322226028474,
+        "y": 64.12338408325381,
+        "text": "냉면",
+        "width": 4.744046668388534,
+        "height": 2.64525049254122,
+        "rotation": 358.39546435634185
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉면",
+        "en.ROMAN": "naengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF01_M0002_295532_1-tf-14",
+      "ocr": {
+        "x": 12.511094684624693,
+        "y": 67.55048862356857,
+        "text": "계란말이",
+        "width": 6.364324547742452,
+        "height": 2.632086026346013,
+        "rotation": 358.3670469795939
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "계란말이",
+        "en.ROMAN": "gyeranmari",
+        "en": "Rolled Omelet",
+        "ja": "卵焼き",
+        "zh_CN": "鸡蛋卷",
+        "zh_TW": "雞蛋捲",
+        "price": "7000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

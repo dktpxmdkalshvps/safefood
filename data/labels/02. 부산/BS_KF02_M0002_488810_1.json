@@ -1,0 +1,754 @@
+{
+  "meta": {
+    "file_name": "BS_KF02_M0002_488810_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:06 11:40:39",
+    "store_id": "488810",
+    "store_region": "BS",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.7177914110429449,
+          1.0893246187363834
+        ],
+        [
+          92.51533742331289,
+          5.010893246187364
+        ],
+        [
+          91.16564417177914,
+          98.69281045751634
+        ],
+        [
+          0.36809815950920244,
+          95.42483660130719
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "해물수제비",
+        "en.ROMAN": "haemulsujebi",
+        "en": "Hand-pulled Dough Soup with Seafood",
+        "ja": "海鮮すいとん",
+        "zh_CN": "海鲜面片汤",
+        "zh_TW": "海鮮麵疙瘩",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "밀가루",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Wheat Flour",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "小麦粉",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "面粉",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵粉",
+          "高湯"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_2",
+      "ocr": {
+        "x": 5.496165644171772,
+        "y": 19.4507327304318,
+        "text": "해물수제비",
+        "width": 20.882907391011646,
+        "height": 7.583351556374829,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "생채비빔밥",
+        "en.ROMAN": "saengchaebibimbap",
+        "en": "Raw vegetable bibimbap",
+        "ja": "大根の和え物ビビンバ",
+        "zh_CN": "生拌萝卜丝蔬菜拌饭",
+        "zh_TW": "生拌飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "채소",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_5",
+      "ocr": {
+        "x": 51.10736196319017,
+        "y": 22.84495602069523,
+        "text": "생채비빔밥",
+        "width": 19.742638036809765,
+        "height": 6.995186075219493,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "매운얼큰수제비",
+        "en.ROMAN": "maeuneolkeunsujebi",
+        "en": "Spicy Hand-pulled Dough Soup",
+        "ja": "辛味すいとん",
+        "zh_CN": "辣味辣爽面片汤",
+        "zh_TW": "香辣麵疙瘩",
+        "price": "7000",
+        "ingredients.ko": [
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_9",
+      "ocr": {
+        "x": 5.543865030674847,
+        "y": 27.426988162543463,
+        "text": "매운얼큰수제비",
+        "width": 20.731134969325137,
+        "height": 6.832851553883819,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "해물파전",
+        "en.ROMAN": "haemulpajeon",
+        "en": "Seafood and Green Onion Pancake",
+        "ja": "海鮮入りねぎのチヂミ",
+        "zh_CN": "海鲜葱煎饼",
+        "zh_TW": "海鮮蔥煎餅",
+        "price": "12000",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루",
+          "파"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour",
+          "Green Onions"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉",
+          "ネギ"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉",
+          "葱"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉",
+          "蔥"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_11",
+      "ocr": {
+        "x": 51.26685392963313,
+        "y": 30.36941572762485,
+        "text": "해물파전",
+        "width": 19.287219105550314,
+        "height": 6.231040464278596,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "들깨수제비",
+        "en.ROMAN": "deulkkaesujebi",
+        "en": "Hand-pulled Dough Soup with Perilla Seeds",
+        "ja": "エゴマすいとん",
+        "zh_CN": "紫苏籽面片汤",
+        "zh_TW": "紫蘇麵疙瘩",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "밀가루",
+          "들깨",
+          "멸치육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Wheat Flour",
+          "Perilla Seeds",
+          "Anchovy Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "小麦粉",
+          "エゴマ",
+          "煮干しだし"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "面粉",
+          "紫苏",
+          "鳀鱼高汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵粉",
+          "紫蘇",
+          "鯷魚高湯"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_14",
+      "ocr": {
+        "x": 5.196165644171779,
+        "y": 34.26951400256174,
+        "text": "들깨수제비",
+        "width": 20.828834355828217,
+        "height": 6.441526679746299,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "매생이수제비",
+        "en.ROMAN": "maesaengisujebi",
+        "en": "Hand-pulled Dough Soup with Seaweed Fulvescens",
+        "ja": "カプサアオノリ入りすいとん",
+        "zh_CN": "海藻面片汤",
+        "zh_TW": "海藻麵疙瘩",
+        "price": "7000",
+        "ingredients.ko": [
+          "매생이",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Seaweed Fulvescens",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "カプサアオノリ",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "海藻",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "海藻",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_18",
+      "ocr": {
+        "x": 5.243865030674851,
+        "y": 40.76095999876173,
+        "text": "매생이수제비",
+        "width": 20.95153374233126,
+        "height": 7.095121450988097,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "죽",
+        "ko": "새알팥죽",
+        "en.ROMAN": "saealpatjuk",
+        "en": "Red Bean Porridge with Rice Cake Balls",
+        "ja": "餅入り小豆粥",
+        "zh_CN": "糯米丸子红豆粥",
+        "zh_TW": "糯米糰紅豆粥",
+        "price": "9000",
+        "ingredients.ko": [
+          "쌀",
+          "팥"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Red Bean"
+        ],
+        "ingredients.ja": [
+          "米",
+          "小豆"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "红豆"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "紅豆"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_21",
+      "ocr": {
+        "x": 4.684662576687115,
+        "y": 48.98700549886422,
+        "text": "새알팥죽",
+        "width": 21.433435582822096,
+        "height": 6.817566181791437,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "팥칼국수",
+        "en.ROMAN": "patkalguksu",
+        "en": "Red Bean Paste Noodle Soup",
+        "ja": "小豆カルグクス",
+        "zh_CN": "红豆刀切面",
+        "zh_TW": "紅豆刀切麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "팥",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Red Bean",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "小豆",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "红豆",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "紅豆",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_26",
+      "ocr": {
+        "x": 8.077147239263798,
+        "y": 55.87393631223953,
+        "text": "팥칼국수",
+        "width": 17.64095092024539,
+        "height": 7.1686460256097515,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "해물칼국수",
+        "en.ROMAN": "haemulkalguksku",
+        "en": "Noodle Soup with Seafood",
+        "ja": "海鮮カルグクス",
+        "zh_CN": "海鲜刀切面",
+        "zh_TW": "海鮮刀切麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_32",
+      "ocr": {
+        "x": 4.098466257668716,
+        "y": 62.849677072328824,
+        "text": "해물칼국수",
+        "width": 21.026533742331285,
+        "height": 6.599701258044115,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "매운얼큰칼국수",
+        "en.ROMAN": "maeuneolkeunkalguksu",
+        "en": "Spicy Noodle Soup",
+        "ja": "辛味カルグクス",
+        "zh_CN": "辣味辣爽刀切面",
+        "zh_TW": "香辣刀切麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "밀가루",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_38",
+      "ocr": {
+        "x": 4.391564417177913,
+        "y": 69.86982280577516,
+        "text": "매운얼큰칼국수",
+        "width": 20.733435582822086,
+        "height": 6.817566181791498,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "들깨칼국수",
+        "en.ROMAN": "deulkkaekalguksu",
+        "en": "Noodle Soup with Perilla Seeds",
+        "ja": "エゴマカルグクス",
+        "zh_CN": "紫苏籽刀切面",
+        "zh_TW": "紫蘇刀切麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_41",
+      "ocr": {
+        "x": 4.214263803680986,
+        "y": 76.40983371836994,
+        "text": "들깨칼국수",
+        "width": 20.585736196319008,
+        "height": 7.60437587310438,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "살얼음동동주",
+        "en.ROMAN": "sareoreumdongdongju",
+        "en": "Thin Iced Rice Wine",
+        "ja": "薄氷入り濁り酒",
+        "zh_CN": "薄冰冬冬酒",
+        "zh_TW": "薄冰冬冬酒",
+        "price": "7000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_42",
+      "ocr": {
+        "x": 50.55690184049079,
+        "y": 78.6009627849561,
+        "text": "살얼음동동주",
+        "width": 18.568098159509194,
+        "height": 6.700991033871599,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔칼국수",
+        "en.ROMAN": "bibimkalguksu",
+        "en": "Spicy Noodles",
+        "ja": "混ぜカルグクス",
+        "zh_CN": "拌刀切面",
+        "zh_TW": "拌刀切麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_47",
+      "ocr": {
+        "x": 3.5961656441717826,
+        "y": 83.90595432963,
+        "text": "비빔칼국수",
+        "width": 21.05383435582825,
+        "height": 7.3462659190377515,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF02_M0002_488810_1-tf_49",
+      "ocr": {
+        "x": 50.359202453987656,
+        "y": 85.13681375451293,
+        "text": "소주",
+        "width": 8.021274922118831,
+        "height": 7.598700857806933,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "brIpvr3GZ4",
+      "ocr": {
+        "x": 61.266626020122835,
+        "y": 86.05842583414216,
+        "text": "맥주",
+        "width": 8.481952367449683,
+        "height": 6.837303651321103,
+        "rotation": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "meta": {
+    "file_name": "CC_KF02_M0002_9005023_1.jpg",
+    "image_original_width": 3744,
+    "image_original_height": 3000,
+    "captured_date": "2022:11:24 11:11:46",
+    "store_id": "9005023",
+    "store_region": "CC",
+    "store_type": "KF02",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 4.295051353874884,
+        "y": 33.91608391608393,
+        "width": 94.02427637721755,
+        "height": 13.986013986013987,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "고기왕만두",
+        "en.ROMAN": "gogiwangmandu",
+        "en": "Jumbo Meat Mandu",
+        "ja": "王餃子",
+        "zh_CN": "肉馅大包子",
+        "zh_TW": "大肉包",
+        "price": "5500",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0002_9005023_1-tf_2",
+      "ocr": {
+        "x": 12.77697147889617,
+        "y": 41.46195381972001,
+        "text": "고기왕만두",
+        "width": 5.048076923076925,
+        "height": 1.966242053873476,
+        "rotation": 0.6932355907784995
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "김치왕만두",
+        "en.ROMAN": "kimchiwangmandu",
+        "en": "Jumbo Kimchi Mandu",
+        "ja": "キムチ王餃子",
+        "zh_CN": "辛奇馅大包子",
+        "zh_TW": "辛奇大包子",
+        "price": "5500",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "辛奇"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0002_9005023_1-tf_3",
+      "ocr": {
+        "x": 27.53739316239314,
+        "y": 41.63418750110408,
+        "text": "김치왕만두",
+        "width": 5.0490871996676825,
+        "height": 1.96581249889588,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "꽉찬왕교자",
+        "en.ROMAN": "kkwakchanwanggyoja",
+        "en": "Jumbo Dumpling",
+        "ja": "特大餃子",
+        "zh_CN": "大馅饺子",
+        "zh_TW": "滿餡大餃子",
+        "price": "5500",
+        "ingredients.ko": [
+          "밀가루",
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0002_9005023_1-tf_4",
+      "ocr": {
+        "x": 44.748506540843586,
+        "y": 41.6609352568063,
+        "text": "꽉찬왕교자",
+        "width": 5.048076923076923,
+        "height": 1.9995729161145515,
+        "rotation": 0.7196303440347833
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "고추잡채튀김만두",
+        "en.ROMAN": "gochujapchaetwigimmandu",
+        "en": "Deep-fried Chili Pepper Japchae Mandu",
+        "ja": "チンジャオロース入り揚げ餃子",
+        "zh_CN": "炸青椒炒肉丝馅饺子",
+        "zh_TW": "青椒炒肉絲炸餃子",
+        "price": "3500",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "澱粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0002_9005023_1-tf_6",
+      "ocr": {
+        "x": 74.90322305110361,
+        "y": 41.71239029176859,
+        "text": "고추잡채튀김만두",
+        "width": 7.3451231310693315,
+        "height": 1.997138375906435,
+        "rotation": 0.6893291562925583
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "꼬마튀김만두",
+        "en.ROMAN": "kkomatwigimmandu",
+        "en": "Small Deep-fried Mandu",
+        "ja": "ミニ揚げ餃子",
+        "zh_CN": "迷你炸饺子",
+        "zh_TW": "炸小餃子",
+        "price": "3500",
+        "ingredients.ko": [
+          "당면",
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Glass Noodles",
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "春雨",
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "粉条",
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "粉條",
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0002_9005023_1-tf_5",
+      "ocr": {
+        "x": 58.39694121566813,
+        "y": 41.75372933968054,
+        "text": "꼬마튀김만두",
+        "width": 6.010961015426451,
+        "height": 1.9312067788791714,
+        "rotation": 0.7241779113055031
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "부추잡채튀김만두",
+        "en.ROMAN": "buchujapchaetwigimmandu",
+        "en": "Chive Japchae with Deep-fried Mandu",
+        "ja": "ニラとチャプチェ入り揚げ餃子",
+        "zh_CN": "炸韭菜粉条饺子",
+        "zh_TW": "韭菜炒粉條大餃子",
+        "price": "3500",
+        "ingredients.ko": [
+          "밀가루",
+          "부추",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Chives",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "ニラ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "韭菜",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "韭菜",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0002_9005023_1-tf_7",
+      "ocr": {
+        "x": 90.01987562841244,
+        "y": 41.88318168634329,
+        "text": "부추잡채튀김만두",
+        "width": 7.519884220548083,
+        "height": 2.0113441060975235,
+        "rotation": 0.670295419758304
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "아메리카노",
+        "en.ROMAN": "Americano",
+        "en": "Americano",
+        "ja": "アメリカーノ",
+        "zh_CN": "美式咖啡",
+        "zh_TW": "美式咖啡",
+        "price": "2500",
+        "ingredients.ko": [
+          "커피"
+        ],
+        "ingredients.en": [
+          "Coffee"
+        ],
+        "ingredients.ja": [
+          "コーヒー"
+        ],
+        "ingredients.zh_CN": [
+          "咖啡"
+        ],
+        "ingredients.zh_TW": [
+          "咖啡"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "CC_KF02_M0002_9005023_1-tf_36",
+      "ocr": {
+        "x": 29.875329333509708,
+        "y": 69.20249623486094,
+        "text": "아메리카노",
+        "width": 10.919742534498399,
+        "height": 3.8695546936949734,
+        "rotation": 356.1076059344719
+      }
+    }
+  ]
+}

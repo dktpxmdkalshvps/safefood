@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "file_name": "SL_KF04_M0002_316992_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:09:08 14:15:49",
+    "store_id": "316992",
+    "store_region": "SL",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          1.1577424023154848,
+          4.440154440154441
+        ],
+        [
+          91.89580318379159,
+          3.088803088803089
+        ],
+        [
+          99.85528219971056,
+          85.32818532818533
+        ],
+        [
+          0.2894356005788712,
+          95.36679536679536
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "순곱창",
+        "en.ROMAN": "sungopchang",
+        "en": "Grilled Pork Small Intestine",
+        "ja": "コプチャン",
+        "zh_CN": "纯小肠",
+        "zh_TW": "純牛小腸",
+        "price": "27000",
+        "ingredients.ko": [
+          "곱창"
+        ],
+        "ingredients.en": [
+          "Small Intestine"
+        ],
+        "ingredients.ja": [
+          "コプチャン"
+        ],
+        "ingredients.zh_CN": [
+          "小肠"
+        ],
+        "ingredients.zh_TW": [
+          "小腸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_316992_1-tf-0",
+      "ocr": {
+        "x": 16.726065920384237,
+        "y": 39.49867732985141,
+        "text": "순곱창",
+        "width": 22.008110944621993,
+        "height": 5.884627423529101,
+        "rotation": 359.48454506335673
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "막창",
+        "en.ROMAN": "makchang",
+        "en": "Pork Intestine",
+        "ja": "マクチャン",
+        "zh_CN": "皱胃",
+        "zh_TW": "大腸頭",
+        "price": "24000",
+        "ingredients.ko": [
+          "막창"
+        ],
+        "ingredients.en": [
+          "Tripe"
+        ],
+        "ingredients.ja": [
+          "マクチャン"
+        ],
+        "ingredients.zh_CN": [
+          "皱胃"
+        ],
+        "ingredients.zh_TW": [
+          "大腸頭"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_316992_1-tf-1",
+      "ocr": {
+        "x": 16.888006585608366,
+        "y": 46.637654427424046,
+        "text": "막창",
+        "width": 21.920557249871052,
+        "height": 5.939645515278233,
+        "rotation": 358.3467703335278
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "대창",
+        "en.ROMAN": "daechang",
+        "en": "Grilled Beef Large Intestines",
+        "ja": "牛大腸",
+        "zh_CN": "大肠",
+        "zh_TW": "大腸",
+        "price": "24000",
+        "ingredients.ko": [
+          "소대창"
+        ],
+        "ingredients.en": [
+          "Beef Large Intestine"
+        ],
+        "ingredients.ja": [
+          "牛大腸"
+        ],
+        "ingredients.zh_CN": [
+          "牛大肠"
+        ],
+        "ingredients.zh_TW": [
+          "大腸"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_316992_1-tf-2",
+      "ocr": {
+        "x": 17.119819120311654,
+        "y": 53.7665627786389,
+        "text": "대창",
+        "width": 21.850377149300964,
+        "height": 6.123266810764952,
+        "rotation": 358.0093646536082
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양깃머리",
+        "en.ROMAN": "yangginmeori",
+        "en": "Rumen Pillar",
+        "ja": "ミノ",
+        "zh_CN": "肚领",
+        "zh_TW": "牛肚",
+        "price": "27000",
+        "ingredients.ko": [
+          "양지머리"
+        ],
+        "ingredients.en": [
+          "Beef Brisket"
+        ],
+        "ingredients.ja": [
+          "肩バラ"
+        ],
+        "ingredients.zh_CN": [
+          "油花牛胸肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛胸腹肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_316992_1-tf-3",
+      "ocr": {
+        "x": 16.961597299582536,
+        "y": 61.253033662680934,
+        "text": "양깃머리",
+        "width": 22.30704313116971,
+        "height": 6.289578605690917,
+        "rotation": 356.7741741338896
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김치볶음밥",
+        "en.ROMAN": "kimchibokkeumbap",
+        "en": "Kimchi Fried Rice",
+        "ja": "キムチチャーハン",
+        "zh_CN": "辛奇炒饭",
+        "zh_TW": "辛奇炒飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "채소",
+          "김치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF04_M0002_316992_1-tf-4",
+      "ocr": {
+        "x": 16.784534764624855,
+        "y": 68.69823970777114,
+        "text": "김치볶음밥",
+        "width": 22.468424764634687,
+        "height": 6.671405174151587,
+        "rotation": 356.293750006918
+      }
+    }
+  ]
+}

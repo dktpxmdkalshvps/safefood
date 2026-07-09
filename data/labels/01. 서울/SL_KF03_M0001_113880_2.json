@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_113880_2.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:12 14:04:47",
+    "store_id": "113880",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.17953321364452424,
+          4.979811574697175
+        ],
+        [
+          91.56193895870736,
+          0.6729475100942125
+        ],
+        [
+          90.12567324955117,
+          98.1157469717362
+        ],
+        [
+          0.718132854578097,
+          92.19380888290713
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "미니하우스샐러드",
+        "en.ROMAN": "mini house salad",
+        "en": "House Salad (Small Serving)",
+        "ja": "ミニハウスサラダ",
+        "zh_CN": "迷你主厨沙拉",
+        "zh_TW": "主廚沙辣",
+        "price": "4900",
+        "ingredients.ko": [
+          "채소"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_4",
+      "ocr": {
+        "x": 7.2914725401296225,
+        "y": 24.328206287927202,
+        "text": "미니하우스샐러드",
+        "width": 17.40907334884144,
+        "height": 1.7724440154905832,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "데번샐러드",
+        "en.ROMAN": "debeon salad",
+        "en": "Devon Salad",
+        "ja": "デボンサラダ",
+        "zh_CN": "德文沙拉",
+        "zh_TW": "Devon沙拉",
+        "price": "8900",
+        "ingredients.ko": [
+          "채소"
+        ],
+        "ingredients.en": [
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_7",
+      "ocr": {
+        "x": 7.251383269936121,
+        "y": 30.152637368129003,
+        "text": "데번샐러드",
+        "width": 11.1379378010599,
+        "height": 1.7214442849212683,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "리코타치즈샐러드",
+        "en.ROMAN": "ricotta cheese salad",
+        "en": "Ricotta Cheese Salad",
+        "ja": "リコッタチーズサラダ",
+        "zh_CN": "里科塔奶酪沙拉",
+        "zh_TW": "瑞可塔起司沙拉",
+        "price": "10900",
+        "ingredients.ko": [
+          "야채",
+          "리코타치즈"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Ricotta Cheese"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "リコッタチーズ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "里科塔奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "瑞可塔起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_11",
+      "ocr": {
+        "x": 7.2333333333333165,
+        "y": 35.975000000000136,
+        "text": "리코타치즈샐러드",
+        "width": 18.213458714746782,
+        "height": 1.7212189741153696,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "닭가슴살&아보샐러드",
+        "en.ROMAN": "dakgaseumsal&abo salad",
+        "en": "Chicken Breast & Avocado Salad",
+        "ja": "鶏ささみ&アボカドサラダ",
+        "zh_CN": "鸡胸肉&鳄梨沙拉",
+        "zh_TW": "雞胸肉&酪梨沙拉",
+        "price": "13900",
+        "ingredients.ko": [
+          "닭고기",
+          "아보카도",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Avocado",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "アボカド",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "酪梨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "酪梨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_15",
+      "ocr": {
+        "x": 7.197912585903059,
+        "y": 41.764503715384464,
+        "text": "닭가슴살&아보샐러드",
+        "width": 22.654682379575732,
+        "height": 1.750955415386806,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "그릴드쉬림프+아보샐러드",
+        "en.ROMAN": "grilled shrimp +abo salad",
+        "en": "Grilled Shrimp + Avocado Salad",
+        "ja": "グリルドシュリンプ+アボカドサラダ",
+        "zh_CN": "烤虾+鳄梨沙拉",
+        "zh_TW": "烤蝦+酪梨沙拉",
+        "price": "13900",
+        "ingredients.ko": [
+          "새우",
+          "아보카도",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Avocado",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "アボカド",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "酪梨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "酪梨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_20",
+      "ocr": {
+        "x": 7.292554277113439,
+        "y": 47.520992569231126,
+        "text": "그릴드쉬림프+아보샐러드",
+        "width": 27.128899238849687,
+        "height": 1.808970276924547,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "구운곡물빵&버터",
+        "en.ROMAN": "guungongmulppang& butter",
+        "en": "Grilled Grain Bread & Butter",
+        "ja": "焼き穀物パン&バター",
+        "zh_CN": "烤谷物面包&黄油",
+        "zh_TW": "烤五穀麵包&奶油",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루",
+          "버터"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Butter"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "バター"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "黄油"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "奶油"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_26",
+      "ocr": {
+        "x": 7.443556896275514,
+        "y": 64.06455558741222,
+        "text": "구운곡물빵(3P)&버터",
+        "width": 22.47899604756438,
+        "height": 1.7931480419596415,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "마늘빵",
+        "en.ROMAN": "maneulppang",
+        "en": "Garlic Bread",
+        "ja": "ガーリックトースト",
+        "zh_CN": "香蒜面包",
+        "zh_TW": "香蒜麵包",
+        "price": "3000",
+        "ingredients.ko": [
+          "계란",
+          "마늘",
+          "빵",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Garlic",
+          "Bread",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "にんにく",
+          "パン",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "大蒜",
+          "面包",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "大蒜",
+          "麵包",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_28",
+      "ocr": {
+        "x": 7.566666666666653,
+        "y": 67.225,
+        "text": "마늘빵",
+        "width": 6.247283298034847,
+        "height": 1.702376212349869,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "감자튀김",
+        "en.ROMAN": "gamjatwigim",
+        "en": "French Fries",
+        "ja": "フライドポテト",
+        "zh_CN": "炸薯条",
+        "zh_TW": "炸薯條",
+        "price": "3500",
+        "ingredients.ko": [
+          "감자"
+        ],
+        "ingredients.en": [
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_30",
+      "ocr": {
+        "x": 7.6531658346717135,
+        "y": 70.33265392182243,
+        "text": "감자튀김",
+        "width": 8.027257943085074,
+        "height": 1.6681048531070475,
+        "rotation": 0.793135596434297
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "애플주스",
+        "en.ROMAN": "apple juice",
+        "en": "Apple Juice",
+        "ja": "アップルジュース",
+        "zh_CN": "苹果汁",
+        "zh_TW": "蘋果汁",
+        "price": "3500",
+        "ingredients.ko": [
+          "사과"
+        ],
+        "ingredients.en": [
+          "Apple"
+        ],
+        "ingredients.ja": [
+          "リンゴ"
+        ],
+        "ingredients.zh_CN": [
+          "苹果"
+        ],
+        "ingredients.zh_TW": [
+          "蘋果"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_33",
+      "ocr": {
+        "x": 8.099203099381084,
+        "y": 81.94669489240692,
+        "text": "애플주스",
+        "width": 8.746067384657092,
+        "height": 1.6530979423463856,
+        "rotation": 3.7848210492497856
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "오렌지주스",
+        "en.ROMAN": "orange juice",
+        "en": "Orange Juice",
+        "ja": "オレンジジュース",
+        "zh_CN": "橙汁",
+        "zh_TW": "柳橙汁",
+        "price": "2500",
+        "ingredients.ko": [
+          "오렌지"
+        ],
+        "ingredients.en": [
+          "Orange"
+        ],
+        "ingredients.ja": [
+          "オレンジ"
+        ],
+        "ingredients.zh_CN": [
+          "橙子"
+        ],
+        "ingredients.zh_TW": [
+          "橘子"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_113880_2-tf_35",
+      "ocr": {
+        "x": 8.26374140414281,
+        "y": 85.46035417262534,
+        "text": "오렌지주스",
+        "width": 10.62365208140653,
+        "height": 1.669522218403399,
+        "rotation": 2.8346319397887783
+      }
+    }
+  ]
+}

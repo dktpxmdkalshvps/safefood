@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "file_name": "SL_KF04_M0001_79200_5.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:05 12:46:37",
+    "store_id": "79200",
+    "store_region": "SL",
+    "store_type": "KF04",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          4.597701149425287,
+          19.222462203023756
+        ],
+        [
+          89.01195097815332,
+          16.37519744689081
+        ],
+        [
+          94.70706148029738,
+          85.22492827439477
+        ],
+        [
+          5.363984674329502,
+          86.67797620966442
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF04_M0001_79200_5-tf-0",
+      "ocr": {
+        "x": 41.33435251195775,
+        "y": 26.994472568388503,
+        "text": "훈제오리구이",
+        "width": 10.881351770552282,
+        "height": 1.3198011415539843,
+        "rotation": 357.183758924448
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "훈제오리구이",
+        "en.ROMAN": "hunjeorigui",
+        "en": "Grilled Smoked Duck",
+        "ja": "鴨の燻製焼き",
+        "zh_CN": "烤烟熏鸭肉",
+        "zh_TW": "烤燻鴨",
+        "price": "15000",
+        "ingredients.ko": [
+          "오리고기"
+        ],
+        "ingredients.en": [
+          "Duck Meat"
+        ],
+        "ingredients.ja": [
+          "鴨肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸭肉"
+        ],
+        "ingredients.zh_TW": [
+          "鴨肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0001_79200_5-tf-1",
+      "ocr": {
+        "x": 41.72300802596452,
+        "y": 32.20391930054166,
+        "text": "삼겹살",
+        "width": 5.771578930207274,
+        "height": 1.3505545023065777,
+        "rotation": 357.3570085007617
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0001_79200_5-tf-2",
+      "ocr": {
+        "x": 69.14496377051525,
+        "y": 41.565725602648534,
+        "text": "냉면",
+        "width": 3.7329702813319097,
+        "height": 1.2617778579006267,
+        "rotation": 358.1268433978925
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉면",
+        "en.ROMAN": "naengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0001_79200_5-tf-3",
+      "ocr": {
+        "x": 57.71852730234402,
+        "y": 41.880545596028234,
+        "text": "공기밥",
+        "width": 5.324227341953965,
+        "height": 1.2101719378395779,
+        "rotation": 357.9970054711812
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF04_M0001_79200_5-tf-4",
+      "ocr": {
+        "x": 41.641243430827785,
+        "y": 42.257554705226894,
+        "text": "해물된장찌개",
+        "width": 9.915798016259847,
+        "height": 1.3791377877492708,
+        "rotation": 357.3612167849466
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "해물된장찌개",
+        "en.ROMAN": "haemuldoenjangjjigae",
+        "en": "Seafood Soybean Paste Jjigae",
+        "ja": "海鮮テンジャンチゲ",
+        "zh_CN": "海鲜大酱汤",
+        "zh_TW": "海鮮大醬鍋",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "豆腐"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "콩"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

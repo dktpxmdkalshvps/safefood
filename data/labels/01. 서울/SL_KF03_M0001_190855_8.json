@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_190855_8.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "190855",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.221311475409836,
+          6.615384615384615
+        ],
+        [
+          87.09016393442623,
+          5.230769230769231
+        ],
+        [
+          89.34426229508196,
+          94.46153846153847
+        ],
+        [
+          12.5,
+          96.76923076923077
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "외국음식",
+        "food_subtype": "메인요리",
+        "ko": "크리스피쿠카부라윙",
+        "en.ROMAN": "crispy kookaburra wing",
+        "en": "Crispy Kookaburra Wings",
+        "ja": "クリスピークーカバーラウィング",
+        "zh_CN": "脆皮笑翠鸟鸡翅",
+        "zh_TW": "脆皮炸雞翅",
+        "price": "19500",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_190855_8-tf_1",
+      "ocr": {
+        "x": 52.96429945009612,
+        "y": 52.0401258571365,
+        "text": "크리스피쿠카부라윙",
+        "width": 12.36772486772487,
+        "height": 1.537698412698413,
+        "rotation": 359.30958053897564
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "베이비백립",
+        "en.ROMAN": "baby back rib",
+        "en": "Baby Back Ribs",
+        "ja": "ベビーバックリブ",
+        "zh_CN": "烤肋排",
+        "zh_TW": "嫩肋排",
+        "price": "39900",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_190855_8-tf_2",
+      "ocr": {
+        "x": 30.13393322337388,
+        "y": 52.60528108850102,
+        "text": "베이비백립",
+        "width": 7.675094198158413,
+        "height": 1.4978027661645226,
+        "rotation": 358.46286447100744
+      }
+    }
+  ]
+}

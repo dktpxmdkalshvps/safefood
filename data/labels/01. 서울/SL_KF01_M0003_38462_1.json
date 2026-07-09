@@ -1,0 +1,526 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0003_38462_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:02 14:05:18",
+    "store_id": "38462",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0003",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.27016407525639646,
+          4.1443421692181275
+        ],
+        [
+          96.93683074192306,
+          4.814583456081398
+        ],
+        [
+          93.60349740858972,
+          79.21136629790446
+        ],
+        [
+          0.7463545514468728,
+          79.07731804053181
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨",
+        "en.ROMAN": "fried chicken",
+        "en": "Fried Chicken",
+        "ja": "フライドチキン",
+        "zh_CN": "脆皮炸鸡",
+        "zh_TW": "炸雞",
+        "price": "17000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_1",
+      "ocr": {
+        "x": 10.61278863232682,
+        "y": 14.175,
+        "text": "후라이드치킨",
+        "width": 14.253996447602134,
+        "height": 1.55,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념치킨",
+        "en.ROMAN": "yangnyeom chicken",
+        "en": "Seasoned Fried Chicken",
+        "ja": "ヤンニョムチキン",
+        "zh_CN": "调味炸鸡",
+        "zh_TW": "調味炸雞",
+        "price": "18000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_5",
+      "ocr": {
+        "x": 10.746003552397866,
+        "y": 21.675,
+        "text": "양념치킨",
+        "width": 9.680284191829482,
+        "height": 1.475,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "간장마늘양념치킨",
+        "en.ROMAN": "ganjangmaneuryangnyeom chicken",
+        "en": "Seasoned Deep-fried Soy Sauce-marinated Chicken with Garlic",
+        "ja": "カンジャンにんにく風味チキン",
+        "zh_CN": "酱香蒜蓉调味炸鸡",
+        "zh_TW": "蒜香醬油調味炸雞",
+        "price": "18000",
+        "ingredients.ko": [
+          "간장",
+          "마늘",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Soy Sauce",
+          "Garlic",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "カンジャン",
+          "にんにく",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "酱油",
+          "大蒜",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "醬油",
+          "大蒜",
+          "雞肉"
+        ],
+        "allergy": [
+          "콩",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_8",
+      "ocr": {
+        "x": 10.879218472468915,
+        "y": 27.3,
+        "text": "간장마늘양념치킨",
+        "width": 19.27175843694494,
+        "height": 1.55,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "반반치킨",
+        "en.ROMAN": "banban chicken",
+        "en": "Fried Chicken (Half and Half)",
+        "ja": "ハーフ＆ハーフチキン",
+        "zh_CN": "炸鸡双拼",
+        "zh_TW": "炸雞雙拼",
+        "price": "18000",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_11",
+      "ocr": {
+        "x": 10.879218472468915,
+        "y": 32.85,
+        "text": "반반치킨",
+        "width": 9.547069271758437,
+        "height": 1.45,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "페퍼로니피자",
+        "en.ROMAN": "pepperoni pizza",
+        "en": "Pepperoni Pizza",
+        "ja": "ペパロニピザ",
+        "zh_CN": "意大利辣香肠披萨",
+        "zh_TW": "義大利辣香腸披薩",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "모짜렐라치즈",
+          "밀가루",
+          "페페로니"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Mozzarella",
+          "Wheat Flour",
+          "Pepperoni"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "モッツァレラチーズ",
+          "小麦粉",
+          "ペパロニ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "马苏里拉奶酪",
+          "面粉",
+          "意大利辣香肠"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "莫札瑞拉起司",
+          "麵粉",
+          "義大利辣味香腸"
+        ],
+        "allergy": [
+          "우유",
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_16",
+      "ocr": {
+        "x": 10.879218472468914,
+        "y": 41.05000000000001,
+        "text": "페퍼로니피자",
+        "width": 14.129131967483024,
+        "height": 1.55,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "고르곤졸라피자",
+        "en.ROMAN": "gorgonzola pizza",
+        "en": "Gorgonzola Cheese Pizza",
+        "ja": "ゴルゴンゾーラピザ",
+        "zh_CN": "戈贡佐拉披萨",
+        "zh_TW": "戈貢佐拉起司披薩",
+        "price": "15000",
+        "ingredients.ko": [
+          "밀가루",
+          "고르곤졸라치즈"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Gorgonzola Cheese"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "ゴルゴンゾーラ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "戈贡佐拉奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "戈貢佐拉起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_19",
+      "ocr": {
+        "x": 10.879218472468915,
+        "y": 46.525,
+        "text": "고르곤졸라피자",
+        "width": 14.120781527531085,
+        "height": 1.375,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "한캔골뱅이무침",
+        "en.ROMAN": "han can golbaengimuchim",
+        "en": "a can of sea snail salad",
+        "ja": "1缶つぶ貝の和え物",
+        "zh_CN": "一罐凉拌海螺",
+        "zh_TW": "一罐涼拌海螺",
+        "price": "20000",
+        "ingredients.ko": [
+          "골뱅이"
+        ],
+        "ingredients.en": [
+          "Sea Snail"
+        ],
+        "ingredients.ja": [
+          "つぶ貝"
+        ],
+        "ingredients.zh_CN": [
+          "海螺"
+        ],
+        "ingredients.zh_TW": [
+          "海螺"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_22",
+      "ocr": {
+        "x": 11.056838365897004,
+        "y": 52.074999999999974,
+        "text": "한캔골뱅이무침",
+        "width": 16.85852507341342,
+        "height": 1.5999999999999988,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "전채요리",
+        "ko": "토마토샐러드",
+        "en.ROMAN": "tomato salad",
+        "en": "Tomato Salad",
+        "ja": "トマトサラダ",
+        "zh_CN": "蕃茄沙拉",
+        "zh_TW": "番茄沙拉",
+        "price": "12000",
+        "ingredients.ko": [
+          "야채",
+          "토마토"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Tomato"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "トマト"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "番茄"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "番茄"
+        ],
+        "allergy": [
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_25",
+      "ocr": {
+        "x": 11.32326820603907,
+        "y": 57.699999999999996,
+        "text": "토마토샐러드",
+        "width": 13.755864913924377,
+        "height": 1.4499999999999997,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "로제떡볶이",
+        "en.ROMAN": "rosé tteokbokki",
+        "en": "Rosé Tteokbokki",
+        "ja": "ロゼトッポッキ",
+        "zh_CN": "番茄奶油辣炒年糕",
+        "zh_TW": "番茄奶油辣炒年糕",
+        "price": "14000",
+        "ingredients.ko": [
+          "야채",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_28",
+      "ocr": {
+        "x": 11.456483126110124,
+        "y": 62.925,
+        "text": "로제떡볶이",
+        "width": 11.456483126110124,
+        "height": 1.475,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈떡볶이",
+        "en.ROMAN": "cheese tteokbokki",
+        "en": "Cheese Tteokbokki",
+        "ja": "チーズ入りトッポッキ",
+        "zh_CN": "奶酪辣炒年糕",
+        "zh_TW": "起司辣炒年糕",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0003_38462_1-tf_31",
+      "ocr": {
+        "x": 11.323268206039076,
+        "y": 68.1,
+        "text": "치즈떡볶이",
+        "width": 11.72291296625222,
+        "height": 1.45,
+        "rotation": 0
+      }
+    }
+  ]
+}

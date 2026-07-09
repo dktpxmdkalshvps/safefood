@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "file_name": "GK_IF03_M0002_1130620_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:07:29 18:53:51",
+    "store_id": "1130620",
+    "store_region": "GK",
+    "store_type": "IF03",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 0,
+        "y": 2.857142857142857,
+        "width": 99.76190476190479,
+        "height": 97.14285714285717,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "sn": "GK_IF03_M0002_1130620_1-tf-0",
+      "ocr": {
+        "x": 4.994997650664164,
+        "y": 11.178833765106988,
+        "text": "회덮밥",
+        "width": 33.452075855909285,
+        "height": 6.253252371165592,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "회덮밥",
+        "en.ROMAN": "hoedeopbap",
+        "en": "Raw Fish Bibimbap",
+        "ja": "刺身丼",
+        "zh_CN": "生鱼片盖饭",
+        "zh_TW": "生魚片蓋飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_IF03_M0002_1130620_1-tf-1",
+      "ocr": {
+        "x": 5.43648583325046,
+        "y": 27.494312758345156,
+        "text": "알탕",
+        "width": 32.66362059421785,
+        "height": 5.9989402064859,
+        "rotation": 0.43279354460668173
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "알탕",
+        "en.ROMAN": "altang",
+        "en": "Spicy Fish Roe Soup",
+        "ja": "魚の卵スープ",
+        "zh_CN": "鱼子汤",
+        "zh_TW": "魚卵湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "생선알"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish Roe"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼子"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚卵"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_IF03_M0002_1130620_1-tf-2",
+      "ocr": {
+        "x": 9.423024824040233,
+        "y": 37.382801481362804,
+        "text": "우동Set",
+        "width": 35.31521647076366,
+        "height": 5.782680347091775,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "우동세트",
+        "en.ROMAN": "udon set",
+        "en": "Udon Set Menu",
+        "ja": "うどんセット",
+        "zh_CN": "乌冬面套餐",
+        "zh_TW": "烏龍麵套餐",
+        "price": "10000",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_IF03_M0002_1130620_1-tf-3",
+      "ocr": {
+        "x": 9.293615740943801,
+        "y": 46.6756186768337,
+        "text": "모밀Set",
+        "width": 35.108115230768064,
+        "height": 5.933804584063519,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "모밀세트",
+        "en.ROMAN": "momil set",
+        "en": "Cold Buckwheat Noodles Set",
+        "ja": "そばセット",
+        "zh_CN": "荞麦套餐",
+        "zh_TW": "蕎麥麵套餐",
+        "price": "10000",
+        "ingredients.ko": [
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_IF03_M0002_1130620_1-tf-4",
+      "ocr": {
+        "x": 2.688334713654116,
+        "y": 65.35213591013165,
+        "text": "점심초밥",
+        "width": 34.40994661724776,
+        "height": 6.2013107800941984,
+        "rotation": 1.508316091689835
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "점심초밥",
+        "en.ROMAN": "jeomsimchobap",
+        "en": "Sushi",
+        "ja": "寿司",
+        "zh_CN": "寿司",
+        "zh_TW": "壽司",
+        "price": "10000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "GK_IF03_M0002_1130620_1-tf-5",
+      "ocr": {
+        "x": 53.70216099207867,
+        "y": 84.46608556090425,
+        "text": "일식돈까스",
+        "width": 24.894417429144987,
+        "height": 4.042763404439374,
+        "rotation": 0.5328505787626909
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "일식돈까스",
+        "en.ROMAN": "ilsikdongaseu",
+        "en": "Japanese Pork Cutlet",
+        "ja": "和風豚カツ",
+        "zh_CN": "日式炸猪排",
+        "zh_TW": "日式炸豬排",
+        "price": "10000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

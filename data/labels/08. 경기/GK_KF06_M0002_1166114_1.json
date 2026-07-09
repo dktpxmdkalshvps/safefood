@@ -1,0 +1,938 @@
+{
+  "meta": {
+    "file_name": "GK_KF06_M0002_1166114_1.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 2268,
+    "captured_date": "2022:11:10 19:06:23",
+    "store_id": "1166114",
+    "store_region": "GK",
+    "store_type": "KF06",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.60784313725487,
+          86.41114982578398
+        ],
+        [
+          97.45098039215685,
+          13.937282229965154
+        ],
+        [
+          0.19607843137254902,
+          15.331010452961669
+        ],
+        [
+          0.19607843137254902,
+          91.28919860627178
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "오뎅탕",
+        "en.ROMAN": "odengtang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "6000",
+        "ingredients.ko": [
+          "생선살",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish Fillet",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚の身",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_6",
+      "ocr": {
+        "x": 71.19204577453262,
+        "y": 28.341899186370824,
+        "text": "오뎅탕",
+        "width": 7.553819206710977,
+        "height": 3.9886043290745055,
+        "rotation": 359.3258571412614
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "국물닭발",
+        "en.ROMAN": "gungmuldakbal",
+        "en": "Braised Chicken Feet in Sauce",
+        "ja": "鶏足の炒め煮",
+        "zh_CN": "带汤鸡爪",
+        "zh_TW": "辣湯雞爪",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "파",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Green Onions",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "ネギ",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "葱",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "蔥",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_8",
+      "ocr": {
+        "x": 43.860990107124756,
+        "y": 29.181429847081187,
+        "text": "국물닭발",
+        "width": 9.552846168238188,
+        "height": 4.061888811719863,
+        "rotation": 359.33105853534244
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "누룽지탕",
+        "en.ROMAN": "nurungjitang",
+        "en": "Scorched Rice Soup",
+        "ja": "おこげのあんかけ",
+        "zh_CN": "锅巴汤",
+        "zh_TW": "鍋粑湯",
+        "price": "5000",
+        "ingredients.ko": [
+          "누룽지"
+        ],
+        "ingredients.en": [
+          "Scorched Rice"
+        ],
+        "ingredients.ja": [
+          "おこげ"
+        ],
+        "ingredients.zh_CN": [
+          "锅巴"
+        ],
+        "ingredients.zh_TW": [
+          "鍋粑"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_11",
+      "ocr": {
+        "x": 71.33714245016343,
+        "y": 32.67712102029593,
+        "text": "누룽지탕",
+        "width": 7.637833160603358,
+        "height": 3.986600931558562,
+        "rotation": 359.0566068846442
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "무뼈닭발",
+        "en.ROMAN": "muppyeodakbal",
+        "en": "Grilled Boneless Chicken Feet",
+        "ja": "骨なし鶏足",
+        "zh_CN": "无骨鸡爪",
+        "zh_TW": "無骨雞爪",
+        "price": "20000",
+        "ingredients.ko": [
+          "고추",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_14",
+      "ocr": {
+        "x": 43.960059219942146,
+        "y": 34.893271141425544,
+        "text": "무뼈닭발",
+        "width": 9.449404761904768,
+        "height": 4.129763462646168,
+        "rotation": 359.33567851289183
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "계란찜",
+        "en.ROMAN": "gyeranjjim",
+        "en": "Steamed Eggs",
+        "ja": "茶碗蒸し",
+        "zh_CN": "鸡蛋羹",
+        "zh_TW": "蒸蛋",
+        "price": "5000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_18",
+      "ocr": {
+        "x": 71.48005463557584,
+        "y": 37.00738674913505,
+        "text": "계란찜",
+        "width": 7.749567727116669,
+        "height": 3.979203147409179,
+        "rotation": 359.0566068846454
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "튤립닭발",
+        "en.ROMAN": "tulip dakbal",
+        "en": "Grilled Boneless Chicken's Feet",
+        "ja": "チューリプ型鶏足炒め",
+        "zh_CN": "郁金香去骨鸡爪",
+        "zh_TW": "鬱金香雞爪",
+        "price": "20000",
+        "ingredients.ko": [
+          "고추",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_19",
+      "ocr": {
+        "x": 44.0271791412348,
+        "y": 40.72280173160244,
+        "text": "튤립닭발",
+        "width": 9.577647755539806,
+        "height": 4.07279165561798,
+        "rotation": 359.580899152199
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "주먹밥",
+        "en.ROMAN": "jumeokbap",
+        "en": "Riceball",
+        "ja": "おにぎり",
+        "zh_CN": "饭团",
+        "zh_TW": "飯糰",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_22",
+      "ocr": {
+        "x": 71.6251816206047,
+        "y": 41.3460268120884,
+        "text": "주먹밥",
+        "width": 7.773846113096215,
+        "height": 4.093130814034038,
+        "rotation": 359.0643093806614
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "라면",
+        "en.ROMAN": "ramyeon",
+        "en": "Instant Noodles",
+        "ja": "ラーメン",
+        "zh_CN": "方便面",
+        "zh_TW": "泡麵",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_25",
+      "ocr": {
+        "x": 71.83108833313591,
+        "y": 45.70378803877215,
+        "text": "라면",
+        "width": 7.757731900118617,
+        "height": 4.006871466194103,
+        "rotation": 359.06430938066063
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "불쭈꾸미",
+        "en.ROMAN": "buljjukkumi",
+        "en": "Spicy webfoot octopus",
+        "ja": "直火イイダコ",
+        "zh_CN": "劲辣八爪鱼",
+        "zh_TW": "火小章魚",
+        "price": "20000",
+        "ingredients.ko": [
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_26",
+      "ocr": {
+        "x": 44.051242298637604,
+        "y": 46.56851135433441,
+        "text": "불쭈꾸미",
+        "width": 9.644793356337384,
+        "height": 4.148094980865062,
+        "rotation": 359.580899152199
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "삶은계란",
+        "en.ROMAN": "salmeungyeran",
+        "en": "Boiled Eggs",
+        "ja": "ゆで卵",
+        "zh_CN": "白煮蛋",
+        "zh_TW": "白煮蛋",
+        "price": "1000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_30",
+      "ocr": {
+        "x": 71.96612479832372,
+        "y": 50.11388540814389,
+        "text": "삶은계란",
+        "width": 7.844003633890281,
+        "height": 4.331890498219214,
+        "rotation": 358.6641344098125
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "매콤불닭",
+        "en.ROMAN": "maekombuldak",
+        "en": "Spicy Hot Chicken",
+        "ja": "鶏肉の激辛炒め",
+        "zh_CN": "劲辣烤鸡",
+        "zh_TW": "辣火雞",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_31",
+      "ocr": {
+        "x": 44.08034636383958,
+        "y": 52.48056950982815,
+        "text": "매콤불닭",
+        "width": 9.750261965687919,
+        "height": 4.337341920168316,
+        "rotation": 359.18294056011564
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "김추가",
+        "en.ROMAN": "gim chuga",
+        "en": "Extra Serving of Laver",
+        "ja": "のり追加",
+        "zh_CN": "另加海苔",
+        "zh_TW": "加點海苔",
+        "price": "1000",
+        "ingredients.ko": [
+          "김"
+        ],
+        "ingredients.en": [
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_35",
+      "ocr": {
+        "x": 72.18868469284376,
+        "y": 54.39362727175777,
+        "text": "김추가",
+        "width": 7.927885706260028,
+        "height": 4.673721340388007,
+        "rotation": 358.6641344098125
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "통닭발",
+        "en.ROMAN": "tongdakbal",
+        "en": "Chicken Feet",
+        "ja": "丸ごと鶏足",
+        "zh_CN": "带骨鸡爪",
+        "zh_TW": "帶骨雞爪",
+        "price": "19000",
+        "ingredients.ko": [
+          "고추",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_37",
+      "ocr": {
+        "x": 44.129173815272466,
+        "y": 58.5646069221156,
+        "text": "통닭발",
+        "width": 9.825650589133954,
+        "height": 4.425525341685043,
+        "rotation": 359.18294056011564
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "오돌뼈",
+        "en.ROMAN": "odolppyeo",
+        "en": "Pork Belly Cartilage",
+        "ja": "軟骨",
+        "zh_CN": "脆骨",
+        "zh_TW": "軟骨",
+        "price": "19000",
+        "ingredients.ko": [
+          "오돌뼈"
+        ],
+        "ingredients.en": [
+          "Pork Cartilage"
+        ],
+        "ingredients.ja": [
+          "軟骨"
+        ],
+        "ingredients.zh_CN": [
+          "脆骨"
+        ],
+        "ingredients.zh_TW": [
+          "軟骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_41",
+      "ocr": {
+        "x": 44.133317745572384,
+        "y": 64.8587557077109,
+        "text": "오돌뼈",
+        "width": 9.843206054750087,
+        "height": 4.223398306112022,
+        "rotation": 358.7853943985536
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "막걸리",
+        "en.ROMAN": "makgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "マッコリ",
+        "zh_CN": "马格利酒",
+        "zh_TW": "馬格利酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "누룩"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Yeast"
+        ],
+        "ingredients.ja": [
+          "米",
+          "糀"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酵母"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酵母"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "pbmp9pqNAO",
+      "ocr": {
+        "x": 86.1796363469808,
+        "y": 69.94269440053776,
+        "text": "막걸리",
+        "width": 6.006823259955906,
+        "height": 4.328470464734382,
+        "rotation": 358.6978830170984
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_46",
+      "ocr": {
+        "x": 72.82842330666018,
+        "y": 70.46259577159172,
+        "text": "소주",
+        "width": 4.135816871404987,
+        "height": 4.232804232804241,
+        "rotation": 358.61843979644857
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "야채모래집",
+        "en.ROMAN": "yachaemoraejip",
+        "en": "a vegetable sand house",
+        "ja": "野菜砂肝",
+        "zh_CN": "沙房",
+        "zh_TW": "沙房",
+        "price": "18000",
+        "ingredients.ko": [
+          "닭고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_47",
+      "ocr": {
+        "x": 44.10776742087729,
+        "y": 71.03394512255079,
+        "text": "야채모래집",
+        "width": 10.06944444444445,
+        "height": 4.5944635103979135,
+        "rotation": 358.7853943985536
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "kRG8o3JdbR",
+      "ocr": {
+        "x": 86.4387920965697,
+        "y": 74.51268645650137,
+        "text": "음료수",
+        "width": 6.090067099583066,
+        "height": 4.410461376477571,
+        "rotation": 358.689061253734
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_54",
+      "ocr": {
+        "x": 73.03789801912191,
+        "y": 75.04048967487184,
+        "text": "맥주",
+        "width": 4.194932952632423,
+        "height": 4.460625214359666,
+        "rotation": 358.61843979644937
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념모래집",
+        "en.ROMAN": "yangnyeommoraejip",
+        "en": "Stir-fried Marinated Chicken Gizzards",
+        "ja": "味付け砂肝炒め",
+        "zh_CN": "调味鸡胗",
+        "zh_TW": "調味雞胗",
+        "price": "18000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_56",
+      "ocr": {
+        "x": 44.14396683326816,
+        "y": 77.61460652084764,
+        "text": "양념모래집",
+        "width": 10.04464285714286,
+        "height": 4.5890120884488,
+        "rotation": 358.7166161862378
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "청하",
+        "en.ROMAN": "chungha",
+        "en": "Chungha (Refined Rice Wine)",
+        "ja": "清河(清酒)",
+        "zh_CN": "清河",
+        "zh_TW": "清河清酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF06_M0002_1166114_1-tf_61",
+      "ocr": {
+        "x": 73.1595421959699,
+        "y": 79.82431435765339,
+        "text": "청하",
+        "width": 4.2176933730273,
+        "height": 4.537891471556725,
+        "rotation": 357.9859365494561
+      }
+    }
+  ]
+}

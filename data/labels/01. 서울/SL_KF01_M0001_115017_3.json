@@ -1,0 +1,461 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_115017_3.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:17 14:33:54",
+    "store_id": "115017",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          12.955465587044534,
+          2.2796352583586628
+        ],
+        [
+          98.32823494150725,
+          3.1430178219942957
+        ],
+        [
+          100,
+          93.2976714915041
+        ],
+        [
+          8.959214451205298,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "쭈꾸미볶음",
+        "en.ROMAN": "jjukkumibokkeum",
+        "en": "Stir-fried Webfoot Octopus",
+        "ja": "イイダコ炒め",
+        "zh_CN": "炒八爪鱼",
+        "zh_TW": "炒小章魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_115017_3-tf-0",
+      "ocr": {
+        "x": 23.37014073607078,
+        "y": 30.672227792869055,
+        "text": "쭈꾸미볶음",
+        "width": 14.02050602559905,
+        "height": 2.675000000000001,
+        "rotation": 1.1384411436695245
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "쭈꾸미왕자세트",
+        "en.ROMAN": "jjukkumiwangja set",
+        "en": "Webfoot Octopus Prince Set",
+        "ja": "イイダコプリンスセット",
+        "zh_CN": "炒八爪鱼+戈贡佐拉披萨套餐",
+        "zh_TW": "小章魚王子套餐",
+        "price": "12000",
+        "ingredients.ko": [
+          "쭈꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_115017_3-tf-1",
+      "ocr": {
+        "x": 23.29800456214117,
+        "y": 36.5993865629449,
+        "text": "쭈꾸미왕자세트",
+        "width": 20.721607191357595,
+        "height": 2.600000000000001,
+        "rotation": 0.5949039707633688
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "쭈꾸미공주세트",
+        "en.ROMAN": "jjukkumigongju set",
+        "en": "Webfoot Octopus Princess Set",
+        "ja": "イイダコプリンセスセット",
+        "zh_CN": "炒八爪鱼+戈贡佐拉披萨+三文鱼沙拉套餐",
+        "zh_TW": "小章魚公主套餐",
+        "price": "14000",
+        "ingredients.ko": [
+          "쭈꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_115017_3-tf-2",
+      "ocr": {
+        "x": 23.021007545656342,
+        "y": 43.69999999999998,
+        "text": "쭈꾸미공주세트",
+        "width": 20.711678085051386,
+        "height": 2.674999999999997,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "쭈꾸미킹세트",
+        "en.ROMAN": "jjukkumi king set",
+        "en": "Webfoot Octopus King Set",
+        "ja": "イイダコキングセット",
+        "zh_CN": "炒八爪鱼+戈贡佐拉披萨+布法罗辣鸡翅+炸大虾+汽水套餐",
+        "zh_TW": "小章魚王套餐",
+        "price": "16000",
+        "ingredients.ko": [
+          "쭈꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_115017_3-tf-3",
+      "ocr": {
+        "x": 22.92596604349806,
+        "y": 50.962565635537445,
+        "text": "쭈꾸미킹세트",
+        "width": 17.94325260881513,
+        "height": 2.6750000000000016,
+        "rotation": 359.55143974887096
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "쭈꾸미퀸세트",
+        "en.ROMAN": "jjukkumi queen set",
+        "en": "Webfoot Octopus Queen Set",
+        "ja": "イイダコクイーンセット",
+        "zh_CN": "炒八爪鱼+戈贡佐拉披萨+三文鱼沙拉+布法罗辣鸡翅+炸大虾+汽水套餐",
+        "zh_TW": "小章魚皇后套餐",
+        "price": "18000",
+        "ingredients.ko": [
+          "쭈꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_115017_3-tf-4",
+      "ocr": {
+        "x": 22.708247296734267,
+        "y": 58.40161988979561,
+        "text": "쭈꾸미퀸세트",
+        "width": 18.2668295859944,
+        "height": 2.650844012759806,
+        "rotation": 359.11586534200654
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "조림",
+        "ko": "코다리조림",
+        "en.ROMAN": "kodarijorim",
+        "en": "Braised Half-dried Pollack",
+        "ja": "半干しスケトウダラの煮付け",
+        "zh_CN": "炖半干明太鱼",
+        "zh_TW": "醬燒乾明太魚",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "코다리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Half-dried Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "半干しスケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "半干明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "半乾明太魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_115017_3-tf-5",
+      "ocr": {
+        "x": 22.51388799823759,
+        "y": 68.17635850652711,
+        "text": "코다리조림",
+        "width": 14.362693408453627,
+        "height": 2.757130772787683,
+        "rotation": 358.713808985071
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "코다리피자세트",
+        "en.ROMAN": "kodari pizza set",
+        "en": "Dried Pollack Pizza Set Menu",
+        "ja": "半干しスケトウダラの煮付け＋ピザセット",
+        "zh_CN": "炖半干明太鱼+戈贡佐拉披萨套餐",
+        "zh_TW": "半乾明太魚披薩套餐",
+        "price": "12000",
+        "ingredients.ko": [
+          "명태",
+          "밀가루",
+          "토마토",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Pollack",
+          "Wheat Flour",
+          "Tomato",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "明太子",
+          "小麦粉",
+          "トマト",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼",
+          "面粉",
+          "番茄",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚",
+          "麵粉",
+          "番茄",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_115017_3-tf-6",
+      "ocr": {
+        "x": 22.39471097069104,
+        "y": 74.75912111894502,
+        "text": "코다리피자세트",
+        "width": 21.17013274363444,
+        "height": 2.784740858008766,
+        "rotation": 358.33145206104336
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "기타",
+        "ko": "코다리피자연어세트",
+        "en.ROMAN": "kodari pizza yeoneo set",
+        "en": "Half-dried Pollack, Pizza and Salmon Set Menu",
+        "ja": "半干しスケトウダラの煮付け＋ピザ＋サーモンサラダセット",
+        "zh_CN": "炖半干明太鱼+戈贡佐拉披萨+三文鱼沙拉套餐",
+        "zh_TW": "半乾明太魚披薩鮭魚套餐",
+        "price": "14000",
+        "ingredients.ko": [
+          "명태",
+          "연어",
+          "밀가루",
+          "토마토",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Pollack",
+          "Salmon",
+          "Wheat Flour",
+          "Tomato",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "明太子",
+          "鮭",
+          "小麦粉",
+          "トマト",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼",
+          "三文鱼",
+          "面粉",
+          "番茄",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚",
+          "鮭魚",
+          "麵粉",
+          "番茄",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_115017_3-tf-7",
+      "ocr": {
+        "x": 22.168982655092552,
+        "y": 82.80277280558249,
+        "text": "코다리피자연어세트",
+        "width": 26.847789173504278,
+        "height": 2.8441134475805847,
+        "rotation": 357.70318331621286
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "등심돈까스",
+        "en.ROMAN": "deungsimdongaseu",
+        "en": "Pork cutlet with sirloin",
+        "ja": "ロースカツ",
+        "zh_CN": "炸猪外脊排",
+        "zh_TW": "炸豬里肌排",
+        "price": "9000",
+        "ingredients.ko": [
+          "계란",
+          "돼지등심",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Pork Sirloin",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "豚ロース",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "猪外脊肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "豬里肌",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_115017_3-tf-8",
+      "ocr": {
+        "x": 21.982140136194595,
+        "y": 90.84155942733864,
+        "text": "등심돈까스",
+        "width": 15.150070158742638,
+        "height": 3.1021995937975206,
+        "rotation": 357.71719451814954
+      }
+    }
+  ]
+}

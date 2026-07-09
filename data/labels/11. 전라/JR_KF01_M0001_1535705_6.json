@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "file_name": "JR_KF01_M0001_1535705_6.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:14 13:15:42",
+    "store_id": "1535705",
+    "store_region": "JR",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "bbox",
+      "value": {
+        "x": 5.747126436781608,
+        "y": 12.783171521035602,
+        "width": 90.8045977011494,
+        "height": 70.71197411003236,
+        "rotation": 0
+      }
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "전복삼계탕",
+        "en.ROMAN": "jeonboksamgyetang",
+        "en": "Abalone and Ginseng Chicken Soup",
+        "ja": "アワビサムゲタン",
+        "zh_CN": "鲍鱼参鸡汤",
+        "zh_TW": "鮑魚蔘雞湯",
+        "price": "17000",
+        "ingredients.ko": [
+          "전복",
+          "인삼",
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Ginseng",
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "高麗人参",
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "人参",
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "人蔘",
+          "雞肉"
+        ],
+        "allergy": [
+          "전복",
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1535705_6-tf_7",
+      "ocr": {
+        "x": 66.82948490230915,
+        "y": 56.375,
+        "text": "전복삼계탕",
+        "width": 13.34551451160836,
+        "height": 1.5999999999999988,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "뚝배기삼계탕",
+        "en.ROMAN": "ttukbaegisamgyetang",
+        "en": "Hot pot samgyetang.",
+        "ja": "土鍋サムゲタン",
+        "zh_CN": "砂锅参鸡汤",
+        "zh_TW": "砂鍋參雞湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF01_M0001_1535705_6-tf_9",
+      "ocr": {
+        "x": 12.83924272904691,
+        "y": 72.13676178349793,
+        "text": "뚝배기삼계탕",
+        "width": 17.800072816621597,
+        "height": 1.814732896816541,
+        "rotation": 358.4244163260799
+      }
+    }
+  ]
+}

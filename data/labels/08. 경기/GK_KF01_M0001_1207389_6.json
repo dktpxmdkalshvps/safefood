@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0001_1207389_6.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:26 16:44:42",
+    "store_id": "1207389",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          16.6270783847981,
+          3.4759358288770055
+        ],
+        [
+          80.04750593824228,
+          3.2085561497326207
+        ],
+        [
+          78.62232779097387,
+          94.91978609625669
+        ],
+        [
+          14.251781472684085,
+          94.38502673796792
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "차돌해물짬뽕뚝배기",
+        "en.ROMAN": "chadolhaemuljjamppongttukbaegi",
+        "en": "Spicy Seafood Noodle Soup Hot Pot with Beef Brisket",
+        "ja": "牛のともばら肉入り海鮮チャンポン土鍋",
+        "zh_CN": "牛胸肉海鲜炒码面砂锅",
+        "zh_TW": "牛胸肉海鮮炒碼麵砂鍋",
+        "price": "10500",
+        "ingredients.ko": [
+          "해산물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Seafood",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海鮮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": 3
+      },
+      "sn": "GK_KF01_M0001_1207389_6-tf_6",
+      "ocr": {
+        "x": 52.067754833093375,
+        "y": 25.92436071391996,
+        "text": "차돌해물짬뽕뚝배기",
+        "width": 24.53190772586156,
+        "height": 2.0461507149442033,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "귀리보리밥변경",
+        "en.ROMAN": "gwiriboribapbyeongyeong",
+        "en": "If Changed to Steamed Barley and Oat Rice",
+        "ja": "オーツ麦入り麦ご飯に変更",
+        "zh_CN": "变更成燕麦大麦",
+        "zh_TW": "燕麥大麥飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "귀리",
+          "보리"
+        ],
+        "ingredients.en": [
+          "Oats",
+          "Barley"
+        ],
+        "ingredients.ja": [
+          "オーツ麦",
+          "麦"
+        ],
+        "ingredients.zh_CN": [
+          "燕麦",
+          "大麦"
+        ],
+        "ingredients.zh_TW": [
+          "燕麥",
+          "大麥"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0001_1207389_6-tf_9",
+      "ocr": {
+        "x": 52.333173958506535,
+        "y": 31.529291763633598,
+        "text": "귀리보리밥변경",
+        "width": 10.201303977397764,
+        "height": 1.0303803146210666,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "소불고기버섯뚝배기",
+        "en.ROMAN": "sobulgogibeoseotttukbaegi",
+        "en": "Beef Bulgogi and Mushroom Hot Pot",
+        "ja": "牛肉プルゴギ入りきのこ土鍋",
+        "zh_CN": "烤牛肉蘑菇砂锅",
+        "zh_TW": "烤牛肉蘑菇砂鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "버섯",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Mushroom",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "きのこ",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "蘑菇",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "蘑菇",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0001_1207389_6-tf_14",
+      "ocr": {
+        "x": 51.754801239946985,
+        "y": 42.93111740858821,
+        "text": "소불고기버섯뚝배기",
+        "width": 24.47050666077227,
+        "height": 1.968830439534647,
+        "rotation": 0.6200209505854559
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "귀리보리밥단품추가",
+        "en.ROMAN": "gwiriboribap danpum chuga",
+        "en": "Extra Serving of Steamed Oats and Barley Rice",
+        "ja": "オーツ麦入り麦ご飯単品追加",
+        "zh_CN": "另加燕麦大麦饭单品",
+        "zh_TW": "加點燕麥飯單點",
+        "price": "2000",
+        "ingredients.ko": [
+          "귀리",
+          "보리",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Oats",
+          "Barley",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "オーツ麦",
+          "麦",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "燕麦",
+          "大麦",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "燕麥",
+          "大麥",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0001_1207389_6-tf_25",
+      "ocr": {
+        "x": 41.58690555537755,
+        "y": 83.8789834141605,
+        "text": "귀리보리밥단품추가",
+        "width": 14.109437621772534,
+        "height": 1.0416924046391494,
+        "rotation": 1.279025010036321
+      }
+    }
+  ]
+}

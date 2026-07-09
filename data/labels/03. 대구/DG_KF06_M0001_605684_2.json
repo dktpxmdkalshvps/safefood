@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "file_name": "DG_KF06_M0001_605684_2.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:03 12:46:29",
+    "store_id": "605684",
+    "store_region": "DG",
+    "store_type": "KF06",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          96.93271265340671,
+          0
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          0,
+          100
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "DG_KF06_M0001_605684_2-tf-0",
+      "ocr": {
+        "x": 48.134182613051244,
+        "y": 52.15338265947711,
+        "text": "마늘간장치킨",
+        "width": 23.344348202867952,
+        "height": 2.5629581614181998,
+        "rotation": 358.87010467976927
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "마늘간장치킨",
+        "en.ROMAN": "maneulganjang chicken",
+        "en": "Garlic and Soy Sauce Glazed Fried Chicken",
+        "ja": "にんにくカンジャンチキン",
+        "zh_CN": "蒜蓉酱油炸鸡",
+        "zh_TW": "蒜香醬油炸雞",
+        "price": "19900",
+        "ingredients.ko": [
+          "마늘",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Garlic",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "にんにく",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "大蒜",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "大蒜",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF06_M0001_605684_2-tf-1",
+      "ocr": {
+        "x": 48.47178816009972,
+        "y": 63.740641004661114,
+        "text": "빨간양념치킨",
+        "width": 23.74567701006211,
+        "height": 2.6347622617692514,
+        "rotation": 358.5498640143872
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "빨간양념치킨",
+        "en.ROMAN": "ppalganyangnyeom chicken",
+        "en": "Spicy Seasoned Fried Chicken",
+        "ja": "辛味ヤンニョムチキン",
+        "zh_CN": "辣味炸鸡",
+        "zh_TW": "辣調味炸雞",
+        "price": "19900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "DG_KF06_M0001_605684_2-tf-2",
+      "ocr": {
+        "x": 48.87389522094997,
+        "y": 75.65608173544828,
+        "text": "후라이드치킨",
+        "width": 24.12836936706154,
+        "height": 2.752257534464051,
+        "rotation": 358.37504530624545
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "후라이드치킨",
+        "en.ROMAN": "fried chicken",
+        "en": "Fried Chicken",
+        "ja": "フライドチキン",
+        "zh_CN": "脆皮炸鸡",
+        "zh_TW": "炸雞",
+        "price": "19900",
+        "ingredients.ko": [
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

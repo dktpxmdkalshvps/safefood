@@ -1,0 +1,790 @@
+{
+  "meta": {
+    "file_name": "JR_KF05_M0002_1578737_1.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:10:25 13:28:29",
+    "store_id": "1578737",
+    "store_region": "JR",
+    "store_type": "KF05",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          7.838479809976247,
+          12.967914438502675
+        ],
+        [
+          93.11163895486936,
+          13.101604278074866
+        ],
+        [
+          92.87410926365796,
+          84.2245989304813
+        ],
+        [
+          7.363420427553444,
+          84.75935828877003
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "물회",
+        "en.ROMAN": "mulhoe",
+        "en": "Cold Raw Fish Soup",
+        "ja": "刺身入り冷やしスープ",
+        "zh_CN": "水拌生鱼片",
+        "zh_TW": "水拌生魚片",
+        "price": "15000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_4",
+      "ocr": {
+        "x": 14.566998297306254,
+        "y": 28.102737662603744,
+        "text": "물회",
+        "width": 19.120637872228368,
+        "height": 2.444524674792538,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "회",
+        "en.ROMAN": "hoe",
+        "en": "Sliced Raw Fish",
+        "ja": "刺身",
+        "zh_CN": "生鱼片",
+        "zh_TW": "生魚片",
+        "price": "150000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_6",
+      "ocr": {
+        "x": 58.734145049154066,
+        "y": 28.231086532679317,
+        "text": "회",
+        "width": 4.2502867739986625,
+        "height": 2.374044241177259,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "특물회",
+        "en.ROMAN": "teungmulhoe",
+        "en": "Cold Raw Fish Soup Special",
+        "ja": "特上刺身入り冷やしスープ",
+        "zh_CN": "特级水拌生鱼片",
+        "zh_TW": "特級水拌生魚片",
+        "price": "25000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_12",
+      "ocr": {
+        "x": 14.568645005717691,
+        "y": 32.99926977549746,
+        "text": "특물회",
+        "width": 19.10697119604319,
+        "height": 2.4686139320067757,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "황제물회",
+        "en.ROMAN": "hwangjemulhoe",
+        "en": "Cold Raw Fish Soup",
+        "ja": "皇帝刺身入り冷やしスープ",
+        "zh_CN": "皇帝水拌生鱼片",
+        "zh_TW": "皇帝水拌生魚片",
+        "price": "35000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_19",
+      "ocr": {
+        "x": 14.56483126110132,
+        "y": 37.86113116869815,
+        "text": "황제물회",
+        "width": 19.062060721344125,
+        "height": 2.5443441565093132,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전골",
+        "ko": "전복갈낙전골",
+        "en.ROMAN": "jeonbokgallakjeongol",
+        "en": "Octopus Hot Pot with Abalone and Galbi",
+        "ja": "アワビとカルビとテナガダコの寄せ鍋",
+        "zh_CN": "鲍鱼排骨长爪章鱼火锅",
+        "zh_TW": "鮑魚排骨章魚火鍋",
+        "price": "70000",
+        "ingredients.ko": [
+          "전복",
+          "낙지",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Octopus",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "テナガダコ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "长爪章鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "章魚",
+          "蔬菜"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_20",
+      "ocr": {
+        "x": 54.536789904061315,
+        "y": 40.3041967530472,
+        "text": "전복갈낙전골",
+        "width": 19.28674338084933,
+        "height": 2.4720818191130354,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "회덮밥",
+        "en.ROMAN": "hoedeopbap",
+        "en": "Raw Fish Bibimbap",
+        "ja": "刺身丼",
+        "zh_CN": "生鱼片盖饭",
+        "zh_TW": "生魚片蓋飯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_23",
+      "ocr": {
+        "x": 14.670342120171432,
+        "y": 42.78442192881289,
+        "text": "회덮밥",
+        "width": 19.2549267316627,
+        "height": 2.54057807118712,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "우럭매운탕",
+        "en.ROMAN": "ureongmaeuntang",
+        "en": "Spicy Rockfish Stew",
+        "ja": "クロソイの辛味スープ",
+        "zh_CN": "鲜辣石斑鱼汤",
+        "zh_TW": "鮮辣石斑魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "우럭"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rockfish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "クロソイ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "石斑鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "石斑魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_28",
+      "ocr": {
+        "x": 14.47602131438721,
+        "y": 47.72919675304732,
+        "text": "우럭매운탕",
+        "width": 19.513573375945935,
+        "height": 2.5096720782545967,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_34",
+      "ocr": {
+        "x": 54.97335701598577,
+        "y": 55.93461642835188,
+        "text": "소주",
+        "width": 9.812415593798065,
+        "height": 2.4410228577281976,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "김치찜",
+        "en.ROMAN": "kimchijjim",
+        "en": "Braised Kimchi",
+        "ja": "キムチの蒸し物",
+        "zh_CN": "炖辛奇",
+        "zh_TW": "辛奇燉肉",
+        "price": "25000",
+        "ingredients.ko": [
+          "김치"
+        ],
+        "ingredients.en": [
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_35",
+      "ocr": {
+        "x": 14.62703130287513,
+        "y": 56.81386883130155,
+        "text": "김치찜",
+        "width": 19.034185957469617,
+        "height": 2.4499999999999877,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_37",
+      "ocr": {
+        "x": 55.15097690941393,
+        "y": 59.14486922614345,
+        "text": "맥주",
+        "width": 9.58692934438941,
+        "height": 2.430130773856564,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "돼지갈비찜",
+        "en.ROMAN": "dwaejigalbijjim",
+        "en": "Braised Pork Galbi",
+        "ja": "豚カルビの蒸し物",
+        "zh_CN": "炖猪排骨",
+        "zh_TW": "燉豬排骨",
+        "price": "28000",
+        "ingredients.ko": [
+          "야채",
+          "돼지갈비"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork Galbi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪排骨"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬排骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_39",
+      "ocr": {
+        "x": 14.387211367673142,
+        "y": 61.43429678531146,
+        "text": "돼지갈비찜",
+        "width": 19.33467592629214,
+        "height": 2.5002502870019767,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "복분자",
+        "en.ROMAN": "bokbunja",
+        "en": "Black Raspberry",
+        "ja": "覆盆子(木いちご)",
+        "zh_CN": "覆盆子",
+        "zh_TW": "覆盆子酒",
+        "price": "15000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_41",
+      "ocr": {
+        "x": 55.0177619893426,
+        "y": 62.384441706599496,
+        "text": "복분자",
+        "width": 12.409792819628636,
+        "height": 2.418133698369371,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "매취순",
+        "en.ROMAN": "matchsoon",
+        "en": "Matchsoon (Green Plum Wine)",
+        "ja": "梅翠純(梅酒)",
+        "zh_CN": "梅翠纯",
+        "zh_TW": "梅翠純",
+        "price": "15000",
+        "ingredients.ko": [
+          "매실",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Green Plum",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "梅",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "青梅",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "梅子",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_44",
+      "ocr": {
+        "x": 55.246082190265255,
+        "y": 65.5759557588229,
+        "text": "매취순",
+        "width": 12.06276761751885,
+        "height": 2.453219256211038,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "갈낙탕",
+        "en.ROMAN": "gallaktang",
+        "en": "Galbi and Octopus Soup",
+        "ja": "カルビ入りテナガダコスープ",
+        "zh_CN": "排骨长爪章鱼汤",
+        "zh_TW": "排骨章魚湯",
+        "price": "20000",
+        "ingredients.ko": [
+          "낙지",
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "テナガダコ",
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼",
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_47",
+      "ocr": {
+        "x": 14.226423179527306,
+        "y": 66.12512514350105,
+        "text": "갈낙탕",
+        "width": 19.598985407031577,
+        "height": 2.4967342135613633,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "쌀막걸리",
+        "en.ROMAN": "ssalmakgeolli",
+        "en": "Unrefined Rice Wine",
+        "ja": "米マッコリ",
+        "zh_CN": "大米马格利酒",
+        "zh_TW": "米馬格利酒",
+        "price": "5000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_50",
+      "ocr": {
+        "x": 55.026991301049115,
+        "y": 68.84965117499615,
+        "text": "쌀막걸리",
+        "width": 16.08382966694599,
+        "height": 2.451395300015402,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "전복갈낙탕",
+        "en.ROMAN": "jeonbokgallaktang",
+        "en": "Abalone, Galbi and Octopus Soup",
+        "ja": "アワビとカルビ入りテナガダコスープ",
+        "zh_CN": "鲍鱼排骨长爪章鱼汤",
+        "zh_TW": "鮑魚排骨章魚湯",
+        "price": "25000",
+        "ingredients.ko": [
+          "전복",
+          "쇠고기",
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Beef",
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "牛肉",
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "牛肉",
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "牛肉",
+          "章魚"
+        ],
+        "allergy": [
+          "전복",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_52",
+      "ocr": {
+        "x": 14.16518650088811,
+        "y": 70.83613116869817,
+        "text": "전복갈낙탕",
+        "width": 18.65008880994671,
+        "height": 2.4735409095564918,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_54",
+      "ocr": {
+        "x": 54.97335701598573,
+        "y": 72.07467807437881,
+        "text": "음료수",
+        "width": 12.343464806324578,
+        "height": 2.4519315537266104,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "공기밥",
+        "en.ROMAN": "gonggibap",
+        "en": "Steamed Rice",
+        "ja": "ご飯",
+        "zh_CN": "米饭",
+        "zh_TW": "米飯",
+        "price": "1000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "JR_KF05_M0002_1578737_1-tf_57",
+      "ocr": {
+        "x": 55.0448693960702,
+        "y": 75.33506976500081,
+        "text": "공기밥",
+        "width": 12.37859719811835,
+        "height": 2.4899302349992665,
+        "rotation": 0
+      }
+    }
+  ]
+}

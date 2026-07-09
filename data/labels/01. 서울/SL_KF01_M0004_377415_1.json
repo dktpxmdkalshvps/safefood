@@ -1,0 +1,639 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0004_377415_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "377415",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0.4559270516717324
+        ],
+        [
+          99.79757085020243,
+          0.4559270516717324
+        ],
+        [
+          93.31983805668017,
+          99.54407294832826
+        ],
+        [
+          1.6194331983805668,
+          99.54407294832826
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "육개장",
+        "en.ROMAN": "yukgaejang",
+        "en": "Spicy Beef Soup",
+        "ja": "ユッケジャン",
+        "zh_CN": "香辣牛肉汤",
+        "zh_TW": "香辣牛肉湯",
+        "price": "8900",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "숙주",
+          "고사리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Mung Bean Sprout",
+          "Bracken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "緑豆もやし",
+          "ワラビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "绿豆芽",
+          "蕨菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "綠豆芽",
+          "蕨菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_3",
+      "ocr": {
+        "x": 21.176580496310347,
+        "y": 29.352805765886576,
+        "text": "육개장",
+        "width": 3.619706726283317,
+        "height": 1.1450880004496633,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "황태해장국",
+        "en.ROMAN": "hwangtaehaejangguk",
+        "en": "Dried Pollack Hangover Soup",
+        "ja": "干しスケトウダラの酔い覚ましスープ",
+        "zh_CN": "干明太鱼醒酒汤",
+        "zh_TW": "明太魚乾醒酒湯",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "황태"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Dried Pollack"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "干明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "明太魚乾"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_4",
+      "ocr": {
+        "x": 37.33608228388692,
+        "y": 29.629193033108084,
+        "text": "황태해장국",
+        "width": 5.800263629550703,
+        "height": 1.14074899830825,
+        "rotation": 1.0136712268453039
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "우거지뼈해장국",
+        "en.ROMAN": "ugeojippyeohaejangguk",
+        "en": "Beef Rib Hangover Soup",
+        "ja": "豚の背骨入り白菜酔い覚ましスープ",
+        "zh_CN": "干白菜腔骨醒酒汤",
+        "zh_TW": "乾白菜豬骨醒酒湯",
+        "price": "8900",
+        "ingredients.ko": [
+          "야채",
+          "우거지",
+          "돼지고기",
+          "쌀",
+          "돼지등뼈"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Napa Cabbage",
+          "Pork",
+          "Rice",
+          "Pork Backbone"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "白菜",
+          "豚肉",
+          "米",
+          "豚の背骨"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "干白菜",
+          "猪肉",
+          "大米",
+          "猪脊骨"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "乾白菜",
+          "豬肉",
+          "米",
+          "豬脊骨"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_5",
+      "ocr": {
+        "x": 53.34139764180543,
+        "y": 29.885479605469307,
+        "text": "우거지뼈해장국",
+        "width": 7.987416613518271,
+        "height": 1.1594839451778007,
+        "rotation": 1.1125148101835975
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "우거지선지해장국",
+        "en.ROMAN": "ugeojiseonjihaejangguk",
+        "en": "Napa Cabbage Seonji Hangover Soup",
+        "ja": "白菜入りソンジ酔い覚ましスープ",
+        "zh_CN": "干白菜牛血醒酒汤",
+        "zh_TW": "乾白菜牛血醒酒湯",
+        "price": "8900",
+        "ingredients.ko": [
+          "야채",
+          "우거지",
+          "선지"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Napa Cabbage",
+          "Seonji"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "白菜",
+          "牛血"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "干白菜",
+          "牛血"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "乾白菜",
+          "牛血"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_6",
+      "ocr": {
+        "x": 69.92279122157953,
+        "y": 30.101587987551802,
+        "text": "우거지선지해장국",
+        "width": 9.098913900748299,
+        "height": 1.1300132633529674,
+        "rotation": 1.1679127662981728
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "굴매생이해장국",
+        "en.ROMAN": "gulmaesaengihaejangguk",
+        "en": "Oyster and Seaweed Fulvescens Hangover Soup",
+        "ja": "カキ入りカプサアオノリ酔い覚ましスープ",
+        "zh_CN": "牡蛎海藻醒酒汤",
+        "zh_TW": "牡蠣海藻醒酒湯",
+        "price": "8900",
+        "ingredients.ko": [
+          "굴",
+          "매생이"
+        ],
+        "ingredients.en": [
+          "Oyster",
+          "Seaweed Fulvescens"
+        ],
+        "ingredients.ja": [
+          "カキ",
+          "カプサアオノリ"
+        ],
+        "ingredients.zh_CN": [
+          "牡蛎",
+          "海藻"
+        ],
+        "ingredients.zh_TW": [
+          "牡蠣",
+          "海藻"
+        ],
+        "allergy": [
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_11",
+      "ocr": {
+        "x": 19.206799826176553,
+        "y": 42.51811159233649,
+        "text": "굴매생이해장국",
+        "width": 7.963035342277658,
+        "height": 1.100873448821496,
+        "rotation": 1.1490665828195574
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "홍합아욱해장국",
+        "en.ROMAN": "honghabaukaejangguk",
+        "en": "Mussels and Curled Mallow Hangover Soup",
+        "ja": "ムール貝入り冬葵酔い覚ましスープ",
+        "zh_CN": "贻贝冬葵醒酒汤",
+        "zh_TW": "貽貝野葵醒酒湯",
+        "price": "7500",
+        "ingredients.ko": [
+          "홍합",
+          "아욱",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Mussels",
+          "Curled Mallow",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "ムール貝",
+          "冬葵",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "贻贝",
+          "冬葵",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "貽貝",
+          "野葵",
+          "蔬菜"
+        ],
+        "allergy": [
+          "홍합"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_12",
+      "ocr": {
+        "x": 36.22982244182715,
+        "y": 42.82858031851043,
+        "text": "홍합아욱해장국",
+        "width": 7.8111642226654165,
+        "height": 1.1180160613229952,
+        "rotation": 1.6314526500123634
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "순대국",
+        "en.ROMAN": "sundaeguk",
+        "en": "Sundae Soup",
+        "ja": "スンデスープ",
+        "zh_CN": "血肠汤",
+        "zh_TW": "血腸湯",
+        "price": "8900",
+        "ingredients.ko": [
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_13",
+      "ocr": {
+        "x": 55.03436060542136,
+        "y": 43.18695088626615,
+        "text": "순대국",
+        "width": 3.5031127633068313,
+        "height": 1.0680533662541625,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "굴순두부찌개",
+        "en.ROMAN": "gulsundubujjigae",
+        "en": "Oyster and Soft Bean Curd Jjigae",
+        "ja": "カキ入りスンドゥブチゲ",
+        "zh_CN": "牡蛎嫩豆腐锅",
+        "zh_TW": "牡蠣嫩豆腐鍋",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "굴",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Oyster",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "カキ",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牡蛎",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牡蠣",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "굴",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_14",
+      "ocr": {
+        "x": 71.26129319617058,
+        "y": 43.36056199737726,
+        "text": "굴순두부",
+        "width": 4.6752800147494735,
+        "height": 1.0875761441685177,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "청국장순두부",
+        "en.ROMAN": "cheonggukjangsundubu",
+        "en": "Rich Soybean Paste and Soft Bean Curd Jjigae",
+        "ja": "チョングクチャン・スンドゥブ",
+        "zh_CN": "清麴酱嫩豆腐锅",
+        "zh_TW": "清麴醬嫩豆腐",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_19",
+      "ocr": {
+        "x": 19.98986472584665,
+        "y": 55.29477317681222,
+        "text": "청국장순두부",
+        "width": 6.705598827409468,
+        "height": 1.056979727336812,
+        "rotation": 0.729916033035181
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "해물순두부",
+        "en.ROMAN": "haemulsundubu",
+        "en": "Seafood and Soft Bean Curd Jjigae",
+        "ja": "海鮮スンドゥブ",
+        "zh_CN": "海鲜嫩豆腐锅",
+        "zh_TW": "海鮮嫩豆腐鍋",
+        "price": "8900",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_20",
+      "ocr": {
+        "x": 37.257801036148514,
+        "y": 55.49439065937551,
+        "text": "해물순두부",
+        "width": 5.522279236456535,
+        "height": 1.0149904156549658,
+        "rotation": 0.9987632250776528
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치순두부",
+        "en.ROMAN": "kimchisundubu",
+        "en": "Kimchi and Soft Bean Curd Jjigae",
+        "ja": "キムチ入りスンドゥブ",
+        "zh_CN": "辛奇嫩豆腐锅",
+        "zh_TW": "辛奇嫩豆腐鍋",
+        "price": "8500",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_21",
+      "ocr": {
+        "x": 53.69916379604118,
+        "y": 55.70745046551818,
+        "text": "김치순두부",
+        "width": 5.450340137345245,
+        "height": 1.0303238390980094,
+        "rotation": 1.3184950770669275
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "하얀순두부",
+        "en.ROMAN": "hayansundubu",
+        "en": "White Soft Bean Curd Stew",
+        "ja": "白いスンドゥブ",
+        "zh_CN": "白嫩豆腐",
+        "zh_TW": "白嫩豆腐",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "순두부"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Soft Bean Curd"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "スンドゥブ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "嫩豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0004_377415_1-tf_22",
+      "ocr": {
+        "x": 70.10678624441316,
+        "y": 55.96679958648894,
+        "text": "하얀순두부",
+        "width": 5.634645191329483,
+        "height": 1.061777096843406,
+        "rotation": 1.0676037643660266
+      }
+    }
+  ]
+}

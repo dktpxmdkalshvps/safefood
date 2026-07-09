@@ -1,0 +1,994 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0002_114851_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:09:14 15:52:30",
+    "store_id": "114851",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.8072653884964685,
+          25.70659488559893
+        ],
+        [
+          0.9081735620585267,
+          51.14401076716016
+        ],
+        [
+          99.29364278506561,
+          50.06729475100941
+        ],
+        [
+          99.19273461150351,
+          27.18707940780619
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "쭈꾸미볶음",
+        "en.ROMAN": "jjukkumibokkeum",
+        "en": "Stir-fried Webfoot Octopus",
+        "ja": "イイダコ炒め",
+        "zh_CN": "炒八爪鱼",
+        "zh_TW": "炒小章魚",
+        "price": "13000",
+        "ingredients.ko": [
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_12",
+      "ocr": {
+        "x": 3.0659588998400653,
+        "y": 32.79506346956436,
+        "text": "쭈꾸미",
+        "width": 7.759913978760276,
+        "height": 2.4864773397209246,
+        "rotation": 0.43387234790947105
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "닭발",
+        "en.ROMAN": "dakbal",
+        "en": "Grilled Chicken Feet",
+        "ja": "鶏足",
+        "zh_CN": "鸡爪",
+        "zh_TW": "雞爪",
+        "price": "14000",
+        "ingredients.ko": [
+          "고추",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_10",
+      "ocr": {
+        "x": 38.07888467250843,
+        "y": 32.82678949724214,
+        "text": "닭발",
+        "width": 9.948946837122717,
+        "height": 2.491513128447291,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_14",
+      "ocr": {
+        "x": 73.91120238972955,
+        "y": 32.88169737431049,
+        "text": "삼겹살",
+        "width": 9.58586519246569,
+        "height": 2.4013288825837287,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "번데기탕",
+        "en.ROMAN": "beondegitang",
+        "en": "Pupa Soup",
+        "ja": "カイコのさなぎスープ",
+        "zh_CN": "蝉蛹汤",
+        "zh_TW": "蠶蛹湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "번데기"
+        ],
+        "ingredients.en": [
+          "Pupae"
+        ],
+        "ingredients.ja": [
+          "カイコのさなぎ"
+        ],
+        "ingredients.zh_CN": [
+          "蝉蛹"
+        ],
+        "ingredients.zh_TW": [
+          "蠶蛹"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_13",
+      "ocr": {
+        "x": 55.83677313975944,
+        "y": 32.93280178029996,
+        "text": "번데기탕",
+        "width": 9.65598334524194,
+        "height": 2.4178626609918505,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "쭈꾸미정식",
+        "en.ROMAN": "jjukkumijeongsik",
+        "en": "Webfoot Octopus Set Menu",
+        "ja": "イイダコ定食",
+        "zh_CN": "八爪鱼套餐",
+        "zh_TW": "小章魚套餐",
+        "price": "8500",
+        "ingredients.ko": [
+          "주꾸미"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus"
+        ],
+        "ingredients.ja": [
+          "イイダコ"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_18",
+      "ocr": {
+        "x": 20.975019813150052,
+        "y": 33.01780168338987,
+        "text": "쭈꾸미정식",
+        "width": 8.143347999050084,
+        "height": 2.51284395617843,
+        "rotation": 0.4033486948212044
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "새우",
+        "en.ROMAN": "saeu",
+        "en": "Shrimp",
+        "ja": "海老",
+        "zh_CN": "虾",
+        "zh_TW": "蝦",
+        "price": "7000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_49",
+      "ocr": {
+        "x": 73.97530628132907,
+        "y": 35.510782626012826,
+        "text": "새우",
+        "width": 9.522821713209366,
+        "height": 2.3693244318340776,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "쭈삼겹볶음",
+        "en.ROMAN": "jjusamgyeopbokkeum",
+        "en": "Stir-fried Webfoot Octopus and Pork Belly",
+        "ja": "イイダコ入りサムギョプサル炒め",
+        "zh_CN": "辣炒小章鱼五花肉",
+        "zh_TW": "炒八爪魚五花肉",
+        "price": "14000",
+        "ingredients.ko": [
+          "주꾸미",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "イイダコ",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_21",
+      "ocr": {
+        "x": 3.11371696143789,
+        "y": 35.92024566115123,
+        "text": "쭈삼겹",
+        "width": 7.70493684391313,
+        "height": 2.4562367596519263,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "쭈삼겹정식",
+        "en.ROMAN": "jjusamgyeopjeongsik",
+        "en": "Grilled Spicy Webfoot Octopus and Pork Belly Set Menu",
+        "ja": "イイダコとサムギョプサル定食",
+        "zh_CN": "八爪鱼炒五花肉套餐",
+        "zh_TW": "辣味小章魚炒五花肉套餐",
+        "price": "9500",
+        "ingredients.ko": [
+          "쭈꾸미",
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Webfoot Octopus",
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "イイダコ",
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "八爪鱼",
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "小章魚",
+          "五花肉"
+        ],
+        "allergy": [
+          "오징어",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_25",
+      "ocr": {
+        "x": 21.004942672331897,
+        "y": 36.08154470263368,
+        "text": "쭈삼겹정식",
+        "width": 8.135644264117884,
+        "height": 2.4520878513908912,
+        "rotation": 0.40338868404290906
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "주먹밥",
+        "en.ROMAN": "jumeokbap",
+        "en": "Riceball",
+        "ja": "おにぎり",
+        "zh_CN": "饭团",
+        "zh_TW": "飯糰",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_28",
+      "ocr": {
+        "x": 38.100000000000016,
+        "y": 36.27515353821958,
+        "text": "주먹밥",
+        "width": 9.95292084060904,
+        "height": 2.3862981749397503,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "새우얼큰라면",
+        "en.ROMAN": "saeueolkeullamyeon",
+        "en": "Spicy Shrimp Instant Noodles",
+        "ja": "エビピリ辛ラーメン",
+        "zh_CN": "辣爽虾仁方便面",
+        "zh_TW": "辣味鮮蝦泡麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "새우",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_26",
+      "ocr": {
+        "x": 55.799584651291,
+        "y": 36.28187156249127,
+        "text": "새우얼큰라면",
+        "width": 9.663019185886206,
+        "height": 2.3367884280508853,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "차돌박이",
+        "en.ROMAN": "chadolbagi",
+        "en": "Beef Brisket",
+        "ja": "牛のともばら肉",
+        "zh_CN": "牛胸肉",
+        "zh_TW": "牛胸肉",
+        "price": "8000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_31",
+      "ocr": {
+        "x": 74.00505326239596,
+        "y": 38.11175878959812,
+        "text": "차돌박이",
+        "width": 9.48967457770894,
+        "height": 2.396216555415062,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "쭈새우",
+        "en.ROMAN": "jjusaeu",
+        "en": "Webfoot Octopus and Shrimp",
+        "ja": "イイダコと海老",
+        "zh_CN": "八爪鱼炒虾仁",
+        "zh_TW": "辣味小章魚炒鮮蝦",
+        "price": "14000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_32",
+      "ocr": {
+        "x": 3.076286021025948,
+        "y": 38.91543960784507,
+        "text": "쭈새우",
+        "width": 7.798713978974043,
+        "height": 2.5460121053141838,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "치즈퐁듀",
+        "en.ROMAN": "cheese fondue",
+        "en": "Cheese Fondue",
+        "ja": "チーズフォンデュ",
+        "zh_CN": "奶酪火锅",
+        "zh_TW": "起司鍋",
+        "price": "5000",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_36",
+      "ocr": {
+        "x": 55.83677313975935,
+        "y": 39.59867111741622,
+        "text": "치즈퐁듀",
+        "width": 9.691192548351662,
+        "height": 2.335193768950503,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "날치알주먹밥",
+        "en.ROMAN": "nalchialjumeokbap",
+        "en": "Flying Fish Roe Riceball",
+        "ja": "トビコ入りおにぎり",
+        "zh_CN": "飞鱼子饭团",
+        "zh_TW": "飛魚卵飯糰",
+        "price": "4000",
+        "ingredients.ko": [
+          "쌀",
+          "날치알",
+          "김"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Flying Fish Roe",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "米",
+          "トビコ",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "飞鱼子",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "飛魚卵",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_37",
+      "ocr": {
+        "x": 38.1338077167893,
+        "y": 39.638548286840745,
+        "text": "날치알주먹밥",
+        "width": 9.938730761070271,
+        "height": 2.4158480636878386,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "떡",
+        "en.ROMAN": "tteok",
+        "en": "Rice Cake",
+        "ja": "トク",
+        "zh_CN": "年糕",
+        "zh_TW": "年糕",
+        "price": "1000",
+        "ingredients.ko": [
+          "밀가루",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "米"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_16",
+      "ocr": {
+        "x": 74.06657706180683,
+        "y": 40.68994909173244,
+        "text": "떡",
+        "width": 1.3535186554725787,
+        "height": 2.442640138976135,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "쭈차돌",
+        "en.ROMAN": "jjuchadol",
+        "en": "Grilled Webfoot Octopus and Beef Brisket",
+        "ja": "イイダコと牛のともばら肉",
+        "zh_CN": "八爪鱼炒牛胸肉",
+        "zh_TW": "辣炒小章魚烤牛胸肉",
+        "price": "16000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_42",
+      "ocr": {
+        "x": 3.137336145424866,
+        "y": 42.045364723065866,
+        "text": "쭈차돌",
+        "width": 7.794010049224088,
+        "height": 2.5095431540023685,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "계란찜",
+        "en.ROMAN": "gyeranjjim",
+        "en": "Steamed Eggs",
+        "ja": "茶碗蒸し",
+        "zh_CN": "鸡蛋羹",
+        "zh_TW": "蒸蛋",
+        "price": "4000",
+        "ingredients.ko": [
+          "계란"
+        ],
+        "ingredients.en": [
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_46",
+      "ocr": {
+        "x": 55.77992730384414,
+        "y": 42.952691073637155,
+        "text": "계란찜",
+        "width": 9.66533748668114,
+        "height": 2.3981454594266474,
+        "rotation": 359.54021207184326
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "햄치즈계란말이",
+        "en.ROMAN": "ham cheese gyeranmari",
+        "en": "Rolled Omelet with Ham and Cheese",
+        "ja": "ハムチーズ入り卵焼き",
+        "zh_CN": "火腿奶酪鸡蛋卷",
+        "zh_TW": "火腿起司蛋捲",
+        "price": "12000",
+        "ingredients.ko": [
+          "햄",
+          "치즈",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Ham",
+          "Cheese",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "ハム",
+          "チーズ",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "午餐肉",
+          "奶酪",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "火腿",
+          "起司",
+          "雞蛋"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_45",
+      "ocr": {
+        "x": 38.13380771678946,
+        "y": 42.97709657368149,
+        "text": "햄치즈계란말이",
+        "width": 9.82039622438643,
+        "height": 2.4389904164119125,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_50",
+      "ocr": {
+        "x": 74.01289152632809,
+        "y": 43.356037473168,
+        "text": "볶음밥",
+        "width": 9.602624560368005,
+        "height": 2.4420257136461343,
+        "rotation": 359.5588673433813
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈사리",
+        "en.ROMAN": "cheese sari",
+        "en": "Extra Cheese",
+        "ja": "チーズ追加",
+        "zh_CN": "另加奶酪",
+        "zh_TW": "加點起司",
+        "price": "3000",
+        "ingredients.ko": [
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "起司"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_59",
+      "ocr": {
+        "x": 73.97021559199472,
+        "y": 45.89700068208868,
+        "text": "치즈사리",
+        "width": 9.48716897442647,
+        "height": 2.4193589081389013,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "오뎅탕",
+        "en.ROMAN": "odengtang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "12000",
+        "ingredients.ko": [
+          "생선살",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish Fillet",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚の身",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_62",
+      "ocr": {
+        "x": 55.79439226780103,
+        "y": 46.20240985027048,
+        "text": "오뎅탕",
+        "width": 9.701298680220201,
+        "height": 2.3477230379879113,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "전",
+        "ko": "감자채전",
+        "en.ROMAN": "gamjachaejeon",
+        "en": "shredded potatoes",
+        "ja": "じゃがいもの千切りチヂミ",
+        "zh_CN": "煎土豆丝饼",
+        "zh_TW": "馬鈴薯絲煎餅",
+        "price": "13000",
+        "ingredients.ko": [
+          "감자",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "じゃがいも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "土豆",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "馬鈴薯",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0002_114851_1-tf.jpg_64",
+      "ocr": {
+        "x": 38.16627943283906,
+        "y": 46.306816436224864,
+        "text": "감자채전",
+        "width": 9.81787617599602,
+        "height": 2.434389615782954,
+        "rotation": 0
+      }
+    }
+  ]
+}

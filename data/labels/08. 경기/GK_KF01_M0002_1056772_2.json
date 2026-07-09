@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0002_1056772_2.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:13 12:50:17",
+    "store_id": "1056772",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          68.59344894026975,
+          0.4335260115606935
+        ],
+        [
+          19.26782273603083,
+          0.1445086705202312
+        ],
+        [
+          23.314065510597302,
+          98.55491329479767
+        ],
+        [
+          70.32755298651252,
+          97.68786127167628
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "곰탕",
+        "en.ROMAN": "gomtang",
+        "en": "Beef Bone Soup",
+        "ja": "コムタン",
+        "zh_CN": "牛骨汤",
+        "zh_TW": "牛骨湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0002_1056772_2-tf_18",
+      "ocr": {
+        "x": 27.95038887927748,
+        "y": 49.809617236570894,
+        "text": "곰탕",
+        "width": 34.030921737277545,
+        "height": 8.494193037623877,
+        "rotation": 357.975211313708
+      }
+    }
+  ]
+}

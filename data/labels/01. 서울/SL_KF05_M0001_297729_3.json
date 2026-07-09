@@ -1,0 +1,649 @@
+{
+  "meta": {
+    "file_name": "SL_KF05_M0001_297729_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:24 12:01:58",
+    "store_id": "297729",
+    "store_region": "SL",
+    "store_type": "KF05",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          100
+        ],
+        [
+          100,
+          100
+        ],
+        [
+          100,
+          0
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-0",
+      "ocr": {
+        "x": 24.907190658230107,
+        "y": 13.493907938794761,
+        "text": "광어",
+        "width": 13.005147923618937,
+        "height": 3.747909972097228,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "광어",
+        "en.ROMAN": "gwangeo",
+        "en": "Flatfish",
+        "ja": "ヒラメ",
+        "zh_CN": "左口鱼",
+        "zh_TW": "牙鮃",
+        "price": "41000",
+        "ingredients.ko": [
+          "광어"
+        ],
+        "ingredients.en": [
+          "Flatfish"
+        ],
+        "ingredients.ja": [
+          "ヒラメ"
+        ],
+        "ingredients.zh_CN": [
+          "左口鱼"
+        ],
+        "ingredients.zh_TW": [
+          "牙鮃"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-1",
+      "ocr": {
+        "x": 24.808018614119987,
+        "y": 24.90079365079366,
+        "text": "우럭",
+        "width": 13.119494774188148,
+        "height": 3.6449132477615347,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "우럭",
+        "en.ROMAN": "ureok",
+        "en": "Rockfish",
+        "ja": "クロソイ",
+        "zh_CN": "石斑鱼",
+        "zh_TW": "石斑魚",
+        "price": "45000",
+        "ingredients.ko": [
+          "우럭"
+        ],
+        "ingredients.en": [
+          "Rockfish"
+        ],
+        "ingredients.ja": [
+          "クロソイ"
+        ],
+        "ingredients.zh_CN": [
+          "石斑鱼"
+        ],
+        "ingredients.zh_TW": [
+          "石斑魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-2",
+      "ocr": {
+        "x": 24.767489625300886,
+        "y": 36.191233075547345,
+        "text": "광어+우럭",
+        "width": 22.480719589107288,
+        "height": 3.8948408557700867,
+        "rotation": 0.6365795034892017
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "기타",
+        "ko": "광어+우럭",
+        "en.ROMAN": "gwangeo+ureok",
+        "en": "Flatfish + Rockfish",
+        "ja": "ヒラメ+クロソイ",
+        "zh_CN": "左口鱼+石斑鱼",
+        "zh_TW": "牙鮃+石斑魚",
+        "price": "45000",
+        "ingredients.ko": [
+          "생선회",
+          "우럭",
+          "광어"
+        ],
+        "ingredients.en": [
+          "Sliced Raw Fish",
+          "Rockfish",
+          "Flatfish"
+        ],
+        "ingredients.ja": [
+          "刺身",
+          "クロソイ",
+          "ヒラメ"
+        ],
+        "ingredients.zh_CN": [
+          "生鱼片",
+          "石斑鱼",
+          "左口鱼"
+        ],
+        "ingredients.zh_TW": [
+          "生魚片",
+          "石斑魚",
+          "牙鮃"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-3",
+      "ocr": {
+        "x": 25.405547579253923,
+        "y": 46.90092647423567,
+        "text": "도미",
+        "width": 8.851330888419332,
+        "height": 3.370766099147888,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "도미초밥",
+        "en.ROMAN": "domichobap",
+        "en": "Sea Bream Sushi",
+        "ja": "鯛寿司",
+        "zh_CN": "鲷鱼寿司",
+        "zh_TW": "鯛魚壽司",
+        "price": "77000",
+        "ingredients.ko": [
+          "도미"
+        ],
+        "ingredients.en": [
+          "Sea Bream"
+        ],
+        "ingredients.ja": [
+          "鯛"
+        ],
+        "ingredients.zh_CN": [
+          "鲷鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯛魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-4",
+      "ocr": {
+        "x": 25.45571593438169,
+        "y": 51.26950481998648,
+        "text": "농어",
+        "width": 8.809599957665766,
+        "height": 3.347499001504542,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "농어",
+        "en.ROMAN": "nongeo",
+        "en": "Sea Bass",
+        "ja": "スズキ",
+        "zh_CN": "鲈鱼",
+        "zh_TW": "鱸魚",
+        "price": "77000",
+        "ingredients.ko": [
+          "농어"
+        ],
+        "ingredients.en": [
+          "Sea Bass"
+        ],
+        "ingredients.ja": [
+          "スズキ"
+        ],
+        "ingredients.zh_CN": [
+          "鲈鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鱸魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-5",
+      "ocr": {
+        "x": 25.543884673341996,
+        "y": 56.10119047619048,
+        "text": "생선회",
+        "width": 13.164876155961494,
+        "height": 3.3049871171385057,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "생선회",
+        "en.ROMAN": "saengseonhoe",
+        "en": "Sliced Raw Fish",
+        "ja": "刺身",
+        "zh_CN": "生鱼片",
+        "zh_TW": "生魚片",
+        "price": "27000",
+        "ingredients.ko": [
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-6",
+      "ocr": {
+        "x": 25.661375661375658,
+        "y": 60.88789682539681,
+        "text": "매운탕추가",
+        "width": 22.32492906601439,
+        "height": 3.405787467851699,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "매운탕추가",
+        "en.ROMAN": "maeuntang chuga",
+        "en": "Extra Serving of Spicy Fish Soup",
+        "ja": "辛味スープ追加",
+        "zh_CN": "另加鲜辣鱼汤",
+        "zh_TW": "加點鮮辣魚湯",
+        "price": "6000",
+        "ingredients.ko": [
+          "채소",
+          "생선"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-7",
+      "ocr": {
+        "x": 18.41495678796908,
+        "y": 69.09620411883377,
+        "text": "해산물모듬",
+        "width": 23.69789333731538,
+        "height": 3.532417675751786,
+        "rotation": 0.6526947750562044
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "해산물모듬",
+        "en.ROMAN": "haesanmulmodeum",
+        "en": "Assorted Seafood",
+        "ja": "海鮮の盛り合わせ",
+        "zh_CN": "海鲜拼盘",
+        "zh_TW": "海鮮拼盤",
+        "price": "51000",
+        "ingredients.ko": [
+          "해물"
+        ],
+        "ingredients.en": [
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-8",
+      "ocr": {
+        "x": 25.55121624408314,
+        "y": 73.18477204387644,
+        "text": "산낙지",
+        "width": 13.058387773500808,
+        "height": 3.6223656956589725,
+        "rotation": 1.3138398305720784
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "산낙지",
+        "en.ROMAN": "sannakji",
+        "en": "Live Octopus",
+        "ja": "生テナガダコ",
+        "zh_CN": "活长爪章鱼",
+        "zh_TW": "活章魚",
+        "price": "25000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-9",
+      "ocr": {
+        "x": 59.91541347996442,
+        "y": 75.2856730265946,
+        "text": "해삼",
+        "width": 11.579179767670752,
+        "height": 3.5089287784640852,
+        "rotation": 1.3316242889798673
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "해삼",
+        "en.ROMAN": "haesam",
+        "en": "Sea Cucumber",
+        "ja": "ナマコ",
+        "zh_CN": "海参",
+        "zh_TW": "海參",
+        "price": "25000",
+        "ingredients.ko": [
+          "해삼"
+        ],
+        "ingredients.en": [
+          "Sea Cucumber"
+        ],
+        "ingredients.ja": [
+          "ナマコ"
+        ],
+        "ingredients.zh_CN": [
+          "海参"
+        ],
+        "ingredients.zh_TW": [
+          "海參"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-10",
+      "ocr": {
+        "x": 25.785945702940335,
+        "y": 77.03602108359321,
+        "text": "멍게",
+        "width": 12.783626158862987,
+        "height": 3.5041793806016557,
+        "rotation": 1.3480505976727386
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "멍게",
+        "en.ROMAN": "meongge",
+        "en": "Sea Pineapple",
+        "ja": "ホヤ",
+        "zh_CN": "海鞘",
+        "zh_TW": "海鞘",
+        "price": "19000",
+        "ingredients.ko": [
+          "멍게"
+        ],
+        "ingredients.en": [
+          "Sea Pineapple"
+        ],
+        "ingredients.ja": [
+          "ホヤ"
+        ],
+        "ingredients.zh_CN": [
+          "海鞘"
+        ],
+        "ingredients.zh_TW": [
+          "海鞘"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-11",
+      "ocr": {
+        "x": 59.62003768119484,
+        "y": 80.24439577878863,
+        "text": "초밥",
+        "width": 11.660159101741689,
+        "height": 3.506158298091701,
+        "rotation": 0.6779436624545383
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "초밥",
+        "en.ROMAN": "chobap",
+        "en": "Sushi",
+        "ja": "寿司",
+        "zh_CN": "寿司",
+        "zh_TW": "壽司",
+        "price": "13000",
+        "ingredients.ko": [
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-12",
+      "ocr": {
+        "x": 25.797321683036895,
+        "y": 80.83775967223193,
+        "text": "전복",
+        "width": 13.217199594763493,
+        "height": 3.461073075932999,
+        "rotation": 1.3314990951557775
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "전복",
+        "en.ROMAN": "jeonbok",
+        "en": "Abalone",
+        "ja": "アワビ",
+        "zh_CN": "鲍鱼",
+        "zh_TW": "鮑魚",
+        "price": "35000",
+        "ingredients.ko": [
+          "전복"
+        ],
+        "ingredients.en": [
+          "Abalone"
+        ],
+        "ingredients.ja": [
+          "アワビ"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-13",
+      "ocr": {
+        "x": 25.721944578309508,
+        "y": 84.70770931384217,
+        "text": "개불",
+        "width": 13.185104268181123,
+        "height": 3.490490526285863,
+        "rotation": 0.6673708139471728
+      },
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "개불",
+        "en.ROMAN": "gaebul",
+        "en": "Spoon Worm",
+        "ja": "ユムシ",
+        "zh_CN": "海肠",
+        "zh_TW": "海腸",
+        "price": "25000",
+        "ingredients.ko": [
+          "개불"
+        ],
+        "ingredients.en": [
+          "Spoon Worm"
+        ],
+        "ingredients.ja": [
+          "ユムシ"
+        ],
+        "ingredients.zh_CN": [
+          "海肠"
+        ],
+        "ingredients.zh_TW": [
+          "海腸"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_KF05_M0001_297729_3-tf-14",
+      "ocr": {
+        "x": 25.531363469485935,
+        "y": 88.44553539751475,
+        "text": "왕새우튀김",
+        "width": 17.088120741386803,
+        "height": 3.6065588309919216,
+        "rotation": 0.6658805717395921
+      },
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "왕새우튀김",
+        "en.ROMAN": "wangsaeutwigim",
+        "en": "Deep-fried Jumbo Shrimp",
+        "ja": "特大海老天ぷら",
+        "zh_CN": "炸大虾",
+        "zh_TW": "炸明蝦",
+        "price": "10000",
+        "ingredients.ko": [
+          "왕새우",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Jumbo Shrimp",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "大正海老",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "大虾",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "明蝦",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

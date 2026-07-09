@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "file_name": "KS_KF04_M0002_1723300_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:03 16:25:45",
+    "store_id": "1723300",
+    "store_region": "KS",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.2874109263658,
+          0
+        ],
+        [
+          3.0878859857482186,
+          0
+        ],
+        [
+          6.175771971496437,
+          99.46524064171123
+        ],
+        [
+          99.04988123515439,
+          99.64349376114082
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "생갈비",
+        "en.ROMAN": "saenggalbi",
+        "en": "Grilled Galbi",
+        "ja": "カルビ",
+        "zh_CN": "鲜牛排骨",
+        "zh_TW": "鮮牛排骨",
+        "price": "10000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "sANr6gK_uy",
+      "ocr": {
+        "x": 6.650831353919242,
+        "y": 3.5650623885918002,
+        "text": "생갈비",
+        "width": 48.45605700712591,
+        "height": 9.625668449197853,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양념갈비",
+        "en.ROMAN": "yangnyeomgalbi",
+        "en": "Marinated Grilled Galbi",
+        "ja": "味付けカルビ",
+        "zh_CN": "调味排骨",
+        "zh_TW": "調味排骨",
+        "price": "10000",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1723300_1-tf_3",
+      "ocr": {
+        "x": 7.647764833037989,
+        "y": 17.92226360241062,
+        "text": "양념갈비",
+        "width": 47.30022056328469,
+        "height": 9.771825396825385,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "삼겹살",
+        "en.ROMAN": "samgyeopsal",
+        "en": "Pork Belly",
+        "ja": "サムギョプサル",
+        "zh_CN": "五花肉",
+        "zh_TW": "五花肉",
+        "price": "10000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "c_yJ8CuHVx",
+      "ocr": {
+        "x": 7.838479809976247,
+        "y": 31.907308377896612,
+        "text": "삼겹살",
+        "width": 47.03087885985748,
+        "height": 9.62566844919786,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "벌집껍데기",
+        "en.ROMAN": "beoljipkkeopdegi",
+        "en": "honeycomb shell",
+        "ja": "ポルジップ豚皮",
+        "zh_CN": "花刀猪皮",
+        "zh_TW": "蜂巢狀豬皮",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지껍데기"
+        ],
+        "ingredients.en": [
+          "Pork Rind"
+        ],
+        "ingredients.ja": [
+          "豚皮"
+        ],
+        "ingredients.zh_CN": [
+          "猪皮"
+        ],
+        "ingredients.zh_TW": [
+          "豬皮"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1723300_1-tf_6",
+      "ocr": {
+        "x": 9.015681358317936,
+        "y": 45.80853174603165,
+        "text": "벌집껍데기",
+        "width": 44.97079578730409,
+        "height": 8.432539682539666,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "일반껍데기",
+        "en.ROMAN": "ilbankkeopdegi",
+        "en": "a regular shell",
+        "ja": "普通の殻",
+        "zh_CN": "普通外壳",
+        "zh_TW": "普通外殼",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1723300_1-tf_8",
+      "ocr": {
+        "x": 9.27426931109386,
+        "y": 58.725516721840165,
+        "text": "일반껍데기",
+        "width": 44.524143868872954,
+        "height": 8.78440391308037,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "꼬리",
+        "en.ROMAN": "kkori",
+        "en": "Pork's Tail",
+        "ja": "テール",
+        "zh_CN": "牛尾",
+        "zh_TW": "尾巴",
+        "price": "9000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "sBRzyxRU1g",
+      "ocr": {
+        "x": 9.026128266033252,
+        "y": 71.47950089126563,
+        "text": "꼬리",
+        "width": 44.65558194774344,
+        "height": 8.377896613190636,
+        "rotation": 0
+      }
+    }
+  ]
+}

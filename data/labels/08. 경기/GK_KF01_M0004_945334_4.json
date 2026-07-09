@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "file_name": "GK_KF01_M0004_945334_4.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "945334",
+    "store_region": "GK",
+    "store_type": "KF01",
+    "image_type": "M0004",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          6.8183787282571595,
+          32.416352801471184
+        ],
+        [
+          7.876403013676372,
+          74.27846780771745
+        ],
+        [
+          98.39625854398693,
+          75.68856010266468
+        ],
+        [
+          99.10160806759973,
+          31.975698959300175
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "참문어초무침",
+        "en.ROMAN": "chammuneochomuchim",
+        "en": "Sweet and Sour Octopus Salad",
+        "ja": "マダコの酢コチュジャン和え",
+        "zh_CN": "凉拌真文鱼",
+        "zh_TW": "涼拌真文魚",
+        "price": "25000",
+        "ingredients.ko": [
+          "문어",
+          "비빔장",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Octopus",
+          "Sauce",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "タコ",
+          "ビビンソース",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼",
+          "拌饭酱",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "章魚",
+          "拌飯醬",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0004_945334_4-tf_19",
+      "ocr": {
+        "x": 29.63690414031254,
+        "y": 50.43440323572588,
+        "text": "참문어초무침",
+        "width": 8.646936144095799,
+        "height": 1.4203049448947442,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "생채/숙채",
+        "ko": "메밀묵",
+        "en.ROMAN": "memilmuk",
+        "en": "Buckwheat Jelly Salad",
+        "ja": "そば粉こんにゃく",
+        "zh_CN": "荞麦凉粉",
+        "zh_TW": "蕎麥涼粉",
+        "price": "17000",
+        "ingredients.ko": [
+          "메밀면",
+          "메밀",
+          "도토리묵"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle",
+          "Buckwheat",
+          "Acorn Jelly"
+        ],
+        "ingredients.ja": [
+          "そば",
+          "そば",
+          "どんぐりこんにゃく"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面",
+          "荞麦",
+          "橡子凉粉"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵",
+          "蕎麥",
+          "橡子涼粉"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "GK_KF01_M0004_945334_4-tf_20",
+      "ocr": {
+        "x": 56.61375661375665,
+        "y": 50.55570573873489,
+        "text": "메밀묵",
+        "width": 4.563492063492061,
+        "height": 1.3687472526889457,
+        "rotation": 0
+      }
+    }
+  ]
+}

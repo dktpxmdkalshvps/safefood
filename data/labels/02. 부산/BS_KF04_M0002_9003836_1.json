@@ -1,0 +1,460 @@
+{
+  "meta": {
+    "file_name": "BS_KF04_M0002_9003836_1.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:11:15 12:15:17",
+    "store_id": "9003836",
+    "store_region": "BS",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          97.38095238095238,
+          19.107142857142854
+        ],
+        [
+          99.52380952380952,
+          93.39285714285714
+        ],
+        [
+          0.23809523809523808,
+          92.85714285714286
+        ],
+        [
+          0,
+          19.107142857142854
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "VIIP스페셜모듬",
+        "en.ROMAN": "VIIP special modeum",
+        "en": "VIP Special Assorts",
+        "ja": "VIIPスペシャル盛り合わせ",
+        "zh_CN": "VIIP精选拼盘",
+        "zh_TW": "VIIP精選拼盤",
+        "price": "59000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9003836_1-tf_4",
+      "ocr": {
+        "x": 26.36060538281083,
+        "y": 27.559683904976453,
+        "text": "VIIP스페셜모듬",
+        "width": 18.156390782497386,
+        "height": 2.246442533032912,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "육회비빔밥",
+        "en.ROMAN": "yukhoebibimbap",
+        "en": "Beef Tartare Bibimbap",
+        "ja": "ユッケビビンバ",
+        "zh_CN": "生牛肉拌饭",
+        "zh_TW": "生牛肉拌飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "쇠고기",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Beef",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "牛肉",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "牛肉",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "牛肉",
+          "雞蛋"
+        ],
+        "allergy": [
+          "쇠고기",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9003836_1-tf_6",
+      "ocr": {
+        "x": 62.433333333333344,
+        "y": 28.85488181611029,
+        "text": "육회비빔밥",
+        "width": 11.36666666666668,
+        "height": 1.890320784843485,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "불고기비빔밥",
+        "en.ROMAN": "bulgogibibimbap",
+        "en": "Bulgogi Bibimbap",
+        "ja": "プルゴギビビンバ",
+        "zh_CN": "烤牛肉拌饭",
+        "zh_TW": "烤牛肉拌飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9003836_1-tf_9",
+      "ocr": {
+        "x": 62.48675671153503,
+        "y": 31.049999999999986,
+        "text": "불고기비빔밥",
+        "width": 13.599999999999996,
+        "height": 1.8651519507153491,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "차돌된장국",
+        "en.ROMAN": "chadoldoenjangguk",
+        "en": "Beef Brisket Soybean Paste Soup",
+        "ja": "牛のともばら肉テンジャンクク",
+        "zh_CN": "牛胸肉大酱清汤",
+        "zh_TW": "牛胸肉大醬湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "차돌박이"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Beef Brisket"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "牛のともばら肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "牛胸肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "牛胸肉"
+        ],
+        "allergy": [
+          "콩",
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9003836_1-tf_13",
+      "ocr": {
+        "x": 62.486756711535,
+        "y": 33.249999999999964,
+        "text": "차돌된장",
+        "width": 9.313243288465008,
+        "height": 1.8501688341281632,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "삼겹김치찜",
+        "en.ROMAN": "samgyeopkimchijjim",
+        "en": "Braised Pork Belly with Kimchi",
+        "ja": "サムギョプサル入りキムチの蒸し物",
+        "zh_CN": "辛奇炖五花肉",
+        "zh_TW": "辛奇燉五花肉",
+        "price": "10000",
+        "ingredients.ko": [
+          "김치",
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "五花肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9003836_1-tf_16",
+      "ocr": {
+        "x": 62.52682424518627,
+        "y": 35.45496623317441,
+        "text": "삼겹김치찜",
+        "width": 11.439842421480458,
+        "height": 1.8951181838896913,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소고기국밥",
+        "en.ROMAN": "sogogigukbap",
+        "en": "Beef and Rice Soup",
+        "ja": "牛肉クッパ",
+        "zh_CN": "牛肉汤饭",
+        "zh_TW": "牛肉湯飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9003836_1-tf_19",
+      "ocr": {
+        "x": 62.62682424518627,
+        "y": 37.71498311658731,
+        "text": "소고기국밥",
+        "width": 11.55970735417789,
+        "height": 1.8802194843665534,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "냉면",
+        "en.ROMAN": "naengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9003836_1-tf_21",
+      "ocr": {
+        "x": 62.806734200317926,
+        "y": 39.975000000000016,
+        "text": "냉면",
+        "width": 4.433333333333331,
+        "height": 1.8951181838896989,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "큰소한마리",
+        "en.ROMAN": "keunsohanmari",
+        "en": "Whole Bull",
+        "ja": "牛肉の盛り合わせ(大)",
+        "zh_CN": "大牛一只",
+        "zh_TW": "大牛肉拼盤（全部位）",
+        "price": "69000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9003836_1-tf_26",
+      "ocr": {
+        "x": 27.42697318305308,
+        "y": 47.21517241546737,
+        "text": "큰소한마리",
+        "width": 16.36666666666665,
+        "height": 2.7854023027571895,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "작은소한마리",
+        "en.ROMAN": "jageunsohanmari",
+        "en": "Grilled Assorted Beef Cuts",
+        "ja": "牛肉の盛り合わせ(小)",
+        "zh_CN": "小份牛肉拼盘",
+        "zh_TW": "小牛肉拼盤（全部位）",
+        "price": "49000",
+        "ingredients.ko": [
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF04_M0002_9003836_1-tf_33",
+      "ocr": {
+        "x": 26.879770112710105,
+        "y": 52.9047701127101,
+        "text": "작은소한마리",
+        "width": 17.22022988728977,
+        "height": 2.400574718224643,
+        "rotation": 0
+      }
+    }
+  ]
+}

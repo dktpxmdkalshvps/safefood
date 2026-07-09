@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "file_name": "SL_KF01_M0001_316332_5.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:11 17:58:11",
+    "store_id": "316332",
+    "store_region": "SL",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          36.73469387755104,
+          0.11778563015312131
+        ],
+        [
+          37.0486656200942,
+          97.64428739693759
+        ],
+        [
+          99.84301412872841,
+          97.40871613663136
+        ],
+        [
+          99.84301412872841,
+          0.11778563015312131
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "물회",
+        "en.ROMAN": "mulhoe",
+        "en": "Cold Raw Fish Soup",
+        "ja": "刺身入り冷やしスープ",
+        "zh_CN": "水拌生鱼片",
+        "zh_TW": "水拌生魚片",
+        "price": "27000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-0",
+      "ocr": {
+        "x": 88.27519110246703,
+        "y": 22.22662837688211,
+        "text": "물회",
+        "width": 4.210792782281288,
+        "height": 1.9495461050901182,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "전복사시미",
+        "en.ROMAN": "jeonbok sashimi",
+        "en": "Sliced Raw Abalones",
+        "ja": "アワビの刺身",
+        "zh_CN": "鲍鱼刺身",
+        "zh_TW": "鮑魚生魚片",
+        "price": "44000",
+        "ingredients.ko": [
+          "전복"
+        ],
+        "ingredients.en": [
+          "Abalone"
+        ],
+        "ingredients.ja": [
+          "アワビ"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚"
+        ],
+        "allergy": [
+          "전복"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-1",
+      "ocr": {
+        "x": 57.08658945530553,
+        "y": 22.48583538478915,
+        "text": "전복사시미",
+        "width": 10.414845648472824,
+        "height": 1.9864412066659576,
+        "rotation": 359.31987361255835
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "세꼬시",
+        "en.ROMAN": "sekkosi",
+        "en": "Bone-in Sliced Raw Fish",
+        "ja": "背越し",
+        "zh_CN": "带骨生鱼片",
+        "zh_TW": "帶骨生魚片",
+        "price": "25000",
+        "ingredients.ko": [
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-2",
+      "ocr": {
+        "x": 86.42962847470339,
+        "y": 35.35199135904915,
+        "text": "세꼬시",
+        "width": 6.297346800648138,
+        "height": 1.9850035779958608,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "회",
+        "ko": "모둠사시미",
+        "en.ROMAN": "modum sashimi",
+        "en": "Assorted Sliced Raw Fish",
+        "ja": "刺身の盛り合わせ",
+        "zh_CN": "生鱼片拼盘",
+        "zh_TW": "生魚片拼盤",
+        "price": "44000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-3",
+      "ocr": {
+        "x": 57.31393207290709,
+        "y": 35.72698740237494,
+        "text": "모둠사시미",
+        "width": 10.408859261372545,
+        "height": 1.9821740152811056,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "산낙지",
+        "en.ROMAN": "sannakji",
+        "en": "Live Octopus",
+        "ja": "生テナガダコ",
+        "zh_CN": "活长爪章鱼",
+        "zh_TW": "活章魚",
+        "price": "25000",
+        "ingredients.ko": [
+          "낙지"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "テナガダコ"
+        ],
+        "ingredients.zh_CN": [
+          "长爪章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-4",
+      "ocr": {
+        "x": 86.50269352230676,
+        "y": 48.55590145091939,
+        "text": "산낙지",
+        "width": 6.23229629821764,
+        "height": 1.9316771646873814,
+        "rotation": 359.6920884902015
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "문어숙회",
+        "en.ROMAN": "muneosukhoe",
+        "en": "Parboiled Octopus",
+        "ja": "ゆでタコ",
+        "zh_CN": "白灼章鱼",
+        "zh_TW": "燙大章魚",
+        "price": "35000",
+        "ingredients.ko": [
+          "문어"
+        ],
+        "ingredients.en": [
+          "Octopus"
+        ],
+        "ingredients.ja": [
+          "タコ"
+        ],
+        "ingredients.zh_CN": [
+          "章鱼"
+        ],
+        "ingredients.zh_TW": [
+          "章魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-5",
+      "ocr": {
+        "x": 59.55922861247194,
+        "y": 48.79703641774515,
+        "text": "문어숙회",
+        "width": 8.327363856048725,
+        "height": 1.9817103888524916,
+        "rotation": 359.73646606249304
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "활어초밥",
+        "en.ROMAN": "hwareochobap",
+        "en": "Fresh Fish Sushi",
+        "ja": "活魚寿司",
+        "zh_CN": "鲜鱼寿司",
+        "zh_TW": "鮮魚壽司",
+        "price": "15000",
+        "ingredients.ko": [
+          "쌀",
+          "생선회"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sliced Raw Fish"
+        ],
+        "ingredients.ja": [
+          "米",
+          "刺身"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "生鱼片"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "生魚片"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-6",
+      "ocr": {
+        "x": 84.34434399912641,
+        "y": 61.618228972999596,
+        "text": "활어초밥",
+        "width": 8.397793198784669,
+        "height": 1.95969175492685,
+        "rotation": 358.93758026125687
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "튀김",
+        "ko": "모둠새우튀김",
+        "en.ROMAN": "modumsaeutwigim",
+        "en": "Assorted Deep-fried Shrimp",
+        "ja": "海老天ぷらの盛り合わせ",
+        "zh_CN": "炸虾拼盘",
+        "zh_TW": "炸蝦拼盤",
+        "price": "33000",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-7",
+      "ocr": {
+        "x": 55.66020217983625,
+        "y": 61.81016138460929,
+        "text": "모둠새우튀김",
+        "width": 12.43604590815746,
+        "height": 1.9604037755096813,
+        "rotation": 359.6242670234284
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "모둠해산물",
+        "en.ROMAN": "modumhaesanmul",
+        "en": "Assorted Seafood",
+        "ja": "海鮮の盛り合わせ",
+        "zh_CN": "海鲜拼盘",
+        "zh_TW": "海鮮拼盤",
+        "price": "30000",
+        "ingredients.ko": [
+          "해물"
+        ],
+        "ingredients.en": [
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "海鮮"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-8",
+      "ocr": {
+        "x": 57.97991623916168,
+        "y": 74.58615752803593,
+        "text": "모둠해산물",
+        "width": 10.406157041686686,
+        "height": 1.9115247781930298,
+        "rotation": 0.3438461271704796
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "고등어구이",
+        "en.ROMAN": "godeungeogui",
+        "en": "Grilled Mackerel",
+        "ja": "サバ焼き",
+        "zh_CN": "烤青花鱼",
+        "zh_TW": "烤鯖魚",
+        "price": "12000",
+        "ingredients.ko": [
+          "고등어"
+        ],
+        "ingredients.en": [
+          "Mackerel"
+        ],
+        "ingredients.ja": [
+          "サバ"
+        ],
+        "ingredients.zh_CN": [
+          "青花鱼"
+        ],
+        "ingredients.zh_TW": [
+          "鯖魚"
+        ],
+        "allergy": [
+          "고등어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-9",
+      "ocr": {
+        "x": 82.55559087438263,
+        "y": 74.63719285882937,
+        "text": "고등어구이",
+        "width": 10.272158287084775,
+        "height": 1.9697923145369556,
+        "rotation": 358.0825328045802
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "회",
+        "ko": "성게물회",
+        "en.ROMAN": "seonggemulhoe",
+        "en": "Cold Raw Sea Urchin Soup",
+        "ja": "ウニの刺身入り冷やしスープ",
+        "zh_CN": "水拌海胆",
+        "zh_TW": "水拌海膽",
+        "price": "35000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "海鮮"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-10",
+      "ocr": {
+        "x": 60.16560325379404,
+        "y": 87.58688581871489,
+        "text": "성게물회",
+        "width": 8.233314174006486,
+        "height": 1.9258066479814901,
+        "rotation": 359.706672877541
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "어린이돈까스",
+        "en.ROMAN": "eorinidongaseu",
+        "en": "Children's pork cutlet",
+        "ja": "お子様豚カツ",
+        "zh_CN": "儿童炸猪排",
+        "zh_TW": "兒童炸豬排",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF01_M0001_316332_5-tf-11",
+      "ocr": {
+        "x": 80.73483178677382,
+        "y": 87.59265158363068,
+        "text": "어린이돈까스",
+        "width": 12.333333333333297,
+        "height": 1.993731844647565,
+        "rotation": 358.2881830370038
+      }
+    }
+  ]
+}

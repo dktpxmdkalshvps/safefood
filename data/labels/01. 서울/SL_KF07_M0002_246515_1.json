@@ -1,0 +1,3155 @@
+{
+  "meta": {
+    "file_name": "SL_KF07_M0002_246515_1.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 2252,
+    "captured_date": "2022:11:05 17:47:56",
+    "store_id": "246515",
+    "store_region": "SL",
+    "store_type": "KF07",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          8.474576271186438,
+          27.575277337559424
+        ],
+        [
+          99.64317573594998,
+          30.443565942773542
+        ],
+        [
+          97.23461195361281,
+          83.34755577227841
+        ],
+        [
+          10.972346119536125,
+          85.57844690966719
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "토마토김밥",
+        "en.ROMAN": "tomato gimbap",
+        "en": "Tomato Gimbap",
+        "ja": "トマトキンパプ",
+        "zh_CN": "番茄紫菜卷饭",
+        "zh_TW": "番茄海苔飯捲",
+        "price": "2000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "토마토",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Tomato",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "トマト",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "番茄",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "番茄",
+          "海苔"
+        ],
+        "allergy": [
+          "토마토"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_14",
+      "ocr": {
+        "x": 16.20712344493077,
+        "y": 34.3712277710062,
+        "text": "토마토김밥",
+        "width": 5.192128996083133,
+        "height": 2.2431493232717616,
+        "rotation": 1.0405166977486147
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "신라면",
+        "en.ROMAN": "shin ramyeon",
+        "en": "Shin Ramyun",
+        "ja": "辛ラーメン",
+        "zh_CN": "辛拉面",
+        "zh_TW": "辛拉麵",
+        "price": "3000",
+        "ingredients.ko": [
+          "밀가루",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_16",
+      "ocr": {
+        "x": 35.712831733089395,
+        "y": 34.93788888238197,
+        "text": "신라면",
+        "width": 3.741665607062823,
+        "height": 2.132487986470695,
+        "rotation": 0.8049900962182619
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "떡볶이",
+        "en.ROMAN": "tteokbokki",
+        "en": "Tteokbokki",
+        "ja": "トッポッキ",
+        "zh_CN": "辣炒年糕",
+        "zh_TW": "辣炒年糕",
+        "price": "3500",
+        "ingredients.ko": [
+          "야채",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_18",
+      "ocr": {
+        "x": 53.14857609643135,
+        "y": 35.41542429148152,
+        "text": "떡볶이",
+        "width": 3.63613632067603,
+        "height": 2.120170613776356,
+        "rotation": 1.145644010978458
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "비빔밥",
+        "en.ROMAN": "bibimbap",
+        "en": "Bibimbap",
+        "ja": "ビビンバ",
+        "zh_CN": "拌饭",
+        "zh_TW": "拌飯",
+        "price": "5000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_20",
+      "ocr": {
+        "x": 66.94090242209447,
+        "y": 35.830107086819034,
+        "text": "비빔밥",
+        "width": 3.57955119113707,
+        "height": 2.0849935739078855,
+        "rotation": 0.8270594113056973
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "기타",
+        "ko": "옛날도시락",
+        "en.ROMAN": "yennaldosirak",
+        "en": "Old-fashioned Lunch Box",
+        "ja": "昔ながらのお弁当",
+        "zh_CN": "老式盒饭",
+        "zh_TW": "古早味便當",
+        "price": "5000",
+        "ingredients.ko": [
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_22",
+      "ocr": {
+        "x": 83.02007237836683,
+        "y": 36.33362692966494,
+        "text": "옛날도시락",
+        "width": 4.815365446702805,
+        "height": 2.071599798421379,
+        "rotation": 0.4225873078698328
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "어린이김밥",
+        "en.ROMAN": "eorinigimbap",
+        "en": "Kids' Gimbap",
+        "ja": "お子様キンパプ",
+        "zh_CN": "儿童紫菜卷饭",
+        "zh_TW": "兒童海苔飯捲",
+        "price": "1500",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_24",
+      "ocr": {
+        "x": 16.30949141118714,
+        "y": 37.3903930180679,
+        "text": "어린이김밥",
+        "width": 5.014894236490418,
+        "height": 2.1869896176308443,
+        "rotation": 1.1998867648302394
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "치즈라면",
+        "en.ROMAN": "cheese ramyeon",
+        "en": "Cheese Instant Noodles",
+        "ja": "チーズラーメン",
+        "zh_CN": "奶酪方便面",
+        "zh_TW": "起司泡麵",
+        "price": "3500",
+        "ingredients.ko": [
+          "밀가루",
+          "야채",
+          "치즈"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables",
+          "Cheese"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜",
+          "チーズ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜",
+          "奶酪"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜",
+          "起司"
+        ],
+        "allergy": [
+          "밀",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_26",
+      "ocr": {
+        "x": 35.74944639155642,
+        "y": 37.88032886941237,
+        "text": "치즈라면",
+        "width": 3.8302967957411433,
+        "height": 2.132166445641263,
+        "rotation": 1.400069941245306
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "라볶이",
+        "en.ROMAN": "rabokki",
+        "en": "Stir-fried Instant Noodles",
+        "ja": "ラボキ",
+        "zh_CN": "辣炒年糕方便面",
+        "zh_TW": "辣炒年糕泡麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "떡",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice Cake",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "トク",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "糕",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "年糕",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_28",
+      "ocr": {
+        "x": 53.104784974326584,
+        "y": 38.35256380342083,
+        "text": "라볶이",
+        "width": 3.6501440457095335,
+        "height": 2.1105891926353277,
+        "rotation": 0.6224304313514608
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "오므라이스",
+        "en.ROMAN": "omeurice",
+        "en": "Omelet Rice",
+        "ja": "オムライス",
+        "zh_CN": "蛋包饭",
+        "zh_TW": "蛋包飯",
+        "price": "5000",
+        "ingredients.ko": [
+          "채소",
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_30",
+      "ocr": {
+        "x": 66.80376152292754,
+        "y": 38.675232698062224,
+        "text": "오므라이스",
+        "width": 4.944326786705603,
+        "height": 2.0839734869719666,
+        "rotation": 0.8270594113043899
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "카레라이스",
+        "en.ROMAN": "curry rice",
+        "en": "Curry Rice",
+        "ja": "カレーライス",
+        "zh_CN": "咖喱饭",
+        "zh_TW": "咖哩飯",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_32",
+      "ocr": {
+        "x": 82.8276430878277,
+        "y": 39.12638010741507,
+        "text": "카레라이스",
+        "width": 4.723393555953562,
+        "height": 2.022922086112303,
+        "rotation": 0.9637834286783118
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "참치김밥",
+        "en.ROMAN": "chamchigimbap",
+        "en": "Tuna Gimbap",
+        "ja": "ツナキンパプ",
+        "zh_CN": "金枪鱼紫菜卷饭",
+        "zh_TW": "鮪魚海苔飯捲",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "참치",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Tuna",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ツナ",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "金枪鱼",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮪魚",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_34",
+      "ocr": {
+        "x": 16.421702339978342,
+        "y": 40.37290909235092,
+        "text": "참치김밥",
+        "width": 4.58947375571623,
+        "height": 2.2423683747485805,
+        "rotation": 0.8005409980233935
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "떡라면",
+        "en.ROMAN": "tteongnamyeon",
+        "en": "Rice Cake Instant Noodles",
+        "ja": "トク入りラーメン",
+        "zh_CN": "年糕方便面",
+        "zh_TW": "年糕泡麵",
+        "price": "3500",
+        "ingredients.ko": [
+          "밀가루",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_36",
+      "ocr": {
+        "x": 35.792719736517384,
+        "y": 40.831923660198626,
+        "text": "떡라면",
+        "width": 3.7011578220347294,
+        "height": 2.142294841374197,
+        "rotation": 1.1550468759453452
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "쫄면떡볶이",
+        "en.ROMAN": "jjolmyeontteokbokki",
+        "en": "Tteokbokki with Spicy Chewy Noodles",
+        "ja": "チョルミョン入りトッポッキ",
+        "zh_CN": "辣炒年糕筋面",
+        "zh_TW": "Q麵辣炒年糕",
+        "price": "4000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "떡",
+          "어묵",
+          "쫄면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Rice Cake",
+          "Fishcake",
+          "Chewy Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "トク",
+          "練り天",
+          "チョルミョン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "糕",
+          "鱼糕",
+          "筋面"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "年糕",
+          "魚板",
+          "Q麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_38",
+      "ocr": {
+        "x": 53.07621161195323,
+        "y": 41.246368232430434,
+        "text": "쫄볶이",
+        "width": 3.658926196007634,
+        "height": 2.097827321992037,
+        "rotation": 0.6224304313538482
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "김치오므라이스",
+        "en.ROMAN": "kimchi omeurice",
+        "en": "Kimchi omelet rice",
+        "ja": "キムチオムライス",
+        "zh_CN": "辛奇蛋包饭",
+        "zh_TW": "辛奇蛋包飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "채소",
+          "김치",
+          "쌀",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_40",
+      "ocr": {
+        "x": 66.71973954851956,
+        "y": 41.48530709973565,
+        "text": "김치오므라이스",
+        "width": 6.157968116573445,
+        "height": 2.130742219358662,
+        "rotation": 0.8270594113052994
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_42",
+      "ocr": {
+        "x": 82.71973635086793,
+        "y": 41.96142454121863,
+        "text": "된장찌개",
+        "width": 4.599725435844254,
+        "height": 2.0399226031200937,
+        "rotation": 0.5932032898020907
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "샐러드김밥",
+        "en.ROMAN": "salad gimbap",
+        "en": "Salad Gimbap",
+        "ja": "サラダキンパプ",
+        "zh_CN": "沙拉紫菜卷饭",
+        "zh_TW": "沙拉海苔飯捲",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_44",
+      "ocr": {
+        "x": 16.534588066538305,
+        "y": 43.38508632611222,
+        "text": "샐러드김밥",
+        "width": 5.09708560595573,
+        "height": 2.2135539125067845,
+        "rotation": 0.46704571081136237
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "만두라면",
+        "en.ROMAN": "manduramyeon",
+        "en": "Mandu Instant Noodles",
+        "ja": "餃子入りラーメン",
+        "zh_CN": "饺子方便面",
+        "zh_TW": "餃子泡麵",
+        "price": "3500",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_46",
+      "ocr": {
+        "x": 35.8179349393875,
+        "y": 43.785012336839955,
+        "text": "만두라면",
+        "width": 3.8237521813809425,
+        "height": 2.1526761028032566,
+        "rotation": 0.5563066313858371
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "쫄라볶이",
+        "en.ROMAN": "jjollabokki",
+        "en": "Stir-fried Instant Noodles and Chewy Noodles",
+        "ja": "チョルミョンとラボキ",
+        "zh_CN": "辣炒年糕拌筋面",
+        "zh_TW": "Q彈辣炒年糕泡麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "밀가루",
+          "떡"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Rice Cake"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "トク"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "糕"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "年糕"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_49",
+      "ocr": {
+        "x": 53.04283585599068,
+        "y": 44.09911612011853,
+        "text": "쫄라볶이",
+        "width": 3.7167277914723074,
+        "height": 2.1794642012383787,
+        "rotation": 0.6224304313496987
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김치볶음밥",
+        "en.ROMAN": "kimchibokkeumbap",
+        "en": "Kimchi Fried Rice",
+        "ja": "キムチチャーハン",
+        "zh_CN": "辛奇炒饭",
+        "zh_TW": "辛奇炒飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "채소",
+          "김치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_48",
+      "ocr": {
+        "x": 66.65643109986476,
+        "y": 44.291607993598845,
+        "text": "김치볶음밥",
+        "width": 4.870611951200467,
+        "height": 2.134042855709752,
+        "rotation": 0.8270594113074594
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "5000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_52",
+      "ocr": {
+        "x": 82.55371161786579,
+        "y": 44.709652003277775,
+        "text": "김치찌개",
+        "width": 4.524999999999997,
+        "height": 2.0001983089326747,
+        "rotation": 0.593203289800897
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김치김밥",
+        "en.ROMAN": "kimchigimbap",
+        "en": "Kimchi Gimbap",
+        "ja": "キムチキンパプ",
+        "zh_CN": "辛奇紫菜卷饭",
+        "zh_TW": "辛奇海苔飯捲",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "김치",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_54",
+      "ocr": {
+        "x": 16.621793087745516,
+        "y": 46.3162406769806,
+        "text": "김치김밥",
+        "width": 4.489605326824941,
+        "height": 2.172682761740071,
+        "rotation": 0.4670457108059054
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "얼큰라면",
+        "en.ROMAN": "eolkeunnamyeon",
+        "en": "Spicy Instant Noodles",
+        "ja": "激辛ラーメン",
+        "zh_CN": "辣爽方便面",
+        "zh_TW": "香辣泡麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "밀가루",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_56",
+      "ocr": {
+        "x": 35.862991046273,
+        "y": 46.64153813697547,
+        "text": "얼큰라면",
+        "width": 3.7812521407846695,
+        "height": 2.1079884813465317,
+        "rotation": 0.790459032850606
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "오뎅",
+        "en.ROMAN": "odeng",
+        "en": "Fishcake",
+        "ja": "練り物",
+        "zh_CN": "鱼糕",
+        "zh_TW": "魚板",
+        "price": "3000",
+        "ingredients.ko": [
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "魚板"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_58",
+      "ocr": {
+        "x": 53.00501470695828,
+        "y": 46.96391996611276,
+        "text": "오뎅",
+        "width": 2.736544167163622,
+        "height": 2.111101000053488,
+        "rotation": 0.6224304313520861
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "오징어덮밥",
+        "en.ROMAN": "ojingeodeopbap",
+        "en": "Spicy Stir-fried Squid with Rice",
+        "ja": "イカ炒め丼",
+        "zh_CN": "鱿鱼盖饭",
+        "zh_TW": "魷魚蓋飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "오징어",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚",
+          "米"
+        ],
+        "allergy": [
+          "오징어"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_60",
+      "ocr": {
+        "x": 66.51566886008493,
+        "y": 47.13053975461753,
+        "text": "오징어덮밥",
+        "width": 4.8905244174447295,
+        "height": 2.0965375015682732,
+        "rotation": 0.4177271092838737
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "참치찌개",
+        "en.ROMAN": "chamchijjigae",
+        "en": "Tuna Jjigae",
+        "ja": "ツナ入りキムチチゲ",
+        "zh_CN": "金枪鱼锅",
+        "zh_TW": "鮪魚鍋",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "애호박",
+          "캔참치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Zucchini",
+          "Canned Tuna"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ズッキーニ",
+          "ツナ缶"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "西葫芦",
+          "金枪鱼罐头"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "櫛瓜",
+          "罐頭鮪魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_63",
+      "ocr": {
+        "x": 82.44328820722774,
+        "y": 47.43339402994747,
+        "text": "참치찌개",
+        "width": 4.570965349574659,
+        "height": 1.97068571910703,
+        "rotation": 0.8651299733956535
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "멸치김밥",
+        "en.ROMAN": "myeolchigimbap",
+        "en": "Dried Anchovy Gimbap",
+        "ja": "ざこ入りキンパプ",
+        "zh_CN": "鳀鱼紫菜卷饭",
+        "zh_TW": "鯷魚海苔飯捲",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "김",
+          "멸치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Laver",
+          "Anchovies"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "海苔",
+          "カタクチイワシ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "紫菜",
+          "鳀鱼"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "海苔",
+          "鯷魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_65",
+      "ocr": {
+        "x": 16.765635555526607,
+        "y": 49.23254964998976,
+        "text": "멸치김밥",
+        "width": 4.455910858899961,
+        "height": 2.185283434794855,
+        "rotation": 0.467045710808236
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "짬뽕라면",
+        "en.ROMAN": "jjamppongnamyeon",
+        "en": "Spicy Seafood Instant Noodles",
+        "ja": "チャンポンラーメン",
+        "zh_CN": "炒码方便面",
+        "zh_TW": "炒碼泡麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "채소",
+          "해물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵粉"
+        ],
+        "allergy": [
+          "새우",
+          "오징어",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_67",
+      "ocr": {
+        "x": 35.89269740169687,
+        "y": 49.52887544949593,
+        "text": "짬뽕라면",
+        "width": 3.829917767407891,
+        "height": 2.1321930393128143,
+        "rotation": 0.790459032850606
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "김치만두",
+        "en.ROMAN": "kimchimandu",
+        "en": "Kimchi Mandu",
+        "ja": "キムチ餃子",
+        "zh_CN": "辛奇饺子",
+        "zh_TW": "辛奇餃子",
+        "price": "4000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "辛奇"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_68",
+      "ocr": {
+        "x": 52.98216833401547,
+        "y": 49.779865636945296,
+        "text": "김치만두",
+        "width": 3.609519859716953,
+        "height": 2.107297995309507,
+        "rotation": 0.5331204626575641
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "제육덮밥",
+        "en.ROMAN": "jeyukdeopbap",
+        "en": "Spicy Stir-fried Pork with Rice",
+        "ja": "豚肉炒め丼",
+        "zh_CN": "辣炒猪肉盖饭",
+        "zh_TW": "辣炒豬肉蓋飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "돼지고기",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Pork",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "豚肉",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "猪肉",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "豬肉",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_70",
+      "ocr": {
+        "x": 66.43374932551176,
+        "y": 49.92706636428116,
+        "text": "제육덮밥",
+        "width": 4.063908622306458,
+        "height": 2.0965375015684278,
+        "rotation": 0.4177271092838737
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "수제왕돈까스",
+        "en.ROMAN": "sujewangdongaseu",
+        "en": "Handmande Jumbo Pork Cutlet",
+        "ja": "手作り特大豚カツ",
+        "zh_CN": "天文洞半干黄花鱼",
+        "zh_TW": "手工大份炸豬排",
+        "price": "6000",
+        "ingredients.ko": [
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_73",
+      "ocr": {
+        "x": 82.29148113958817,
+        "y": 50.18146300746866,
+        "text": "수제왕돈까스",
+        "width": 5.214174579211015,
+        "height": 2.015304259831833,
+        "rotation": 0.8651299733948008
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "고추김밥",
+        "en.ROMAN": "gochugimbap",
+        "en": "Chili Pepper Gimbap",
+        "ja": "唐辛子キンパプ",
+        "zh_CN": "尖椒紫菜卷饭",
+        "zh_TW": "辣椒海苔飯捲",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "고추",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chili Pepper",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "唐辛子",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辣椒",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辣椒",
+          "米",
+          "海苔"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_75",
+      "ocr": {
+        "x": 16.884274042643973,
+        "y": 52.10762111524066,
+        "text": "고추김밥",
+        "width": 4.5732997947499845,
+        "height": 2.1605467796727376,
+        "rotation": 0.467045710808236
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "쫄면",
+        "en.ROMAN": "jjolmyeon",
+        "en": "Spicy Chewy Noodles",
+        "ja": "チョルミョン",
+        "zh_CN": "辣拌筋面",
+        "zh_TW": "Q麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "콩나물",
+          "면",
+          "쫄면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Sprout",
+          "Noodles",
+          "Chewy Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆もやし",
+          "麺",
+          "チョルミョン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "黄豆芽",
+          "大豆",
+          "筋面"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "黃豆芽",
+          "麵",
+          "Q麵"
+        ],
+        "allergy": [
+          "콩",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_77",
+      "ocr": {
+        "x": 35.9459663106915,
+        "y": 52.3750743637722,
+        "text": "쫄면",
+        "width": 2.748990543010343,
+        "height": 2.0918952167594496,
+        "rotation": 0.7904590328487302
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "고기만두",
+        "en.ROMAN": "gogimandu",
+        "en": "Meat Mandu",
+        "ja": "肉餃子",
+        "zh_CN": "肉饺",
+        "zh_TW": "肉餃",
+        "price": "4000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_80",
+      "ocr": {
+        "x": 52.92329951597308,
+        "y": 52.58537748130479,
+        "text": "고기만두",
+        "width": 3.65821028208807,
+        "height": 2.0694060404311476,
+        "rotation": 0.5331204626596104
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "참치덮밥",
+        "en.ROMAN": "chamchideopbap",
+        "en": "Raw Tuna Bibimbap",
+        "ja": "マグロ丼",
+        "zh_CN": "金枪鱼盖饭",
+        "zh_TW": "鮪魚蓋飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "참치",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Tuna",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "ツナ",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "金枪鱼",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "鮪魚",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_82",
+      "ocr": {
+        "x": 66.38553003361999,
+        "y": 52.653187222932814,
+        "text": "참치덮밥",
+        "width": 3.9795573653001943,
+        "height": 2.087033747779753,
+        "rotation": 0.4177271092838737
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치즈돈까스",
+        "en.ROMAN": "cheese dongaseu",
+        "en": "Cheese Stuffed Pork Cutlet",
+        "ja": "チーズ豚カツ",
+        "zh_CN": "炸奶酪猪排",
+        "zh_TW": "起司炸豬排",
+        "price": "7000",
+        "ingredients.ko": [
+          "돼지고기",
+          "치즈",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Cheese",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "チーズ",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "奶酪",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "起司",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "우유",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_84",
+      "ocr": {
+        "x": 82.11809967087257,
+        "y": 52.883120296955454,
+        "text": "치즈돈까스",
+        "width": 4.719726033142354,
+        "height": 1.9977260088985278,
+        "rotation": 0.8651299733960514
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "치즈김밥",
+        "en.ROMAN": "cheese gimbap",
+        "en": "Cheese Gimbap",
+        "ja": "チーズキンパプ",
+        "zh_CN": "奶酪紫菜卷饭",
+        "zh_TW": "起司海苔飯捲",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "치즈",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Cheese",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "チーズ",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "奶酪",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "起司",
+          "米",
+          "海苔"
+        ],
+        "allergy": [
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_86",
+      "ocr": {
+        "x": 16.99291100982887,
+        "y": 55.005159422316574,
+        "text": "치즈김밥",
+        "width": 4.455222475427831,
+        "height": 2.115537517971366,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "비빔냉면",
+        "en.ROMAN": "bibimnaengmyeon",
+        "en": "Spicy Buckwheat Noodles",
+        "ja": "混ぜ冷麺",
+        "zh_CN": "拌冷面",
+        "zh_TW": "拌冷麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "비빔장",
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Sauce",
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "ビビンソース",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "拌饭酱",
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "拌飯醬",
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_87",
+      "ocr": {
+        "x": 36.00540228395009,
+        "y": 55.221218146227436,
+        "text": "비빔냉면",
+        "width": 3.6623834758321525,
+        "height": 2.0968798807569726,
+        "rotation": 0.4206173508647453
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "물만두",
+        "en.ROMAN": "mulmandu",
+        "en": "Boiled Mandu",
+        "ja": "水餃子",
+        "zh_CN": "水饺",
+        "zh_TW": "水餃",
+        "price": "4000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_91",
+      "ocr": {
+        "x": 52.89538775607941,
+        "y": 55.38276970270449,
+        "text": "물만두",
+        "width": 3.6630130735081945,
+        "height": 2.0707975795784517,
+        "rotation": 0.5331204626582462
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "오삼불고기",
+        "en.ROMAN": "osambulgogi",
+        "en": "Spicy Squid and Pork Belly Bulgogi",
+        "ja": "イカ入りサムギョプサルのプルゴギ",
+        "zh_CN": "鱿鱼烤五花肉",
+        "zh_TW": "烤魷魚五花肉",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "오징어",
+          "삼겹살"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Squid",
+          "Pork Belly"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "イカ",
+          "サムギョプサル"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鱿鱼",
+          "五花肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "魷魚",
+          "五花肉"
+        ],
+        "allergy": [
+          "오징어",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_90",
+      "ocr": {
+        "x": 66.29673943362691,
+        "y": 55.43758506164921,
+        "text": "오삼불고기",
+        "width": 4.822030777660513,
+        "height": 2.0004639452040998,
+        "rotation": 0.4177271092838737
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "치킨까스",
+        "en.ROMAN": "chicken kkaseu",
+        "en": "Chicken Cutlet",
+        "ja": "チキンカツ",
+        "zh_CN": "炸鸡排",
+        "zh_TW": "炸雞排",
+        "price": "7000",
+        "ingredients.ko": [
+          "계란",
+          "닭고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Eggs",
+          "Chicken",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "卵",
+          "鶏肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡蛋",
+          "鸡肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "雞蛋",
+          "雞肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "계란",
+          "닭고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_94",
+      "ocr": {
+        "x": 81.96340920551279,
+        "y": 55.58850878421316,
+        "text": "치킨까스",
+        "width": 4.586741598247015,
+        "height": 1.9347464027374814,
+        "rotation": 0.8557334224162219
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소고기김밥",
+        "en.ROMAN": "sogogigimbap",
+        "en": "Beef Gimbap",
+        "ja": "牛肉キンパプ",
+        "zh_CN": "牛肉紫菜卷饭",
+        "zh_TW": "牛肉海苔飯捲",
+        "price": "3000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "쌀",
+          "김"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Rice",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "米",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "大米",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "米",
+          "海苔"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_96",
+      "ocr": {
+        "x": 17.094777524572166,
+        "y": 57.907383893687964,
+        "text": "소고기김밥",
+        "width": 4.9302224754278345,
+        "height": 2.0870337477797505,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "물냉면",
+        "en.ROMAN": "mullaengmyeon",
+        "en": "Cold Buckwheat Noodles",
+        "ja": "水冷麺",
+        "zh_CN": "冷面",
+        "zh_TW": "冷麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "계란",
+          "육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Eggs",
+          "Meat Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "卵",
+          "だし汁"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "鸡蛋",
+          "肉汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "雞蛋",
+          "高湯"
+        ],
+        "allergy": [
+          "메밀",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_98",
+      "ocr": {
+        "x": 36.01196738800083,
+        "y": 58.06628695989309,
+        "text": "물냉면",
+        "width": 3.666555217628226,
+        "height": 2.0945436015941112,
+        "rotation": 359.80956649930675
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "잔치국수",
+        "en.ROMAN": "janchiguksu",
+        "en": "Banquet Noodles",
+        "ja": "にゅうめん",
+        "zh_CN": "喜面",
+        "zh_TW": "喜麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "야채",
+          "면",
+          "멸치육수"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles",
+          "Anchovy Broth"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺",
+          "煮干しだし"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆",
+          "鳀鱼高汤"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵",
+          "鯷魚高湯"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_100",
+      "ocr": {
+        "x": 52.87500000000001,
+        "y": 58.12611012433393,
+        "text": "잔치국수",
+        "width": 3.666299566469275,
+        "height": 2.0399200780415128,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "새우볶음밥",
+        "en.ROMAN": "saeubokkeumbap",
+        "en": "Shrimp Fried Rice",
+        "ja": "海老チャーハン",
+        "zh_CN": "虾仁炒饭",
+        "zh_TW": "蝦仁炒飯",
+        "price": "6000",
+        "ingredients.ko": [
+          "야채",
+          "왕새우",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Jumbo Shrimp",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "大正海老",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大虾",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "明蝦",
+          "米"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_102",
+      "ocr": {
+        "x": 66.18370043353072,
+        "y": 58.212211374666644,
+        "text": "새우볶음밥",
+        "width": 4.9310793063508465,
+        "height": 1.9773756625778869,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "모듬김밥",
+        "en.ROMAN": "modeumgimbap",
+        "en": "Assorted Gimbap",
+        "ja": "キンパプの盛り合わせ",
+        "zh_CN": "紫菜卷饭拼盘",
+        "zh_TW": "海苔飯捲拼盤",
+        "price": "4000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_104",
+      "ocr": {
+        "x": 17.244777524572168,
+        "y": 60.717499782206204,
+        "text": "모듬김밥",
+        "width": 4.45522247542783,
+        "height": 2.115537517971383,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동",
+        "en.ROMAN": "udon",
+        "en": "Udon",
+        "ja": "うどん",
+        "zh_CN": "乌冬面",
+        "zh_TW": "烏龍麵",
+        "price": "4000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_106",
+      "ocr": {
+        "x": 36.06653869895597,
+        "y": 60.76636683896989,
+        "text": "우동",
+        "width": 2.797365529245722,
+        "height": 2.0639807340916,
+        "rotation": 1.024978373891031
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "육개장",
+        "en.ROMAN": "yukgaejang",
+        "en": "Spicy Beef Soup",
+        "ja": "ユッケジャン",
+        "zh_CN": "香辣牛肉汤",
+        "zh_TW": "香辣牛肉湯",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "소고기",
+          "숙주",
+          "고사리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Beef",
+          "Mung Bean Sprout",
+          "Bracken"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "牛肉",
+          "緑豆もやし",
+          "ワラビ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "牛肉",
+          "绿豆芽",
+          "蕨菜"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "牛肉",
+          "綠豆芽",
+          "蕨菜"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_111",
+      "ocr": {
+        "x": 66.13674008670615,
+        "y": 60.87921847246883,
+        "text": "육개장",
+        "width": 3.498480173412272,
+        "height": 1.9692495734342086,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "떡만두국",
+        "en.ROMAN": "tteongmanduguk",
+        "en": "Sliced Rice Cake and Mandu Soup",
+        "ja": "トク入り餃子スープ",
+        "zh_CN": "年糕饺子汤",
+        "zh_TW": "年糕餃子湯",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_109",
+      "ocr": {
+        "x": 52.84392069364916,
+        "y": 60.902775307338025,
+        "text": "떡만두국",
+        "width": 3.631079306350849,
+        "height": 2.0870337477797514,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "김치우동",
+        "en.ROMAN": "kimchi udon",
+        "en": "Kimchi Udon",
+        "ja": "キムチうどん",
+        "zh_CN": "辛奇乌冬面",
+        "zh_TW": "辛奇烏龍麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "밀가루",
+          "야채",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_113",
+      "ocr": {
+        "x": 36.06445168770517,
+        "y": 63.53094113348321,
+        "text": "김치우동",
+        "width": 3.6928188987191306,
+        "height": 2.0875719208743293,
+        "rotation": 359.81300482190557
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소고기볶음밥",
+        "en.ROMAN": "sogogibokkeumbap",
+        "en": "Beef Fried Rice",
+        "ja": "牛肉チャーハン",
+        "zh_CN": "牛肉炒饭",
+        "zh_TW": "牛肉炒飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "쌀",
+          "쇠고기"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "米",
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_114",
+      "ocr": {
+        "x": 66.0087004335307,
+        "y": 63.5435168738897,
+        "text": "소고기볶음밥",
+        "width": 5.294339219644705,
+        "height": 1.9928064083034234,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "만두국",
+        "en.ROMAN": "manduguk",
+        "en": "Mandu Soup",
+        "ja": "餃子スープ",
+        "zh_CN": "饺子汤",
+        "zh_TW": "餃子湯",
+        "price": "5000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_117",
+      "ocr": {
+        "x": 52.82196034682458,
+        "y": 63.606061289353576,
+        "text": "만두국",
+        "width": 3.5647797398815424,
+        "height": 1.9773756625778,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "돌솥비빔밥",
+        "en.ROMAN": "dolsotbibimbap",
+        "en": "Hot Stone Pot Bibimbap",
+        "ja": "石焼きビビンバ",
+        "zh_CN": "石锅拌饭",
+        "zh_TW": "石鍋拌飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "쌀",
+          "비빔장",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Sauce",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "米",
+          "ビビンソース",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "拌饭酱",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "拌飯醬",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_120",
+      "ocr": {
+        "x": 65.96022026011842,
+        "y": 66.21052397169206,
+        "text": "돌솥비빔밥",
+        "width": 4.7882599132938575,
+        "height": 1.922135903695927,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "떡국",
+        "en.ROMAN": "tteokguk",
+        "en": "Sliced Rice Cake Soup",
+        "ja": "トックク",
+        "zh_CN": "年糕汤",
+        "zh_TW": "年糕湯",
+        "price": "5000",
+        "ingredients.ko": [
+          "소고기",
+          "계란",
+          "가래떡"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Eggs",
+          "Rice Cake Stick"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "卵",
+          "カレトク"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "鸡蛋",
+          "长条年糕"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "雞蛋",
+          "長條年糕"
+        ],
+        "allergy": [
+          "쇠고기",
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_123",
+      "ocr": {
+        "x": 52.79544052023682,
+        "y": 66.27306838715572,
+        "text": "떡국",
+        "width": 2.644647774433949,
+        "height": 1.9465141711269536,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "오뎅우동",
+        "en.ROMAN": "odeng udon",
+        "en": "Fishcake Udon",
+        "ja": "練り物うどん",
+        "zh_CN": "鱼糕乌冬面",
+        "zh_TW": "魚板烏龍麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "면",
+          "가쓰오부시",
+          "어묵"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Dried Bonito",
+          "Fishcake"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "鰹節",
+          "練り天"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "鲣节",
+          "鱼糕"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "鰹魚乾",
+          "魚板"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_121",
+      "ocr": {
+        "x": 36.12348017341229,
+        "y": 66.27306838715575,
+        "text": "오뎅우동",
+        "width": 3.7412995664692894,
+        "height": 2.0634769129106316,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "참치주먹밥",
+        "en.ROMAN": "chamchijumeokbap",
+        "en": "Tuna Riceball",
+        "ja": "ツナ入りおにぎり",
+        "zh_CN": "金枪鱼饭团",
+        "zh_TW": "鮪魚飯糰",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀",
+          "김",
+          "캔참치"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Laver",
+          "Canned Tuna"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海苔",
+          "ツナ缶"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "紫菜",
+          "金枪鱼罐头"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "海苔",
+          "罐頭鮪魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_127",
+      "ocr": {
+        "x": 17.507419652785202,
+        "y": 68.20656460184408,
+        "text": "참치주먹밥",
+        "width": 5.423483148077441,
+        "height": 2.1191186849281602,
+        "rotation": 359.80917894717885
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "뚝배기불고기",
+        "en.ROMAN": "ttukbaegibulgogi",
+        "en": "Bulgogi Hot Pot",
+        "ja": "土鍋プルゴギ",
+        "zh_CN": "砂锅烤牛肉",
+        "zh_TW": "砂鍋烤牛肉",
+        "price": "7000",
+        "ingredients.ko": [
+          "소고기"
+        ],
+        "ingredients.en": [
+          "Beef"
+        ],
+        "ingredients.ja": [
+          "牛肉"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_129",
+      "ocr": {
+        "x": 65.88522026011844,
+        "y": 68.82770870337475,
+        "text": "뚝배기불고기",
+        "width": 5.461740086706152,
+        "height": 1.9565275240899371,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "분식",
+        "ko": "물만두우동",
+        "en.ROMAN": "mulmandu udon",
+        "en": "Boiled Mandu Udon",
+        "ja": "水餃子うどん",
+        "zh_CN": "水饺乌冬面",
+        "zh_TW": "水餃烏龍麵",
+        "price": "5000",
+        "ingredients.ko": [
+          "밀가루",
+          "돼지고기",
+          "당면"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Pork",
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "豚肉",
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "猪肉",
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "豬肉",
+          "粉條"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_132",
+      "ocr": {
+        "x": 36.15718060694301,
+        "y": 69.02346803890954,
+        "text": "물만두우동",
+        "width": 4.66629956646929,
+        "height": 2.0244893323160613,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "김치주먹밥",
+        "en.ROMAN": "kimchijumeokbap",
+        "en": "Kimchi Riceball",
+        "ja": "キムチ入りおにぎり",
+        "zh_CN": "辛奇饭团",
+        "zh_TW": "辛奇飯糰",
+        "price": "2000",
+        "ingredients.ko": [
+          "쌀",
+          "김",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Laver",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海苔",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "紫菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "海苔",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_133",
+      "ocr": {
+        "x": 17.587663672504807,
+        "y": 70.97226450917512,
+        "text": "김치주먹밥",
+        "width": 5.348365590240282,
+        "height": 2.004206738143911,
+        "rotation": 359.8091789471846
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "믹스주먹밥",
+        "en.ROMAN": "mix jumeokbap",
+        "en": "Mixed Riceball",
+        "ja": "ミックスおにぎり",
+        "zh_CN": "什锦饭团",
+        "zh_TW": "綜合飯糰",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "김",
+          "야채"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Laver",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海苔",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "紫菜",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "海苔",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_135",
+      "ocr": {
+        "x": 17.74257429623493,
+        "y": 73.71667249215874,
+        "text": "믹스주먹밥",
+        "width": 5.331069417038406,
+        "height": 1.9935983682365674,
+        "rotation": 359.8091789471865
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "소고기주먹밥",
+        "en.ROMAN": "sogogijumeokbap",
+        "en": "Beef Riceball",
+        "ja": "牛肉入りおにぎり",
+        "zh_CN": "牛肉饭团",
+        "zh_TW": "牛肉飯糰",
+        "price": "3000",
+        "ingredients.ko": [
+          "소고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "米"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_138",
+      "ocr": {
+        "x": 17.840384015538092,
+        "y": 76.37525937797948,
+        "text": "소고기주먹밥",
+        "width": 5.792531288876439,
+        "height": 2.016631197756224,
+        "rotation": 359.8091789471846
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "멸치주먹밥",
+        "en.ROMAN": "myeolchijumeokbap",
+        "en": "Dried Anchovy Riceball",
+        "ja": "ざこ入りおにぎり",
+        "zh_CN": "鳀鱼饭团",
+        "zh_TW": "鯷魚飯糰",
+        "price": "2500",
+        "ingredients.ko": [
+          "쌀",
+          "김",
+          "멸치"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Laver",
+          "Anchovies"
+        ],
+        "ingredients.ja": [
+          "米",
+          "海苔",
+          "カタクチイワシ"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "紫菜",
+          "鳀鱼"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "海苔",
+          "鯷魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_140",
+      "ocr": {
+        "x": 17.942431050496428,
+        "y": 79.07000964641941,
+        "text": "멸치주먹밥",
+        "width": 5.298659484833508,
+        "height": 2.025056764962252,
+        "rotation": 359.8091789471884
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "튀김",
+        "ko": "돈까스주먹밥",
+        "en.ROMAN": "dongaseu jumeokbap",
+        "en": "Pork Cutlet Rice Ball",
+        "ja": "豚カツ入りおにぎり",
+        "zh_CN": "炸猪排饭团",
+        "zh_TW": "炸豬排飯糰",
+        "price": "2500",
+        "ingredients.ko": [
+          "돼지고기",
+          "쌀",
+          "계란",
+          "밀가루",
+          "김"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Rice",
+          "Eggs",
+          "Wheat Flour",
+          "Laver"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "米",
+          "卵",
+          "小麦粉",
+          "海苔"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "大米",
+          "鸡蛋",
+          "面粉",
+          "紫菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "米",
+          "雞蛋",
+          "麵粉",
+          "海苔"
+        ],
+        "allergy": [
+          "돼지고기",
+          "계란",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF07_M0002_246515_1-tf_141",
+      "ocr": {
+        "x": 18.085253971751058,
+        "y": 81.73145283207597,
+        "text": "돈까스주먹밥",
+        "width": 5.868354193737381,
+        "height": 1.9773203314631198,
+        "rotation": 359.80917894717885
+      }
+    }
+  ]
+}

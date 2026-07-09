@@ -1,0 +1,701 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0002_547148_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "",
+    "store_id": "547148",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          76.7402376910017,
+          11.337579617834395
+        ],
+        [
+          15.959252971137522,
+          12.356687898089172
+        ],
+        [
+          8.488964346349745,
+          89.68152866242038
+        ],
+        [
+          75.21222410865875,
+          94.26751592356688
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "두부김치",
+        "en.ROMAN": "dubukimchi",
+        "en": "Bean Curd with Stir-fried Kimchi",
+        "ja": "豆腐キムチ",
+        "zh_CN": "炒辛奇佐豆腐",
+        "zh_TW": "炒辛奇佐豆腐",
+        "price": "10000",
+        "ingredients.ko": [
+          "김치",
+          "두부"
+        ],
+        "ingredients.en": [
+          "Kimchi",
+          "Bean Curd"
+        ],
+        "ingredients.ja": [
+          "キムチ",
+          "豆腐"
+        ],
+        "ingredients.zh_CN": [
+          "辛奇",
+          "豆腐"
+        ],
+        "ingredients.zh_TW": [
+          "辛奇",
+          "豆腐"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_1",
+      "ocr": {
+        "x": 46.229723160566486,
+        "y": 24.62654639154001,
+        "text": "두부김치",
+        "width": 15.010707460402688,
+        "height": 3.4488504338567068,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "매운닭발",
+        "en.ROMAN": "maeundakbal",
+        "en": "Spicy Grilled Chicken Feet",
+        "ja": "辛味鶏足",
+        "zh_CN": "辣鸡爪",
+        "zh_TW": "辣雞爪",
+        "price": "10000",
+        "ingredients.ko": [
+          "고추",
+          "닭발"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Chicken's Feet"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "鶏足"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "鸡爪"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "雞爪"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_4",
+      "ocr": {
+        "x": 46.049476514361906,
+        "y": 28.718808296301834,
+        "text": "매운닭발",
+        "width": 14.697750112331004,
+        "height": 3.3569580811268147,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "닭도리탕",
+        "en.ROMAN": "dakdoritang",
+        "en": "Spicy Braised Chicken",
+        "ja": "鶏肉の炒め煮",
+        "zh_CN": "辣炖鸡块汤",
+        "zh_TW": "辣燒雞",
+        "price": "20000",
+        "ingredients.ko": [
+          "야채",
+          "닭고기",
+          "감자"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Chicken",
+          "Potato"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "鶏肉",
+          "じゃがいも"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "鸡肉",
+          "土豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "雞肉",
+          "馬鈴薯"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_8",
+      "ocr": {
+        "x": 45.84375391411103,
+        "y": 32.685623973815076,
+        "text": "닭도리탕",
+        "width": 15.021514598137315,
+        "height": 3.384606775646437,
+        "rotation": 0.5909717923930202
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "명태전",
+        "en.ROMAN": "myeongtaejeon",
+        "en": "Pan-fried Battered Pollack Fillet",
+        "ja": "スケトウダラのチヂミ",
+        "zh_CN": "香煎明太鱼片",
+        "zh_TW": "香煎明太魚片",
+        "price": "10000",
+        "ingredients.ko": [
+          "명태",
+          "계란"
+        ],
+        "ingredients.en": [
+          "Pollack",
+          "Eggs"
+        ],
+        "ingredients.ja": [
+          "明太子",
+          "卵"
+        ],
+        "ingredients.zh_CN": [
+          "明太鱼",
+          "鸡蛋"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚",
+          "雞蛋"
+        ],
+        "allergy": [
+          "계란"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_7",
+      "ocr": {
+        "x": 17.046911627401517,
+        "y": 32.694078545608974,
+        "text": "명태전",
+        "width": 13.069619804341933,
+        "height": 3.219789241638228,
+        "rotation": 0.5031256257103109
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "볶음",
+        "ko": "돼지두루치기",
+        "en.ROMAN": "dwaejiduruchigi",
+        "en": "Stir-fried Kimchi and Pork",
+        "ja": "キムチ入り豚肉と野菜炒め",
+        "zh_CN": "辛奇辣炒猪肉",
+        "zh_TW": "辣炒豬肉",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_10",
+      "ocr": {
+        "x": 16.541935418983048,
+        "y": 36.564534964810235,
+        "text": "돼지두루치기",
+        "width": 14.694621392908616,
+        "height": 3.2205625310016877,
+        "rotation": 0.9759120733747295
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "홍합탕",
+        "en.ROMAN": "honghaptang",
+        "en": "Mussel Soup",
+        "ja": "ムール貝スープ",
+        "zh_CN": "贻贝汤",
+        "zh_TW": "貽貝湯",
+        "price": "10000",
+        "ingredients.ko": [
+          "홍합"
+        ],
+        "ingredients.en": [
+          "Mussels"
+        ],
+        "ingredients.ja": [
+          "ムール貝"
+        ],
+        "ingredients.zh_CN": [
+          "贻贝"
+        ],
+        "ingredients.zh_TW": [
+          "貽貝"
+        ],
+        "allergy": [
+          "홍합"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_15",
+      "ocr": {
+        "x": 45.42707407608742,
+        "y": 40.82318467230883,
+        "text": "홍합탕",
+        "width": 14.403676311159963,
+        "height": 3.4761905497722356,
+        "rotation": 1.1087212466132996
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "10000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_17",
+      "ocr": {
+        "x": 16.00072343795712,
+        "y": 44.479458493730554,
+        "text": "김치찌개",
+        "width": 13.999769003553086,
+        "height": 3.2957776234752614,
+        "rotation": 1.3992167407644729
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "오뎅탕",
+        "en.ROMAN": "odengtang",
+        "en": "Fishcake Soup",
+        "ja": "練り物スープ",
+        "zh_CN": "鱼糕汤",
+        "zh_TW": "魚板湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "생선살",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Fish Fillet",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "魚の身",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "鱼肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "魚肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_20",
+      "ocr": {
+        "x": 15.434067653170437,
+        "y": 48.504606000557004,
+        "text": "오뎅탕",
+        "width": 13.700302460588873,
+        "height": 3.2957409631906476,
+        "rotation": 1.4680593529538442
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "생선구이",
+        "en.ROMAN": "saengseongui",
+        "en": "Grilled Fish",
+        "ja": "魚焼き",
+        "zh_CN": "烤鱼",
+        "zh_TW": "烤魚",
+        "price": "8000",
+        "ingredients.ko": [
+          "생선"
+        ],
+        "ingredients.en": [
+          "Fish"
+        ],
+        "ingredients.ja": [
+          "魚"
+        ],
+        "ingredients.zh_CN": [
+          "鱼"
+        ],
+        "ingredients.zh_TW": [
+          "魚"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_36",
+      "ocr": {
+        "x": 14.455687949256477,
+        "y": 59.25011097482266,
+        "text": "생선구이",
+        "width": 14.447989944566077,
+        "height": 3.3433748042469955,
+        "rotation": 2.359530455826132
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "김치찌개",
+        "en.ROMAN": "kimchijjigae",
+        "en": "Kimchi Jjigae",
+        "ja": "キムチチゲ",
+        "zh_CN": "辛奇汤",
+        "zh_TW": "辛奇鍋",
+        "price": "8000",
+        "ingredients.ko": [
+          "채소",
+          "김치"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Kimchi"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "キムチ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "辛奇"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_37",
+      "ocr": {
+        "x": 44.64649174984938,
+        "y": 60.12605608613279,
+        "text": "김치찌개",
+        "width": 14.878476196474162,
+        "height": 3.587911524749893,
+        "rotation": 2.2504443157633887
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찌개",
+        "ko": "된장찌개",
+        "en.ROMAN": "doenjangjjigae",
+        "en": "Soybean Paste Jjigae",
+        "ja": "テンジャンチゲ",
+        "zh_CN": "大酱汤",
+        "zh_TW": "大醬鍋",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "두부",
+          "된장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Bean Curd",
+          "Soybean Paste"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豆腐",
+          "テンジャン"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "豆腐",
+          "大酱"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豆腐",
+          "大醬"
+        ],
+        "allergy": [
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_40",
+      "ocr": {
+        "x": 44.13528381643035,
+        "y": 64.42765787790708,
+        "text": "된장찌개",
+        "width": 15.311818676270713,
+        "height": 3.6337221604532672,
+        "rotation": 2.619015149984534
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_44",
+      "ocr": {
+        "x": 12.644730430312517,
+        "y": 75.90731824024307,
+        "text": "소주",
+        "width": 7.542227778323449,
+        "height": 3.7540664350424824,
+        "rotation": 3.0305351101314386
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "생탁",
+        "en.ROMAN": "saengtak",
+        "en": "Unrefined Draught Rice Wine",
+        "ja": "生マッコリ",
+        "zh_CN": "Saeng-tak马格利酒（生玛格利酒）",
+        "zh_TW": "生馬格利酒",
+        "price": "3000",
+        "ingredients.ko": [
+          "쌀",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Rice",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "米",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大米",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "米",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_45",
+      "ocr": {
+        "x": 35.55425875288645,
+        "y": 77.00716425575447,
+        "text": "생탁",
+        "width": 7.968487197076149,
+        "height": 3.742232190874122,
+        "rotation": 4.01335382804524
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_47",
+      "ocr": {
+        "x": 12.214132838729318,
+        "y": 80.3007086072472,
+        "text": "맥주",
+        "width": 7.49725293017138,
+        "height": 3.7841309589236474,
+        "rotation": 3.2459619000924818
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "1500",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_547148_1-tf_48",
+      "ocr": {
+        "x": 35.14162944035496,
+        "y": 81.56075877602143,
+        "text": "음료수",
+        "width": 11.763636744902925,
+        "height": 3.8747951592391634,
+        "rotation": 3.287130978737821
+      }
+    }
+  ]
+}

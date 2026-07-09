@@ -1,0 +1,428 @@
+{
+  "meta": {
+    "file_name": "BS_KF03_M0001_547697_2.jpg",
+    "image_original_width": 4032,
+    "image_original_height": 3024,
+    "captured_date": "2022:11:16 22:52:48",
+    "store_id": "547697",
+    "store_region": "BS",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.58762886597938,
+          5.1004636785162285
+        ],
+        [
+          98.96907216494846,
+          99.22720247295209
+        ],
+        [
+          6.185567010309279,
+          98.45440494590417
+        ],
+        [
+          0.4123711340206187,
+          1.3910355486862442
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "먹태",
+        "en.ROMAN": "meoktae",
+        "en": "Grilled Dried Pollack",
+        "ja": "干しスケトウダラ焼き",
+        "zh_CN": "黑干明太鱼",
+        "zh_TW": "乾黑斑明太魚乾",
+        "price": "14000",
+        "ingredients.ko": [
+          "황태"
+        ],
+        "ingredients.en": [
+          "Dried Pollack"
+        ],
+        "ingredients.ja": [
+          "スケトウダラ"
+        ],
+        "ingredients.zh_CN": [
+          "干明太鱼"
+        ],
+        "ingredients.zh_TW": [
+          "明太魚乾"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0001_547697_2-tf_5",
+      "ocr": {
+        "x": 68.93873484623235,
+        "y": 52.34979734361943,
+        "text": "먹태",
+        "width": 4.860947421496133,
+        "height": 2.2632978944759516,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "베이컨크림파스타",
+        "en.ROMAN": "bacon cream pasta",
+        "en": "Bacon Cream Pasta",
+        "ja": "ベーコンクリームパスタ",
+        "zh_CN": "培根奶油意大利面",
+        "zh_TW": "培根奶油義大利麵",
+        "price": "14000",
+        "ingredients.ko": [
+          "크림",
+          "베이컨",
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Cream",
+          "Bacon",
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "クリーム",
+          "ベーコン",
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "奶油",
+          "培根",
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "奶油",
+          "培根",
+          "義大利麵"
+        ],
+        "allergy": [
+          "우유",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0001_547697_2-tf_4",
+      "ocr": {
+        "x": 40.52458654960555,
+        "y": 52.39711049108765,
+        "text": "베이컨크림파스타",
+        "width": 18.508933623628458,
+        "height": 2.6476175774047763,
+        "rotation": 359.41109251160344
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "쉬림프오일파스타",
+        "en.ROMAN": "shrimp oil pasta",
+        "en": "Shrimp Oil Pasta",
+        "ja": "シュリンプオイルパスタ",
+        "zh_CN": "虾仁橄榄油意大利面",
+        "zh_TW": "蝦仁橄欖油義大利麵",
+        "price": "14000",
+        "ingredients.ko": [
+          "파스타면"
+        ],
+        "ingredients.en": [
+          "Pasta Noodles"
+        ],
+        "ingredients.ja": [
+          "パスタ麺"
+        ],
+        "ingredients.zh_CN": [
+          "意大利面"
+        ],
+        "ingredients.zh_TW": [
+          "義大利麵"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0001_547697_2-tf_6",
+      "ocr": {
+        "x": 9.700806639216514,
+        "y": 52.60221835771386,
+        "text": "쉬림프오일파스타",
+        "width": 20.03392933547176,
+        "height": 2.5626076456598836,
+        "rotation": 359.41389189047226
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "윙봉",
+        "en.ROMAN": "wing bong",
+        "en": "Wing Stick",
+        "ja": "バッファローウィング",
+        "zh_CN": "炸鸡翅",
+        "zh_TW": "雞翅",
+        "price": "12000",
+        "ingredients.ko": [
+          "닭날개",
+          "닭봉"
+        ],
+        "ingredients.en": [
+          "Chicken Wing",
+          "Chicken Drumette"
+        ],
+        "ingredients.ja": [
+          "手羽先",
+          "手羽元"
+        ],
+        "ingredients.zh_CN": [
+          "鸡翅",
+          "鸡翅根"
+        ],
+        "ingredients.zh_TW": [
+          "雞翅",
+          "雞小腿"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0001_547697_2-tf_10",
+      "ocr": {
+        "x": 68.18420149326316,
+        "y": 68.27695456983237,
+        "text": "윙봉",
+        "width": 5.241340118460671,
+        "height": 2.391937299791203,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "핫점보닭다리",
+        "en.ROMAN": "hot jumbo dakdari",
+        "en": "Hot Jumbo Chicken Drumsticks",
+        "ja": "スパイシージャンボもも肉",
+        "zh_CN": "辣味巨无霸鸡腿",
+        "zh_TW": "香辣醬雞腿",
+        "price": "12000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0001_547697_2-tf_11",
+      "ocr": {
+        "x": 40.24608010349915,
+        "y": 69.03254416837277,
+        "text": "핫점보닭다리",
+        "width": 13.561709877085647,
+        "height": 2.3197884290500412,
+        "rotation": 357.71970587314684
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "닭다리",
+        "en.ROMAN": "dakdari",
+        "en": "Chicken Drumsticks",
+        "ja": "鶏のもも肉",
+        "zh_CN": "炸鸡腿",
+        "zh_TW": "雞腿",
+        "price": "12000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0001_547697_2-tf_14",
+      "ocr": {
+        "x": 10.44215489305927,
+        "y": 69.91136953988405,
+        "text": "점보닭다리",
+        "width": 12.038002544275209,
+        "height": 2.3893683729150026,
+        "rotation": 357.0297978742662
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "파인애플샤베트",
+        "en.ROMAN": "pineapple sherbet",
+        "en": "Pineapple Sherbet",
+        "ja": "パインアップルシャーベット",
+        "zh_CN": "菠萝冰沙",
+        "zh_TW": "鳳梨雪酪",
+        "price": "8000",
+        "ingredients.ko": [
+          "파인애플"
+        ],
+        "ingredients.en": [
+          "Pineapple"
+        ],
+        "ingredients.ja": [
+          "パインアップル"
+        ],
+        "ingredients.zh_CN": [
+          "菠萝"
+        ],
+        "ingredients.zh_TW": [
+          "鳳梨"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0001_547697_2-tf_16",
+      "ocr": {
+        "x": 67.71336995644349,
+        "y": 84.14535369444245,
+        "text": "파인애플샤베트",
+        "width": 16.616502099908786,
+        "height": 2.419797464439645,
+        "rotation": 0.7637505068548194
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "치즈스틱+감자튀김",
+        "en.ROMAN": "cheese stick+gamjatwigim",
+        "en": "Cheese Sticks + French Fries",
+        "ja": "チーズスティック+フライドポテト",
+        "zh_CN": "奶酪条+炸薯条",
+        "zh_TW": "起司條+炸薯條",
+        "price": "10000",
+        "ingredients.ko": [
+          "치즈",
+          "감자",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Cheese",
+          "Potato",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "チーズ",
+          "じゃがいも",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "奶酪",
+          "土豆",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "起司",
+          "馬鈴薯",
+          "麵粉"
+        ],
+        "allergy": [
+          "우유",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0001_547697_2-tf_17",
+      "ocr": {
+        "x": 40.11042983616169,
+        "y": 84.4848641008215,
+        "text": "치즈스틱+감자튀김",
+        "width": 20.689393088828417,
+        "height": 2.3883846811210963,
+        "rotation": 358.8147144499334
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "똥집",
+        "en.ROMAN": "ttongjip",
+        "en": "Stir-fried Chicken Gizzards",
+        "ja": "砂肝",
+        "zh_CN": "鸡胗",
+        "zh_TW": "雞胗",
+        "price": "11000",
+        "ingredients.ko": [
+          "닭고기"
+        ],
+        "ingredients.en": [
+          "Chicken"
+        ],
+        "ingredients.ja": [
+          "鶏肉"
+        ],
+        "ingredients.zh_CN": [
+          "鸡肉"
+        ],
+        "ingredients.zh_TW": [
+          "雞肉"
+        ],
+        "allergy": [
+          "닭고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "BS_KF03_M0001_547697_2-tf_20",
+      "ocr": {
+        "x": 11.567431690152315,
+        "y": 85.64974873513412,
+        "text": "바싹똥집",
+        "width": 9.690334122756697,
+        "height": 2.3300678101757892,
+        "rotation": 356.02155663977516
+      }
+    }
+  ]
+}

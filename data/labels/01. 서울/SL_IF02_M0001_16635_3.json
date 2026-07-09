@@ -1,0 +1,1532 @@
+{
+  "meta": {
+    "file_name": "SL_IF02_M0001_16635_3.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:08:26 13:04:41",
+    "store_id": "16635",
+    "store_region": "SL",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          15.211970074812967,
+          1.4981273408239701
+        ],
+        [
+          100,
+          0
+        ],
+        [
+          98.75311720698254,
+          99.812734082397
+        ],
+        [
+          14.463840399002494,
+          99.25093632958801
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "짜장밥",
+        "en.ROMAN": "jjajangbap",
+        "en": "Black Bean Sauce with Rice",
+        "ja": "ジャージャー飯",
+        "zh_CN": "炸酱饭",
+        "zh_TW": "炸醬飯",
+        "price": "7000",
+        "ingredients.ko": [
+          "춘장",
+          "채소",
+          "돼지고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Black Bean Paste",
+          "Vegetables",
+          "Pork",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "甜麺醤",
+          "野菜",
+          "豚肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "春酱",
+          "蔬菜",
+          "猪肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "春醬",
+          "蔬菜",
+          "豬肉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-0",
+      "ocr": {
+        "x": 56.12841201565401,
+        "y": 10.793199465239997,
+        "text": "짜장밥",
+        "width": 11.279239112292602,
+        "height": 2.2629013474561894,
+        "rotation": 357.9657731437614
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "짜장",
+        "en.ROMAN": "jjajang",
+        "en": "Black Bean Sauce Noodles",
+        "ja": "ジャージャー麺",
+        "zh_CN": "炸酱",
+        "zh_TW": "炸醬麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "채소",
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-1",
+      "ocr": {
+        "x": 28.55454163137324,
+        "y": 11.539041615685697,
+        "text": "짜장",
+        "width": 13.020757143006097,
+        "height": 2.4058841076653272,
+        "rotation": 358.4141243826226
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "짬뽕밥",
+        "en.ROMAN": "jjamppongbap",
+        "en": "Spicy Seafood and Rice Soup",
+        "ja": "チャンポンご飯",
+        "zh_CN": "炒码饭",
+        "zh_TW": "炒碼飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "米"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-2",
+      "ocr": {
+        "x": 56.157449526258645,
+        "y": 14.857500259778814,
+        "text": "짬뽕밥",
+        "width": 11.34047576030648,
+        "height": 2.401565341247345,
+        "rotation": 358.06647793419194
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "간짜장",
+        "en.ROMAN": "ganjjajang",
+        "en": "Noodles in Thick Black Bean Sauce",
+        "ja": "ジャージャー麺(ソース別盛り)",
+        "zh_CN": "干炸酱面",
+        "zh_TW": "乾炸醬麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "춘장",
+          "채소",
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Black Bean Paste",
+          "Vegetables",
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "甜麺醤",
+          "野菜",
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "春酱",
+          "蔬菜",
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "春醬",
+          "蔬菜",
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-3",
+      "ocr": {
+        "x": 28.60598090588671,
+        "y": 15.648348371791096,
+        "text": "간짜장",
+        "width": 12.874615259007625,
+        "height": 2.4007816706210137,
+        "rotation": 357.9864198782816
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "삼선짬뽕밥",
+        "en.ROMAN": "samseonjjamppongbap",
+        "en": "Three-delicacy Spicy Seafood and Rice Soup",
+        "ja": "三鮮チャンポンご飯",
+        "zh_CN": "三鲜炒码饭",
+        "zh_TW": "三鮮炒碼飯",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "고기",
+          "쌀",
+          "버섯"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Meat",
+          "Rice",
+          "Mushroom"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "肉",
+          "米",
+          "きのこ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "肉",
+          "大米",
+          "蘑菇"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "肉",
+          "米",
+          "蘑菇"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-4",
+      "ocr": {
+        "x": 56.24674465433844,
+        "y": 18.997902812363535,
+        "text": "삼선짬뽕밥",
+        "width": 11.242584723772099,
+        "height": 2.2937101594412073,
+        "rotation": 358.52774468927373
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "삼선간짜장",
+        "en.ROMAN": "samseonganjjajang",
+        "en": "Premium Noodles in Thick Black Bean Sauce",
+        "ja": "三鮮ジャージャー麺",
+        "zh_CN": "三鲜干炸酱面",
+        "zh_TW": "三鮮乾炸醬麵",
+        "price": "10000",
+        "ingredients.ko": [
+          "춘장",
+          "채소",
+          "해산물",
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Black Bean Paste",
+          "Vegetables",
+          "Seafood",
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "甜麺醤",
+          "野菜",
+          "海鮮",
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "春酱",
+          "蔬菜",
+          "海鲜",
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "春醬",
+          "蔬菜",
+          "海鮮",
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-5",
+      "ocr": {
+        "x": 28.535478885637403,
+        "y": 19.651254148729038,
+        "text": "삼선간짜장",
+        "width": 13.028037208288035,
+        "height": 2.415588975163193,
+        "rotation": 358.59244077777436
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "볶음밥",
+        "en.ROMAN": "bokkeumbap",
+        "en": "Fried Rice",
+        "ja": "チャーハン",
+        "zh_CN": "炒饭",
+        "zh_TW": "炒飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-6",
+      "ocr": {
+        "x": 56.386566939479906,
+        "y": 23.19542635518856,
+        "text": "볶음밥",
+        "width": 11.286398001779276,
+        "height": 2.4224754942744955,
+        "rotation": 358.0728383682947
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "해물쟁반짜장",
+        "en.ROMAN": "haemuljaengbanjjajang",
+        "en": "Jumbo Sized Black Bean Sauce Noodles with Seafood",
+        "ja": "海鮮大皿ジャージャー麺",
+        "zh_CN": "大盘海鲜炸酱面",
+        "zh_TW": "大盤海鮮炸醬麵",
+        "price": "10000",
+        "ingredients.ko": [
+          "춘장",
+          "채소",
+          "해산물",
+          "돼지고기",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Black Bean Paste",
+          "Vegetables",
+          "Seafood",
+          "Pork",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "甜麺醤",
+          "野菜",
+          "海鮮",
+          "豚肉",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "春酱",
+          "蔬菜",
+          "海鲜",
+          "猪肉",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "春醬",
+          "蔬菜",
+          "海鮮",
+          "豬肉",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-7",
+      "ocr": {
+        "x": 28.461934796133676,
+        "y": 23.784205386357765,
+        "text": "해물쟁반짜장",
+        "width": 13.095238095238109,
+        "height": 2.3011459674277512,
+        "rotation": 358.30593658377643
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "잡채밥",
+        "en.ROMAN": "japchaebap",
+        "en": "Stir-fried Glass Noodles and Vegetables with Rice",
+        "ja": "チャプチェ丼",
+        "zh_CN": "什锦什锦炒粉条饭",
+        "zh_TW": "什錦炒粉條飯",
+        "price": "10000",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "쌀",
+          "버섯",
+          "당면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Rice",
+          "Mushroom",
+          "Glass Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "米",
+          "きのこ",
+          "春雨"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "大米",
+          "蘑菇",
+          "粉条"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "米",
+          "蘑菇",
+          "粉條"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-8",
+      "ocr": {
+        "x": 56.55475956323232,
+        "y": 27.108134920634917,
+        "text": "잡채밥",
+        "width": 11.177248677248665,
+        "height": 2.5327825777418633,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "짬뽕",
+        "en.ROMAN": "jjamppong",
+        "en": "Spicy Seafood Noodle Soup",
+        "ja": "チャンポン",
+        "zh_CN": "炒码面",
+        "zh_TW": "炒碼麵",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-9",
+      "ocr": {
+        "x": 28.79618246205404,
+        "y": 27.84964843629054,
+        "text": "짬뽕",
+        "width": 12.738756800288414,
+        "height": 2.3372663459596996,
+        "rotation": 358.781958398248
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "삼선짬뽕",
+        "en.ROMAN": "samseonjjamppong",
+        "en": "Premium Spicy Seafood Noodle Soup",
+        "ja": "三鮮チャンポン",
+        "zh_CN": "三鲜炒码面",
+        "zh_TW": "三鮮炒碼麵",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "고기",
+          "버섯",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Meat",
+          "Mushroom",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "肉",
+          "きのこ",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "肉",
+          "蘑菇",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "肉",
+          "蘑菇",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-10",
+      "ocr": {
+        "x": 28.69711787269104,
+        "y": 31.812079652348874,
+        "text": "삼선짬뽕",
+        "width": 12.830687830687827,
+        "height": 2.604166666666665,
+        "rotation": 358.62883923191777
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "마파두부밥",
+        "en.ROMAN": "mapadububap",
+        "en": "Spicy Bean Curd with Rice",
+        "ja": "麻婆豆腐ご飯",
+        "zh_CN": "麻婆豆腐烩饭",
+        "zh_TW": "麻婆豆腐燴飯",
+        "price": "9000",
+        "ingredients.ko": [
+          "고추",
+          "두부",
+          "돼지고기",
+          "쌀",
+          "파"
+        ],
+        "ingredients.en": [
+          "Chili Pepper",
+          "Bean Curd",
+          "Pork",
+          "Rice",
+          "Green Onions"
+        ],
+        "ingredients.ja": [
+          "唐辛子",
+          "豆腐",
+          "豚肉",
+          "米",
+          "ネギ"
+        ],
+        "ingredients.zh_CN": [
+          "辣椒",
+          "豆腐",
+          "猪肉",
+          "大米",
+          "葱"
+        ],
+        "ingredients.zh_TW": [
+          "辣椒",
+          "豆腐",
+          "豬肉",
+          "米",
+          "蔥"
+        ],
+        "allergy": [
+          "콩",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-11",
+      "ocr": {
+        "x": 56.67989417989418,
+        "y": 35.51587301587302,
+        "text": "마파두부밥",
+        "width": 11.210317460317459,
+        "height": 2.5049603174603177,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동",
+        "en.ROMAN": "udon",
+        "en": "Udon",
+        "ja": "うどん",
+        "zh_CN": "乌冬面",
+        "zh_TW": "烏龍麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-12",
+      "ocr": {
+        "x": 28.869047619047606,
+        "y": 36.084779483051854,
+        "text": "우동",
+        "width": 12.863756613756598,
+        "height": 2.5080203989757135,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "유산슬밥",
+        "en.ROMAN": "yusanseulbap",
+        "en": "Stir-fried Meat, Seafood and Vegetables with Rice",
+        "ja": "バンサンスー丼",
+        "zh_CN": "溜三丝饭",
+        "zh_TW": "溜三絲飯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "고기",
+          "버섯",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Meat",
+          "Mushroom",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "肉",
+          "きのこ",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "肉",
+          "蘑菇",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "肉",
+          "蘑菇",
+          "澱粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-13",
+      "ocr": {
+        "x": 56.44972959591144,
+        "y": 39.90575396825399,
+        "text": "유산슬밥",
+        "width": 11.400272745618107,
+        "height": 2.4305555555555376,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "삼선우동",
+        "en.ROMAN": "samseon udon",
+        "en": "Seafood Udon",
+        "ja": "三鮮うどん",
+        "zh_CN": "三鲜乌冬面",
+        "zh_TW": "三鮮烏龍麵",
+        "price": "13000",
+        "ingredients.ko": [
+          "채소",
+          "해산물",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵粉"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-14",
+      "ocr": {
+        "x": 28.728773580080055,
+        "y": 40.15680413936603,
+        "text": "삼선우동",
+        "width": 13.136305784999314,
+        "height": 2.6011323685704606,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "울면",
+        "en.ROMAN": "ulmyeon",
+        "en": "Seafood Noodles in Thick Broth",
+        "ja": "あんかけ麺",
+        "zh_CN": "打卤面",
+        "zh_TW": "溫滷麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-15",
+      "ocr": {
+        "x": 28.819981022593975,
+        "y": 44.02585175841365,
+        "text": "울면",
+        "width": 12.949891446625267,
+        "height": 2.5484948958710945,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "잡탕밥",
+        "en.ROMAN": "japtangbap",
+        "en": "Assorted Stir-fried Seafood with Rice",
+        "ja": "あんかけご飯",
+        "zh_CN": "什锦海鲜烩饭",
+        "zh_TW": "什錦海鮮燴飯",
+        "price": "15000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "米"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-16",
+      "ocr": {
+        "x": 56.58491653724385,
+        "y": 44.116754626777926,
+        "text": "잡탕밥",
+        "width": 11.338363886036563,
+        "height": 2.465895508348951,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "군만두",
+        "en.ROMAN": "gunmandu",
+        "en": "Pan-fried Mandu",
+        "ja": "焼き餃子",
+        "zh_CN": "煎饺",
+        "zh_TW": "煎餃",
+        "price": "6000",
+        "ingredients.ko": [
+          "밀가루",
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "豬肉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-17",
+      "ocr": {
+        "x": 56.70883082747087,
+        "y": 48.0654761904762,
+        "text": "군만두",
+        "width": 11.274902550862409,
+        "height": 2.386741683985284,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "삼선울면",
+        "en.ROMAN": "samseonulmyeon",
+        "en": "Premium Seafood Noodles in Thick Broth",
+        "ja": "三鮮あんかけ麺",
+        "zh_CN": "三鲜温卤面",
+        "zh_TW": "三鮮溫滷麵",
+        "price": "13000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-18",
+      "ocr": {
+        "x": 28.835624727036347,
+        "y": 48.147732940550114,
+        "text": "삼선울면",
+        "width": 13.031110542417727,
+        "height": 2.2908252878308386,
+        "rotation": 359.3105093962835
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "면",
+        "ko": "콩국수",
+        "en.ROMAN": "kongguksu",
+        "en": "Noodles in Cold Soybean Soup",
+        "ja": "コングクス",
+        "zh_CN": "豆汁面",
+        "zh_TW": "豆汁麵",
+        "price": "9000",
+        "ingredients.ko": [
+          "면",
+          "콩"
+        ],
+        "ingredients.en": [
+          "Noodles",
+          "Soybeans"
+        ],
+        "ingredients.ja": [
+          "麺",
+          "豆"
+        ],
+        "ingredients.zh_CN": [
+          "大豆",
+          "大豆"
+        ],
+        "ingredients.zh_TW": [
+          "麵",
+          "大豆"
+        ],
+        "allergy": [
+          "밀",
+          "콩"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-19",
+      "ocr": {
+        "x": 56.79046975126983,
+        "y": 56.63524679075959,
+        "text": "콩국수",
+        "width": 11.364292153492105,
+        "height": 2.3677293997165916,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "면",
+        "ko": "굴짬뽕",
+        "en.ROMAN": "guljjamppong",
+        "en": "Spicy Seafood Noodle Soup with Oysters",
+        "ja": "カキチャンポン",
+        "zh_CN": "牡蛎炒码面",
+        "zh_TW": "牡蠣炒碼麵",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "면",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Noodles",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "麺",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大豆",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "麵",
+          "牡蠣"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "밀",
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-20",
+      "ocr": {
+        "x": 28.982155000847065,
+        "y": 56.770833333333336,
+        "text": "굴짬뽕",
+        "width": 12.486098967406884,
+        "height": 2.380952380952377,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "밥",
+        "ko": "굴짬뽕밥",
+        "en.ROMAN": "guljjamppongbap",
+        "en": "Spicy Seafood and Rice Soup with Oysters",
+        "ja": "カキチャンポンご飯",
+        "zh_CN": "牡蛎炒码饭",
+        "zh_TW": "牡蠣炒碼飯",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "해산물",
+          "쌀",
+          "굴"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Seafood",
+          "Rice",
+          "Oyster"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "海鮮",
+          "米",
+          "カキ"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "海鲜",
+          "大米",
+          "牡蛎"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "海鮮",
+          "米",
+          "牡蠣"
+        ],
+        "allergy": [
+          "오징어",
+          "새우",
+          "조개",
+          "굴"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-21",
+      "ocr": {
+        "x": 29.020442652322714,
+        "y": 59.47420634920635,
+        "text": "굴짬뽕밥",
+        "width": 12.493073408441298,
+        "height": 2.3026595444415796,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "등심탕수육+짜장2인",
+        "en.ROMAN": "deungsimtangsuyuk+jjajang2in",
+        "en": "Deep-fried Pork Sirloin with Sweet and Sour Sauce + Black Bean Sauce Noodles (2 Servings)",
+        "ja": "ロース酢豚+ジャージャー2人前",
+        "zh_CN": "糖醋外脊+炸酱面2人份",
+        "zh_TW": "糖醋里肌+炸醬麵2人",
+        "price": "21000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "전분",
+          "춘장",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Starch",
+          "Black Bean Paste",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "デン粉",
+          "甜麺醤",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "淀粉",
+          "春酱",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "澱粉",
+          "春醬",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-22",
+      "ocr": {
+        "x": 30.06089024955301,
+        "y": 71.75948174695104,
+        "text": "등심탕수육+짜장2인",
+        "width": 23.81506999624533,
+        "height": 2.8057771427249336,
+        "rotation": 0.6854977633892076
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "등심탕수육+짜장+짬뽕",
+        "en.ROMAN": "deungsimtangsuyuk+jjajang+jjamppong",
+        "en": "Deep-fried Pork Sirloin with Sweet and Sour Sauce + Black Bean Sauce Noodles + Spicy Seafood Noodle Soup",
+        "ja": "ロース酢豚+ジャージャー+チャンポン",
+        "zh_CN": "糖醋外脊+炸酱面+炒码面",
+        "zh_TW": "糖醋里肌+炸醬麵+炒碼麵",
+        "price": "22000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-23",
+      "ocr": {
+        "x": 30.26551125051386,
+        "y": 76.05724202548124,
+        "text": "등심탕수육+짜장+짬뽕",
+        "width": 25.94400245497595,
+        "height": 2.656286493953938,
+        "rotation": 1.232909393158252
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "등심탕수육+짬뽕2인",
+        "en.ROMAN": "deungsimtangsuyuk+jjamppong2in",
+        "en": "Deep-fried Pork Sirloin with Sweet and Sour Sauce + Spicy Seafood Noodle Soup (2 Servings)",
+        "ja": "ロース酢豚+チャンポン2人前",
+        "zh_CN": "糖醋外脊+炒码面2人份",
+        "zh_TW": "糖醋里肌+炒碼麵2人",
+        "price": "23000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "전분",
+          "해산물"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Starch",
+          "Seafood"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "デン粉",
+          "海鮮"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "淀粉",
+          "海鲜"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "澱粉",
+          "海鮮"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀",
+          "오징어",
+          "새우",
+          "조개"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-24",
+      "ocr": {
+        "x": 30.397910173832848,
+        "y": 80.45590738193788,
+        "text": "등심탕수육+짬뽕2인",
+        "width": 23.51391581766848,
+        "height": 2.5423961781119697,
+        "rotation": 1.3094053358518636
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "등심탕수육+해물쟁반짜장2인",
+        "en.ROMAN": "deungsimtangsuyuk+haemuljaengbanjjajang2in",
+        "en": "Deep-fried Pork Sirloin with Sweet and Sour Sauce + Jumbo Sized Black Bean Sauce Noodles with Seafood (2 Servings)",
+        "ja": "ロース酢豚+海鮮大皿チャンポン2人前",
+        "zh_CN": "糖醋外脊+大盘海鲜炸酱面2人份",
+        "zh_TW": "糖醋里肌+大盤海鮮炸醬麵2人",
+        "price": "25000",
+        "ingredients.ko": [
+          "돼지고기",
+          "밀가루",
+          "전분",
+          "춘장",
+          "양파"
+        ],
+        "ingredients.en": [
+          "Pork",
+          "Wheat Flour",
+          "Starch",
+          "Black Bean Paste",
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "豚肉",
+          "小麦粉",
+          "デン粉",
+          "甜麺醤",
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉",
+          "面粉",
+          "淀粉",
+          "春酱",
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉",
+          "麵粉",
+          "澱粉",
+          "春醬",
+          "洋蔥"
+        ],
+        "allergy": [
+          "돼지고기",
+          "밀"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-25",
+      "ocr": {
+        "x": 30.286149157926314,
+        "y": 84.66508370791098,
+        "text": "등심탕수육+해물쟁반짜장2인",
+        "width": 32.70434524900013,
+        "height": 3.121237549847106,
+        "rotation": 0.7375513590279184
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "칠리중새우+짜장+짬뽕",
+        "en.ROMAN": "chili jungsaeu+jjajang+jjamppong",
+        "en": "Chili Medium Shrimp + Black Bean Sauce Noodles + Spicy Seafood Noodle Soup",
+        "ja": "海老チリ+ジャージャー+チャンポン",
+        "zh_CN": "香辣中虾+炸酱面+炒码面",
+        "zh_TW": "甜辣中蝦+炸醬麵+炒碼麵",
+        "price": "27000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-26",
+      "ocr": {
+        "x": 31.163591589910006,
+        "y": 89.13822728094172,
+        "text": "칠리중새우+짜장+짬뽕",
+        "width": 26.27826110770246,
+        "height": 2.772125128458975,
+        "rotation": 1.433572402238326
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "기타",
+        "ko": "깐풍기+짜장+짬뽕",
+        "en.ROMAN": "kkanpunggi+jjajang+jjamppong",
+        "en": "Sweet and Spicy Chicken + Black Bean Sauce Noodles + Spicy Seafood Noodle Soup",
+        "ja": "鶏の唐揚げ辛味甘酢がけ+ジャージャー麺+チャンポン",
+        "zh_CN": "干烹鸡+炸酱面+炒码面",
+        "zh_TW": "乾烹雞+炸醬麵+炒碼麵",
+        "price": "27000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "SL_IF02_M0001_16635_3-tf-27",
+      "ocr": {
+        "x": 31.24553056491791,
+        "y": 93.48316606782551,
+        "text": "깐풍기+짜장+짬뽕",
+        "width": 21.487372349815296,
+        "height": 2.7615461319072225,
+        "rotation": 1.858692199976531
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "file_name": "BS_KF01_M0002_580795_3.jpg",
+    "image_original_width": 4000,
+    "image_original_height": 3000,
+    "captured_date": "2022:09:21 12:06:40",
+    "store_id": "580795",
+    "store_region": "BS",
+    "store_type": "KF01",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          99.45828819068255,
+          10.83815028901734
+        ],
+        [
+          99.34994582881906,
+          61.70520231213873
+        ],
+        [
+          0,
+          74.13294797687861
+        ],
+        [
+          0.10834236186348861,
+          38.29479768786127
+        ],
+        [
+          2.0585048754062845,
+          31.647398843930635
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "탕",
+        "ko": "가오리매운탕",
+        "en.ROMAN": "gaorimaeuntang",
+        "en": "Spicy Ray Stew",
+        "ja": "アカエイの辛味スープ",
+        "zh_CN": "鲜辣鳐鱼汤",
+        "zh_TW": "鮮辣鰩魚湯",
+        "price": "15000",
+        "ingredients.ko": [
+          "가오리",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Ray",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "エイ",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "鳐鱼",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "鰩魚",
+          "蔬菜"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "BS_KF01_M0002_580795_3-tf.jpg_1",
+      "ocr": {
+        "x": 11.594793279650885,
+        "y": 36.906545607309255,
+        "text": "가오리매운탕",
+        "width": 65.76431074282998,
+        "height": 13.399457003381743,
+        "rotation": 352.3221090064161
+      }
+    }
+  ]
+}

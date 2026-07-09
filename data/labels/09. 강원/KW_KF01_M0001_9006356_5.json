@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "file_name": "KW_KF01_M0001_9006356_5.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:12:20 14:53:42",
+    "store_id": "9006356",
+    "store_region": "KW",
+    "store_type": "KF01",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.06304509898087e-16,
+          13.636230209997327
+        ],
+        [
+          98.7760131618732,
+          15.372694082616528
+        ],
+        [
+          97.26785555176485,
+          84.6844347130882
+        ],
+        [
+          0,
+          82.96738090818214
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "구이/적",
+        "ko": "산더미물갈비",
+        "en.ROMAN": "sandeomimulgalbi",
+        "en": "Pork Galbi Stew",
+        "ja": "カルビの煮付け",
+        "zh_CN": "堆积如山炖排骨",
+        "zh_TW": "山塘排骨",
+        "price": "14500",
+        "ingredients.ko": [
+          "소갈비"
+        ],
+        "ingredients.en": [
+          "Beef Galbi"
+        ],
+        "ingredients.ja": [
+          "牛カルビ"
+        ],
+        "ingredients.zh_CN": [
+          "牛排骨"
+        ],
+        "ingredients.zh_TW": [
+          "牛排骨"
+        ],
+        "allergy": [
+          "쇠고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_9006356_5-tf_3",
+      "ocr": {
+        "x": 14.46087149973792,
+        "y": 35.06571294400539,
+        "text": "산더미물갈비",
+        "width": 16.594265377987284,
+        "height": 2.3879977376279755,
+        "rotation": 0.7280542966237249
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "샤브고기추가",
+        "en.ROMAN": "shabu gogi chuga",
+        "en": "Extra Serving of Shabu Meat",
+        "ja": "しゃぶしゃぶ肉追加",
+        "zh_CN": "另加涮涮锅肉",
+        "zh_TW": "加點涮涮鍋肉",
+        "price": "3900",
+        "ingredients.ko": [
+          "고기"
+        ],
+        "ingredients.en": [
+          "Meat"
+        ],
+        "ingredients.ja": [
+          "肉"
+        ],
+        "ingredients.zh_CN": [
+          "肉"
+        ],
+        "ingredients.zh_TW": [
+          "肉"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KW_KF01_M0001_9006356_5-tf_7",
+      "ocr": {
+        "x": 13.922814614679387,
+        "y": 54.96606860334818,
+        "text": "샤브고기추가",
+        "width": 17.986725066832527,
+        "height": 2.5715054774167703,
+        "rotation": 1.4068481957408494
+      }
+    }
+  ]
+}

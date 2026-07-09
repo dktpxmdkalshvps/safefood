@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>SafeMeal — 관광 음식메뉴판 안전 검색</title>
+<style>
+  :root{
+    --bg:#fdfdfc; --surface:#ffffff; --border:#eceae6; --border-soft:#f3f1ed;
+    --text:#1f2023; --muted:#96938c; --muted-2:#c7c4bc;
+    --accent:#2f6f4f; --accent-soft:#eef4f0;
+    --danger:#b3382c; --danger-soft:#fbf1ef;
+    --warn:#96631f; --warn-soft:#faf4ea;
+    --ok:#3d7a52; --ok-soft:#f0f6f2;
+    --info:#5b5aa6; --info-soft:#f2f1fa;
+    font-family: -apple-system, "Segoe UI", "Malgun Gothic", "Apple SD Gothic Neo", Roboto, sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0; background:var(--bg); color:var(--text); line-height:1.6; font-size:15px; -webkit-font-smoothing:antialiased;}
+  a{color:inherit}
+
+  .wrap{max-width:840px; margin:0 auto; padding:0 22px;}
+
+  /* header ------------------------------------------------------------ */
+  header.top{border-bottom:1px solid var(--border-soft); padding:36px 0 22px;}
+  header.top h1{margin:0 0 6px; font-size:1.3rem; font-weight:650; letter-spacing:-.01em;}
+  header.top p{margin:0; color:var(--muted); font-size:.86rem; max-width:56ch;}
+
+  /* stats strip --------------------------------------------------------- */
+  .stats-strip{display:flex; flex-wrap:wrap; gap:26px 34px; padding:20px 0 4px;}
+  .stat{min-width:96px;}
+  .stat .n{font-size:1.15rem; font-weight:650; letter-spacing:-.01em;}
+  .stat .l{font-size:.72rem; color:var(--muted); margin-top:2px;}
+  .stat.danger .n{color:var(--danger)}
+  .stat.warn .n{color:var(--warn)}
+  .stat.info .n{color:var(--info)}
+
+  /* filter row ----------------------------------------------------------- */
+  section.filters{padding:20px 0; border-top:1px solid var(--border-soft); margin-top:14px;}
+  .row{display:flex; gap:8px; flex-wrap:wrap; align-items:center;}
+  label.small{font-size:.72rem; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; display:block; margin-bottom:8px;}
+
+  select, input[type=text]{
+    border:1px solid var(--border); border-radius:7px; padding:8px 10px; font-size:.87rem;
+    background:var(--surface); color:var(--text); font-family:inherit;
+  }
+  select:focus, input[type=text]:focus{outline:none; border-color:var(--muted-2);}
+  input[type=text]{flex:1; min-width:200px;}
+
+  button{
+    border:1px solid var(--border); border-radius:7px; padding:8px 15px; font-size:.85rem; font-weight:550;
+    cursor:pointer; background:var(--surface); color:var(--text); font-family:inherit;
+  }
+  button:hover{background:#f5f4f1}
+  button.primary{background:var(--text); color:#fff; border-color:var(--text);}
+  button.primary:hover{background:#000}
+  button.text{border-color:transparent; color:var(--muted); padding:8px 8px;}
+  button.text:hover{color:var(--text); background:transparent; text-decoration:underline;}
+
+  .lang-toggle{display:inline-flex; gap:2px; background:var(--border-soft); border-radius:7px; padding:2px;}
+  .lang-toggle button{background:transparent; border:none; color:var(--muted); padding:6px 10px; font-size:.76rem; border-radius:5px;}
+  .lang-toggle button.active{background:#fff; color:var(--text); box-shadow:0 1px 1px rgba(0,0,0,.06);}
+
+  .chips{display:flex; flex-wrap:wrap; gap:7px; margin-top:12px;}
+  .chip{
+    border:1px solid var(--border); background:var(--surface); border-radius:999px; padding:5px 12px; font-size:.78rem;
+    cursor:pointer; user-select:none; color:var(--muted);
+  }
+  .chip:hover{border-color:var(--muted-2); color:var(--text);}
+  .chip.active{background:var(--danger-soft); border-color:#eecfc9; color:var(--danger); font-weight:600;}
+
+  /* meta line ------------------------------------------------------------- */
+  .meta-line{font-size:.8rem; color:var(--muted); margin:22px 0 12px; display:flex; justify-content:space-between; flex-wrap:wrap; gap:6px;}
+  .meta-line b{color:var(--text); font-weight:650;}
+
+  /* results grid ------------------------------------------------------------ */
+  .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:1px; background:var(--border-soft); border:1px solid var(--border-soft); border-radius:10px; overflow:hidden;}
+  .card{background:var(--surface); padding:16px; display:flex; flex-direction:column; gap:7px;}
+  .card .head{display:flex; justify-content:space-between; align-items:flex-start; gap:8px;}
+  .card .name{font-size:.97rem; font-weight:650;}
+  .card .name .roman{display:block; font-size:.73rem; font-weight:400; color:var(--muted-2); margin-top:2px;}
+  .card .price{white-space:nowrap; font-weight:600; font-size:.86rem; color:var(--text);}
+  .card .trans{font-size:.84rem; color:#54524c; min-height:1.2em;}
+  .tag-row{display:flex; flex-wrap:wrap; gap:5px;}
+  .tag{font-size:.7rem; padding:2px 8px; border-radius:999px; border:1px solid var(--border); color:var(--muted);}
+  .badge{font-size:.7rem; padding:2px 0; font-weight:600; display:inline-flex; align-items:center; gap:4px;}
+  .badge.ok{color:var(--ok);}
+  .badge.danger{color:var(--danger);}
+  .badge.warn{color:var(--warn);}
+  .badge.info{color:var(--info);}
+  .badge-row{display:flex; flex-wrap:wrap; gap:12px; margin-top:3px; padding-top:8px; border-top:1px solid var(--border-soft);}
+
+  .empty{grid-column:1/-1; text-align:center; padding:60px 20px; color:var(--muted); font-size:.9rem; background:var(--surface);}
+  .loadmore{display:flex; justify-content:center; margin:24px 0;}
+
+  /* audit ----------------------------------------------------------------- */
+  section.audit{padding:24px 0 60px; border-top:1px solid var(--border-soft); margin-top:30px;}
+  details summary{cursor:pointer; font-size:.82rem; color:var(--muted); font-weight:600; list-style:none;}
+  details summary::-webkit-details-marker{display:none}
+  details summary:before{content:"›  "; display:inline-block;}
+  details[open] summary:before{content:"⌄  ";}
+  .audit-table{width:100%; border-collapse:collapse; font-size:.78rem; margin-top:14px;}
+  .audit-table th, .audit-table td{text-align:left; padding:7px 8px; border-bottom:1px solid var(--border-soft); color:var(--muted);}
+  .audit-table td:nth-child(2){color:var(--text);}
+  .audit-table th{font-weight:600; color:var(--muted-2); font-size:.7rem; text-transform:uppercase; letter-spacing:.03em;}
+
+  footer.site{max-width:840px; margin:0 auto; padding:0 22px 40px; font-size:.74rem; color:var(--muted-2); text-align:left;}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <h1>SafeMeal</h1>
+    <p>관광 음식메뉴판 데이터의 결측·오태깅·오역을 오프라인 규칙 엔진으로 방어하는 안전 검색. 외부 API·인터넷 연결 없이 동작합니다.</p>
+  </header>
+
+  <div id="stats" class="stats-strip"></div>
+
+  <section class="filters">
+    <div class="row">
+      <input type="text" id="q" placeholder="메뉴명 또는 재료로 검색 · 예) 삼겹살, 새우" />
+      <select id="region"><option value="">전체 지역</option></select>
+      <div class="lang-toggle" id="langToggle">
+        <button data-lang="ko" class="active">KO</button>
+        <button data-lang="en">EN</button>
+        <button data-lang="ja">JA</button>
+        <button data-lang="zh_cn">中简</button>
+        <button data-lang="zh_tw">中繁</button>
+      </div>
+      <button class="primary" id="searchBtn">검색</button>
+      <button class="text" id="resetBtn">초기화</button>
+    </div>
+    <label class="small" style="margin-top:16px">회피할 알레르기 (선택 시 미검증 데이터도 함께 제외)</label>
+    <div class="chips" id="allergyChips"></div>
+  </section>
+
+  <div class="meta-line" id="metaLine"></div>
+
+  <div class="grid" id="results"></div>
+
+  <div class="loadmore" id="loadMoreWrap" style="display:none">
+    <button id="loadMoreBtn">더 보기</button>
+  </div>
+
+  <section class="audit">
+    <details>
+      <summary>정제 감사 로그 — 요금표 오염이 제거된 원본 항목 샘플</summary>
+      <table class="audit-table" id="auditTable">
+        <thead><tr><th>원본 파일</th><th>인식된 텍스트</th><th>가격</th><th>제외 사유</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </details>
+  </section>
+</div>
+
+<footer class="site">SafeMeal Engine · FastAPI + SQLite FTS5 · 외부 LLM/벡터DB 미사용</footer>
+
+<script>
+const API = "/api/v1";
+const state = { q: "", region: "", avoid: new Set(), lang: "ko", limit: 20, offset: 0, total: 0 };
+
+const LANG_LABEL = { ko: "한국어", en: "English", ja: "日本語", zh_cn: "简体中文", zh_tw: "繁體中文" };
+
+const ALLERGY_REASON_LABEL = {
+  mistagged_with_ingredients: "재료 정보는 있으나 알레르기 태그가 누락됨 (원천 데이터 오태깅)",
+  no_data: "재료·알레르기 정보 전무 (검증 불가)",
+};
+
+async function getJSON(path, params = {}) {
+  const usp = new URLSearchParams();
+  for (const [k, v] of Object.entries(params)) {
+    if (v === undefined || v === null || v === "") continue;
+    if (Array.isArray(v)) v.forEach(item => usp.append(k, item));
+    else usp.append(k, v);
+  }
+  const url = `${path}${usp.toString() ? "?" + usp.toString() : ""}`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`request failed: ${res.status}`);
+  return res.json();
+}
+
+function el(tag, cls, html) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (html !== undefined) e.innerHTML = html;
+  return e;
+}
+
+async function loadStats() {
+  const s = await getJSON(`${API}/stats`);
+  const wrap = document.getElementById("stats");
+  wrap.innerHTML = "";
+  const cards = [
+    { n: s.raw_annotations.toLocaleString(), l: "원본 어노테이션", cls: "" },
+    { n: s.inserted_menus.toLocaleString(), l: "검색 가능 메뉴", cls: "" },
+    { n: s.excluded_pricing_tier, l: "요금표 행 제거", cls: "warn" },
+    { n: `${(100 - s.spicy_known_pct).toFixed(1)}%`, l: "맵기 정보 결측", cls: "danger" },
+    { n: `${s.allergy_unreliable_pct}%`, l: "알레르기 미검증", cls: "danger" },
+    { n: s.translation_error, l: "오역 자동 교정", cls: "info" },
+  ];
+  cards.forEach(c => {
+    const stat = el("div", `stat ${c.cls}`);
+    stat.appendChild(el("div", "n", c.n));
+    stat.appendChild(el("div", "l", c.l));
+    wrap.appendChild(stat);
+  });
+}
+
+async function loadRegions() {
+  const regions = await getJSON(`${API}/regions`);
+  const sel = document.getElementById("region");
+  regions.forEach(r => {
+    const opt = el("option");
+    opt.value = r.code;
+    opt.textContent = `${r.name} (${r.count})`;
+    sel.appendChild(opt);
+  });
+}
+
+async function loadAllergens() {
+  const allergens = await getJSON(`${API}/allergens`);
+  const wrap = document.getElementById("allergyChips");
+  allergens.filter(a => a.count > 0).forEach(a => {
+    const chip = el("div", "chip", `${a.category} <span style="opacity:.55">${a.count}</span>`);
+    chip.dataset.category = a.category;
+    chip.addEventListener("click", () => {
+      if (state.avoid.has(a.category)) { state.avoid.delete(a.category); chip.classList.remove("active"); }
+      else { state.avoid.add(a.category); chip.classList.add("active"); }
+      runSearch(true);
+    });
+    wrap.appendChild(chip);
+  });
+}
+
+async function loadAuditSample() {
+  const rows = await getJSON(`${API}/excluded-sample`, { limit: 15 });
+  const tbody = document.querySelector("#auditTable tbody");
+  tbody.innerHTML = "";
+  rows.forEach(r => {
+    const tr = el("tr");
+    tr.appendChild(el("td", null, r.source_file));
+    tr.appendChild(el("td", null, r.ko || "<i>(빈 값)</i>"));
+    tr.appendChild(el("td", null, r.price || "-"));
+    tr.appendChild(el("td", null, "요금표/좌석단가 행으로 판단되어 제외"));
+    tbody.appendChild(tr);
+  });
+}
+
+function spicyBadge(item) {
+  if (!item.is_spicy_known) return `<span class="badge warn">맵기 정보 없음</span>`;
+  return `<span class="badge info">맵기 ${item.spicy_level}단계</span>`;
+}
+
+function allergyBadge(item) {
+  if (item.is_allergy_reliable) return `<span class="badge ok">성분 검증 완료</span>`;
+  const reason = ALLERGY_REASON_LABEL[item.allergy_unreliable_reason] || "알레르기 정보 신뢰 불가";
+  return `<span class="badge danger" title="${reason}">침묵 결측 추적됨</span>`;
+}
+
+function translationBadge(item) {
+  if (!item.is_translation_corrected) return "";
+  return `<span class="badge info">오역 실시간 교정</span>`;
+}
+
+function renderCard(item) {
+  const card = el("div", "card");
+
+  const head = el("div", "head");
+  const nameWrap = el("div");
+  nameWrap.appendChild(el("div", "name", item.ko));
+  if (item.en_roman) nameWrap.appendChild(el("span", "roman", item.en_roman));
+  head.appendChild(nameWrap);
+  if (item.price) head.appendChild(el("div", "price", `${item.price.toLocaleString()}원`));
+  card.appendChild(head);
+
+  const translated = item[state.lang] || (state.lang === "ko" ? item.ko : "");
+  if (state.lang !== "ko") {
+    card.appendChild(el("div", "trans", translated || "<i style='color:var(--muted-2)'>번역 없음</i>"));
+  }
+
+  const tagRow = el("div", "tag-row");
+  if (item.region_name) tagRow.appendChild(el("span", "tag", item.region_name));
+  if (item.store_type_label) tagRow.appendChild(el("span", "tag", item.store_type_label));
+  if (item.food_type) tagRow.appendChild(el("span", "tag", item.food_type));
+  card.appendChild(tagRow);
+
+  if (item.allergens.length) {
+    const aRow = el("div", "tag-row");
+    item.allergens.forEach(a => aRow.appendChild(el("span", "tag", a.category)));
+    card.appendChild(aRow);
+  }
+
+  const badgeRow = el("div", "badge-row");
+  badgeRow.innerHTML = `${allergyBadge(item)}${spicyBadge(item)}${translationBadge(item)}`;
+  card.appendChild(badgeRow);
+
+  return card;
+}
+
+async function runSearch(reset) {
+  if (reset) state.offset = 0;
+  const data = await getJSON(`${API}/menus/search`, {
+    q: state.q, region: state.region, avoid_allergies: [...state.avoid],
+    limit: state.limit, offset: state.offset,
+  });
+  state.total = data.meta.total_matched;
+
+  const results = document.getElementById("results");
+  if (reset) results.innerHTML = "";
+  if (data.items.length === 0 && reset) {
+    results.appendChild(el("div", "empty", "조건에 맞는 안전한 메뉴가 없습니다.<br>필터를 조정해 보세요."));
+  } else {
+    data.items.forEach(item => results.appendChild(renderCard(item)));
+  }
+
+  const metaLine = document.getElementById("metaLine");
+  let safetyNote = "";
+  if (state.avoid.size > 0) {
+    safetyNote = ` · <span style="color:var(--danger); font-weight:600">안전상 자동 제외 ${data.meta.dropped_for_allergy_safety}건</span> (알레르기 정보 미검증)`;
+  }
+  metaLine.innerHTML = `<span>총 <b>${state.total.toLocaleString()}</b>건 매칭됨${safetyNote}</span><span>${LANG_LABEL[state.lang]}</span>`;
+
+  document.getElementById("loadMoreWrap").style.display =
+    (state.offset + data.items.length < state.total) ? "flex" : "none";
+}
+
+document.getElementById("searchBtn").addEventListener("click", () => {
+  state.q = document.getElementById("q").value.trim();
+  runSearch(true);
+});
+document.getElementById("q").addEventListener("keydown", e => {
+  if (e.key === "Enter") { state.q = e.target.value.trim(); runSearch(true); }
+});
+document.getElementById("region").addEventListener("change", e => {
+  state.region = e.target.value; runSearch(true);
+});
+document.getElementById("resetBtn").addEventListener("click", () => {
+  state.q = ""; state.region = ""; state.avoid.clear(); state.offset = 0;
+  document.getElementById("q").value = ""; document.getElementById("region").value = "";
+  document.querySelectorAll(".chip.active").forEach(c => c.classList.remove("active"));
+  runSearch(true);
+});
+document.getElementById("loadMoreBtn").addEventListener("click", () => {
+  state.offset += state.limit; runSearch(false);
+});
+document.getElementById("langToggle").addEventListener("click", e => {
+  const btn = e.target.closest("button[data-lang]");
+  if (!btn) return;
+  state.lang = btn.dataset.lang;
+  document.querySelectorAll("#langToggle button").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  runSearch(true);
+});
+
+(async function init() {
+  await Promise.all([loadStats(), loadRegions(), loadAllergens(), loadAuditSample()]);
+  runSearch(true);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "file_name": "SL_KF03_M0001_130466_3.jpg",
+    "image_original_width": 3000,
+    "image_original_height": 4000,
+    "captured_date": "2022:09:15 15:22:23",
+    "store_id": "130466",
+    "store_region": "SL",
+    "store_type": "KF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          9.375,
+          5.729166666666667
+        ],
+        [
+          93.4027777777778,
+          8.072916666666668
+        ],
+        [
+          89.23611111111111,
+          96.09375
+        ],
+        [
+          7.638888888888889,
+          93.48958333333333
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "스테이크버섯리소토",
+        "en.ROMAN": "steak beoseot risotto",
+        "en": "Steak and Mushroom Risotto",
+        "ja": "ステーキ入りきのこリゾット",
+        "zh_CN": "牛排蘑菇意式焗饭",
+        "zh_TW": "牛排蘑菇燉飯",
+        "price": "25000",
+        "ingredients.ko": [
+          "쇠고기",
+          "버섯",
+          "우유"
+        ],
+        "ingredients.en": [
+          "Beef",
+          "Mushroom",
+          "Milk"
+        ],
+        "ingredients.ja": [
+          "牛肉",
+          "きのこ",
+          "牛乳"
+        ],
+        "ingredients.zh_CN": [
+          "牛肉",
+          "蘑菇",
+          "牛奶"
+        ],
+        "ingredients.zh_TW": [
+          "牛肉",
+          "蘑菇",
+          "牛奶"
+        ],
+        "allergy": [
+          "쇠고기",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_130466_3-tf.jpg_2",
+      "ocr": {
+        "x": 18.102450955089264,
+        "y": 32.28532937207164,
+        "text": "스테이크버섯리소토",
+        "width": 16.55285189820681,
+        "height": 1.8403275166056632,
+        "rotation": 1.63008809826772
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "전복게살리소토",
+        "en.ROMAN": "jeonbokgesal risotto",
+        "en": "Abalone and Crab Risotto",
+        "ja": "アワビ入りカニ肉リゾット",
+        "zh_CN": "鲍鱼蟹肉意式焗饭",
+        "zh_TW": "鮑魚蟹肉燉飯",
+        "price": "26000",
+        "ingredients.ko": [
+          "전복",
+          "게살",
+          "쌀",
+          "크림"
+        ],
+        "ingredients.en": [
+          "Abalone",
+          "Crab Meat",
+          "Rice",
+          "Cream"
+        ],
+        "ingredients.ja": [
+          "アワビ",
+          "ガニ肉",
+          "米",
+          "クリーム"
+        ],
+        "ingredients.zh_CN": [
+          "鲍鱼",
+          "蟹肉",
+          "大米",
+          "奶油"
+        ],
+        "ingredients.zh_TW": [
+          "鮑魚",
+          "蟹肉",
+          "米",
+          "奶油"
+        ],
+        "allergy": [
+          "전복",
+          "게",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_130466_3-tf.jpg_7",
+      "ocr": {
+        "x": 17.375060301888578,
+        "y": 52.14995257289635,
+        "text": "전복게살리소토",
+        "width": 13.349716514085962,
+        "height": 1.7968930392902775,
+        "rotation": 1.7251496228576002
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "양식",
+        "food_subtype": "메인요리",
+        "ko": "왕새우토마토리소토",
+        "en.ROMAN": "wangsaeu tomato risotto",
+        "en": "Jumbo Shrimp and Tomato Risotto",
+        "ja": "特大海老入りトマトリゾット",
+        "zh_CN": "大虾番茄意式焗饭",
+        "zh_TW": "明蝦番茄燉飯",
+        "price": "23000",
+        "ingredients.ko": [
+          "새우",
+          "토마토",
+          "크림",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Shrimp",
+          "Tomato",
+          "Cream",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "海老",
+          "トマト",
+          "クリーム",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "虾",
+          "番茄",
+          "奶油",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蝦",
+          "番茄",
+          "奶油",
+          "米"
+        ],
+        "allergy": [
+          "새우",
+          "토마토",
+          "우유"
+        ],
+        "spicy_level": null
+      },
+      "sn": "SL_KF03_M0001_130466_3-tf.jpg_13",
+      "ocr": {
+        "x": 16.59684947344878,
+        "y": 72.5888123700451,
+        "text": "왕새우토마토리소토",
+        "width": 16.58242938556203,
+        "height": 1.7331125266329857,
+        "rotation": 0.8526389975613142
+      }
+    }
+  ]
+}

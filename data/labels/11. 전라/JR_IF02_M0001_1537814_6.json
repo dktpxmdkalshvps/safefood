@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "file_name": "JR_IF02_M0001_1537814_6.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:10:29 12:48:28",
+    "store_id": "1537814",
+    "store_region": "JR",
+    "store_type": "IF02",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          11.258278145695364,
+          9.136047666335651
+        ],
+        [
+          87.28476821192054,
+          6.951340615690167
+        ],
+        [
+          95.36423841059603,
+          97.31876861966236
+        ],
+        [
+          5.1655629139072845,
+          95.72989076464746
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "중식",
+        "food_subtype": "요리",
+        "ko": "탕수육",
+        "en.ROMAN": "tangsuyuk",
+        "en": "Deep-fried Pork with Sweet and Sour Sauce",
+        "ja": "酢豚",
+        "zh_CN": "糖醋肉",
+        "zh_TW": "糖醋肉",
+        "price": "22000",
+        "ingredients.ko": [
+          "채소",
+          "돼지고기",
+          "전분"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Starch"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "デン粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "淀粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "澱粉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "JR_IF02_M0001_1537814_6-tf_7",
+      "ocr": {
+        "x": 16.203703703703678,
+        "y": 28.397817460317505,
+        "text": "탕수육",
+        "width": 6.202139339341559,
+        "height": 1.84580216153979,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "미니라면",
+        "en.ROMAN": "mini ramyeon",
+        "en": "Instant Noodles (Small Serving)",
+        "ja": "ミニラーメン",
+        "zh_CN": "迷你方便面",
+        "zh_TW": "迷你泡麵",
+        "price": "11000",
+        "ingredients.ko": [],
+        "ingredients.en": [],
+        "ingredients.ja": [],
+        "ingredients.zh_CN": [],
+        "ingredients.zh_TW": [],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "pVcJ0olvoJ",
+      "ocr": {
+        "x": 31.91595888427496,
+        "y": 28.46160526613759,
+        "text": "미니",
+        "width": 3.1391975237951075,
+        "height": 1.4962066801252554,
+        "rotation": 0
+      }
+    }
+  ]
+}

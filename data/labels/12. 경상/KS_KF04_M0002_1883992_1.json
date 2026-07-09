@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "file_name": "KS_KF04_M0002_1883992_1.jpg",
+    "image_original_width": 2992,
+    "image_original_height": 2992,
+    "captured_date": "2022:12:09 13:58:13",
+    "store_id": "1883992",
+    "store_region": "KS",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0.17857142857142858,
+          9.285714285714286
+        ],
+        [
+          97.32142857142857,
+          9.285714285714286
+        ],
+        [
+          97.14285714285714,
+          88.75
+        ],
+        [
+          1.9642857142857142,
+          91.25
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "수육",
+        "en.ROMAN": "suyuk",
+        "en": "Boiled Pork Slices",
+        "ja": "ゆで肉",
+        "zh_CN": "白切肉",
+        "zh_TW": "白切肉",
+        "price": "33000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1883992_1-tf_5",
+      "ocr": {
+        "x": 3.76100864772034,
+        "y": 32.62756289321641,
+        "text": "수육",
+        "width": 15.671102446875722,
+        "height": 5.80619683018853,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "22000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1883992_1-tf_6",
+      "ocr": {
+        "x": 61.05912934617637,
+        "y": 33.36318704730684,
+        "text": "소주",
+        "width": 12.48761514280544,
+        "height": 4.506678966682308,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1883992_1-tf_10",
+      "ocr": {
+        "x": 61.222581156046125,
+        "y": 39.04334101275091,
+        "text": "맥주",
+        "width": 12.587135480728197,
+        "height": 4.7982448153005,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1883992_1-tf_13",
+      "ocr": {
+        "x": 60.976601515426566,
+        "y": 44.65296115590368,
+        "text": "음료수",
+        "width": 12.150631252979878,
+        "height": 4.798799554092028,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "만두/떡국",
+        "ko": "수백",
+        "en.ROMAN": "subaek",
+        "en": "Boiled Pork Slices Set Menu",
+        "ja": "ゆで豚肉定食",
+        "zh_CN": "白切猪肉家常套餐",
+        "zh_TW": "白切肉家常套餐",
+        "price": "12000",
+        "ingredients.ko": [
+          "돼지고기"
+        ],
+        "ingredients.en": [
+          "Pork"
+        ],
+        "ingredients.ja": [
+          "豚肉"
+        ],
+        "ingredients.zh_CN": [
+          "猪肉"
+        ],
+        "ingredients.zh_TW": [
+          "豬肉"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1883992_1-tf_16",
+      "ocr": {
+        "x": 4.089624665374927,
+        "y": 45.5461819322502,
+        "text": "수백",
+        "width": 15.634722812255866,
+        "height": 5.815005191499935,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "돼지국밥",
+        "en.ROMAN": "dwaejigukbap",
+        "en": "Pork and Rice Soup",
+        "ja": "豚肉クッパ",
+        "zh_CN": "猪肉汤饭",
+        "zh_TW": "豬肉湯飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "돼지고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Pork",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "豚肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "猪肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "豬肉",
+          "米"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1883992_1-tf_19",
+      "ocr": {
+        "x": 4.3180214203923555,
+        "y": 52.34348664902681,
+        "text": "돼지국밥",
+        "width": 20.706267307635837,
+        "height": 5.950502679800453,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "내장국밥",
+        "en.ROMAN": "naejanggukbap",
+        "en": "Offal and Rice Soup",
+        "ja": "ネジャンクッパ",
+        "zh_CN": "内脏汤饭",
+        "zh_TW": "內臟湯飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀",
+          "내장"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice",
+          "Offal"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米",
+          "内臓"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米",
+          "内脏"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米",
+          "內臟"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1883992_1-tf_21",
+      "ocr": {
+        "x": 4.4208984377471685,
+        "y": 59.292748669105045,
+        "text": "내장국밥",
+        "width": 20.837347509532393,
+        "height": 6.049465240641875,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "밥",
+        "ko": "섞어국밥",
+        "en.ROMAN": "seokkeogukbap",
+        "en": "Pork and Rice Soup",
+        "ja": "盛り合わせクッパ",
+        "zh_CN": "汤饭",
+        "zh_TW": "什錦湯飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1883992_1-tf_31",
+      "ocr": {
+        "x": 4.297647148877625,
+        "y": 66.14435294717981,
+        "text": "섞어국밥",
+        "width": 20.694523938095312,
+        "height": 5.991754052720465,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "국",
+        "ko": "뼈해장국",
+        "en.ROMAN": "ppyeohaejangguk",
+        "en": "Pork Backbone Hangover Soup",
+        "ja": "豚の背骨酔い覚ましスープ",
+        "zh_CN": "腔骨醒酒汤",
+        "zh_TW": "豬骨醒酒湯",
+        "price": "8000",
+        "ingredients.ko": [
+          "돼지등뼈",
+          "채소"
+        ],
+        "ingredients.en": [
+          "Pork Backbone",
+          "Vegetables"
+        ],
+        "ingredients.ja": [
+          "豚の背骨",
+          "野菜"
+        ],
+        "ingredients.zh_CN": [
+          "猪脊骨",
+          "蔬菜"
+        ],
+        "ingredients.zh_TW": [
+          "豬脊骨",
+          "蔬菜"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "KS_KF04_M0002_1883992_1-tf_36",
+      "ocr": {
+        "x": 4.653550838160671,
+        "y": 73.1578502493687,
+        "text": "뼈해장국",
+        "width": 20.71018176414932,
+        "height": 5.759101652306962,
+        "rotation": 0
+      }
+    }
+  ]
+}

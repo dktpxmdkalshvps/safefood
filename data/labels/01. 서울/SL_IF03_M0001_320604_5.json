@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "file_name": "SL_IF03_M0001_320604_5.jpg",
+    "image_original_width": 2252,
+    "image_original_height": 4000,
+    "captured_date": "2022:08:21 19:57:15",
+    "store_id": "320604",
+    "store_region": "SL",
+    "store_type": "IF03",
+    "image_type": "M0001",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          0,
+          6.6473988439306355
+        ],
+        [
+          99.74358974358974,
+          6.069364161849711
+        ],
+        [
+          99.48717948717949,
+          94.79768786127168
+        ],
+        [
+          0,
+          92.19653179190749
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "sn": "SL_IF03_M0001_320604_5-tf-0",
+      "ocr": {
+        "x": 7.917850700854305,
+        "y": 61.241257807878085,
+        "text": "우동",
+        "width": 4.57526657749298,
+        "height": 1.3992649019805814,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "우동",
+        "en.ROMAN": "udon",
+        "en": "Udon",
+        "ja": "うどん",
+        "zh_CN": "乌冬面",
+        "zh_TW": "烏龍麵",
+        "price": "6500",
+        "ingredients.ko": [
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_320604_5-tf-1",
+      "ocr": {
+        "x": 9.30391720764382,
+        "y": 33.85293065840309,
+        "text": "카레라이스",
+        "width": 10.873714528355821,
+        "height": 1.4309326832053484,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "카레라이스",
+        "en.ROMAN": "curry rice",
+        "en": "Curry Rice",
+        "ja": "カレーライス",
+        "zh_CN": "咖喱饭",
+        "zh_TW": "咖哩飯",
+        "price": "8000",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "쌀"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Rice"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "米"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "大米"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "米"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_320604_5-tf-2",
+      "ocr": {
+        "x": 24.173975329158413,
+        "y": 61.307311048476905,
+        "text": "야채튀김우동",
+        "width": 13.050479765599492,
+        "height": 1.4410544838018022,
+        "rotation": 1.426764044351728
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "야채튀김우동",
+        "en.ROMAN": "yachaetwigim udon",
+        "en": "Deep-fried Vegetable Udon",
+        "ja": "野菜天ぷらうどん",
+        "zh_CN": "炸蔬菜乌冬面",
+        "zh_TW": "炸蔬菜烏龍麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "야채",
+          "면",
+          "가쓰오부시"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Noodles",
+          "Dried Bonito"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "麺",
+          "鰹節"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大豆",
+          "鲣节"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "麵",
+          "鰹魚乾"
+        ],
+        "allergy": [
+          "밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_320604_5-tf-3",
+      "ocr": {
+        "x": 37.45287500589557,
+        "y": 33.958352736761334,
+        "text": "돈가츠카레",
+        "width": 10.604814880765506,
+        "height": 1.4154639010729877,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "돈가츠카레",
+        "en.ROMAN": "donkatsu curry",
+        "en": "pork cutlet curry",
+        "ja": "豚カツカレー",
+        "zh_CN": "炸猪排咖喱",
+        "zh_TW": "炸豬排咖哩",
+        "price": "11000",
+        "ingredients.ko": [
+          "야채",
+          "고기",
+          "돼지고기",
+          "계란",
+          "밀가루"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Meat",
+          "Pork",
+          "Eggs",
+          "Wheat Flour"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "肉",
+          "豚肉",
+          "卵",
+          "小麦粉"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "肉",
+          "猪肉",
+          "鸡蛋",
+          "面粉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "肉",
+          "豬肉",
+          "雞蛋",
+          "麵粉"
+        ],
+        "allergy": [
+          "밀",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_320604_5-tf-4",
+      "ocr": {
+        "x": 57.334085295212084,
+        "y": 74.94007249240681,
+        "text": "냉소바",
+        "width": 7.029108080877319,
+        "height": 1.4930392874404783,
+        "rotation": 2.913595359171893
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "냉소바",
+        "en.ROMAN": "naeng soba",
+        "en": "Cold Soba Noodles",
+        "ja": "冷やしそば",
+        "zh_CN": "日式荞麦凉面",
+        "zh_TW": "蕎麥冷麵",
+        "price": "7000",
+        "ingredients.ko": [
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_320604_5-tf-5",
+      "ocr": {
+        "x": 57.247796695876616,
+        "y": 80.51546888670266,
+        "text": "비빔소바",
+        "width": 9.290559704353342,
+        "height": 1.5047946152900291,
+        "rotation": 2.950053073508059
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "비빔소바",
+        "en.ROMAN": "bibim soba",
+        "en": "Spicy Soba Noodles",
+        "ja": "混ぜそば",
+        "zh_CN": "拌日式荞麦面",
+        "zh_TW": "辣拌蕎麥麵",
+        "price": "7500",
+        "ingredients.ko": [
+          "야채",
+          "메밀면"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵"
+        ],
+        "allergy": [
+          "메밀"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "SL_IF03_M0001_320604_5-tf-6",
+      "ocr": {
+        "x": 57.49243419934651,
+        "y": 61.777009163406355,
+        "text": "새우튀김우동",
+        "width": 13.669855464911388,
+        "height": 1.503632557100422,
+        "rotation": 1.3547918511782768
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "면",
+        "ko": "새우튀김우동",
+        "en.ROMAN": "saeutwigim udon",
+        "en": "Deep-fried Shrimp Udon",
+        "ja": "海老天ぷらうどん",
+        "zh_CN": "炸虾乌冬面",
+        "zh_TW": "炸蝦烏龍麵",
+        "price": "7500",
+        "ingredients.ko": [
+          "밀가루",
+          "야채",
+          "새우"
+        ],
+        "ingredients.en": [
+          "Wheat Flour",
+          "Vegetables",
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "小麦粉",
+          "野菜",
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "面粉",
+          "蔬菜",
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "麵粉",
+          "蔬菜",
+          "蝦"
+        ],
+        "allergy": [
+          "밀",
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    },
+    {
+      "sn": "-JeeiXDpdD",
+      "ocr": {
+        "x": 70.99168765502249,
+        "y": 33.76639050624762,
+        "text": "에비카레",
+        "width": 9.04879432384161,
+        "height": 1.5170154382455567,
+        "rotation": 0
+      },
+      "menu_information": {
+        "food_type": "일식",
+        "food_subtype": "밥",
+        "ko": "에비카레",
+        "en.ROMAN": "ebi curry",
+        "en": "Shrimp Curry",
+        "ja": "海老カレー",
+        "zh_CN": "鲜虾咖喱",
+        "zh_TW": "鮮蝦咖哩",
+        "price": "10500",
+        "ingredients.ko": [
+          "야채",
+          "왕새우"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Jumbo Shrimp"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "大正海老"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "大虾"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "明蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      }
+    }
+  ]
+}

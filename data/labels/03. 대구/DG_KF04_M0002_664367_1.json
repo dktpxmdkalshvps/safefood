@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "file_name": "DG_KF04_M0002_664367_1.jpg",
+    "image_original_width": 3024,
+    "image_original_height": 4032,
+    "captured_date": "2022:11:29 18:56:31",
+    "store_id": "664367",
+    "store_region": "DG",
+    "store_type": "KF04",
+    "image_type": "M0002",
+    "boundary_coordinates": {
+      "box_type": "polygon",
+      "points": [
+        [
+          11.877394636015326,
+          9.482758620689655
+        ],
+        [
+          89.08045977011494,
+          10.919540229885058
+        ],
+        [
+          87.5478927203065,
+          91.23563218390802
+        ],
+        [
+          11.877394636015326,
+          91.52298850574712
+        ]
+      ]
+    }
+  },
+  "annotations": [
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "족발뒷발",
+        "en.ROMAN": "jokbaldwitbal",
+        "en": "Braised Pigs' Hind Feet",
+        "ja": "豚の後ろ足",
+        "zh_CN": "酱猪后蹄",
+        "zh_TW": "豬後腳",
+        "price": "19000",
+        "ingredients.ko": [
+          "야채",
+          "메밀면",
+          "해산물",
+          "돼지고기",
+          "오이",
+          "뒷다리"
+        ],
+        "ingredients.en": [
+          "Vegetables",
+          "Buckwheat Noodle",
+          "Seafood",
+          "Pork",
+          "Cucumber",
+          "Hind Leg"
+        ],
+        "ingredients.ja": [
+          "野菜",
+          "そば",
+          "海鮮",
+          "豚肉",
+          "キュウリ",
+          "後ろ足"
+        ],
+        "ingredients.zh_CN": [
+          "蔬菜",
+          "荞麦凉面",
+          "海鲜",
+          "猪肉",
+          "黄瓜",
+          "后腿肉"
+        ],
+        "ingredients.zh_TW": [
+          "蔬菜",
+          "蕎麥麵",
+          "海鮮",
+          "豬肉",
+          "小黃瓜",
+          "後腿"
+        ],
+        "allergy": [
+          "메밀",
+          "오징어",
+          "새우",
+          "조개",
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_664367_1-tf_1",
+      "ocr": {
+        "x": 20.961468046657618,
+        "y": 25.3939270195219,
+        "text": "뒷발",
+        "width": 13.401546747254912,
+        "height": 5.102903683338426,
+        "rotation": 1.1449760389493235
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "찜",
+        "ko": "족발앞발",
+        "en.ROMAN": "jokbarapbal",
+        "en": "Braised Pigs' Forefeet",
+        "ja": "豚の前足",
+        "zh_CN": "酱猪前蹄",
+        "zh_TW": "豬前腳",
+        "price": "26000",
+        "ingredients.ko": [
+          "돼지앞발"
+        ],
+        "ingredients.en": [
+          "Pork Forefeet"
+        ],
+        "ingredients.ja": [
+          "豚の前足"
+        ],
+        "ingredients.zh_CN": [
+          "猪前蹄"
+        ],
+        "ingredients.zh_TW": [
+          "豬前腳"
+        ],
+        "allergy": [
+          "돼지고기"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_664367_1-tf_3",
+      "ocr": {
+        "x": 21.46238436635501,
+        "y": 31.651744706342324,
+        "text": "앞발",
+        "width": 12.89356320039744,
+        "height": 5.073313203711266,
+        "rotation": 1.1449760389473909
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "분식/기타",
+        "food_subtype": "기타",
+        "ko": "양파장",
+        "en.ROMAN": "yangpajang",
+        "en": "Pickled Onion",
+        "ja": "玉ねぎソース",
+        "zh_CN": "洋葱酱",
+        "zh_TW": "醬洋蔥",
+        "price": "500",
+        "ingredients.ko": [
+          "양파"
+        ],
+        "ingredients.en": [
+          "Onion"
+        ],
+        "ingredients.ja": [
+          "玉ねぎ"
+        ],
+        "ingredients.zh_CN": [
+          "洋葱"
+        ],
+        "ingredients.zh_TW": [
+          "洋蔥"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_664367_1-tf_6",
+      "ocr": {
+        "x": 21.584835438136448,
+        "y": 45.11411141503847,
+        "text": "양파장",
+        "width": 19.64285714285704,
+        "height": 5.173136743671602,
+        "rotation": 0.4194937142183335
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "한식",
+        "food_subtype": "젓갈",
+        "ko": "새우젓",
+        "en.ROMAN": "saeujeot",
+        "en": "Salted Shrimp",
+        "ja": "アミの塩辛",
+        "zh_CN": "虾酱",
+        "zh_TW": "蝦醬",
+        "price": "500",
+        "ingredients.ko": [
+          "새우"
+        ],
+        "ingredients.en": [
+          "Shrimp"
+        ],
+        "ingredients.ja": [
+          "海老"
+        ],
+        "ingredients.zh_CN": [
+          "虾"
+        ],
+        "ingredients.zh_TW": [
+          "蝦"
+        ],
+        "allergy": [
+          "새우"
+        ],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_664367_1-tf_9",
+      "ocr": {
+        "x": 20.853854817152808,
+        "y": 51.2873738945026,
+        "text": "새우젓",
+        "width": 19.41402006148066,
+        "height": 5.176727144301289,
+        "rotation": 0.4194937142209483
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "소주",
+        "en.ROMAN": "soju",
+        "en": "Soju",
+        "ja": "焼酎",
+        "zh_CN": "烧酒",
+        "zh_TW": "燒酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_664367_1-tf_11",
+      "ocr": {
+        "x": 21.51317120256555,
+        "y": 63.05187432119311,
+        "text": "소주",
+        "width": 13.242119802725432,
+        "height": 5.002613316246736,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "주류",
+        "ko": "맥주",
+        "en.ROMAN": "maekju",
+        "en": "Beer",
+        "ja": "ビール",
+        "zh_CN": "啤酒",
+        "zh_TW": "啤酒",
+        "price": "4000",
+        "ingredients.ko": [
+          "보리",
+          "알코올"
+        ],
+        "ingredients.en": [
+          "Barley",
+          "Alcohol"
+        ],
+        "ingredients.ja": [
+          "麦",
+          "アルコール"
+        ],
+        "ingredients.zh_CN": [
+          "大麦",
+          "酒精"
+        ],
+        "ingredients.zh_TW": [
+          "大麥",
+          "酒精"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_664367_1-tf_13",
+      "ocr": {
+        "x": 21.452105139984155,
+        "y": 69.1564124734591,
+        "text": "맥주",
+        "width": 13.184909372788097,
+        "height": 5.068498919633318,
+        "rotation": 0
+      }
+    },
+    {
+      "menu_information": {
+        "food_type": "음료/주류",
+        "food_subtype": "음료",
+        "ko": "음료수",
+        "en.ROMAN": "eumnyosu",
+        "en": "Beverages",
+        "ja": "飲み物",
+        "zh_CN": "饮料",
+        "zh_TW": "飲料",
+        "price": "2000",
+        "ingredients.ko": [
+          "음료"
+        ],
+        "ingredients.en": [
+          "Beverage"
+        ],
+        "ingredients.ja": [
+          "飲料水"
+        ],
+        "ingredients.zh_CN": [
+          "饮料"
+        ],
+        "ingredients.zh_TW": [
+          "飲料"
+        ],
+        "allergy": [],
+        "spicy_level": null
+      },
+      "sn": "DG_KF04_M0002_664367_1-tf_15",
+      "ocr": {
+        "x": 21.424715795927103,
+        "y": 75.35437352596438,
+        "text": "음료수",
+        "width": 19.976792670733435,
+        "height": 4.939319500682893,
+        "rotation": 0
+      }
+    }
+  ]
+}
