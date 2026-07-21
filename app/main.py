@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
-from fastapi.middleware.cors import CORSMiddleware
 
 from app.config import STATIC_DIR
 from app.routers import menus
@@ -12,14 +11,6 @@ app = FastAPI(
         "번역 왜곡, 요금표 오염)을 오프라인 규칙 기반 엔진으로 방어하는 검색 API."
     ),
     version="1.0.0",
-)
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=False,
-    allow_methods=["*"],
-    allow_headers=["*"],
 )
 
 app.include_router(menus.router)

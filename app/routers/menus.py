@@ -114,41 +114,42 @@ def search_menus(
             params.extend(fts_ids)
 
         base_where = " AND ".join(where) if where else "1=1"
+        candidates = conn.execute(
+            f"SELECT menu_id, is_allergy_reliable FROM menus WHERE {base_where} ORDER BY menu_id",
+            params,
+        ).fetchall()
 
         dropped_for_safety = 0
         if avoid_allergies:
             placeholders = ",".join("?" * len(avoid_allergies))
+            bad_rows = conn.execute(
+                f"SELECT DISTINCT menu_id FROM menu_allergies WHERE allergen_category IN ({placeholders})",
+                avoid_allergies,
+            ).fetchall()
+            bad_ids = {r["menu_id"] for r in bad_rows}
 
-            # Calculate dropped_for_safety count
-            safety_count_query = f"""
-                SELECT COUNT(*) as c FROM menus
-                WHERE {base_where}
-                  AND is_allergy_reliable = 0
-                  AND menu_id NOT IN (
-                      SELECT menu_id FROM menu_allergies WHERE allergen_category IN ({placeholders})
-                  )
-            """
-            dropped_for_safety = conn.execute(safety_count_query, params + avoid_allergies).fetchone()["c"]
+            final_ids = []
+            for row in candidates:
+                mid = row["menu_id"]
+                if mid in bad_ids:
+                    continue
+                if not row["is_allergy_reliable"]:
+                    dropped_for_safety += 1
+                    continue
+                final_ids.append(mid)
+        else:
+            final_ids = [row["menu_id"] for row in candidates]
 
-            # Update where clauses for final items
-            where.append(f"""
-                menu_id NOT IN (
-                    SELECT menu_id FROM menu_allergies WHERE allergen_category IN ({placeholders})
-                ) AND is_allergy_reliable = 1
-            """)
-            params.extend(avoid_allergies)
-            base_where = " AND ".join(where)
-
-        count_query = f"SELECT COUNT(*) as c FROM menus WHERE {base_where}"
-        total_matched = conn.execute(count_query, params).fetchone()["c"]
-
-        query = f"SELECT * FROM menus WHERE {base_where} ORDER BY menu_id LIMIT ? OFFSET ?"
-        rows = conn.execute(query, params + [limit, offset]).fetchall()
+        total_matched = len(final_ids)
+        page_ids = final_ids[offset : offset + limit]
 
         items: list[MenuItem] = []
-        if rows:
-            page_ids = [r["menu_id"] for r in rows]
+        if page_ids:
             placeholders = ",".join("?" * len(page_ids))
+            rows = conn.execute(
+                f"SELECT * FROM menus WHERE menu_id IN ({placeholders})", page_ids
+            ).fetchall()
+            rows_by_id = {r["menu_id"]: r for r in rows}
 
             allergen_rows = conn.execute(
                 f"SELECT menu_id, allergen_raw, allergen_category FROM menu_allergies "
@@ -161,8 +162,8 @@ def search_menus(
                     {"raw": a["allergen_raw"], "category": a["allergen_category"]}
                 )
 
-            for row in rows:
-                items.append(_row_to_menu_item(row, allergens_by_menu.get(row["menu_id"], [])))
+            for mid in page_ids:
+                items.append(_row_to_menu_item(rows_by_id[mid], allergens_by_menu.get(mid, [])))
 
         return SearchResponse(
             meta=SearchMeta(
