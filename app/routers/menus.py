@@ -5,7 +5,7 @@ from collections import defaultdict
 from fastapi import APIRouter, HTTPException, Query
 
 from app.db import get_connection
-from app.lexicon import ALL_ALLERGEN_CATEGORIES, REGION_LABELS, STORE_TYPE_LABELS
+from app.lexicon import ALL_ALLERGEN_CATEGORIES
 from app.sanitizer import DataSanitizer
 from app.schemas import (
     CleansingStats,
