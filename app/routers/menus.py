@@ -29,11 +29,10 @@ def _row_to_menu_item(row: dict, allergens: list[dict]) -> MenuItem:
         "ja": row["ja"],
         "zh_cn": row["zh_cn"],
         "zh_tw": row["zh_tw"],
-        "ingredients_ko": json.loads(row["ingredients_ko"] or "[]"),
-        "ingredients_en": json.loads(row["ingredients_en"] or "[]"),
-        "ingredients_ja": json.loads(row["ingredients_ja"] or "[]"),
-        "ingredients_zh_cn": json.loads(row["ingredients_zh_cn"] or "[]"),
-        "ingredients_zh_tw": json.loads(row["ingredients_zh_tw"] or "[]"),
+        **{
+            f"ingredients_{lang}": json.loads(row[f"ingredients_{lang}"] or "[]")
+            for lang in ("ko", "en", "ja", "zh_cn", "zh_tw")
+        },
     }
     cleaned = DataSanitizer.clean_translation(payload)
 
