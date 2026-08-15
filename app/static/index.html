@@ -180,10 +180,16 @@ async function getJSON(path, params = {}) {
   return res.json();
 }
 
-function el(tag, cls, html) {
+function el(tag, cls, content, isHtml = false) {
   const e = document.createElement(tag);
   if (cls) e.className = cls;
-  if (html !== undefined) e.innerHTML = html;
+  if (content !== undefined) {
+    if (isHtml) {
+      e.innerHTML = content;
+    } else {
+      e.textContent = content;
+    }
+  }
   return e;
 }
 
@@ -222,7 +228,7 @@ async function loadAllergens() {
   const allergens = await getJSON(`${API}/allergens`);
   const wrap = document.getElementById("allergyChips");
   allergens.filter(a => a.count > 0).forEach(a => {
-    const chip = el("div", "chip", `${a.category} <span style="opacity:.55">${a.count}</span>`);
+    const chip = el("div", "chip", `${a.category} <span style="opacity:.55">${a.count}</span>`, true);
     chip.dataset.category = a.category;
     chip.addEventListener("click", () => {
       if (state.avoid.has(a.category)) { state.avoid.delete(a.category); chip.classList.remove("active"); }
@@ -240,7 +246,7 @@ async function loadAuditSample() {
   rows.forEach(r => {
     const tr = el("tr");
     tr.appendChild(el("td", null, r.source_file));
-    tr.appendChild(el("td", null, r.ko || "<i>(빈 값)</i>"));
+    tr.appendChild(el("td", null, r.ko || "<i>(빈 값)</i>", !r.ko));
     tr.appendChild(el("td", null, r.price || "-"));
     tr.appendChild(el("td", null, "요금표/좌석단가 행으로 판단되어 제외"));
     tbody.appendChild(tr);
@@ -276,7 +282,7 @@ function renderCard(item) {
 
   const translated = item[state.lang] || (state.lang === "ko" ? item.ko : "");
   if (state.lang !== "ko") {
-    card.appendChild(el("div", "trans", translated || "<i style='color:var(--muted-2)'>번역 없음</i>"));
+    card.appendChild(el("div", "trans", translated || "<i style='color:var(--muted-2)'>번역 없음</i>", !translated));
   }
 
   const tagRow = el("div", "tag-row");
@@ -309,7 +315,7 @@ async function runSearch(reset) {
   const results = document.getElementById("results");
   if (reset) results.innerHTML = "";
   if (data.items.length === 0 && reset) {
-    results.appendChild(el("div", "empty", "조건에 맞는 안전한 메뉴가 없습니다.<br>필터를 조정해 보세요."));
+    results.appendChild(el("div", "empty", "조건에 맞는 안전한 메뉴가 없습니다.<br>필터를 조정해 보세요.", true));
   } else {
     data.items.forEach(item => results.appendChild(renderCard(item)));
   }
