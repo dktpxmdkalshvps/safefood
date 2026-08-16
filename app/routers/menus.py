@@ -99,18 +99,8 @@ def search_menus(
                                      region=region, query=q, avoid_allergies=avoid_allergies),
                     items=[],
                 )
-            fts_rows = conn.execute(
-                "SELECT menu_id FROM menus_fts WHERE menus_fts MATCH ?", (match_expr,)
-            ).fetchall()
-            fts_ids = [r["menu_id"] for r in fts_rows]
-            if not fts_ids:
-                return SearchResponse(
-                    meta=SearchMeta(total_matched=0, returned=0, limit=limit, offset=offset,
-                                     region=region, query=q, avoid_allergies=avoid_allergies),
-                    items=[],
-                )
-            where.append(f"menu_id IN ({','.join('?' * len(fts_ids))})")
-            params.extend(fts_ids)
+            where.append("menu_id IN (SELECT menu_id FROM menus_fts WHERE menus_fts MATCH ?)")
+            params.append(match_expr)
 
         base_where = " AND ".join(where) if where else "1=1"
 
