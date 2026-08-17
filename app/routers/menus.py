@@ -79,7 +79,7 @@ def _build_fts_match(q: str) -> str | None:
 def search_menus(
     q: str | None = Query(None, description="자유 텍스트 검색어 (메뉴명/재료)"),
     region: str | None = Query(None, description="지역 코드, 예: SL, BS, JJ"),
-    avoid_allergies: list[str] = Query(default_factory=list, description="회피할 알레르기 카테고리"),
+    avoid_allergies: list[str] = Query(default_factory=list, max_length=30, description="회피할 알레르기 카테고리"),
     limit: int = Query(20, ge=1, le=100),
     offset: int = Query(0, ge=0),
 ):
