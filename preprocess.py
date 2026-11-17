@@ -120,12 +120,15 @@ def build() -> None:
     os.close(fd)
     conn = sqlite3.connect(temporary_path)
     try:
-        _populate(conn)
+        build_stats = _populate(conn)
         result = conn.execute("PRAGMA integrity_check").fetchone()[0]
         if result != "ok":
             raise RuntimeError(f"SQLite integrity check failed: {result}")
         conn.close()
         os.replace(temporary_path, DB_PATH)
+        (PROCESSED_DIR / "build_stats.json").write_text(
+            json.dumps(build_stats, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
     except BaseException:
         conn.close()
         if os.path.exists(temporary_path):
@@ -133,7 +136,7 @@ def build() -> None:
         raise
 
 
-def _populate(conn: sqlite3.Connection) -> None:
+def _populate(conn: sqlite3.Connection) -> dict:
     conn.executescript(SCHEMA)
 
     files = sorted(LABELS_DIR.glob("*/*.json"))
@@ -226,7 +229,8 @@ def _populate(conn: sqlite3.Connection) -> None:
                 stats["spicy_known"] += 1
             if not is_allergy_reliable:
                 stats["allergy_unreliable"] += 1
-                stats[f"allergy_unreliable_{allergy_unreliable_reason}"] += 1
+                key = f"allergy_unreliable_{allergy_unreliable_reason}"
+                stats[key] = stats.get(key, 0) + 1
             if is_translation_error:
                 stats["translation_error"] += 1
 
@@ -286,6 +290,7 @@ def _populate(conn: sqlite3.Connection) -> None:
     print("=== SafeMeal preprocess complete ===")
     print(stats_row)
     print(f"DB prepared for {DB_PATH}")
+    return stats
 
 
 if __name__ == "__main__":
