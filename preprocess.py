@@ -24,6 +24,8 @@ Usage:  python preprocess.py
 from __future__ import annotations
 
 import json
+import os
+import tempfile
 import re
 import sqlite3
 import sys
@@ -33,6 +35,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from app.config import DB_PATH, LABELS_DIR, PROCESSED_DIR
 from app.lexicon import REGION_LABELS, STORE_TYPE_LABELS, TIER_PATTERN, normalize_allergen
+from app.allergy_safety import assess_allergy
 from app.sanitizer import DataSanitizer
 
 SCHEMA = """
@@ -113,16 +116,29 @@ def is_pricing_tier_row(ko: str, ingredients_ko: list[str]) -> bool:
 
 def build() -> None:
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
-    if DB_PATH.exists():
-        DB_PATH.unlink()
+    fd, temporary_path = tempfile.mkstemp(prefix=".safemeal-", suffix=".db", dir=PROCESSED_DIR)
+    os.close(fd)
+    conn = sqlite3.connect(temporary_path)
+    try:
+        _populate(conn)
+        result = conn.execute("PRAGMA integrity_check").fetchone()[0]
+        if result != "ok":
+            raise RuntimeError(f"SQLite integrity check failed: {result}")
+        conn.close()
+        os.replace(temporary_path, DB_PATH)
+    except BaseException:
+        conn.close()
+        if os.path.exists(temporary_path):
+            os.unlink(temporary_path)
+        raise
 
-    conn = sqlite3.connect(DB_PATH)
+
+def _populate(conn: sqlite3.Connection) -> None:
     conn.executescript(SCHEMA)
 
     files = sorted(LABELS_DIR.glob("*/*.json"))
     if not files:
-        print(f"No label files found under {LABELS_DIR}", file=sys.stderr)
-        sys.exit(1)
+        raise RuntimeError(f"No label files found under {LABELS_DIR}")
 
     stats = {
         "files": 0,
@@ -142,8 +158,7 @@ def build() -> None:
         try:
             payload = json.loads(fp.read_text(encoding="utf-8"))
         except (OSError, json.JSONDecodeError) as e:
-            print(f"skip unreadable file {fp}: {e}", file=sys.stderr)
-            continue
+            raise ValueError(f"Unreadable label file {fp}: {e}") from e
 
         meta = payload.get("meta", {})
         region_code = meta.get("store_region") or region_from_filename(fp.name)
@@ -191,15 +206,9 @@ def build() -> None:
             # flagship AI-Hub bug (ingredients were captured but the
             # allergy step silently dropped them) from rows where no
             # structured data exists at all.
-            if allergy_raw:
-                is_allergy_reliable = 1
-                allergy_unreliable_reason = None
-            elif ingredients_ko:
-                is_allergy_reliable = 0
-                allergy_unreliable_reason = "mistagged_with_ingredients"
-            else:
-                is_allergy_reliable = 0
-                allergy_unreliable_reason = "no_data"
+            is_allergy_reliable, allergy_unreliable_reason = assess_allergy(
+                allergy_raw, ingredients_ko, ko
+            )
 
             row_for_check = {
                 "ko": ko,
@@ -264,15 +273,19 @@ def build() -> None:
                  info.get("zh_CN") or "", info.get("zh_TW") or "", ingredients_text),
             )
 
+    if stats["raw_annotations"] != stats["inserted_menus"] + stats["excluded_pricing_tier"] + stats["excluded_blank_name"]:
+        raise RuntimeError("Annotation accounting mismatch")
+    if stats["inserted_menus"] == 0:
+        raise RuntimeError("No valid menu rows produced")
     conn.commit()
 
     stats_row = json.dumps(stats, ensure_ascii=False, indent=2)
-    (PROCESSED_DIR / "build_stats.json").write_text(stats_row, encoding="utf-8")
-    conn.close()
+    # Report statistics to stdout; do not overwrite a prior successful build report
+    # until the database has passed integrity checks and been installed.
 
     print("=== SafeMeal preprocess complete ===")
     print(stats_row)
-    print(f"DB written to {DB_PATH}")
+    print(f"DB prepared for {DB_PATH}")
 
 
 if __name__ == "__main__":
